@@ -1,0 +1,12 @@
+{
+  "simpledic": 3500,
+  "glyph_covered": 2115,
+  "glyph_missing": 1385,
+  "tradchar_covered": 2997,
+  "tradchar_missing": 503,
+  "tradchar_outside_simpledic": 2286,
+  "both": 1933,
+  "glyph_only": 182,
+  "tradchar_only": 1064,
+  "neither": 321
+}

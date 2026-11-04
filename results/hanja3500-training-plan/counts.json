@@ -1,0 +1,24 @@
+{
+  "raw_train_candidates": 257411,
+  "raw_evaluation": 77949,
+  "deduplicated_training_candidates": 240630,
+  "dedup_by_source": {
+    "ai-free": 158190,
+    "fonts": 82440
+  },
+  "proposed_training": 226527,
+  "proposed_training_by_source": {
+    "ai-free": 144087,
+    "fonts": 82440
+  },
+  "proposed_validation": 14103,
+  "proposed_validation_classes": 3352,
+  "validation_uncovered_classes": 148,
+  "deduplicated_evaluation": 73987,
+  "dedup_evaluation_by_source": {
+    "fonts": 21000,
+    "scut": 52987
+  },
+  "evaluation_font_base": 3500,
+  "training_classes": 3500
+}

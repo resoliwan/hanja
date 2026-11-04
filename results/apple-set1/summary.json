@@ -1,0 +1,106 @@
+{
+  "all": {
+    "original": {
+      "n": 20000,
+      "unique_labels": 5283,
+      "top1": 8934,
+      "top5": 8934
+    },
+    "s2t": {
+      "n": 20000,
+      "unique_labels": 5283,
+      "top1": 8987,
+      "top5": 8987
+    },
+    "errors": 0,
+    "no_detection": 8090,
+    "multiple_regions": 23,
+    "candidate_count_histogram": {
+      "0": 8090,
+      "1": 11910
+    },
+    "median_ms": 16.850948333740234
+  },
+  "korean3500": {
+    "original": {
+      "n": 11999,
+      "unique_labels": 3158,
+      "top1": 5663,
+      "top5": 5663
+    },
+    "s2t": {
+      "n": 11999,
+      "unique_labels": 3158,
+      "top1": 5708,
+      "top5": 5708
+    },
+    "errors": 0,
+    "no_detection": 4706,
+    "multiple_regions": 16,
+    "candidate_count_histogram": {
+      "0": 4706,
+      "1": 7293
+    },
+    "median_ms": 16.80898666381836
+  },
+  "hak": [
+    {
+      "candidates": [],
+      "error": null,
+      "id": "trad1-7742",
+      "label": "學",
+      "ms": 11.268019676208496,
+      "observations": [],
+      "top1": false,
+      "top5": false
+    },
+    {
+      "candidates": [],
+      "error": null,
+      "id": "trad1-10921",
+      "label": "學",
+      "ms": 18.226027488708496,
+      "observations": [],
+      "top1": false,
+      "top5": false
+    }
+  ],
+  "config": {
+    "correction": true,
+    "language": "zh-Hant",
+    "os": "Version 26.5.1 (Build 25F80)",
+    "revision": 3,
+    "supportedLanguages": [
+      "en-US",
+      "fr-FR",
+      "it-IT",
+      "de-DE",
+      "es-ES",
+      "pt-BR",
+      "zh-Hans",
+      "zh-Hant",
+      "yue-Hans",
+      "yue-Hant",
+      "ko-KR",
+      "ja-JP",
+      "ru-RU",
+      "uk-UA",
+      "th-TH",
+      "vi-VT",
+      "ar-SA",
+      "ars-SA",
+      "tr-TR",
+      "id-ID",
+      "cs-CZ",
+      "da-DK",
+      "nl-NL",
+      "no-NO",
+      "nn-NO",
+      "nb-NO",
+      "ms-MY",
+      "pl-PL",
+      "ro-RO",
+      "sv-SE"
+    ]
+  }
+}

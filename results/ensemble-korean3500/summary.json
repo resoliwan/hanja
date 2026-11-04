@@ -1,0 +1,336 @@
+{
+  "GlyphWeave": {
+    "n": 11999,
+    "top1": 8266,
+    "topk": 9168
+  },
+  "Shikiji": {
+    "n": 11999,
+    "top1": 6533,
+    "topk": 9325
+  },
+  "max_score_merge": {
+    "n": 11999,
+    "top1": 9387,
+    "topk": 10929
+  },
+  "max_score_merge_3500_filter": {
+    "n": 11999,
+    "top1": 9925,
+    "topk": 11162
+  },
+  "union_up_to10": {
+    "n": 11999,
+    "top1": 9387,
+    "topk": 11244
+  },
+  "diagnostics": {
+    "top1_model_selected": {
+      "glyph": 9183,
+      "shikiji": 2816
+    },
+    "top5_gained_vs_glyph": 1864,
+    "top5_lost_vs_glyph": 103,
+    "top5_gained_vs_shikiji": 1833,
+    "top5_lost_vs_shikiji": 229,
+    "union_correct_but_lost_by_ranking": 315,
+    "hak": [
+      {
+        "id": "trad1-7742",
+        "label": "學",
+        "glyph": [
+          {
+            "character": "孽",
+            "score": 0.10412004590034485,
+            "model": "glyph",
+            "original": "孽"
+          },
+          {
+            "character": "鬃",
+            "score": 0.08192464709281921,
+            "model": "glyph",
+            "original": "鬃"
+          },
+          {
+            "character": "盥",
+            "score": 0.0643688216805458,
+            "model": "glyph",
+            "original": "盥"
+          },
+          {
+            "character": "輿",
+            "score": 0.06041703745722771,
+            "model": "glyph",
+            "original": "舆"
+          },
+          {
+            "character": "璺",
+            "score": 0.03478740528225899,
+            "model": "glyph",
+            "original": "璺"
+          }
+        ],
+        "shikiji": [
+          {
+            "character": "學",
+            "score": 0.9102620482444763,
+            "model": "shikiji",
+            "original": "学"
+          },
+          {
+            "character": "掔",
+            "score": 0.004403731785714626,
+            "model": "shikiji",
+            "original": "掔"
+          },
+          {
+            "character": "鞏",
+            "score": 0.0025868569500744343,
+            "model": "shikiji",
+            "original": "巩"
+          },
+          {
+            "character": "孕",
+            "score": 0.0025533419102430344,
+            "model": "shikiji",
+            "original": "孕"
+          },
+          {
+            "character": "撃",
+            "score": 0.0013617699733003974,
+            "model": "shikiji",
+            "original": "撃"
+          }
+        ],
+        "merged": [
+          {
+            "character": "學",
+            "score": 0.9102620482444763,
+            "model": "shikiji",
+            "original": "学"
+          },
+          {
+            "character": "孽",
+            "score": 0.10412004590034485,
+            "model": "glyph",
+            "original": "孽"
+          },
+          {
+            "character": "鬃",
+            "score": 0.08192464709281921,
+            "model": "glyph",
+            "original": "鬃"
+          },
+          {
+            "character": "盥",
+            "score": 0.0643688216805458,
+            "model": "glyph",
+            "original": "盥"
+          },
+          {
+            "character": "輿",
+            "score": 0.06041703745722771,
+            "model": "glyph",
+            "original": "舆"
+          }
+        ],
+        "merged_filtered": [
+          {
+            "character": "學",
+            "score": 0.9102620482444763,
+            "model": "shikiji",
+            "original": "学"
+          },
+          {
+            "character": "輿",
+            "score": 0.06041703745722771,
+            "model": "glyph",
+            "original": "舆"
+          },
+          {
+            "character": "鞏",
+            "score": 0.0025868569500744343,
+            "model": "shikiji",
+            "original": "巩"
+          },
+          {
+            "character": "孕",
+            "score": 0.0025533419102430344,
+            "model": "shikiji",
+            "original": "孕"
+          }
+        ],
+        "metrics": {
+          "GlyphWeave": {
+            "top1": false,
+            "topk": false
+          },
+          "Shikiji": {
+            "top1": true,
+            "topk": true
+          },
+          "max_score_merge": {
+            "top1": true,
+            "topk": true
+          },
+          "max_score_merge_3500_filter": {
+            "top1": true,
+            "topk": true
+          },
+          "union_up_to10": {
+            "top1": true,
+            "topk": true
+          }
+        }
+      },
+      {
+        "id": "trad1-10921",
+        "label": "學",
+        "glyph": [
+          {
+            "character": "蹬",
+            "score": 0.06378304958343506,
+            "model": "glyph",
+            "original": "蹬"
+          },
+          {
+            "character": "鑔",
+            "score": 0.03419557586312294,
+            "model": "glyph",
+            "original": "镲"
+          },
+          {
+            "character": "襻",
+            "score": 0.0194123312830925,
+            "model": "glyph",
+            "original": "襻"
+          },
+          {
+            "character": "蹲",
+            "score": 0.015473229810595512,
+            "model": "glyph",
+            "original": "蹲"
+          },
+          {
+            "character": "礤",
+            "score": 0.013980510644614697,
+            "model": "glyph",
+            "original": "礤"
+          }
+        ],
+        "shikiji": [
+          {
+            "character": "學",
+            "score": 0.09630154818296432,
+            "model": "shikiji",
+            "original": "学"
+          },
+          {
+            "character": "鞏",
+            "score": 0.042358677834272385,
+            "model": "shikiji",
+            "original": "巩"
+          },
+          {
+            "character": "幣",
+            "score": 0.03615465760231018,
+            "model": "shikiji",
+            "original": "币"
+          },
+          {
+            "character": "掔",
+            "score": 0.025392567738890648,
+            "model": "shikiji",
+            "original": "掔"
+          },
+          {
+            "character": "響",
+            "score": 0.02392374351620674,
+            "model": "shikiji",
+            "original": "响"
+          }
+        ],
+        "merged": [
+          {
+            "character": "學",
+            "score": 0.09630154818296432,
+            "model": "shikiji",
+            "original": "学"
+          },
+          {
+            "character": "蹬",
+            "score": 0.06378304958343506,
+            "model": "glyph",
+            "original": "蹬"
+          },
+          {
+            "character": "鞏",
+            "score": 0.042358677834272385,
+            "model": "shikiji",
+            "original": "巩"
+          },
+          {
+            "character": "幣",
+            "score": 0.03615465760231018,
+            "model": "shikiji",
+            "original": "币"
+          },
+          {
+            "character": "鑔",
+            "score": 0.03419557586312294,
+            "model": "glyph",
+            "original": "镲"
+          }
+        ],
+        "merged_filtered": [
+          {
+            "character": "學",
+            "score": 0.09630154818296432,
+            "model": "shikiji",
+            "original": "学"
+          },
+          {
+            "character": "鞏",
+            "score": 0.042358677834272385,
+            "model": "shikiji",
+            "original": "巩"
+          },
+          {
+            "character": "幣",
+            "score": 0.03615465760231018,
+            "model": "shikiji",
+            "original": "币"
+          },
+          {
+            "character": "響",
+            "score": 0.02392374351620674,
+            "model": "shikiji",
+            "original": "响"
+          }
+        ],
+        "metrics": {
+          "GlyphWeave": {
+            "top1": false,
+            "topk": false
+          },
+          "Shikiji": {
+            "top1": true,
+            "topk": true
+          },
+          "max_score_merge": {
+            "top1": true,
+            "topk": true
+          },
+          "max_score_merge_3500_filter": {
+            "top1": true,
+            "topk": true
+          },
+          "union_up_to10": {
+            "top1": true,
+            "topk": true
+          }
+        }
+      }
+    ]
+  }
+}

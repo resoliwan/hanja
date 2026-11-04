@@ -1,0 +1,31 @@
+{
+  "sha": "3d0bc0b4ef5033798fc338ee7c3aefd2e0ceee9a",
+  "url": "https://api.github.com/repos/shinrai2/readCouch/git/trees/3d0bc0b4ef5033798fc338ee7c3aefd2e0ceee9a",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea1472ec1f38b2d1410951194a02f8fb9f1c820a",
+      "size": 8,
+      "url": "https://api.github.com/repos/shinrai2/readCouch/git/blobs/ea1472ec1f38b2d1410951194a02f8fb9f1c820a"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c37be735f09e1d81b678b0b7a12c79d92d2671a8",
+      "size": 424,
+      "url": "https://api.github.com/repos/shinrai2/readCouch/git/blobs/c37be735f09e1d81b678b0b7a12c79d92d2671a8"
+    },
+    {
+      "path": "main.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd396d14913545d443ccedaaf9c216f9d222d3c1",
+      "size": 7927,
+      "url": "https://api.github.com/repos/shinrai2/readCouch/git/blobs/fd396d14913545d443ccedaaf9c216f9d222d3c1"
+    }
+  ],
+  "truncated": false
+}

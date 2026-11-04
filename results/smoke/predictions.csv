@@ -1,0 +1,5 @@
+﻿model,id,label,candidates,ms,top1,top5
+Hanzi Lookup,readme-wo,我,我 网 戒 肉 刚,6.551916000000002,True,True
+Zinnia,readme-wo,我,我 玔 炚 鵝 姍,13.83933296892792,True,True
+cnn_chinese_hw (legacy),readme-wo,我,我 筴 栈 犹 祓,7.1222500409930944,True,True
+GlyphWeave,readme-wo,我,我 找 妆 驳 秒,94.22204201109707,True,True

@@ -1,0 +1,10 @@
+{
+  "dataset": "SCUT-onHCCTestDB TradChar (NOT SCUT-COUCH2009 Big5)",
+  "source": "https://github.com/HCIILAB/IME_Test",
+  "archive_sha256": "d9b0d9e3e1474a52b7b2fc105c9ee34316009d6d104e672c6ff01c303d2d58c9",
+  "selection": "first 100 records, original order, subset 1; no filtering",
+  "n": 100,
+  "unique_labels": 100,
+  "pot_label_agreement": 100,
+  "labels": "划虫丁入刀匕丸五亢仆切升夫斤乩位吝吹吮希庇弄扭汰肚走供券夜姑拌服沫沿炒盂祀肪勇娃姚孩帝按拼拽炫炬皆眇胝郎首剜哨疽耕荃豹崖庵徜悼惕敏曹涎烯瓠莽寓悲掌揉湮渴皓短筋紫腕意戡牒碰禁萱葩雉靖嗽榴漩漯獐蔽髯噤融辨"
+}

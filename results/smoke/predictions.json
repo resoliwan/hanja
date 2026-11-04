@@ -1,0 +1,62 @@
+[
+  {
+    "model": "Hanzi Lookup",
+    "id": "readme-wo",
+    "label": "我",
+    "candidates": [
+      "我",
+      "网",
+      "戒",
+      "肉",
+      "刚"
+    ],
+    "ms": 6.551916000000002,
+    "top1": true,
+    "top5": true
+  },
+  {
+    "model": "Zinnia",
+    "id": "readme-wo",
+    "label": "我",
+    "candidates": [
+      "我",
+      "玔",
+      "炚",
+      "鵝",
+      "姍"
+    ],
+    "ms": 13.83933296892792,
+    "top1": true,
+    "top5": true
+  },
+  {
+    "model": "cnn_chinese_hw (legacy)",
+    "id": "readme-wo",
+    "label": "我",
+    "candidates": [
+      "我",
+      "筴",
+      "栈",
+      "犹",
+      "祓"
+    ],
+    "ms": 7.1222500409930944,
+    "top1": true,
+    "top5": true
+  },
+  {
+    "model": "GlyphWeave",
+    "id": "readme-wo",
+    "label": "我",
+    "candidates": [
+      "我",
+      "找",
+      "妆",
+      "驳",
+      "秒"
+    ],
+    "ms": 94.22204201109707,
+    "top1": true,
+    "top5": true
+  }
+]

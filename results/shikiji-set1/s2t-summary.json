@@ -1,0 +1,6 @@
+{
+  "method": "OpenCC s2t applied only to output candidates; ground-truth unchanged; fixed original top-5 with no extra candidates",
+  "n": 20000,
+  "top1": 9588,
+  "top5": 14255
+}

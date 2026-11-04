@@ -1,0 +1,11 @@
+{
+  "total_predictions": 80000,
+  "unique_samples_per_model": 20000,
+  "matching_sample_order": true,
+  "first100_candidate_mismatches": {
+    "hanzi": 0,
+    "zinnia": 0,
+    "cnn": 0,
+    "glyph": 0
+  }
+}

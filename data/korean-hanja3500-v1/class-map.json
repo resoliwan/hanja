@@ -1,0 +1,14002 @@
+{
+  "㥠": {
+    "class_id": 0,
+    "grade": "1"
+  },
+  "䄷": {
+    "class_id": 1,
+    "grade": "1"
+  },
+  "一": {
+    "class_id": 2,
+    "grade": "8"
+  },
+  "丁": {
+    "class_id": 3,
+    "grade": "준3"
+  },
+  "七": {
+    "class_id": 4,
+    "grade": "8"
+  },
+  "丈": {
+    "class_id": 5,
+    "grade": "준2"
+  },
+  "三": {
+    "class_id": 6,
+    "grade": "8"
+  },
+  "上": {
+    "class_id": 7,
+    "grade": "7"
+  },
+  "下": {
+    "class_id": 8,
+    "grade": "7"
+  },
+  "不": {
+    "class_id": 9,
+    "grade": "준5"
+  },
+  "丑": {
+    "class_id": 10,
+    "grade": "준3"
+  },
+  "且": {
+    "class_id": 11,
+    "grade": "3"
+  },
+  "丕": {
+    "class_id": 12,
+    "grade": "준1"
+  },
+  "世": {
+    "class_id": 13,
+    "grade": "준5"
+  },
+  "丘": {
+    "class_id": 14,
+    "grade": "2"
+  },
+  "丙": {
+    "class_id": 15,
+    "grade": "준3"
+  },
+  "丞": {
+    "class_id": 16,
+    "grade": "1"
+  },
+  "中": {
+    "class_id": 17,
+    "grade": "7"
+  },
+  "串": {
+    "class_id": 18,
+    "grade": "준1"
+  },
+  "丸": {
+    "class_id": 19,
+    "grade": "준2"
+  },
+  "丹": {
+    "class_id": 20,
+    "grade": "준3"
+  },
+  "主": {
+    "class_id": 21,
+    "grade": "준5"
+  },
+  "乂": {
+    "class_id": 22,
+    "grade": "1"
+  },
+  "乃": {
+    "class_id": 23,
+    "grade": "준3"
+  },
+  "久": {
+    "class_id": 24,
+    "grade": "4"
+  },
+  "之": {
+    "class_id": 25,
+    "grade": "3"
+  },
+  "乎": {
+    "class_id": 26,
+    "grade": "3"
+  },
+  "乏": {
+    "class_id": 27,
+    "grade": "준1"
+  },
+  "乘": {
+    "class_id": 28,
+    "grade": "3"
+  },
+  "乙": {
+    "class_id": 29,
+    "grade": "준3"
+  },
+  "九": {
+    "class_id": 30,
+    "grade": "8"
+  },
+  "乞": {
+    "class_id": 31,
+    "grade": "2"
+  },
+  "也": {
+    "class_id": 32,
+    "grade": "3"
+  },
+  "乭": {
+    "class_id": 33,
+    "grade": "준1"
+  },
+  "乳": {
+    "class_id": 34,
+    "grade": "준3"
+  },
+  "乾": {
+    "class_id": 35,
+    "grade": "3"
+  },
+  "亂": {
+    "class_id": 36,
+    "grade": "준2"
+  },
+  "了": {
+    "class_id": 37,
+    "grade": "준2"
+  },
+  "予": {
+    "class_id": 38,
+    "grade": "2"
+  },
+  "事": {
+    "class_id": 39,
+    "grade": "5"
+  },
+  "二": {
+    "class_id": 40,
+    "grade": "8"
+  },
+  "于": {
+    "class_id": 41,
+    "grade": "3"
+  },
+  "云": {
+    "class_id": 42,
+    "grade": "3"
+  },
+  "互": {
+    "class_id": 43,
+    "grade": "2"
+  },
+  "五": {
+    "class_id": 44,
+    "grade": "8"
+  },
+  "井": {
+    "class_id": 45,
+    "grade": "준3"
+  },
+  "亘": {
+    "class_id": 46,
+    "grade": "1"
+  },
+  "亞": {
+    "class_id": 47,
+    "grade": "준2"
+  },
+  "亡": {
+    "class_id": 48,
+    "grade": "준4"
+  },
+  "亢": {
+    "class_id": 49,
+    "grade": "준1"
+  },
+  "交": {
+    "class_id": 50,
+    "grade": "5"
+  },
+  "亥": {
+    "class_id": 51,
+    "grade": "준3"
+  },
+  "亦": {
+    "class_id": 52,
+    "grade": "3"
+  },
+  "亨": {
+    "class_id": 53,
+    "grade": "준2"
+  },
+  "享": {
+    "class_id": 54,
+    "grade": "준2"
+  },
+  "京": {
+    "class_id": 55,
+    "grade": "5"
+  },
+  "亭": {
+    "class_id": 56,
+    "grade": "준2"
+  },
+  "亮": {
+    "class_id": 57,
+    "grade": "준1"
+  },
+  "人": {
+    "class_id": 58,
+    "grade": "8"
+  },
+  "什": {
+    "class_id": 59,
+    "grade": "1"
+  },
+  "仁": {
+    "class_id": 60,
+    "grade": "3"
+  },
+  "仄": {
+    "class_id": 61,
+    "grade": "준1"
+  },
+  "仇": {
+    "class_id": 62,
+    "grade": "준1"
+  },
+  "今": {
+    "class_id": 63,
+    "grade": "준5"
+  },
+  "介": {
+    "class_id": 64,
+    "grade": "준2"
+  },
+  "仍": {
+    "class_id": 65,
+    "grade": "1"
+  },
+  "仔": {
+    "class_id": 66,
+    "grade": "1"
+  },
+  "仕": {
+    "class_id": 67,
+    "grade": "준4"
+  },
+  "他": {
+    "class_id": 68,
+    "grade": "4"
+  },
+  "付": {
+    "class_id": 69,
+    "grade": "준2"
+  },
+  "仙": {
+    "class_id": 70,
+    "grade": "4"
+  },
+  "仟": {
+    "class_id": 71,
+    "grade": "1"
+  },
+  "代": {
+    "class_id": 72,
+    "grade": "5"
+  },
+  "令": {
+    "class_id": 73,
+    "grade": "4"
+  },
+  "以": {
+    "class_id": 74,
+    "grade": "준4"
+  },
+  "仰": {
+    "class_id": 75,
+    "grade": "3"
+  },
+  "仲": {
+    "class_id": 76,
+    "grade": "2"
+  },
+  "件": {
+    "class_id": 77,
+    "grade": "4"
+  },
+  "价": {
+    "class_id": 78,
+    "grade": "준1"
+  },
+  "任": {
+    "class_id": 79,
+    "grade": "준4"
+  },
+  "企": {
+    "class_id": 80,
+    "grade": "준2"
+  },
+  "伊": {
+    "class_id": 81,
+    "grade": "2"
+  },
+  "伍": {
+    "class_id": 82,
+    "grade": "준1"
+  },
+  "伎": {
+    "class_id": 83,
+    "grade": "1"
+  },
+  "伏": {
+    "class_id": 84,
+    "grade": "준3"
+  },
+  "伐": {
+    "class_id": 85,
+    "grade": "준3"
+  },
+  "休": {
+    "class_id": 86,
+    "grade": "준5"
+  },
+  "伯": {
+    "class_id": 87,
+    "grade": "2"
+  },
+  "伴": {
+    "class_id": 88,
+    "grade": "2"
+  },
+  "伶": {
+    "class_id": 89,
+    "grade": "1"
+  },
+  "伸": {
+    "class_id": 90,
+    "grade": "2"
+  },
+  "似": {
+    "class_id": 91,
+    "grade": "2"
+  },
+  "伽": {
+    "class_id": 92,
+    "grade": "준1"
+  },
+  "但": {
+    "class_id": 93,
+    "grade": "3"
+  },
+  "位": {
+    "class_id": 94,
+    "grade": "준5"
+  },
+  "低": {
+    "class_id": 95,
+    "grade": "4"
+  },
+  "住": {
+    "class_id": 96,
+    "grade": "5"
+  },
+  "佐": {
+    "class_id": 97,
+    "grade": "준2"
+  },
+  "佑": {
+    "class_id": 98,
+    "grade": "준1"
+  },
+  "何": {
+    "class_id": 99,
+    "grade": "3"
+  },
+  "佖": {
+    "class_id": 100,
+    "grade": "1"
+  },
+  "余": {
+    "class_id": 101,
+    "grade": "3"
+  },
+  "佛": {
+    "class_id": 102,
+    "grade": "준3"
+  },
+  "作": {
+    "class_id": 103,
+    "grade": "5"
+  },
+  "佞": {
+    "class_id": 104,
+    "grade": "1"
+  },
+  "佩": {
+    "class_id": 105,
+    "grade": "1"
+  },
+  "佰": {
+    "class_id": 106,
+    "grade": "1"
+  },
+  "佳": {
+    "class_id": 107,
+    "grade": "준3"
+  },
+  "佶": {
+    "class_id": 108,
+    "grade": "1"
+  },
+  "佺": {
+    "class_id": 109,
+    "grade": "1"
+  },
+  "佾": {
+    "class_id": 110,
+    "grade": "준1"
+  },
+  "使": {
+    "class_id": 111,
+    "grade": "준4"
+  },
+  "侃": {
+    "class_id": 112,
+    "grade": "1"
+  },
+  "來": {
+    "class_id": 113,
+    "grade": "5"
+  },
+  "侈": {
+    "class_id": 114,
+    "grade": "준1"
+  },
+  "侊": {
+    "class_id": 115,
+    "grade": "1"
+  },
+  "例": {
+    "class_id": 116,
+    "grade": "준4"
+  },
+  "侍": {
+    "class_id": 117,
+    "grade": "준2"
+  },
+  "侑": {
+    "class_id": 118,
+    "grade": "1"
+  },
+  "侖": {
+    "class_id": 119,
+    "grade": "1"
+  },
+  "供": {
+    "class_id": 120,
+    "grade": "준2"
+  },
+  "依": {
+    "class_id": 121,
+    "grade": "준3"
+  },
+  "侮": {
+    "class_id": 122,
+    "grade": "2"
+  },
+  "侯": {
+    "class_id": 123,
+    "grade": "2"
+  },
+  "侵": {
+    "class_id": 124,
+    "grade": "준2"
+  },
+  "侶": {
+    "class_id": 125,
+    "grade": "준1"
+  },
+  "便": {
+    "class_id": 126,
+    "grade": "5"
+  },
+  "係": {
+    "class_id": 127,
+    "grade": "준2"
+  },
+  "促": {
+    "class_id": 128,
+    "grade": "준2"
+  },
+  "俊": {
+    "class_id": 129,
+    "grade": "준2"
+  },
+  "俎": {
+    "class_id": 130,
+    "grade": "1"
+  },
+  "俐": {
+    "class_id": 131,
+    "grade": "1"
+  },
+  "俓": {
+    "class_id": 132,
+    "grade": "1"
+  },
+  "俗": {
+    "class_id": 133,
+    "grade": "준3"
+  },
+  "俚": {
+    "class_id": 134,
+    "grade": "1"
+  },
+  "俛": {
+    "class_id": 135,
+    "grade": "준1"
+  },
+  "保": {
+    "class_id": 136,
+    "grade": "준3"
+  },
+  "俠": {
+    "class_id": 137,
+    "grade": "1"
+  },
+  "信": {
+    "class_id": 138,
+    "grade": "5"
+  },
+  "修": {
+    "class_id": 139,
+    "grade": "준3"
+  },
+  "俯": {
+    "class_id": 140,
+    "grade": "1"
+  },
+  "俱": {
+    "class_id": 141,
+    "grade": "2"
+  },
+  "俳": {
+    "class_id": 142,
+    "grade": "2"
+  },
+  "俶": {
+    "class_id": 143,
+    "grade": "1"
+  },
+  "俸": {
+    "class_id": 144,
+    "grade": "2"
+  },
+  "俺": {
+    "class_id": 145,
+    "grade": "1"
+  },
+  "倂": {
+    "class_id": 146,
+    "grade": "2"
+  },
+  "倆": {
+    "class_id": 147,
+    "grade": "1"
+  },
+  "倉": {
+    "class_id": 148,
+    "grade": "준2"
+  },
+  "個": {
+    "class_id": 149,
+    "grade": "4"
+  },
+  "倍": {
+    "class_id": 150,
+    "grade": "4"
+  },
+  "倒": {
+    "class_id": 151,
+    "grade": "준2"
+  },
+  "倖": {
+    "class_id": 152,
+    "grade": "1"
+  },
+  "候": {
+    "class_id": 153,
+    "grade": "준3"
+  },
+  "倚": {
+    "class_id": 154,
+    "grade": "1"
+  },
+  "倞": {
+    "class_id": 155,
+    "grade": "1"
+  },
+  "借": {
+    "class_id": 156,
+    "grade": "3"
+  },
+  "倣": {
+    "class_id": 157,
+    "grade": "2"
+  },
+  "値": {
+    "class_id": 158,
+    "grade": "준2"
+  },
+  "倦": {
+    "class_id": 159,
+    "grade": "준1"
+  },
+  "倧": {
+    "class_id": 160,
+    "grade": "1"
+  },
+  "倫": {
+    "class_id": 161,
+    "grade": "준3"
+  },
+  "倬": {
+    "class_id": 162,
+    "grade": "1"
+  },
+  "倭": {
+    "class_id": 163,
+    "grade": "준1"
+  },
+  "倻": {
+    "class_id": 164,
+    "grade": "준1"
+  },
+  "假": {
+    "class_id": 165,
+    "grade": "준3"
+  },
+  "偉": {
+    "class_id": 166,
+    "grade": "4"
+  },
+  "偏": {
+    "class_id": 167,
+    "grade": "2"
+  },
+  "偕": {
+    "class_id": 168,
+    "grade": "1"
+  },
+  "做": {
+    "class_id": 169,
+    "grade": "준1"
+  },
+  "停": {
+    "class_id": 170,
+    "grade": "4"
+  },
+  "健": {
+    "class_id": 171,
+    "grade": "4"
+  },
+  "側": {
+    "class_id": 172,
+    "grade": "준2"
+  },
+  "偵": {
+    "class_id": 173,
+    "grade": "2"
+  },
+  "偶": {
+    "class_id": 174,
+    "grade": "2"
+  },
+  "傀": {
+    "class_id": 175,
+    "grade": "2"
+  },
+  "傅": {
+    "class_id": 176,
+    "grade": "준1"
+  },
+  "傍": {
+    "class_id": 177,
+    "grade": "2"
+  },
+  "傑": {
+    "class_id": 178,
+    "grade": "준2"
+  },
+  "傘": {
+    "class_id": 179,
+    "grade": "2"
+  },
+  "備": {
+    "class_id": 180,
+    "grade": "4"
+  },
+  "催": {
+    "class_id": 181,
+    "grade": "2"
+  },
+  "傭": {
+    "class_id": 182,
+    "grade": "2"
+  },
+  "傲": {
+    "class_id": 183,
+    "grade": "2"
+  },
+  "傳": {
+    "class_id": 184,
+    "grade": "4"
+  },
+  "債": {
+    "class_id": 185,
+    "grade": "준2"
+  },
+  "傷": {
+    "class_id": 186,
+    "grade": "3"
+  },
+  "傾": {
+    "class_id": 187,
+    "grade": "준2"
+  },
+  "僅": {
+    "class_id": 188,
+    "grade": "2"
+  },
+  "僉": {
+    "class_id": 189,
+    "grade": "1"
+  },
+  "像": {
+    "class_id": 190,
+    "grade": "준2"
+  },
+  "僑": {
+    "class_id": 191,
+    "grade": "2"
+  },
+  "僕": {
+    "class_id": 192,
+    "grade": "준1"
+  },
+  "僖": {
+    "class_id": 193,
+    "grade": "1"
+  },
+  "僚": {
+    "class_id": 194,
+    "grade": "2"
+  },
+  "僞": {
+    "class_id": 195,
+    "grade": "2"
+  },
+  "僥": {
+    "class_id": 196,
+    "grade": "1"
+  },
+  "僧": {
+    "class_id": 197,
+    "grade": "2"
+  },
+  "價": {
+    "class_id": 198,
+    "grade": "4"
+  },
+  "僻": {
+    "class_id": 199,
+    "grade": "2"
+  },
+  "儀": {
+    "class_id": 200,
+    "grade": "준2"
+  },
+  "儁": {
+    "class_id": 201,
+    "grade": "1"
+  },
+  "億": {
+    "class_id": 202,
+    "grade": "준4"
+  },
+  "儆": {
+    "class_id": 203,
+    "grade": "준1"
+  },
+  "儉": {
+    "class_id": 204,
+    "grade": "준3"
+  },
+  "儒": {
+    "class_id": 205,
+    "grade": "3"
+  },
+  "償": {
+    "class_id": 206,
+    "grade": "준2"
+  },
+  "儡": {
+    "class_id": 207,
+    "grade": "1"
+  },
+  "優": {
+    "class_id": 208,
+    "grade": "준2"
+  },
+  "允": {
+    "class_id": 209,
+    "grade": "준1"
+  },
+  "元": {
+    "class_id": 210,
+    "grade": "5"
+  },
+  "兄": {
+    "class_id": 211,
+    "grade": "8"
+  },
+  "充": {
+    "class_id": 212,
+    "grade": "준4"
+  },
+  "兆": {
+    "class_id": 213,
+    "grade": "준3"
+  },
+  "先": {
+    "class_id": 214,
+    "grade": "6"
+  },
+  "光": {
+    "class_id": 215,
+    "grade": "5"
+  },
+  "克": {
+    "class_id": 216,
+    "grade": "준2"
+  },
+  "兌": {
+    "class_id": 217,
+    "grade": "준1"
+  },
+  "免": {
+    "class_id": 218,
+    "grade": "3"
+  },
+  "兎": {
+    "class_id": 219,
+    "grade": "준2"
+  },
+  "兒": {
+    "class_id": 220,
+    "grade": "준4"
+  },
+  "兢": {
+    "class_id": 221,
+    "grade": "준1"
+  },
+  "入": {
+    "class_id": 222,
+    "grade": "7"
+  },
+  "內": {
+    "class_id": 223,
+    "grade": "7"
+  },
+  "全": {
+    "class_id": 224,
+    "grade": "5"
+  },
+  "兩": {
+    "class_id": 225,
+    "grade": "4"
+  },
+  "兪": {
+    "class_id": 226,
+    "grade": "준1"
+  },
+  "八": {
+    "class_id": 227,
+    "grade": "8"
+  },
+  "公": {
+    "class_id": 228,
+    "grade": "준4"
+  },
+  "六": {
+    "class_id": 229,
+    "grade": "8"
+  },
+  "兮": {
+    "class_id": 230,
+    "grade": "2"
+  },
+  "共": {
+    "class_id": 231,
+    "grade": "5"
+  },
+  "兵": {
+    "class_id": 232,
+    "grade": "준4"
+  },
+  "其": {
+    "class_id": 233,
+    "grade": "4"
+  },
+  "具": {
+    "class_id": 234,
+    "grade": "4"
+  },
+  "典": {
+    "class_id": 235,
+    "grade": "준4"
+  },
+  "兼": {
+    "class_id": 236,
+    "grade": "준2"
+  },
+  "冀": {
+    "class_id": 237,
+    "grade": "준1"
+  },
+  "冊": {
+    "class_id": 238,
+    "grade": "준3"
+  },
+  "再": {
+    "class_id": 239,
+    "grade": "준4"
+  },
+  "冏": {
+    "class_id": 240,
+    "grade": "1"
+  },
+  "冑": {
+    "class_id": 241,
+    "grade": "1"
+  },
+  "冒": {
+    "class_id": 242,
+    "grade": "1"
+  },
+  "冕": {
+    "class_id": 243,
+    "grade": "준1"
+  },
+  "冠": {
+    "class_id": 244,
+    "grade": "준2"
+  },
+  "冥": {
+    "class_id": 245,
+    "grade": "준2"
+  },
+  "冬": {
+    "class_id": 246,
+    "grade": "5"
+  },
+  "冰": {
+    "class_id": 247,
+    "grade": "준4"
+  },
+  "冶": {
+    "class_id": 248,
+    "grade": "1"
+  },
+  "冷": {
+    "class_id": 249,
+    "grade": "4"
+  },
+  "冽": {
+    "class_id": 250,
+    "grade": "1"
+  },
+  "凄": {
+    "class_id": 251,
+    "grade": "1"
+  },
+  "准": {
+    "class_id": 252,
+    "grade": "준1"
+  },
+  "凋": {
+    "class_id": 253,
+    "grade": "1"
+  },
+  "凌": {
+    "class_id": 254,
+    "grade": "1"
+  },
+  "凍": {
+    "class_id": 255,
+    "grade": "2"
+  },
+  "凜": {
+    "class_id": 256,
+    "grade": "1"
+  },
+  "凝": {
+    "class_id": 257,
+    "grade": "2"
+  },
+  "凞": {
+    "class_id": 258,
+    "grade": "1"
+  },
+  "凡": {
+    "class_id": 259,
+    "grade": "3"
+  },
+  "凰": {
+    "class_id": 260,
+    "grade": "2"
+  },
+  "凱": {
+    "class_id": 261,
+    "grade": "준1"
+  },
+  "凶": {
+    "class_id": 262,
+    "grade": "준4"
+  },
+  "凸": {
+    "class_id": 263,
+    "grade": "1"
+  },
+  "凹": {
+    "class_id": 264,
+    "grade": "1"
+  },
+  "出": {
+    "class_id": 265,
+    "grade": "7"
+  },
+  "函": {
+    "class_id": 266,
+    "grade": "준1"
+  },
+  "刀": {
+    "class_id": 267,
+    "grade": "5"
+  },
+  "刃": {
+    "class_id": 268,
+    "grade": "준2"
+  },
+  "分": {
+    "class_id": 269,
+    "grade": "5"
+  },
+  "切": {
+    "class_id": 270,
+    "grade": "4"
+  },
+  "刈": {
+    "class_id": 271,
+    "grade": "1"
+  },
+  "刊": {
+    "class_id": 272,
+    "grade": "준2"
+  },
+  "刑": {
+    "class_id": 273,
+    "grade": "3"
+  },
+  "列": {
+    "class_id": 274,
+    "grade": "준3"
+  },
+  "初": {
+    "class_id": 275,
+    "grade": "준4"
+  },
+  "判": {
+    "class_id": 276,
+    "grade": "준3"
+  },
+  "別": {
+    "class_id": 277,
+    "grade": "5"
+  },
+  "利": {
+    "class_id": 278,
+    "grade": "5"
+  },
+  "到": {
+    "class_id": 279,
+    "grade": "4"
+  },
+  "制": {
+    "class_id": 280,
+    "grade": "준3"
+  },
+  "刷": {
+    "class_id": 281,
+    "grade": "준2"
+  },
+  "券": {
+    "class_id": 282,
+    "grade": "준2"
+  },
+  "刹": {
+    "class_id": 283,
+    "grade": "2"
+  },
+  "刺": {
+    "class_id": 284,
+    "grade": "2"
+  },
+  "刻": {
+    "class_id": 285,
+    "grade": "준2"
+  },
+  "則": {
+    "class_id": 286,
+    "grade": "4"
+  },
+  "削": {
+    "class_id": 287,
+    "grade": "준2"
+  },
+  "剋": {
+    "class_id": 288,
+    "grade": "1"
+  },
+  "剌": {
+    "class_id": 289,
+    "grade": "준1"
+  },
+  "前": {
+    "class_id": 290,
+    "grade": "5"
+  },
+  "剔": {
+    "class_id": 291,
+    "grade": "1"
+  },
+  "剖": {
+    "class_id": 292,
+    "grade": "준1"
+  },
+  "剛": {
+    "class_id": 293,
+    "grade": "2"
+  },
+  "剩": {
+    "class_id": 294,
+    "grade": "1"
+  },
+  "剪": {
+    "class_id": 295,
+    "grade": "1"
+  },
+  "副": {
+    "class_id": 296,
+    "grade": "준2"
+  },
+  "割": {
+    "class_id": 297,
+    "grade": "준2"
+  },
+  "創": {
+    "class_id": 298,
+    "grade": "준3"
+  },
+  "劃": {
+    "class_id": 299,
+    "grade": "준2"
+  },
+  "劇": {
+    "class_id": 300,
+    "grade": "준2"
+  },
+  "劉": {
+    "class_id": 301,
+    "grade": "준1"
+  },
+  "劍": {
+    "class_id": 302,
+    "grade": "준2"
+  },
+  "劑": {
+    "class_id": 303,
+    "grade": "2"
+  },
+  "力": {
+    "class_id": 304,
+    "grade": "준5"
+  },
+  "功": {
+    "class_id": 305,
+    "grade": "5"
+  },
+  "加": {
+    "class_id": 306,
+    "grade": "준4"
+  },
+  "劣": {
+    "class_id": 307,
+    "grade": "준2"
+  },
+  "劤": {
+    "class_id": 308,
+    "grade": "1"
+  },
+  "助": {
+    "class_id": 309,
+    "grade": "4"
+  },
+  "努": {
+    "class_id": 310,
+    "grade": "준3"
+  },
+  "劫": {
+    "class_id": 311,
+    "grade": "준1"
+  },
+  "勁": {
+    "class_id": 312,
+    "grade": "1"
+  },
+  "勃": {
+    "class_id": 313,
+    "grade": "1"
+  },
+  "勅": {
+    "class_id": 314,
+    "grade": "준1"
+  },
+  "勇": {
+    "class_id": 315,
+    "grade": "준4"
+  },
+  "勉": {
+    "class_id": 316,
+    "grade": "3"
+  },
+  "動": {
+    "class_id": 317,
+    "grade": "준4"
+  },
+  "勘": {
+    "class_id": 318,
+    "grade": "1"
+  },
+  "務": {
+    "class_id": 319,
+    "grade": "준3"
+  },
+  "勝": {
+    "class_id": 320,
+    "grade": "준4"
+  },
+  "勞": {
+    "class_id": 321,
+    "grade": "준4"
+  },
+  "募": {
+    "class_id": 322,
+    "grade": "준2"
+  },
+  "勢": {
+    "class_id": 323,
+    "grade": "4"
+  },
+  "勤": {
+    "class_id": 324,
+    "grade": "3"
+  },
+  "勳": {
+    "class_id": 325,
+    "grade": "2"
+  },
+  "勵": {
+    "class_id": 326,
+    "grade": "준2"
+  },
+  "勸": {
+    "class_id": 327,
+    "grade": "3"
+  },
+  "勿": {
+    "class_id": 328,
+    "grade": "3"
+  },
+  "包": {
+    "class_id": 329,
+    "grade": "준3"
+  },
+  "匈": {
+    "class_id": 330,
+    "grade": "준1"
+  },
+  "匕": {
+    "class_id": 331,
+    "grade": "준1"
+  },
+  "化": {
+    "class_id": 332,
+    "grade": "준4"
+  },
+  "北": {
+    "class_id": 333,
+    "grade": "8"
+  },
+  "匠": {
+    "class_id": 334,
+    "grade": "준1"
+  },
+  "匡": {
+    "class_id": 335,
+    "grade": "1"
+  },
+  "匣": {
+    "class_id": 336,
+    "grade": "1"
+  },
+  "匪": {
+    "class_id": 337,
+    "grade": "2"
+  },
+  "匹": {
+    "class_id": 338,
+    "grade": "3"
+  },
+  "匿": {
+    "class_id": 339,
+    "grade": "2"
+  },
+  "區": {
+    "class_id": 340,
+    "grade": "5"
+  },
+  "十": {
+    "class_id": 341,
+    "grade": "8"
+  },
+  "千": {
+    "class_id": 342,
+    "grade": "6"
+  },
+  "升": {
+    "class_id": 343,
+    "grade": "2"
+  },
+  "午": {
+    "class_id": 344,
+    "grade": "5"
+  },
+  "半": {
+    "class_id": 345,
+    "grade": "5"
+  },
+  "卑": {
+    "class_id": 346,
+    "grade": "준2"
+  },
+  "卒": {
+    "class_id": 347,
+    "grade": "준4"
+  },
+  "卓": {
+    "class_id": 348,
+    "grade": "4"
+  },
+  "協": {
+    "class_id": 349,
+    "grade": "4"
+  },
+  "南": {
+    "class_id": 350,
+    "grade": "8"
+  },
+  "博": {
+    "class_id": 351,
+    "grade": "준2"
+  },
+  "卜": {
+    "class_id": 352,
+    "grade": "준2"
+  },
+  "卞": {
+    "class_id": 353,
+    "grade": "준1"
+  },
+  "占": {
+    "class_id": 354,
+    "grade": "준2"
+  },
+  "卦": {
+    "class_id": 355,
+    "grade": "2"
+  },
+  "卨": {
+    "class_id": 356,
+    "grade": "준1"
+  },
+  "卯": {
+    "class_id": 357,
+    "grade": "준3"
+  },
+  "印": {
+    "class_id": 358,
+    "grade": "준3"
+  },
+  "危": {
+    "class_id": 359,
+    "grade": "준3"
+  },
+  "卲": {
+    "class_id": 360,
+    "grade": "1"
+  },
+  "却": {
+    "class_id": 361,
+    "grade": "준2"
+  },
+  "卵": {
+    "class_id": 362,
+    "grade": "3"
+  },
+  "卷": {
+    "class_id": 363,
+    "grade": "3"
+  },
+  "卽": {
+    "class_id": 364,
+    "grade": "3"
+  },
+  "卿": {
+    "class_id": 365,
+    "grade": "준2"
+  },
+  "厄": {
+    "class_id": 366,
+    "grade": "2"
+  },
+  "厓": {
+    "class_id": 367,
+    "grade": "1"
+  },
+  "厚": {
+    "class_id": 368,
+    "grade": "3"
+  },
+  "原": {
+    "class_id": 369,
+    "grade": "5"
+  },
+  "厥": {
+    "class_id": 370,
+    "grade": "2"
+  },
+  "厭": {
+    "class_id": 371,
+    "grade": "2"
+  },
+  "去": {
+    "class_id": 372,
+    "grade": "5"
+  },
+  "參": {
+    "class_id": 373,
+    "grade": "준4"
+  },
+  "又": {
+    "class_id": 374,
+    "grade": "3"
+  },
+  "叉": {
+    "class_id": 375,
+    "grade": "준1"
+  },
+  "及": {
+    "class_id": 376,
+    "grade": "준3"
+  },
+  "友": {
+    "class_id": 377,
+    "grade": "5"
+  },
+  "反": {
+    "class_id": 378,
+    "grade": "준4"
+  },
+  "叔": {
+    "class_id": 379,
+    "grade": "3"
+  },
+  "取": {
+    "class_id": 380,
+    "grade": "준3"
+  },
+  "受": {
+    "class_id": 381,
+    "grade": "준3"
+  },
+  "叛": {
+    "class_id": 382,
+    "grade": "2"
+  },
+  "叡": {
+    "class_id": 383,
+    "grade": "1"
+  },
+  "叢": {
+    "class_id": 384,
+    "grade": "준1"
+  },
+  "口": {
+    "class_id": 385,
+    "grade": "7"
+  },
+  "古": {
+    "class_id": 386,
+    "grade": "준5"
+  },
+  "句": {
+    "class_id": 387,
+    "grade": "준3"
+  },
+  "叩": {
+    "class_id": 388,
+    "grade": "1"
+  },
+  "只": {
+    "class_id": 389,
+    "grade": "3"
+  },
+  "叫": {
+    "class_id": 390,
+    "grade": "2"
+  },
+  "召": {
+    "class_id": 391,
+    "grade": "2"
+  },
+  "可": {
+    "class_id": 392,
+    "grade": "준4"
+  },
+  "台": {
+    "class_id": 393,
+    "grade": "준1"
+  },
+  "叱": {
+    "class_id": 394,
+    "grade": "준1"
+  },
+  "史": {
+    "class_id": 395,
+    "grade": "준4"
+  },
+  "右": {
+    "class_id": 396,
+    "grade": "7"
+  },
+  "司": {
+    "class_id": 397,
+    "grade": "준2"
+  },
+  "各": {
+    "class_id": 398,
+    "grade": "5"
+  },
+  "合": {
+    "class_id": 399,
+    "grade": "5"
+  },
+  "吉": {
+    "class_id": 400,
+    "grade": "준4"
+  },
+  "同": {
+    "class_id": 401,
+    "grade": "준5"
+  },
+  "名": {
+    "class_id": 402,
+    "grade": "6"
+  },
+  "后": {
+    "class_id": 403,
+    "grade": "준1"
+  },
+  "吏": {
+    "class_id": 404,
+    "grade": "준2"
+  },
+  "吐": {
+    "class_id": 405,
+    "grade": "준2"
+  },
+  "向": {
+    "class_id": 406,
+    "grade": "준5"
+  },
+  "君": {
+    "class_id": 407,
+    "grade": "4"
+  },
+  "吝": {
+    "class_id": 408,
+    "grade": "준1"
+  },
+  "吟": {
+    "class_id": 409,
+    "grade": "3"
+  },
+  "否": {
+    "class_id": 410,
+    "grade": "준3"
+  },
+  "含": {
+    "class_id": 411,
+    "grade": "2"
+  },
+  "吳": {
+    "class_id": 412,
+    "grade": "준1"
+  },
+  "吸": {
+    "class_id": 413,
+    "grade": "준3"
+  },
+  "吹": {
+    "class_id": 414,
+    "grade": "3"
+  },
+  "吾": {
+    "class_id": 415,
+    "grade": "3"
+  },
+  "呂": {
+    "class_id": 416,
+    "grade": "준1"
+  },
+  "呈": {
+    "class_id": 417,
+    "grade": "준1"
+  },
+  "告": {
+    "class_id": 418,
+    "grade": "준4"
+  },
+  "呑": {
+    "class_id": 419,
+    "grade": "준1"
+  },
+  "周": {
+    "class_id": 420,
+    "grade": "준2"
+  },
+  "呪": {
+    "class_id": 421,
+    "grade": "1"
+  },
+  "味": {
+    "class_id": 422,
+    "grade": "4"
+  },
+  "呼": {
+    "class_id": 423,
+    "grade": "준3"
+  },
+  "命": {
+    "class_id": 424,
+    "grade": "5"
+  },
+  "咀": {
+    "class_id": 425,
+    "grade": "1"
+  },
+  "和": {
+    "class_id": 426,
+    "grade": "5"
+  },
+  "咎": {
+    "class_id": 427,
+    "grade": "1"
+  },
+  "咤": {
+    "class_id": 428,
+    "grade": "1"
+  },
+  "咨": {
+    "class_id": 429,
+    "grade": "1"
+  },
+  "咫": {
+    "class_id": 430,
+    "grade": "1"
+  },
+  "咸": {
+    "class_id": 431,
+    "grade": "준2"
+  },
+  "咽": {
+    "class_id": 432,
+    "grade": "준1"
+  },
+  "哀": {
+    "class_id": 433,
+    "grade": "3"
+  },
+  "品": {
+    "class_id": 434,
+    "grade": "준4"
+  },
+  "哉": {
+    "class_id": 435,
+    "grade": "3"
+  },
+  "員": {
+    "class_id": 436,
+    "grade": "준3"
+  },
+  "哨": {
+    "class_id": 437,
+    "grade": "2"
+  },
+  "哭": {
+    "class_id": 438,
+    "grade": "2"
+  },
+  "哲": {
+    "class_id": 439,
+    "grade": "준2"
+  },
+  "哺": {
+    "class_id": 440,
+    "grade": "준1"
+  },
+  "唆": {
+    "class_id": 441,
+    "grade": "2"
+  },
+  "唐": {
+    "class_id": 442,
+    "grade": "2"
+  },
+  "唯": {
+    "class_id": 443,
+    "grade": "3"
+  },
+  "唱": {
+    "class_id": 444,
+    "grade": "4"
+  },
+  "唾": {
+    "class_id": 445,
+    "grade": "1"
+  },
+  "商": {
+    "class_id": 446,
+    "grade": "4"
+  },
+  "問": {
+    "class_id": 447,
+    "grade": "5"
+  },
+  "啓": {
+    "class_id": 448,
+    "grade": "준2"
+  },
+  "啞": {
+    "class_id": 449,
+    "grade": "준1"
+  },
+  "善": {
+    "class_id": 450,
+    "grade": "4"
+  },
+  "喆": {
+    "class_id": 451,
+    "grade": "준1"
+  },
+  "喉": {
+    "class_id": 452,
+    "grade": "2"
+  },
+  "喚": {
+    "class_id": 453,
+    "grade": "1"
+  },
+  "喜": {
+    "class_id": 454,
+    "grade": "3"
+  },
+  "喝": {
+    "class_id": 455,
+    "grade": "1"
+  },
+  "喧": {
+    "class_id": 456,
+    "grade": "1"
+  },
+  "喩": {
+    "class_id": 457,
+    "grade": "준1"
+  },
+  "喪": {
+    "class_id": 458,
+    "grade": "3"
+  },
+  "喫": {
+    "class_id": 459,
+    "grade": "1"
+  },
+  "喬": {
+    "class_id": 460,
+    "grade": "1"
+  },
+  "單": {
+    "class_id": 461,
+    "grade": "준3"
+  },
+  "嗇": {
+    "class_id": 462,
+    "grade": "준1"
+  },
+  "嗚": {
+    "class_id": 463,
+    "grade": "2"
+  },
+  "嗜": {
+    "class_id": 464,
+    "grade": "1"
+  },
+  "嗣": {
+    "class_id": 465,
+    "grade": "준1"
+  },
+  "嗾": {
+    "class_id": 466,
+    "grade": "1"
+  },
+  "嘆": {
+    "class_id": 467,
+    "grade": "1"
+  },
+  "嘉": {
+    "class_id": 468,
+    "grade": "준1"
+  },
+  "嘗": {
+    "class_id": 469,
+    "grade": "2"
+  },
+  "嘯": {
+    "class_id": 470,
+    "grade": "1"
+  },
+  "嘲": {
+    "class_id": 471,
+    "grade": "1"
+  },
+  "器": {
+    "class_id": 472,
+    "grade": "4"
+  },
+  "噫": {
+    "class_id": 473,
+    "grade": "2"
+  },
+  "噴": {
+    "class_id": 474,
+    "grade": "준1"
+  },
+  "嚆": {
+    "class_id": 475,
+    "grade": "1"
+  },
+  "嚴": {
+    "class_id": 476,
+    "grade": "3"
+  },
+  "囊": {
+    "class_id": 477,
+    "grade": "1"
+  },
+  "囑": {
+    "class_id": 478,
+    "grade": "준1"
+  },
+  "囚": {
+    "class_id": 479,
+    "grade": "준2"
+  },
+  "四": {
+    "class_id": 480,
+    "grade": "8"
+  },
+  "回": {
+    "class_id": 481,
+    "grade": "4"
+  },
+  "因": {
+    "class_id": 482,
+    "grade": "준4"
+  },
+  "困": {
+    "class_id": 483,
+    "grade": "3"
+  },
+  "固": {
+    "class_id": 484,
+    "grade": "4"
+  },
+  "圈": {
+    "class_id": 485,
+    "grade": "2"
+  },
+  "國": {
+    "class_id": 486,
+    "grade": "5"
+  },
+  "圍": {
+    "class_id": 487,
+    "grade": "준2"
+  },
+  "園": {
+    "class_id": 488,
+    "grade": "준4"
+  },
+  "圓": {
+    "class_id": 489,
+    "grade": "준3"
+  },
+  "圖": {
+    "class_id": 490,
+    "grade": "준4"
+  },
+  "團": {
+    "class_id": 491,
+    "grade": "4"
+  },
+  "土": {
+    "class_id": 492,
+    "grade": "8"
+  },
+  "在": {
+    "class_id": 493,
+    "grade": "준4"
+  },
+  "圭": {
+    "class_id": 494,
+    "grade": "준1"
+  },
+  "地": {
+    "class_id": 495,
+    "grade": "6"
+  },
+  "圻": {
+    "class_id": 496,
+    "grade": "1"
+  },
+  "址": {
+    "class_id": 497,
+    "grade": "준1"
+  },
+  "坂": {
+    "class_id": 498,
+    "grade": "1"
+  },
+  "均": {
+    "class_id": 499,
+    "grade": "준3"
+  },
+  "坊": {
+    "class_id": 500,
+    "grade": "1"
+  },
+  "坐": {
+    "class_id": 501,
+    "grade": "4"
+  },
+  "坑": {
+    "class_id": 502,
+    "grade": "2"
+  },
+  "坡": {
+    "class_id": 503,
+    "grade": "준1"
+  },
+  "坤": {
+    "class_id": 504,
+    "grade": "3"
+  },
+  "坦": {
+    "class_id": 505,
+    "grade": "1"
+  },
+  "坧": {
+    "class_id": 506,
+    "grade": "1"
+  },
+  "坪": {
+    "class_id": 507,
+    "grade": "2"
+  },
+  "坰": {
+    "class_id": 508,
+    "grade": "1"
+  },
+  "垂": {
+    "class_id": 509,
+    "grade": "2"
+  },
+  "垈": {
+    "class_id": 510,
+    "grade": "2"
+  },
+  "型": {
+    "class_id": 511,
+    "grade": "2"
+  },
+  "垌": {
+    "class_id": 512,
+    "grade": "1"
+  },
+  "垞": {
+    "class_id": 513,
+    "grade": "1"
+  },
+  "垠": {
+    "class_id": 514,
+    "grade": "준1"
+  },
+  "垢": {
+    "class_id": 515,
+    "grade": "1"
+  },
+  "垣": {
+    "class_id": 516,
+    "grade": "1"
+  },
+  "垸": {
+    "class_id": 517,
+    "grade": "1"
+  },
+  "埃": {
+    "class_id": 518,
+    "grade": "준1"
+  },
+  "埇": {
+    "class_id": 519,
+    "grade": "1"
+  },
+  "埈": {
+    "class_id": 520,
+    "grade": "준1"
+  },
+  "埋": {
+    "class_id": 521,
+    "grade": "2"
+  },
+  "城": {
+    "class_id": 522,
+    "grade": "4"
+  },
+  "域": {
+    "class_id": 523,
+    "grade": "3"
+  },
+  "埰": {
+    "class_id": 524,
+    "grade": "준1"
+  },
+  "埴": {
+    "class_id": 525,
+    "grade": "1"
+  },
+  "執": {
+    "class_id": 526,
+    "grade": "3"
+  },
+  "培": {
+    "class_id": 527,
+    "grade": "준2"
+  },
+  "基": {
+    "class_id": 528,
+    "grade": "4"
+  },
+  "埻": {
+    "class_id": 529,
+    "grade": "1"
+  },
+  "埼": {
+    "class_id": 530,
+    "grade": "1"
+  },
+  "堂": {
+    "class_id": 531,
+    "grade": "준4"
+  },
+  "堅": {
+    "class_id": 532,
+    "grade": "3"
+  },
+  "堆": {
+    "class_id": 533,
+    "grade": "1"
+  },
+  "堈": {
+    "class_id": 534,
+    "grade": "1"
+  },
+  "堉": {
+    "class_id": 535,
+    "grade": "1"
+  },
+  "堊": {
+    "class_id": 536,
+    "grade": "1"
+  },
+  "堡": {
+    "class_id": 537,
+    "grade": "1"
+  },
+  "堣": {
+    "class_id": 538,
+    "grade": "1"
+  },
+  "堤": {
+    "class_id": 539,
+    "grade": "준2"
+  },
+  "堪": {
+    "class_id": 540,
+    "grade": "준1"
+  },
+  "堭": {
+    "class_id": 541,
+    "grade": "1"
+  },
+  "堯": {
+    "class_id": 542,
+    "grade": "2"
+  },
+  "報": {
+    "class_id": 543,
+    "grade": "4"
+  },
+  "場": {
+    "class_id": 544,
+    "grade": "5"
+  },
+  "堵": {
+    "class_id": 545,
+    "grade": "1"
+  },
+  "塊": {
+    "class_id": 546,
+    "grade": "2"
+  },
+  "塋": {
+    "class_id": 547,
+    "grade": "1"
+  },
+  "塏": {
+    "class_id": 548,
+    "grade": "준1"
+  },
+  "塔": {
+    "class_id": 549,
+    "grade": "준2"
+  },
+  "塗": {
+    "class_id": 550,
+    "grade": "2"
+  },
+  "塘": {
+    "class_id": 551,
+    "grade": "준1"
+  },
+  "塚": {
+    "class_id": 552,
+    "grade": "1"
+  },
+  "塞": {
+    "class_id": 553,
+    "grade": "2"
+  },
+  "塡": {
+    "class_id": 554,
+    "grade": "1"
+  },
+  "塵": {
+    "class_id": 555,
+    "grade": "2"
+  },
+  "塹": {
+    "class_id": 556,
+    "grade": "1"
+  },
+  "塽": {
+    "class_id": 557,
+    "grade": "1"
+  },
+  "塾": {
+    "class_id": 558,
+    "grade": "준1"
+  },
+  "境": {
+    "class_id": 559,
+    "grade": "준3"
+  },
+  "墉": {
+    "class_id": 560,
+    "grade": "1"
+  },
+  "墐": {
+    "class_id": 561,
+    "grade": "1"
+  },
+  "墓": {
+    "class_id": 562,
+    "grade": "3"
+  },
+  "墜": {
+    "class_id": 563,
+    "grade": "1"
+  },
+  "增": {
+    "class_id": 564,
+    "grade": "4"
+  },
+  "墟": {
+    "class_id": 565,
+    "grade": "1"
+  },
+  "墡": {
+    "class_id": 566,
+    "grade": "1"
+  },
+  "墨": {
+    "class_id": 567,
+    "grade": "3"
+  },
+  "墩": {
+    "class_id": 568,
+    "grade": "1"
+  },
+  "墮": {
+    "class_id": 569,
+    "grade": "2"
+  },
+  "墳": {
+    "class_id": 570,
+    "grade": "2"
+  },
+  "墺": {
+    "class_id": 571,
+    "grade": "준1"
+  },
+  "墻": {
+    "class_id": 572,
+    "grade": "2"
+  },
+  "墾": {
+    "class_id": 573,
+    "grade": "준1"
+  },
+  "壁": {
+    "class_id": 574,
+    "grade": "준2"
+  },
+  "壅": {
+    "class_id": 575,
+    "grade": "1"
+  },
+  "壇": {
+    "class_id": 576,
+    "grade": "4"
+  },
+  "壎": {
+    "class_id": 577,
+    "grade": "준1"
+  },
+  "壑": {
+    "class_id": 578,
+    "grade": "1"
+  },
+  "壓": {
+    "class_id": 579,
+    "grade": "준2"
+  },
+  "壕": {
+    "class_id": 580,
+    "grade": "준1"
+  },
+  "壘": {
+    "class_id": 581,
+    "grade": "1"
+  },
+  "壞": {
+    "class_id": 582,
+    "grade": "준2"
+  },
+  "壤": {
+    "class_id": 583,
+    "grade": "준2"
+  },
+  "士": {
+    "class_id": 584,
+    "grade": "준5"
+  },
+  "壬": {
+    "class_id": 585,
+    "grade": "준3"
+  },
+  "壯": {
+    "class_id": 586,
+    "grade": "준3"
+  },
+  "壹": {
+    "class_id": 587,
+    "grade": "준3"
+  },
+  "壺": {
+    "class_id": 588,
+    "grade": "1"
+  },
+  "壻": {
+    "class_id": 589,
+    "grade": "1"
+  },
+  "壽": {
+    "class_id": 590,
+    "grade": "3"
+  },
+  "夏": {
+    "class_id": 591,
+    "grade": "5"
+  },
+  "夕": {
+    "class_id": 592,
+    "grade": "준5"
+  },
+  "外": {
+    "class_id": 593,
+    "grade": "7"
+  },
+  "夙": {
+    "class_id": 594,
+    "grade": "1"
+  },
+  "多": {
+    "class_id": 595,
+    "grade": "5"
+  },
+  "夜": {
+    "class_id": 596,
+    "grade": "5"
+  },
+  "夢": {
+    "class_id": 597,
+    "grade": "준2"
+  },
+  "大": {
+    "class_id": 598,
+    "grade": "7"
+  },
+  "天": {
+    "class_id": 599,
+    "grade": "6"
+  },
+  "太": {
+    "class_id": 600,
+    "grade": "5"
+  },
+  "夫": {
+    "class_id": 601,
+    "grade": "준5"
+  },
+  "夬": {
+    "class_id": 602,
+    "grade": "1"
+  },
+  "夭": {
+    "class_id": 603,
+    "grade": "준1"
+  },
+  "央": {
+    "class_id": 604,
+    "grade": "준5"
+  },
+  "失": {
+    "class_id": 605,
+    "grade": "준4"
+  },
+  "夷": {
+    "class_id": 606,
+    "grade": "2"
+  },
+  "奄": {
+    "class_id": 607,
+    "grade": "1"
+  },
+  "奇": {
+    "class_id": 608,
+    "grade": "준2"
+  },
+  "奈": {
+    "class_id": 609,
+    "grade": "2"
+  },
+  "奉": {
+    "class_id": 610,
+    "grade": "준4"
+  },
+  "奎": {
+    "class_id": 611,
+    "grade": "준1"
+  },
+  "奏": {
+    "class_id": 612,
+    "grade": "2"
+  },
+  "奐": {
+    "class_id": 613,
+    "grade": "1"
+  },
+  "契": {
+    "class_id": 614,
+    "grade": "준2"
+  },
+  "奔": {
+    "class_id": 615,
+    "grade": "준2"
+  },
+  "奕": {
+    "class_id": 616,
+    "grade": "1"
+  },
+  "套": {
+    "class_id": 617,
+    "grade": "1"
+  },
+  "奘": {
+    "class_id": 618,
+    "grade": "1"
+  },
+  "奚": {
+    "class_id": 619,
+    "grade": "2"
+  },
+  "奠": {
+    "class_id": 620,
+    "grade": "1"
+  },
+  "奢": {
+    "class_id": 621,
+    "grade": "준1"
+  },
+  "奧": {
+    "class_id": 622,
+    "grade": "1"
+  },
+  "奪": {
+    "class_id": 623,
+    "grade": "준2"
+  },
+  "奫": {
+    "class_id": 624,
+    "grade": "1"
+  },
+  "奭": {
+    "class_id": 625,
+    "grade": "준1"
+  },
+  "奮": {
+    "class_id": 626,
+    "grade": "준2"
+  },
+  "女": {
+    "class_id": 627,
+    "grade": "8"
+  },
+  "奴": {
+    "class_id": 628,
+    "grade": "준2"
+  },
+  "奸": {
+    "class_id": 629,
+    "grade": "준1"
+  },
+  "好": {
+    "class_id": 630,
+    "grade": "4"
+  },
+  "如": {
+    "class_id": 631,
+    "grade": "준4"
+  },
+  "妃": {
+    "class_id": 632,
+    "grade": "준2"
+  },
+  "妄": {
+    "class_id": 633,
+    "grade": "준2"
+  },
+  "妓": {
+    "class_id": 634,
+    "grade": "1"
+  },
+  "妖": {
+    "class_id": 635,
+    "grade": "2"
+  },
+  "妙": {
+    "class_id": 636,
+    "grade": "준3"
+  },
+  "妥": {
+    "class_id": 637,
+    "grade": "준2"
+  },
+  "妨": {
+    "class_id": 638,
+    "grade": "준2"
+  },
+  "妬": {
+    "class_id": 639,
+    "grade": "1"
+  },
+  "妵": {
+    "class_id": 640,
+    "grade": "1"
+  },
+  "妹": {
+    "class_id": 641,
+    "grade": "4"
+  },
+  "妻": {
+    "class_id": 642,
+    "grade": "3"
+  },
+  "妾": {
+    "class_id": 643,
+    "grade": "준2"
+  },
+  "姃": {
+    "class_id": 644,
+    "grade": "1"
+  },
+  "姈": {
+    "class_id": 645,
+    "grade": "1"
+  },
+  "姊": {
+    "class_id": 646,
+    "grade": "4"
+  },
+  "始": {
+    "class_id": 647,
+    "grade": "준4"
+  },
+  "姑": {
+    "class_id": 648,
+    "grade": "준2"
+  },
+  "姓": {
+    "class_id": 649,
+    "grade": "6"
+  },
+  "委": {
+    "class_id": 650,
+    "grade": "준2"
+  },
+  "姙": {
+    "class_id": 651,
+    "grade": "2"
+  },
+  "姚": {
+    "class_id": 652,
+    "grade": "준1"
+  },
+  "姜": {
+    "class_id": 653,
+    "grade": "준1"
+  },
+  "姞": {
+    "class_id": 654,
+    "grade": "1"
+  },
+  "姦": {
+    "class_id": 655,
+    "grade": "준2"
+  },
+  "姨": {
+    "class_id": 656,
+    "grade": "준1"
+  },
+  "姪": {
+    "class_id": 657,
+    "grade": "준2"
+  },
+  "姬": {
+    "class_id": 658,
+    "grade": "준1"
+  },
+  "姮": {
+    "class_id": 659,
+    "grade": "1"
+  },
+  "姸": {
+    "class_id": 660,
+    "grade": "준1"
+  },
+  "姻": {
+    "class_id": 661,
+    "grade": "준2"
+  },
+  "姿": {
+    "class_id": 662,
+    "grade": "준2"
+  },
+  "威": {
+    "class_id": 663,
+    "grade": "3"
+  },
+  "娍": {
+    "class_id": 664,
+    "grade": "1"
+  },
+  "娑": {
+    "class_id": 665,
+    "grade": "1"
+  },
+  "娘": {
+    "class_id": 666,
+    "grade": "준2"
+  },
+  "娛": {
+    "class_id": 667,
+    "grade": "2"
+  },
+  "娜": {
+    "class_id": 668,
+    "grade": "1"
+  },
+  "娟": {
+    "class_id": 669,
+    "grade": "1"
+  },
+  "娠": {
+    "class_id": 670,
+    "grade": "준1"
+  },
+  "娥": {
+    "class_id": 671,
+    "grade": "1"
+  },
+  "娩": {
+    "class_id": 672,
+    "grade": "2"
+  },
+  "娶": {
+    "class_id": 673,
+    "grade": "1"
+  },
+  "婆": {
+    "class_id": 674,
+    "grade": "1"
+  },
+  "婉": {
+    "class_id": 675,
+    "grade": "1"
+  },
+  "婚": {
+    "class_id": 676,
+    "grade": "3"
+  },
+  "婠": {
+    "class_id": 677,
+    "grade": "1"
+  },
+  "婢": {
+    "class_id": 678,
+    "grade": "준2"
+  },
+  "婦": {
+    "class_id": 679,
+    "grade": "4"
+  },
+  "媒": {
+    "class_id": 680,
+    "grade": "2"
+  },
+  "媓": {
+    "class_id": 681,
+    "grade": "1"
+  },
+  "媛": {
+    "class_id": 682,
+    "grade": "준1"
+  },
+  "媤": {
+    "class_id": 683,
+    "grade": "준1"
+  },
+  "媼": {
+    "class_id": 684,
+    "grade": "1"
+  },
+  "嫁": {
+    "class_id": 685,
+    "grade": "1"
+  },
+  "嫂": {
+    "class_id": 686,
+    "grade": "1"
+  },
+  "嫄": {
+    "class_id": 687,
+    "grade": "1"
+  },
+  "嫉": {
+    "class_id": 688,
+    "grade": "1"
+  },
+  "嫌": {
+    "class_id": 689,
+    "grade": "2"
+  },
+  "嫡": {
+    "class_id": 690,
+    "grade": "1"
+  },
+  "嬅": {
+    "class_id": 691,
+    "grade": "1"
+  },
+  "嬉": {
+    "class_id": 692,
+    "grade": "준1"
+  },
+  "嬋": {
+    "class_id": 693,
+    "grade": "1"
+  },
+  "嬌": {
+    "class_id": 694,
+    "grade": "1"
+  },
+  "嬪": {
+    "class_id": 695,
+    "grade": "1"
+  },
+  "嬰": {
+    "class_id": 696,
+    "grade": "1"
+  },
+  "孃": {
+    "class_id": 697,
+    "grade": "2"
+  },
+  "子": {
+    "class_id": 698,
+    "grade": "8"
+  },
+  "孔": {
+    "class_id": 699,
+    "grade": "준2"
+  },
+  "孕": {
+    "class_id": 700,
+    "grade": "1"
+  },
+  "字": {
+    "class_id": 701,
+    "grade": "준5"
+  },
+  "存": {
+    "class_id": 702,
+    "grade": "4"
+  },
+  "孚": {
+    "class_id": 703,
+    "grade": "1"
+  },
+  "孝": {
+    "class_id": 704,
+    "grade": "5"
+  },
+  "孟": {
+    "class_id": 705,
+    "grade": "준2"
+  },
+  "季": {
+    "class_id": 706,
+    "grade": "4"
+  },
+  "孤": {
+    "class_id": 707,
+    "grade": "3"
+  },
+  "孫": {
+    "class_id": 708,
+    "grade": "준4"
+  },
+  "孰": {
+    "class_id": 709,
+    "grade": "2"
+  },
+  "孵": {
+    "class_id": 710,
+    "grade": "1"
+  },
+  "學": {
+    "class_id": 711,
+    "grade": "5"
+  },
+  "孺": {
+    "class_id": 712,
+    "grade": "1"
+  },
+  "宅": {
+    "class_id": 713,
+    "grade": "4"
+  },
+  "宇": {
+    "class_id": 714,
+    "grade": "3"
+  },
+  "守": {
+    "class_id": 715,
+    "grade": "4"
+  },
+  "安": {
+    "class_id": 716,
+    "grade": "5"
+  },
+  "宋": {
+    "class_id": 717,
+    "grade": "준1"
+  },
+  "完": {
+    "class_id": 718,
+    "grade": "4"
+  },
+  "宏": {
+    "class_id": 719,
+    "grade": "1"
+  },
+  "宗": {
+    "class_id": 720,
+    "grade": "준3"
+  },
+  "官": {
+    "class_id": 721,
+    "grade": "준3"
+  },
+  "宙": {
+    "class_id": 722,
+    "grade": "3"
+  },
+  "定": {
+    "class_id": 723,
+    "grade": "준4"
+  },
+  "宜": {
+    "class_id": 724,
+    "grade": "준2"
+  },
+  "客": {
+    "class_id": 725,
+    "grade": "준4"
+  },
+  "宣": {
+    "class_id": 726,
+    "grade": "준2"
+  },
+  "室": {
+    "class_id": 727,
+    "grade": "5"
+  },
+  "宥": {
+    "class_id": 728,
+    "grade": "1"
+  },
+  "宮": {
+    "class_id": 729,
+    "grade": "준2"
+  },
+  "宰": {
+    "class_id": 730,
+    "grade": "2"
+  },
+  "害": {
+    "class_id": 731,
+    "grade": "4"
+  },
+  "宴": {
+    "class_id": 732,
+    "grade": "준2"
+  },
+  "家": {
+    "class_id": 733,
+    "grade": "5"
+  },
+  "容": {
+    "class_id": 734,
+    "grade": "준3"
+  },
+  "宿": {
+    "class_id": 735,
+    "grade": "준4"
+  },
+  "寀": {
+    "class_id": 736,
+    "grade": "1"
+  },
+  "寂": {
+    "class_id": 737,
+    "grade": "2"
+  },
+  "寃": {
+    "class_id": 738,
+    "grade": "1"
+  },
+  "寄": {
+    "class_id": 739,
+    "grade": "준2"
+  },
+  "寅": {
+    "class_id": 740,
+    "grade": "준3"
+  },
+  "密": {
+    "class_id": 741,
+    "grade": "준3"
+  },
+  "寇": {
+    "class_id": 742,
+    "grade": "1"
+  },
+  "富": {
+    "class_id": 743,
+    "grade": "4"
+  },
+  "寐": {
+    "class_id": 744,
+    "grade": "준1"
+  },
+  "寒": {
+    "class_id": 745,
+    "grade": "4"
+  },
+  "寓": {
+    "class_id": 746,
+    "grade": "준1"
+  },
+  "寔": {
+    "class_id": 747,
+    "grade": "1"
+  },
+  "寞": {
+    "class_id": 748,
+    "grade": "준1"
+  },
+  "察": {
+    "class_id": 749,
+    "grade": "4"
+  },
+  "寡": {
+    "class_id": 750,
+    "grade": "2"
+  },
+  "寢": {
+    "class_id": 751,
+    "grade": "준2"
+  },
+  "寤": {
+    "class_id": 752,
+    "grade": "1"
+  },
+  "寥": {
+    "class_id": 753,
+    "grade": "1"
+  },
+  "實": {
+    "class_id": 754,
+    "grade": "준4"
+  },
+  "寧": {
+    "class_id": 755,
+    "grade": "준2"
+  },
+  "審": {
+    "class_id": 756,
+    "grade": "준2"
+  },
+  "寫": {
+    "class_id": 757,
+    "grade": "4"
+  },
+  "寬": {
+    "class_id": 758,
+    "grade": "2"
+  },
+  "寵": {
+    "class_id": 759,
+    "grade": "2"
+  },
+  "寶": {
+    "class_id": 760,
+    "grade": "준3"
+  },
+  "寸": {
+    "class_id": 761,
+    "grade": "준5"
+  },
+  "寺": {
+    "class_id": 762,
+    "grade": "준3"
+  },
+  "封": {
+    "class_id": 763,
+    "grade": "2"
+  },
+  "射": {
+    "class_id": 764,
+    "grade": "3"
+  },
+  "將": {
+    "class_id": 765,
+    "grade": "4"
+  },
+  "專": {
+    "class_id": 766,
+    "grade": "준3"
+  },
+  "尉": {
+    "class_id": 767,
+    "grade": "2"
+  },
+  "尊": {
+    "class_id": 768,
+    "grade": "준3"
+  },
+  "尋": {
+    "class_id": 769,
+    "grade": "2"
+  },
+  "對": {
+    "class_id": 770,
+    "grade": "5"
+  },
+  "導": {
+    "class_id": 771,
+    "grade": "준2"
+  },
+  "小": {
+    "class_id": 772,
+    "grade": "7"
+  },
+  "少": {
+    "class_id": 773,
+    "grade": "준5"
+  },
+  "尖": {
+    "class_id": 774,
+    "grade": "준2"
+  },
+  "尙": {
+    "class_id": 775,
+    "grade": "3"
+  },
+  "尤": {
+    "class_id": 776,
+    "grade": "3"
+  },
+  "就": {
+    "class_id": 777,
+    "grade": "3"
+  },
+  "尸": {
+    "class_id": 778,
+    "grade": "준1"
+  },
+  "尹": {
+    "class_id": 779,
+    "grade": "2"
+  },
+  "尺": {
+    "class_id": 780,
+    "grade": "3"
+  },
+  "尼": {
+    "class_id": 781,
+    "grade": "2"
+  },
+  "尾": {
+    "class_id": 782,
+    "grade": "준3"
+  },
+  "尿": {
+    "class_id": 783,
+    "grade": "2"
+  },
+  "局": {
+    "class_id": 784,
+    "grade": "4"
+  },
+  "居": {
+    "class_id": 785,
+    "grade": "3"
+  },
+  "屆": {
+    "class_id": 786,
+    "grade": "준1"
+  },
+  "屈": {
+    "class_id": 787,
+    "grade": "준2"
+  },
+  "屋": {
+    "class_id": 788,
+    "grade": "4"
+  },
+  "屍": {
+    "class_id": 789,
+    "grade": "2"
+  },
+  "展": {
+    "class_id": 790,
+    "grade": "준4"
+  },
+  "屛": {
+    "class_id": 791,
+    "grade": "2"
+  },
+  "屠": {
+    "class_id": 792,
+    "grade": "1"
+  },
+  "屢": {
+    "class_id": 793,
+    "grade": "2"
+  },
+  "層": {
+    "class_id": 794,
+    "grade": "3"
+  },
+  "履": {
+    "class_id": 795,
+    "grade": "준2"
+  },
+  "屬": {
+    "class_id": 796,
+    "grade": "준2"
+  },
+  "屯": {
+    "class_id": 797,
+    "grade": "2"
+  },
+  "山": {
+    "class_id": 798,
+    "grade": "7"
+  },
+  "屹": {
+    "class_id": 799,
+    "grade": "1"
+  },
+  "岐": {
+    "class_id": 800,
+    "grade": "준1"
+  },
+  "岡": {
+    "class_id": 801,
+    "grade": "준1"
+  },
+  "岫": {
+    "class_id": 802,
+    "grade": "1"
+  },
+  "岬": {
+    "class_id": 803,
+    "grade": "준1"
+  },
+  "岱": {
+    "class_id": 804,
+    "grade": "1"
+  },
+  "岳": {
+    "class_id": 805,
+    "grade": "2"
+  },
+  "岷": {
+    "class_id": 806,
+    "grade": "1"
+  },
+  "岸": {
+    "class_id": 807,
+    "grade": "준2"
+  },
+  "峙": {
+    "class_id": 808,
+    "grade": "준1"
+  },
+  "峨": {
+    "class_id": 809,
+    "grade": "1"
+  },
+  "峰": {
+    "class_id": 810,
+    "grade": "준2"
+  },
+  "峴": {
+    "class_id": 811,
+    "grade": "준1"
+  },
+  "島": {
+    "class_id": 812,
+    "grade": "4"
+  },
+  "峻": {
+    "class_id": 813,
+    "grade": "준1"
+  },
+  "峽": {
+    "class_id": 814,
+    "grade": "2"
+  },
+  "崇": {
+    "class_id": 815,
+    "grade": "3"
+  },
+  "崍": {
+    "class_id": 816,
+    "grade": "1"
+  },
+  "崎": {
+    "class_id": 817,
+    "grade": "1"
+  },
+  "崑": {
+    "class_id": 818,
+    "grade": "1"
+  },
+  "崔": {
+    "class_id": 819,
+    "grade": "준1"
+  },
+  "崖": {
+    "class_id": 820,
+    "grade": "1"
+  },
+  "崙": {
+    "class_id": 821,
+    "grade": "1"
+  },
+  "崩": {
+    "class_id": 822,
+    "grade": "2"
+  },
+  "嵇": {
+    "class_id": 823,
+    "grade": "1"
+  },
+  "嵩": {
+    "class_id": 824,
+    "grade": "1"
+  },
+  "嶪": {
+    "class_id": 825,
+    "grade": "1"
+  },
+  "嶺": {
+    "class_id": 826,
+    "grade": "준2"
+  },
+  "嶼": {
+    "class_id": 827,
+    "grade": "1"
+  },
+  "嶽": {
+    "class_id": 828,
+    "grade": "준1"
+  },
+  "巖": {
+    "class_id": 829,
+    "grade": "3"
+  },
+  "川": {
+    "class_id": 830,
+    "grade": "6"
+  },
+  "州": {
+    "class_id": 831,
+    "grade": "준4"
+  },
+  "巡": {
+    "class_id": 832,
+    "grade": "준2"
+  },
+  "巢": {
+    "class_id": 833,
+    "grade": "준1"
+  },
+  "工": {
+    "class_id": 834,
+    "grade": "준5"
+  },
+  "左": {
+    "class_id": 835,
+    "grade": "7"
+  },
+  "巧": {
+    "class_id": 836,
+    "grade": "준2"
+  },
+  "巨": {
+    "class_id": 837,
+    "grade": "준3"
+  },
+  "巫": {
+    "class_id": 838,
+    "grade": "준1"
+  },
+  "差": {
+    "class_id": 839,
+    "grade": "준2"
+  },
+  "己": {
+    "class_id": 840,
+    "grade": "6"
+  },
+  "已": {
+    "class_id": 841,
+    "grade": "3"
+  },
+  "巳": {
+    "class_id": 842,
+    "grade": "준3"
+  },
+  "巴": {
+    "class_id": 843,
+    "grade": "1"
+  },
+  "巷": {
+    "class_id": 844,
+    "grade": "준2"
+  },
+  "巽": {
+    "class_id": 845,
+    "grade": "1"
+  },
+  "巾": {
+    "class_id": 846,
+    "grade": "준5"
+  },
+  "市": {
+    "class_id": 847,
+    "grade": "5"
+  },
+  "布": {
+    "class_id": 848,
+    "grade": "준3"
+  },
+  "帆": {
+    "class_id": 849,
+    "grade": "1"
+  },
+  "希": {
+    "class_id": 850,
+    "grade": "준3"
+  },
+  "帖": {
+    "class_id": 851,
+    "grade": "1"
+  },
+  "帛": {
+    "class_id": 852,
+    "grade": "준1"
+  },
+  "帝": {
+    "class_id": 853,
+    "grade": "3"
+  },
+  "帥": {
+    "class_id": 854,
+    "grade": "준2"
+  },
+  "師": {
+    "class_id": 855,
+    "grade": "4"
+  },
+  "席": {
+    "class_id": 856,
+    "grade": "준4"
+  },
+  "帳": {
+    "class_id": 857,
+    "grade": "준2"
+  },
+  "帶": {
+    "class_id": 858,
+    "grade": "준2"
+  },
+  "帷": {
+    "class_id": 859,
+    "grade": "1"
+  },
+  "常": {
+    "class_id": 860,
+    "grade": "4"
+  },
+  "帽": {
+    "class_id": 861,
+    "grade": "준1"
+  },
+  "幀": {
+    "class_id": 862,
+    "grade": "1"
+  },
+  "幅": {
+    "class_id": 863,
+    "grade": "준2"
+  },
+  "幕": {
+    "class_id": 864,
+    "grade": "2"
+  },
+  "幣": {
+    "class_id": 865,
+    "grade": "2"
+  },
+  "干": {
+    "class_id": 866,
+    "grade": "준3"
+  },
+  "平": {
+    "class_id": 867,
+    "grade": "5"
+  },
+  "年": {
+    "class_id": 868,
+    "grade": "7"
+  },
+  "幸": {
+    "class_id": 869,
+    "grade": "준4"
+  },
+  "幹": {
+    "class_id": 870,
+    "grade": "2"
+  },
+  "幻": {
+    "class_id": 871,
+    "grade": "2"
+  },
+  "幼": {
+    "class_id": 872,
+    "grade": "3"
+  },
+  "幽": {
+    "class_id": 873,
+    "grade": "2"
+  },
+  "幾": {
+    "class_id": 874,
+    "grade": "3"
+  },
+  "庄": {
+    "class_id": 875,
+    "grade": "준1"
+  },
+  "庇": {
+    "class_id": 876,
+    "grade": "1"
+  },
+  "床": {
+    "class_id": 877,
+    "grade": "준3"
+  },
+  "序": {
+    "class_id": 878,
+    "grade": "4"
+  },
+  "底": {
+    "class_id": 879,
+    "grade": "준2"
+  },
+  "庖": {
+    "class_id": 880,
+    "grade": "1"
+  },
+  "店": {
+    "class_id": 881,
+    "grade": "4"
+  },
+  "庚": {
+    "class_id": 882,
+    "grade": "준3"
+  },
+  "府": {
+    "class_id": 883,
+    "grade": "준2"
+  },
+  "庠": {
+    "class_id": 884,
+    "grade": "준1"
+  },
+  "度": {
+    "class_id": 885,
+    "grade": "준4"
+  },
+  "座": {
+    "class_id": 886,
+    "grade": "준2"
+  },
+  "庫": {
+    "class_id": 887,
+    "grade": "준3"
+  },
+  "庭": {
+    "class_id": 888,
+    "grade": "준4"
+  },
+  "庵": {
+    "class_id": 889,
+    "grade": "준1"
+  },
+  "庶": {
+    "class_id": 890,
+    "grade": "준2"
+  },
+  "康": {
+    "class_id": 891,
+    "grade": "준3"
+  },
+  "庸": {
+    "class_id": 892,
+    "grade": "2"
+  },
+  "庾": {
+    "class_id": 893,
+    "grade": "준1"
+  },
+  "廈": {
+    "class_id": 894,
+    "grade": "1"
+  },
+  "廉": {
+    "class_id": 895,
+    "grade": "2"
+  },
+  "廊": {
+    "class_id": 896,
+    "grade": "2"
+  },
+  "廓": {
+    "class_id": 897,
+    "grade": "1"
+  },
+  "廚": {
+    "class_id": 898,
+    "grade": "준1"
+  },
+  "廛": {
+    "class_id": 899,
+    "grade": "1"
+  },
+  "廟": {
+    "class_id": 900,
+    "grade": "준2"
+  },
+  "廠": {
+    "class_id": 901,
+    "grade": "1"
+  },
+  "廢": {
+    "class_id": 902,
+    "grade": "2"
+  },
+  "廣": {
+    "class_id": 903,
+    "grade": "4"
+  },
+  "廬": {
+    "class_id": 904,
+    "grade": "준1"
+  },
+  "廳": {
+    "class_id": 905,
+    "grade": "준2"
+  },
+  "延": {
+    "class_id": 906,
+    "grade": "준2"
+  },
+  "廷": {
+    "class_id": 907,
+    "grade": "준2"
+  },
+  "建": {
+    "class_id": 908,
+    "grade": "4"
+  },
+  "廻": {
+    "class_id": 909,
+    "grade": "2"
+  },
+  "弁": {
+    "class_id": 910,
+    "grade": "준1"
+  },
+  "弄": {
+    "class_id": 911,
+    "grade": "준2"
+  },
+  "弊": {
+    "class_id": 912,
+    "grade": "2"
+  },
+  "式": {
+    "class_id": 913,
+    "grade": "준4"
+  },
+  "弑": {
+    "class_id": 914,
+    "grade": "준1"
+  },
+  "弓": {
+    "class_id": 915,
+    "grade": "준3"
+  },
+  "弔": {
+    "class_id": 916,
+    "grade": "준2"
+  },
+  "引": {
+    "class_id": 917,
+    "grade": "준3"
+  },
+  "弗": {
+    "class_id": 918,
+    "grade": "준2"
+  },
+  "弘": {
+    "class_id": 919,
+    "grade": "준2"
+  },
+  "弛": {
+    "class_id": 920,
+    "grade": "1"
+  },
+  "弟": {
+    "class_id": 921,
+    "grade": "8"
+  },
+  "弦": {
+    "class_id": 922,
+    "grade": "준2"
+  },
+  "弧": {
+    "class_id": 923,
+    "grade": "1"
+  },
+  "弱": {
+    "class_id": 924,
+    "grade": "5"
+  },
+  "張": {
+    "class_id": 925,
+    "grade": "준2"
+  },
+  "强": {
+    "class_id": 926,
+    "grade": "5"
+  },
+  "弼": {
+    "class_id": 927,
+    "grade": "준1"
+  },
+  "彈": {
+    "class_id": 928,
+    "grade": "준2"
+  },
+  "彊": {
+    "class_id": 929,
+    "grade": "준1"
+  },
+  "彌": {
+    "class_id": 930,
+    "grade": "준1"
+  },
+  "彔": {
+    "class_id": 931,
+    "grade": "1"
+  },
+  "彗": {
+    "class_id": 932,
+    "grade": "1"
+  },
+  "彙": {
+    "class_id": 933,
+    "grade": "1"
+  },
+  "彞": {
+    "class_id": 934,
+    "grade": "1"
+  },
+  "形": {
+    "class_id": 935,
+    "grade": "5"
+  },
+  "彦": {
+    "class_id": 936,
+    "grade": "준1"
+  },
+  "彧": {
+    "class_id": 937,
+    "grade": "1"
+  },
+  "彩": {
+    "class_id": 938,
+    "grade": "2"
+  },
+  "彪": {
+    "class_id": 939,
+    "grade": "1"
+  },
+  "彫": {
+    "class_id": 940,
+    "grade": "2"
+  },
+  "彬": {
+    "class_id": 941,
+    "grade": "준1"
+  },
+  "彭": {
+    "class_id": 942,
+    "grade": "준1"
+  },
+  "彰": {
+    "class_id": 943,
+    "grade": "2"
+  },
+  "影": {
+    "class_id": 944,
+    "grade": "2"
+  },
+  "彷": {
+    "class_id": 945,
+    "grade": "1"
+  },
+  "役": {
+    "class_id": 946,
+    "grade": "준2"
+  },
+  "彼": {
+    "class_id": 947,
+    "grade": "3"
+  },
+  "往": {
+    "class_id": 948,
+    "grade": "4"
+  },
+  "征": {
+    "class_id": 949,
+    "grade": "준2"
+  },
+  "待": {
+    "class_id": 950,
+    "grade": "준4"
+  },
+  "徊": {
+    "class_id": 951,
+    "grade": "1"
+  },
+  "律": {
+    "class_id": 952,
+    "grade": "4"
+  },
+  "後": {
+    "class_id": 953,
+    "grade": "5"
+  },
+  "徐": {
+    "class_id": 954,
+    "grade": "준2"
+  },
+  "徑": {
+    "class_id": 955,
+    "grade": "2"
+  },
+  "徒": {
+    "class_id": 956,
+    "grade": "준3"
+  },
+  "得": {
+    "class_id": 957,
+    "grade": "준3"
+  },
+  "徘": {
+    "class_id": 958,
+    "grade": "1"
+  },
+  "徙": {
+    "class_id": 959,
+    "grade": "준1"
+  },
+  "從": {
+    "class_id": 960,
+    "grade": "3"
+  },
+  "御": {
+    "class_id": 961,
+    "grade": "2"
+  },
+  "徨": {
+    "class_id": 962,
+    "grade": "1"
+  },
+  "復": {
+    "class_id": 963,
+    "grade": "준3"
+  },
+  "循": {
+    "class_id": 964,
+    "grade": "2"
+  },
+  "微": {
+    "class_id": 965,
+    "grade": "준2"
+  },
+  "徵": {
+    "class_id": 966,
+    "grade": "2"
+  },
+  "德": {
+    "class_id": 967,
+    "grade": "준4"
+  },
+  "徹": {
+    "class_id": 968,
+    "grade": "2"
+  },
+  "徽": {
+    "class_id": 969,
+    "grade": "준1"
+  },
+  "心": {
+    "class_id": 970,
+    "grade": "6"
+  },
+  "必": {
+    "class_id": 971,
+    "grade": "준4"
+  },
+  "忌": {
+    "class_id": 972,
+    "grade": "2"
+  },
+  "忍": {
+    "class_id": 973,
+    "grade": "3"
+  },
+  "志": {
+    "class_id": 974,
+    "grade": "4"
+  },
+  "忘": {
+    "class_id": 975,
+    "grade": "준3"
+  },
+  "忙": {
+    "class_id": 976,
+    "grade": "3"
+  },
+  "忞": {
+    "class_id": 977,
+    "grade": "1"
+  },
+  "忠": {
+    "class_id": 978,
+    "grade": "4"
+  },
+  "快": {
+    "class_id": 979,
+    "grade": "준3"
+  },
+  "念": {
+    "class_id": 980,
+    "grade": "4"
+  },
+  "忽": {
+    "class_id": 981,
+    "grade": "2"
+  },
+  "忿": {
+    "class_id": 982,
+    "grade": "준1"
+  },
+  "怒": {
+    "class_id": 983,
+    "grade": "준3"
+  },
+  "怖": {
+    "class_id": 984,
+    "grade": "2"
+  },
+  "怜": {
+    "class_id": 985,
+    "grade": "1"
+  },
+  "思": {
+    "class_id": 986,
+    "grade": "준4"
+  },
+  "怠": {
+    "class_id": 987,
+    "grade": "준2"
+  },
+  "怡": {
+    "class_id": 988,
+    "grade": "준1"
+  },
+  "急": {
+    "class_id": 989,
+    "grade": "5"
+  },
+  "性": {
+    "class_id": 990,
+    "grade": "5"
+  },
+  "怨": {
+    "class_id": 991,
+    "grade": "3"
+  },
+  "怪": {
+    "class_id": 992,
+    "grade": "준2"
+  },
+  "怯": {
+    "class_id": 993,
+    "grade": "1"
+  },
+  "恃": {
+    "class_id": 994,
+    "grade": "1"
+  },
+  "恍": {
+    "class_id": 995,
+    "grade": "1"
+  },
+  "恐": {
+    "class_id": 996,
+    "grade": "준2"
+  },
+  "恒": {
+    "class_id": 997,
+    "grade": "3"
+  },
+  "恕": {
+    "class_id": 998,
+    "grade": "준2"
+  },
+  "恢": {
+    "class_id": 999,
+    "grade": "1"
+  },
+  "恣": {
+    "class_id": 1000,
+    "grade": "2"
+  },
+  "恥": {
+    "class_id": 1001,
+    "grade": "준2"
+  },
+  "恨": {
+    "class_id": 1002,
+    "grade": "3"
+  },
+  "恩": {
+    "class_id": 1003,
+    "grade": "4"
+  },
+  "恪": {
+    "class_id": 1004,
+    "grade": "1"
+  },
+  "恬": {
+    "class_id": 1005,
+    "grade": "1"
+  },
+  "恭": {
+    "class_id": 1006,
+    "grade": "준2"
+  },
+  "息": {
+    "class_id": 1007,
+    "grade": "준3"
+  },
+  "恰": {
+    "class_id": 1008,
+    "grade": "1"
+  },
+  "悅": {
+    "class_id": 1009,
+    "grade": "3"
+  },
+  "悉": {
+    "class_id": 1010,
+    "grade": "1"
+  },
+  "悌": {
+    "class_id": 1011,
+    "grade": "준1"
+  },
+  "悔": {
+    "class_id": 1012,
+    "grade": "준2"
+  },
+  "悚": {
+    "class_id": 1013,
+    "grade": "준1"
+  },
+  "悟": {
+    "class_id": 1014,
+    "grade": "3"
+  },
+  "悠": {
+    "class_id": 1015,
+    "grade": "준2"
+  },
+  "患": {
+    "class_id": 1016,
+    "grade": "4"
+  },
+  "悧": {
+    "class_id": 1017,
+    "grade": "1"
+  },
+  "悰": {
+    "class_id": 1018,
+    "grade": "1"
+  },
+  "悲": {
+    "class_id": 1019,
+    "grade": "준3"
+  },
+  "悶": {
+    "class_id": 1020,
+    "grade": "준1"
+  },
+  "悼": {
+    "class_id": 1021,
+    "grade": "2"
+  },
+  "悽": {
+    "class_id": 1022,
+    "grade": "2"
+  },
+  "情": {
+    "class_id": 1023,
+    "grade": "4"
+  },
+  "惇": {
+    "class_id": 1024,
+    "grade": "준1"
+  },
+  "惑": {
+    "class_id": 1025,
+    "grade": "2"
+  },
+  "惚": {
+    "class_id": 1026,
+    "grade": "1"
+  },
+  "惜": {
+    "class_id": 1027,
+    "grade": "3"
+  },
+  "惟": {
+    "class_id": 1028,
+    "grade": "2"
+  },
+  "惠": {
+    "class_id": 1029,
+    "grade": "4"
+  },
+  "惡": {
+    "class_id": 1030,
+    "grade": "4"
+  },
+  "惰": {
+    "class_id": 1031,
+    "grade": "1"
+  },
+  "惱": {
+    "class_id": 1032,
+    "grade": "2"
+  },
+  "想": {
+    "class_id": 1033,
+    "grade": "준3"
+  },
+  "惶": {
+    "class_id": 1034,
+    "grade": "1"
+  },
+  "惹": {
+    "class_id": 1035,
+    "grade": "2"
+  },
+  "惺": {
+    "class_id": 1036,
+    "grade": "1"
+  },
+  "惻": {
+    "class_id": 1037,
+    "grade": "준1"
+  },
+  "愁": {
+    "class_id": 1038,
+    "grade": "준3"
+  },
+  "愃": {
+    "class_id": 1039,
+    "grade": "1"
+  },
+  "愆": {
+    "class_id": 1040,
+    "grade": "1"
+  },
+  "愈": {
+    "class_id": 1041,
+    "grade": "2"
+  },
+  "愉": {
+    "class_id": 1042,
+    "grade": "1"
+  },
+  "意": {
+    "class_id": 1043,
+    "grade": "5"
+  },
+  "愕": {
+    "class_id": 1044,
+    "grade": "1"
+  },
+  "愚": {
+    "class_id": 1045,
+    "grade": "준2"
+  },
+  "愛": {
+    "class_id": 1046,
+    "grade": "준4"
+  },
+  "感": {
+    "class_id": 1047,
+    "grade": "준4"
+  },
+  "愧": {
+    "class_id": 1048,
+    "grade": "2"
+  },
+  "愴": {
+    "class_id": 1049,
+    "grade": "1"
+  },
+  "愷": {
+    "class_id": 1050,
+    "grade": "1"
+  },
+  "愼": {
+    "class_id": 1051,
+    "grade": "준2"
+  },
+  "愿": {
+    "class_id": 1052,
+    "grade": "1"
+  },
+  "慄": {
+    "class_id": 1053,
+    "grade": "1"
+  },
+  "慈": {
+    "class_id": 1054,
+    "grade": "3"
+  },
+  "態": {
+    "class_id": 1055,
+    "grade": "준2"
+  },
+  "慕": {
+    "class_id": 1056,
+    "grade": "준2"
+  },
+  "慘": {
+    "class_id": 1057,
+    "grade": "2"
+  },
+  "慙": {
+    "class_id": 1058,
+    "grade": "2"
+  },
+  "慜": {
+    "class_id": 1059,
+    "grade": "1"
+  },
+  "慢": {
+    "class_id": 1060,
+    "grade": "2"
+  },
+  "慣": {
+    "class_id": 1061,
+    "grade": "준2"
+  },
+  "慧": {
+    "class_id": 1062,
+    "grade": "2"
+  },
+  "慨": {
+    "class_id": 1063,
+    "grade": "2"
+  },
+  "慮": {
+    "class_id": 1064,
+    "grade": "준2"
+  },
+  "慰": {
+    "class_id": 1065,
+    "grade": "준2"
+  },
+  "慶": {
+    "class_id": 1066,
+    "grade": "준3"
+  },
+  "慷": {
+    "class_id": 1067,
+    "grade": "준1"
+  },
+  "慾": {
+    "class_id": 1068,
+    "grade": "준2"
+  },
+  "憂": {
+    "class_id": 1069,
+    "grade": "3"
+  },
+  "憎": {
+    "class_id": 1070,
+    "grade": "2"
+  },
+  "憐": {
+    "class_id": 1071,
+    "grade": "준2"
+  },
+  "憑": {
+    "class_id": 1072,
+    "grade": "1"
+  },
+  "憓": {
+    "class_id": 1073,
+    "grade": "1"
+  },
+  "憙": {
+    "class_id": 1074,
+    "grade": "준1"
+  },
+  "憚": {
+    "class_id": 1075,
+    "grade": "1"
+  },
+  "憤": {
+    "class_id": 1076,
+    "grade": "준2"
+  },
+  "憧": {
+    "class_id": 1077,
+    "grade": "1"
+  },
+  "憩": {
+    "class_id": 1078,
+    "grade": "준2"
+  },
+  "憫": {
+    "class_id": 1079,
+    "grade": "2"
+  },
+  "憬": {
+    "class_id": 1080,
+    "grade": "1"
+  },
+  "憮": {
+    "class_id": 1081,
+    "grade": "1"
+  },
+  "憲": {
+    "class_id": 1082,
+    "grade": "준2"
+  },
+  "憶": {
+    "class_id": 1083,
+    "grade": "3"
+  },
+  "憾": {
+    "class_id": 1084,
+    "grade": "2"
+  },
+  "懇": {
+    "class_id": 1085,
+    "grade": "2"
+  },
+  "懈": {
+    "class_id": 1086,
+    "grade": "준1"
+  },
+  "應": {
+    "class_id": 1087,
+    "grade": "준3"
+  },
+  "懋": {
+    "class_id": 1088,
+    "grade": "1"
+  },
+  "懦": {
+    "class_id": 1089,
+    "grade": "1"
+  },
+  "懲": {
+    "class_id": 1090,
+    "grade": "2"
+  },
+  "懶": {
+    "class_id": 1091,
+    "grade": "준1"
+  },
+  "懷": {
+    "class_id": 1092,
+    "grade": "2"
+  },
+  "懸": {
+    "class_id": 1093,
+    "grade": "2"
+  },
+  "懺": {
+    "class_id": 1094,
+    "grade": "1"
+  },
+  "懼": {
+    "class_id": 1095,
+    "grade": "2"
+  },
+  "懿": {
+    "class_id": 1096,
+    "grade": "1"
+  },
+  "戀": {
+    "class_id": 1097,
+    "grade": "준2"
+  },
+  "戈": {
+    "class_id": 1098,
+    "grade": "준2"
+  },
+  "戊": {
+    "class_id": 1099,
+    "grade": "준3"
+  },
+  "戌": {
+    "class_id": 1100,
+    "grade": "준3"
+  },
+  "戍": {
+    "class_id": 1101,
+    "grade": "준1"
+  },
+  "戎": {
+    "class_id": 1102,
+    "grade": "1"
+  },
+  "成": {
+    "class_id": 1103,
+    "grade": "5"
+  },
+  "我": {
+    "class_id": 1104,
+    "grade": "3"
+  },
+  "戒": {
+    "class_id": 1105,
+    "grade": "준3"
+  },
+  "或": {
+    "class_id": 1106,
+    "grade": "3"
+  },
+  "戚": {
+    "class_id": 1107,
+    "grade": "준2"
+  },
+  "戟": {
+    "class_id": 1108,
+    "grade": "1"
+  },
+  "戮": {
+    "class_id": 1109,
+    "grade": "1"
+  },
+  "戰": {
+    "class_id": 1110,
+    "grade": "준4"
+  },
+  "戲": {
+    "class_id": 1111,
+    "grade": "2"
+  },
+  "戴": {
+    "class_id": 1112,
+    "grade": "2"
+  },
+  "戶": {
+    "class_id": 1113,
+    "grade": "준3"
+  },
+  "戾": {
+    "class_id": 1114,
+    "grade": "1"
+  },
+  "房": {
+    "class_id": 1115,
+    "grade": "준3"
+  },
+  "所": {
+    "class_id": 1116,
+    "grade": "5"
+  },
+  "扁": {
+    "class_id": 1117,
+    "grade": "준1"
+  },
+  "扇": {
+    "class_id": 1118,
+    "grade": "1"
+  },
+  "扈": {
+    "class_id": 1119,
+    "grade": "준1"
+  },
+  "扉": {
+    "class_id": 1120,
+    "grade": "1"
+  },
+  "手": {
+    "class_id": 1121,
+    "grade": "7"
+  },
+  "才": {
+    "class_id": 1122,
+    "grade": "5"
+  },
+  "打": {
+    "class_id": 1123,
+    "grade": "4"
+  },
+  "托": {
+    "class_id": 1124,
+    "grade": "2"
+  },
+  "扱": {
+    "class_id": 1125,
+    "grade": "1"
+  },
+  "扶": {
+    "class_id": 1126,
+    "grade": "3"
+  },
+  "批": {
+    "class_id": 1127,
+    "grade": "준2"
+  },
+  "承": {
+    "class_id": 1128,
+    "grade": "준3"
+  },
+  "技": {
+    "class_id": 1129,
+    "grade": "4"
+  },
+  "抄": {
+    "class_id": 1130,
+    "grade": "2"
+  },
+  "抉": {
+    "class_id": 1131,
+    "grade": "1"
+  },
+  "把": {
+    "class_id": 1132,
+    "grade": "2"
+  },
+  "抑": {
+    "class_id": 1133,
+    "grade": "2"
+  },
+  "抒": {
+    "class_id": 1134,
+    "grade": "1"
+  },
+  "投": {
+    "class_id": 1135,
+    "grade": "3"
+  },
+  "抗": {
+    "class_id": 1136,
+    "grade": "준2"
+  },
+  "折": {
+    "class_id": 1137,
+    "grade": "준2"
+  },
+  "抛": {
+    "class_id": 1138,
+    "grade": "2"
+  },
+  "披": {
+    "class_id": 1139,
+    "grade": "1"
+  },
+  "抱": {
+    "class_id": 1140,
+    "grade": "3"
+  },
+  "抵": {
+    "class_id": 1141,
+    "grade": "준2"
+  },
+  "押": {
+    "class_id": 1142,
+    "grade": "2"
+  },
+  "抽": {
+    "class_id": 1143,
+    "grade": "2"
+  },
+  "拂": {
+    "class_id": 1144,
+    "grade": "준2"
+  },
+  "拇": {
+    "class_id": 1145,
+    "grade": "1"
+  },
+  "拉": {
+    "class_id": 1146,
+    "grade": "준1"
+  },
+  "拍": {
+    "class_id": 1147,
+    "grade": "준2"
+  },
+  "拏": {
+    "class_id": 1148,
+    "grade": "준1"
+  },
+  "拐": {
+    "class_id": 1149,
+    "grade": "1"
+  },
+  "拒": {
+    "class_id": 1150,
+    "grade": "준2"
+  },
+  "拓": {
+    "class_id": 1151,
+    "grade": "준2"
+  },
+  "拔": {
+    "class_id": 1152,
+    "grade": "2"
+  },
+  "拘": {
+    "class_id": 1153,
+    "grade": "준2"
+  },
+  "拙": {
+    "class_id": 1154,
+    "grade": "준2"
+  },
+  "招": {
+    "class_id": 1155,
+    "grade": "3"
+  },
+  "拜": {
+    "class_id": 1156,
+    "grade": "준3"
+  },
+  "括": {
+    "class_id": 1157,
+    "grade": "1"
+  },
+  "拭": {
+    "class_id": 1158,
+    "grade": "1"
+  },
+  "拱": {
+    "class_id": 1159,
+    "grade": "1"
+  },
+  "拳": {
+    "class_id": 1160,
+    "grade": "준2"
+  },
+  "拷": {
+    "class_id": 1161,
+    "grade": "1"
+  },
+  "拾": {
+    "class_id": 1162,
+    "grade": "준3"
+  },
+  "持": {
+    "class_id": 1163,
+    "grade": "준3"
+  },
+  "指": {
+    "class_id": 1164,
+    "grade": "준3"
+  },
+  "按": {
+    "class_id": 1165,
+    "grade": "2"
+  },
+  "挑": {
+    "class_id": 1166,
+    "grade": "2"
+  },
+  "振": {
+    "class_id": 1167,
+    "grade": "2"
+  },
+  "挺": {
+    "class_id": 1168,
+    "grade": "1"
+  },
+  "挽": {
+    "class_id": 1169,
+    "grade": "1"
+  },
+  "挾": {
+    "class_id": 1170,
+    "grade": "1"
+  },
+  "捉": {
+    "class_id": 1171,
+    "grade": "2"
+  },
+  "捏": {
+    "class_id": 1172,
+    "grade": "1"
+  },
+  "捐": {
+    "class_id": 1173,
+    "grade": "준1"
+  },
+  "捕": {
+    "class_id": 1174,
+    "grade": "준2"
+  },
+  "捧": {
+    "class_id": 1175,
+    "grade": "1"
+  },
+  "捨": {
+    "class_id": 1176,
+    "grade": "준2"
+  },
+  "捷": {
+    "class_id": 1177,
+    "grade": "준1"
+  },
+  "捺": {
+    "class_id": 1178,
+    "grade": "1"
+  },
+  "掃": {
+    "class_id": 1179,
+    "grade": "준3"
+  },
+  "授": {
+    "class_id": 1180,
+    "grade": "4"
+  },
+  "掌": {
+    "class_id": 1181,
+    "grade": "2"
+  },
+  "排": {
+    "class_id": 1182,
+    "grade": "준2"
+  },
+  "掘": {
+    "class_id": 1183,
+    "grade": "준1"
+  },
+  "掛": {
+    "class_id": 1184,
+    "grade": "2"
+  },
+  "掠": {
+    "class_id": 1185,
+    "grade": "2"
+  },
+  "採": {
+    "class_id": 1186,
+    "grade": "3"
+  },
+  "探": {
+    "class_id": 1187,
+    "grade": "준3"
+  },
+  "接": {
+    "class_id": 1188,
+    "grade": "준3"
+  },
+  "控": {
+    "class_id": 1189,
+    "grade": "1"
+  },
+  "推": {
+    "class_id": 1190,
+    "grade": "3"
+  },
+  "掩": {
+    "class_id": 1191,
+    "grade": "1"
+  },
+  "措": {
+    "class_id": 1192,
+    "grade": "2"
+  },
+  "揀": {
+    "class_id": 1193,
+    "grade": "1"
+  },
+  "揆": {
+    "class_id": 1194,
+    "grade": "준1"
+  },
+  "描": {
+    "class_id": 1195,
+    "grade": "준1"
+  },
+  "提": {
+    "class_id": 1196,
+    "grade": "준2"
+  },
+  "揚": {
+    "class_id": 1197,
+    "grade": "3"
+  },
+  "換": {
+    "class_id": 1198,
+    "grade": "준2"
+  },
+  "握": {
+    "class_id": 1199,
+    "grade": "2"
+  },
+  "揭": {
+    "class_id": 1200,
+    "grade": "2"
+  },
+  "揮": {
+    "class_id": 1201,
+    "grade": "준2"
+  },
+  "援": {
+    "class_id": 1202,
+    "grade": "준2"
+  },
+  "揷": {
+    "class_id": 1203,
+    "grade": "2"
+  },
+  "損": {
+    "class_id": 1204,
+    "grade": "3"
+  },
+  "搔": {
+    "class_id": 1205,
+    "grade": "1"
+  },
+  "搖": {
+    "class_id": 1206,
+    "grade": "2"
+  },
+  "搗": {
+    "class_id": 1207,
+    "grade": "1"
+  },
+  "搜": {
+    "class_id": 1208,
+    "grade": "2"
+  },
+  "搬": {
+    "class_id": 1209,
+    "grade": "2"
+  },
+  "搭": {
+    "class_id": 1210,
+    "grade": "1"
+  },
+  "携": {
+    "class_id": 1211,
+    "grade": "2"
+  },
+  "摘": {
+    "class_id": 1212,
+    "grade": "2"
+  },
+  "摩": {
+    "class_id": 1213,
+    "grade": "2"
+  },
+  "摯": {
+    "class_id": 1214,
+    "grade": "1"
+  },
+  "摸": {
+    "class_id": 1215,
+    "grade": "1"
+  },
+  "撈": {
+    "class_id": 1216,
+    "grade": "1"
+  },
+  "撐": {
+    "class_id": 1217,
+    "grade": "1"
+  },
+  "撒": {
+    "class_id": 1218,
+    "grade": "준1"
+  },
+  "撞": {
+    "class_id": 1219,
+    "grade": "1"
+  },
+  "撤": {
+    "class_id": 1220,
+    "grade": "2"
+  },
+  "撫": {
+    "class_id": 1221,
+    "grade": "1"
+  },
+  "播": {
+    "class_id": 1222,
+    "grade": "준2"
+  },
+  "撰": {
+    "class_id": 1223,
+    "grade": "1"
+  },
+  "撲": {
+    "class_id": 1224,
+    "grade": "1"
+  },
+  "撻": {
+    "class_id": 1225,
+    "grade": "준1"
+  },
+  "擁": {
+    "class_id": 1226,
+    "grade": "준1"
+  },
+  "擇": {
+    "class_id": 1227,
+    "grade": "준2"
+  },
+  "擊": {
+    "class_id": 1228,
+    "grade": "준2"
+  },
+  "操": {
+    "class_id": 1229,
+    "grade": "4"
+  },
+  "擎": {
+    "class_id": 1230,
+    "grade": "1"
+  },
+  "擔": {
+    "class_id": 1231,
+    "grade": "준2"
+  },
+  "據": {
+    "class_id": 1232,
+    "grade": "준2"
+  },
+  "擡": {
+    "class_id": 1233,
+    "grade": "1"
+  },
+  "擢": {
+    "class_id": 1234,
+    "grade": "1"
+  },
+  "擦": {
+    "class_id": 1235,
+    "grade": "1"
+  },
+  "擧": {
+    "class_id": 1236,
+    "grade": "4"
+  },
+  "擬": {
+    "class_id": 1237,
+    "grade": "1"
+  },
+  "擴": {
+    "class_id": 1238,
+    "grade": "준2"
+  },
+  "擾": {
+    "class_id": 1239,
+    "grade": "1"
+  },
+  "攘": {
+    "class_id": 1240,
+    "grade": "1"
+  },
+  "攝": {
+    "class_id": 1241,
+    "grade": "2"
+  },
+  "攣": {
+    "class_id": 1242,
+    "grade": "1"
+  },
+  "攪": {
+    "class_id": 1243,
+    "grade": "1"
+  },
+  "支": {
+    "class_id": 1244,
+    "grade": "4"
+  },
+  "收": {
+    "class_id": 1245,
+    "grade": "준3"
+  },
+  "攸": {
+    "class_id": 1246,
+    "grade": "1"
+  },
+  "改": {
+    "class_id": 1247,
+    "grade": "4"
+  },
+  "攻": {
+    "class_id": 1248,
+    "grade": "준2"
+  },
+  "放": {
+    "class_id": 1249,
+    "grade": "5"
+  },
+  "政": {
+    "class_id": 1250,
+    "grade": "4"
+  },
+  "敃": {
+    "class_id": 1251,
+    "grade": "1"
+  },
+  "故": {
+    "class_id": 1252,
+    "grade": "4"
+  },
+  "效": {
+    "class_id": 1253,
+    "grade": "4"
+  },
+  "敍": {
+    "class_id": 1254,
+    "grade": "2"
+  },
+  "敎": {
+    "class_id": 1255,
+    "grade": "5"
+  },
+  "敏": {
+    "class_id": 1256,
+    "grade": "준2"
+  },
+  "救": {
+    "class_id": 1257,
+    "grade": "4"
+  },
+  "敗": {
+    "class_id": 1258,
+    "grade": "4"
+  },
+  "敞": {
+    "class_id": 1259,
+    "grade": "준1"
+  },
+  "敢": {
+    "class_id": 1260,
+    "grade": "3"
+  },
+  "散": {
+    "class_id": 1261,
+    "grade": "준3"
+  },
+  "敦": {
+    "class_id": 1262,
+    "grade": "준2"
+  },
+  "敬": {
+    "class_id": 1263,
+    "grade": "준4"
+  },
+  "敲": {
+    "class_id": 1264,
+    "grade": "1"
+  },
+  "整": {
+    "class_id": 1265,
+    "grade": "준2"
+  },
+  "敵": {
+    "class_id": 1266,
+    "grade": "4"
+  },
+  "敷": {
+    "class_id": 1267,
+    "grade": "준1"
+  },
+  "數": {
+    "class_id": 1268,
+    "grade": "준4"
+  },
+  "斂": {
+    "class_id": 1269,
+    "grade": "준1"
+  },
+  "斅": {
+    "class_id": 1270,
+    "grade": "1"
+  },
+  "文": {
+    "class_id": 1271,
+    "grade": "준5"
+  },
+  "斌": {
+    "class_id": 1272,
+    "grade": "1"
+  },
+  "斗": {
+    "class_id": 1273,
+    "grade": "준3"
+  },
+  "料": {
+    "class_id": 1274,
+    "grade": "4"
+  },
+  "斜": {
+    "class_id": 1275,
+    "grade": "2"
+  },
+  "斟": {
+    "class_id": 1276,
+    "grade": "준1"
+  },
+  "斡": {
+    "class_id": 1277,
+    "grade": "준1"
+  },
+  "斤": {
+    "class_id": 1278,
+    "grade": "준2"
+  },
+  "斥": {
+    "class_id": 1279,
+    "grade": "2"
+  },
+  "斧": {
+    "class_id": 1280,
+    "grade": "1"
+  },
+  "斬": {
+    "class_id": 1281,
+    "grade": "2"
+  },
+  "斯": {
+    "class_id": 1282,
+    "grade": "준2"
+  },
+  "新": {
+    "class_id": 1283,
+    "grade": "5"
+  },
+  "斷": {
+    "class_id": 1284,
+    "grade": "준3"
+  },
+  "方": {
+    "class_id": 1285,
+    "grade": "준5"
+  },
+  "於": {
+    "class_id": 1286,
+    "grade": "3"
+  },
+  "施": {
+    "class_id": 1287,
+    "grade": "3"
+  },
+  "旁": {
+    "class_id": 1288,
+    "grade": "준1"
+  },
+  "旅": {
+    "class_id": 1289,
+    "grade": "4"
+  },
+  "旋": {
+    "class_id": 1290,
+    "grade": "2"
+  },
+  "旌": {
+    "class_id": 1291,
+    "grade": "준1"
+  },
+  "族": {
+    "class_id": 1292,
+    "grade": "준4"
+  },
+  "旗": {
+    "class_id": 1293,
+    "grade": "5"
+  },
+  "旣": {
+    "class_id": 1294,
+    "grade": "3"
+  },
+  "日": {
+    "class_id": 1295,
+    "grade": "8"
+  },
+  "旦": {
+    "class_id": 1296,
+    "grade": "2"
+  },
+  "旨": {
+    "class_id": 1297,
+    "grade": "2"
+  },
+  "早": {
+    "class_id": 1298,
+    "grade": "4"
+  },
+  "旬": {
+    "class_id": 1299,
+    "grade": "준2"
+  },
+  "旭": {
+    "class_id": 1300,
+    "grade": "준1"
+  },
+  "旱": {
+    "class_id": 1301,
+    "grade": "2"
+  },
+  "旺": {
+    "class_id": 1302,
+    "grade": "준1"
+  },
+  "旻": {
+    "class_id": 1303,
+    "grade": "준1"
+  },
+  "旼": {
+    "class_id": 1304,
+    "grade": "준1"
+  },
+  "旿": {
+    "class_id": 1305,
+    "grade": "1"
+  },
+  "昆": {
+    "class_id": 1306,
+    "grade": "준1"
+  },
+  "昇": {
+    "class_id": 1307,
+    "grade": "2"
+  },
+  "昉": {
+    "class_id": 1308,
+    "grade": "1"
+  },
+  "昊": {
+    "class_id": 1309,
+    "grade": "준1"
+  },
+  "昌": {
+    "class_id": 1310,
+    "grade": "3"
+  },
+  "明": {
+    "class_id": 1311,
+    "grade": "5"
+  },
+  "昏": {
+    "class_id": 1312,
+    "grade": "준2"
+  },
+  "昑": {
+    "class_id": 1313,
+    "grade": "1"
+  },
+  "易": {
+    "class_id": 1314,
+    "grade": "3"
+  },
+  "昔": {
+    "class_id": 1315,
+    "grade": "3"
+  },
+  "昕": {
+    "class_id": 1316,
+    "grade": "1"
+  },
+  "星": {
+    "class_id": 1317,
+    "grade": "4"
+  },
+  "映": {
+    "class_id": 1318,
+    "grade": "준2"
+  },
+  "昤": {
+    "class_id": 1319,
+    "grade": "1"
+  },
+  "春": {
+    "class_id": 1320,
+    "grade": "5"
+  },
+  "昧": {
+    "class_id": 1321,
+    "grade": "준1"
+  },
+  "昨": {
+    "class_id": 1322,
+    "grade": "준4"
+  },
+  "昭": {
+    "class_id": 1323,
+    "grade": "준2"
+  },
+  "是": {
+    "class_id": 1324,
+    "grade": "4"
+  },
+  "昱": {
+    "class_id": 1325,
+    "grade": "준1"
+  },
+  "昴": {
+    "class_id": 1326,
+    "grade": "준1"
+  },
+  "昶": {
+    "class_id": 1327,
+    "grade": "준1"
+  },
+  "昺": {
+    "class_id": 1328,
+    "grade": "준1"
+  },
+  "昻": {
+    "class_id": 1329,
+    "grade": "1"
+  },
+  "時": {
+    "class_id": 1330,
+    "grade": "5"
+  },
+  "晃": {
+    "class_id": 1331,
+    "grade": "준1"
+  },
+  "晉": {
+    "class_id": 1332,
+    "grade": "준1"
+  },
+  "晏": {
+    "class_id": 1333,
+    "grade": "2"
+  },
+  "晙": {
+    "class_id": 1334,
+    "grade": "준1"
+  },
+  "晛": {
+    "class_id": 1335,
+    "grade": "1"
+  },
+  "晝": {
+    "class_id": 1336,
+    "grade": "5"
+  },
+  "晞": {
+    "class_id": 1337,
+    "grade": "1"
+  },
+  "晟": {
+    "class_id": 1338,
+    "grade": "준1"
+  },
+  "晢": {
+    "class_id": 1339,
+    "grade": "1"
+  },
+  "晤": {
+    "class_id": 1340,
+    "grade": "1"
+  },
+  "晥": {
+    "class_id": 1341,
+    "grade": "1"
+  },
+  "晦": {
+    "class_id": 1342,
+    "grade": "1"
+  },
+  "晧": {
+    "class_id": 1343,
+    "grade": "준1"
+  },
+  "晨": {
+    "class_id": 1344,
+    "grade": "2"
+  },
+  "晩": {
+    "class_id": 1345,
+    "grade": "3"
+  },
+  "晫": {
+    "class_id": 1346,
+    "grade": "1"
+  },
+  "普": {
+    "class_id": 1347,
+    "grade": "준2"
+  },
+  "景": {
+    "class_id": 1348,
+    "grade": "4"
+  },
+  "晳": {
+    "class_id": 1349,
+    "grade": "준1"
+  },
+  "晴": {
+    "class_id": 1350,
+    "grade": "3"
+  },
+  "晶": {
+    "class_id": 1351,
+    "grade": "준1"
+  },
+  "晸": {
+    "class_id": 1352,
+    "grade": "1"
+  },
+  "晹": {
+    "class_id": 1353,
+    "grade": "1"
+  },
+  "智": {
+    "class_id": 1354,
+    "grade": "3"
+  },
+  "暄": {
+    "class_id": 1355,
+    "grade": "1"
+  },
+  "暇": {
+    "class_id": 1356,
+    "grade": "준2"
+  },
+  "暉": {
+    "class_id": 1357,
+    "grade": "1"
+  },
+  "暐": {
+    "class_id": 1358,
+    "grade": "1"
+  },
+  "暑": {
+    "class_id": 1359,
+    "grade": "3"
+  },
+  "暖": {
+    "class_id": 1360,
+    "grade": "준3"
+  },
+  "暗": {
+    "class_id": 1361,
+    "grade": "4"
+  },
+  "暢": {
+    "class_id": 1362,
+    "grade": "2"
+  },
+  "暣": {
+    "class_id": 1363,
+    "grade": "1"
+  },
+  "暫": {
+    "class_id": 1364,
+    "grade": "2"
+  },
+  "暮": {
+    "class_id": 1365,
+    "grade": "3"
+  },
+  "暲": {
+    "class_id": 1366,
+    "grade": "1"
+  },
+  "暴": {
+    "class_id": 1367,
+    "grade": "준3"
+  },
+  "暹": {
+    "class_id": 1368,
+    "grade": "준1"
+  },
+  "暻": {
+    "class_id": 1369,
+    "grade": "1"
+  },
+  "暾": {
+    "class_id": 1370,
+    "grade": "1"
+  },
+  "曄": {
+    "class_id": 1371,
+    "grade": "1"
+  },
+  "曆": {
+    "class_id": 1372,
+    "grade": "2"
+  },
+  "曇": {
+    "class_id": 1373,
+    "grade": "1"
+  },
+  "曉": {
+    "class_id": 1374,
+    "grade": "2"
+  },
+  "曖": {
+    "class_id": 1375,
+    "grade": "1"
+  },
+  "曙": {
+    "class_id": 1376,
+    "grade": "1"
+  },
+  "曜": {
+    "class_id": 1377,
+    "grade": "4"
+  },
+  "曠": {
+    "class_id": 1378,
+    "grade": "1"
+  },
+  "曦": {
+    "class_id": 1379,
+    "grade": "1"
+  },
+  "曰": {
+    "class_id": 1380,
+    "grade": "3"
+  },
+  "曲": {
+    "class_id": 1381,
+    "grade": "준4"
+  },
+  "曳": {
+    "class_id": 1382,
+    "grade": "1"
+  },
+  "更": {
+    "class_id": 1383,
+    "grade": "준3"
+  },
+  "書": {
+    "class_id": 1384,
+    "grade": "5"
+  },
+  "曹": {
+    "class_id": 1385,
+    "grade": "준1"
+  },
+  "曺": {
+    "class_id": 1386,
+    "grade": "준1"
+  },
+  "曼": {
+    "class_id": 1387,
+    "grade": "1"
+  },
+  "曾": {
+    "class_id": 1388,
+    "grade": "3"
+  },
+  "替": {
+    "class_id": 1389,
+    "grade": "준2"
+  },
+  "最": {
+    "class_id": 1390,
+    "grade": "4"
+  },
+  "會": {
+    "class_id": 1391,
+    "grade": "5"
+  },
+  "月": {
+    "class_id": 1392,
+    "grade": "8"
+  },
+  "有": {
+    "class_id": 1393,
+    "grade": "5"
+  },
+  "朋": {
+    "class_id": 1394,
+    "grade": "3"
+  },
+  "服": {
+    "class_id": 1395,
+    "grade": "준4"
+  },
+  "朔": {
+    "class_id": 1396,
+    "grade": "준2"
+  },
+  "朗": {
+    "class_id": 1397,
+    "grade": "4"
+  },
+  "望": {
+    "class_id": 1398,
+    "grade": "4"
+  },
+  "朝": {
+    "class_id": 1399,
+    "grade": "5"
+  },
+  "期": {
+    "class_id": 1400,
+    "grade": "4"
+  },
+  "木": {
+    "class_id": 1401,
+    "grade": "8"
+  },
+  "未": {
+    "class_id": 1402,
+    "grade": "4"
+  },
+  "末": {
+    "class_id": 1403,
+    "grade": "준5"
+  },
+  "本": {
+    "class_id": 1404,
+    "grade": "준5"
+  },
+  "札": {
+    "class_id": 1405,
+    "grade": "2"
+  },
+  "朱": {
+    "class_id": 1406,
+    "grade": "준3"
+  },
+  "朴": {
+    "class_id": 1407,
+    "grade": "준4"
+  },
+  "机": {
+    "class_id": 1408,
+    "grade": "1"
+  },
+  "杆": {
+    "class_id": 1409,
+    "grade": "준1"
+  },
+  "杉": {
+    "class_id": 1410,
+    "grade": "1"
+  },
+  "杋": {
+    "class_id": 1411,
+    "grade": "1"
+  },
+  "李": {
+    "class_id": 1412,
+    "grade": "준4"
+  },
+  "杏": {
+    "class_id": 1413,
+    "grade": "준1"
+  },
+  "材": {
+    "class_id": 1414,
+    "grade": "준4"
+  },
+  "村": {
+    "class_id": 1415,
+    "grade": "5"
+  },
+  "杓": {
+    "class_id": 1416,
+    "grade": "준1"
+  },
+  "杖": {
+    "class_id": 1417,
+    "grade": "준1"
+  },
+  "杜": {
+    "class_id": 1418,
+    "grade": "준1"
+  },
+  "杞": {
+    "class_id": 1419,
+    "grade": "1"
+  },
+  "束": {
+    "class_id": 1420,
+    "grade": "4"
+  },
+  "杠": {
+    "class_id": 1421,
+    "grade": "1"
+  },
+  "杯": {
+    "class_id": 1422,
+    "grade": "3"
+  },
+  "杰": {
+    "class_id": 1423,
+    "grade": "1"
+  },
+  "東": {
+    "class_id": 1424,
+    "grade": "8"
+  },
+  "杷": {
+    "class_id": 1425,
+    "grade": "1"
+  },
+  "松": {
+    "class_id": 1426,
+    "grade": "준3"
+  },
+  "板": {
+    "class_id": 1427,
+    "grade": "4"
+  },
+  "枇": {
+    "class_id": 1428,
+    "grade": "1"
+  },
+  "枉": {
+    "class_id": 1429,
+    "grade": "1"
+  },
+  "析": {
+    "class_id": 1430,
+    "grade": "준2"
+  },
+  "枓": {
+    "class_id": 1431,
+    "grade": "1"
+  },
+  "枕": {
+    "class_id": 1432,
+    "grade": "2"
+  },
+  "林": {
+    "class_id": 1433,
+    "grade": "6"
+  },
+  "枚": {
+    "class_id": 1434,
+    "grade": "2"
+  },
+  "果": {
+    "class_id": 1435,
+    "grade": "준4"
+  },
+  "枝": {
+    "class_id": 1436,
+    "grade": "3"
+  },
+  "枯": {
+    "class_id": 1437,
+    "grade": "준2"
+  },
+  "枰": {
+    "class_id": 1438,
+    "grade": "1"
+  },
+  "架": {
+    "class_id": 1439,
+    "grade": "준2"
+  },
+  "枸": {
+    "class_id": 1440,
+    "grade": "1"
+  },
+  "柄": {
+    "class_id": 1441,
+    "grade": "준1"
+  },
+  "柏": {
+    "class_id": 1442,
+    "grade": "2"
+  },
+  "某": {
+    "class_id": 1443,
+    "grade": "준2"
+  },
+  "柑": {
+    "class_id": 1444,
+    "grade": "1"
+  },
+  "染": {
+    "class_id": 1445,
+    "grade": "준2"
+  },
+  "柔": {
+    "class_id": 1446,
+    "grade": "3"
+  },
+  "柖": {
+    "class_id": 1447,
+    "grade": "1"
+  },
+  "柚": {
+    "class_id": 1448,
+    "grade": "1"
+  },
+  "柩": {
+    "class_id": 1449,
+    "grade": "1"
+  },
+  "柯": {
+    "class_id": 1450,
+    "grade": "준1"
+  },
+  "柰": {
+    "class_id": 1451,
+    "grade": "1"
+  },
+  "柱": {
+    "class_id": 1452,
+    "grade": "준2"
+  },
+  "柳": {
+    "class_id": 1453,
+    "grade": "3"
+  },
+  "柴": {
+    "class_id": 1454,
+    "grade": "준1"
+  },
+  "柹": {
+    "class_id": 1455,
+    "grade": "1"
+  },
+  "査": {
+    "class_id": 1456,
+    "grade": "4"
+  },
+  "柾": {
+    "class_id": 1457,
+    "grade": "1"
+  },
+  "栓": {
+    "class_id": 1458,
+    "grade": "1"
+  },
+  "栗": {
+    "class_id": 1459,
+    "grade": "준2"
+  },
+  "校": {
+    "class_id": 1460,
+    "grade": "5"
+  },
+  "株": {
+    "class_id": 1461,
+    "grade": "준2"
+  },
+  "核": {
+    "class_id": 1462,
+    "grade": "준2"
+  },
+  "根": {
+    "class_id": 1463,
+    "grade": "준4"
+  },
+  "栻": {
+    "class_id": 1464,
+    "grade": "1"
+  },
+  "格": {
+    "class_id": 1465,
+    "grade": "준4"
+  },
+  "栽": {
+    "class_id": 1466,
+    "grade": "3"
+  },
+  "桀": {
+    "class_id": 1467,
+    "grade": "준1"
+  },
+  "桂": {
+    "class_id": 1468,
+    "grade": "2"
+  },
+  "桃": {
+    "class_id": 1469,
+    "grade": "2"
+  },
+  "桄": {
+    "class_id": 1470,
+    "grade": "1"
+  },
+  "案": {
+    "class_id": 1471,
+    "grade": "4"
+  },
+  "桐": {
+    "class_id": 1472,
+    "grade": "2"
+  },
+  "桑": {
+    "class_id": 1473,
+    "grade": "2"
+  },
+  "桓": {
+    "class_id": 1474,
+    "grade": "준1"
+  },
+  "桔": {
+    "class_id": 1475,
+    "grade": "1"
+  },
+  "桯": {
+    "class_id": 1476,
+    "grade": "1"
+  },
+  "桶": {
+    "class_id": 1477,
+    "grade": "1"
+  },
+  "梁": {
+    "class_id": 1478,
+    "grade": "2"
+  },
+  "梅": {
+    "class_id": 1479,
+    "grade": "준2"
+  },
+  "梓": {
+    "class_id": 1480,
+    "grade": "1"
+  },
+  "梗": {
+    "class_id": 1481,
+    "grade": "1"
+  },
+  "條": {
+    "class_id": 1482,
+    "grade": "준2"
+  },
+  "梡": {
+    "class_id": 1483,
+    "grade": "1"
+  },
+  "梧": {
+    "class_id": 1484,
+    "grade": "2"
+  },
+  "梨": {
+    "class_id": 1485,
+    "grade": "준2"
+  },
+  "梯": {
+    "class_id": 1486,
+    "grade": "1"
+  },
+  "械": {
+    "class_id": 1487,
+    "grade": "준2"
+  },
+  "棄": {
+    "class_id": 1488,
+    "grade": "2"
+  },
+  "棅": {
+    "class_id": 1489,
+    "grade": "1"
+  },
+  "棉": {
+    "class_id": 1490,
+    "grade": "1"
+  },
+  "棋": {
+    "class_id": 1491,
+    "grade": "준1"
+  },
+  "棍": {
+    "class_id": 1492,
+    "grade": "1"
+  },
+  "棒": {
+    "class_id": 1493,
+    "grade": "1"
+  },
+  "棕": {
+    "class_id": 1494,
+    "grade": "1"
+  },
+  "棗": {
+    "class_id": 1495,
+    "grade": "1"
+  },
+  "棘": {
+    "class_id": 1496,
+    "grade": "준1"
+  },
+  "棟": {
+    "class_id": 1497,
+    "grade": "2"
+  },
+  "棠": {
+    "class_id": 1498,
+    "grade": "1"
+  },
+  "森": {
+    "class_id": 1499,
+    "grade": "준2"
+  },
+  "棲": {
+    "class_id": 1500,
+    "grade": "준1"
+  },
+  "棹": {
+    "class_id": 1501,
+    "grade": "1"
+  },
+  "棺": {
+    "class_id": 1502,
+    "grade": "1"
+  },
+  "椅": {
+    "class_id": 1503,
+    "grade": "1"
+  },
+  "植": {
+    "class_id": 1504,
+    "grade": "5"
+  },
+  "椿": {
+    "class_id": 1505,
+    "grade": "준1"
+  },
+  "楊": {
+    "class_id": 1506,
+    "grade": "준2"
+  },
+  "楓": {
+    "class_id": 1507,
+    "grade": "3"
+  },
+  "楔": {
+    "class_id": 1508,
+    "grade": "1"
+  },
+  "楗": {
+    "class_id": 1509,
+    "grade": "1"
+  },
+  "楚": {
+    "class_id": 1510,
+    "grade": "준1"
+  },
+  "楞": {
+    "class_id": 1511,
+    "grade": "준1"
+  },
+  "楠": {
+    "class_id": 1512,
+    "grade": "1"
+  },
+  "楡": {
+    "class_id": 1513,
+    "grade": "준1"
+  },
+  "楨": {
+    "class_id": 1514,
+    "grade": "준1"
+  },
+  "楫": {
+    "class_id": 1515,
+    "grade": "1"
+  },
+  "業": {
+    "class_id": 1516,
+    "grade": "준4"
+  },
+  "楮": {
+    "class_id": 1517,
+    "grade": "1"
+  },
+  "極": {
+    "class_id": 1518,
+    "grade": "4"
+  },
+  "楷": {
+    "class_id": 1519,
+    "grade": "1"
+  },
+  "楸": {
+    "class_id": 1520,
+    "grade": "1"
+  },
+  "楹": {
+    "class_id": 1521,
+    "grade": "1"
+  },
+  "榕": {
+    "class_id": 1522,
+    "grade": "1"
+  },
+  "榥": {
+    "class_id": 1523,
+    "grade": "1"
+  },
+  "榮": {
+    "class_id": 1524,
+    "grade": "준3"
+  },
+  "構": {
+    "class_id": 1525,
+    "grade": "준2"
+  },
+  "槐": {
+    "class_id": 1526,
+    "grade": "1"
+  },
+  "槪": {
+    "class_id": 1527,
+    "grade": "준2"
+  },
+  "槽": {
+    "class_id": 1528,
+    "grade": "1"
+  },
+  "槿": {
+    "class_id": 1529,
+    "grade": "2"
+  },
+  "樂": {
+    "class_id": 1530,
+    "grade": "5"
+  },
+  "樓": {
+    "class_id": 1531,
+    "grade": "준2"
+  },
+  "標": {
+    "class_id": 1532,
+    "grade": "준2"
+  },
+  "樞": {
+    "class_id": 1533,
+    "grade": "1"
+  },
+  "樟": {
+    "class_id": 1534,
+    "grade": "준1"
+  },
+  "模": {
+    "class_id": 1535,
+    "grade": "준2"
+  },
+  "樣": {
+    "class_id": 1536,
+    "grade": "준2"
+  },
+  "樵": {
+    "class_id": 1537,
+    "grade": "1"
+  },
+  "樹": {
+    "class_id": 1538,
+    "grade": "준4"
+  },
+  "樺": {
+    "class_id": 1539,
+    "grade": "1"
+  },
+  "橋": {
+    "class_id": 1540,
+    "grade": "4"
+  },
+  "橘": {
+    "class_id": 1541,
+    "grade": "1"
+  },
+  "橚": {
+    "class_id": 1542,
+    "grade": "1"
+  },
+  "機": {
+    "class_id": 1543,
+    "grade": "준2"
+  },
+  "橫": {
+    "class_id": 1544,
+    "grade": "2"
+  },
+  "橿": {
+    "class_id": 1545,
+    "grade": "1"
+  },
+  "檀": {
+    "class_id": 1546,
+    "grade": "준2"
+  },
+  "檄": {
+    "class_id": 1547,
+    "grade": "1"
+  },
+  "檍": {
+    "class_id": 1548,
+    "grade": "1"
+  },
+  "檜": {
+    "class_id": 1549,
+    "grade": "1"
+  },
+  "檠": {
+    "class_id": 1550,
+    "grade": "1"
+  },
+  "檢": {
+    "class_id": 1551,
+    "grade": "준3"
+  },
+  "櫛": {
+    "class_id": 1552,
+    "grade": "1"
+  },
+  "櫻": {
+    "class_id": 1553,
+    "grade": "1"
+  },
+  "欄": {
+    "class_id": 1554,
+    "grade": "2"
+  },
+  "權": {
+    "class_id": 1555,
+    "grade": "준3"
+  },
+  "欠": {
+    "class_id": 1556,
+    "grade": "준1"
+  },
+  "次": {
+    "class_id": 1557,
+    "grade": "4"
+  },
+  "欣": {
+    "class_id": 1558,
+    "grade": "1"
+  },
+  "欲": {
+    "class_id": 1559,
+    "grade": "3"
+  },
+  "欺": {
+    "class_id": 1560,
+    "grade": "준2"
+  },
+  "欽": {
+    "class_id": 1561,
+    "grade": "준1"
+  },
+  "款": {
+    "class_id": 1562,
+    "grade": "준1"
+  },
+  "歌": {
+    "class_id": 1563,
+    "grade": "5"
+  },
+  "歎": {
+    "class_id": 1564,
+    "grade": "준2"
+  },
+  "歐": {
+    "class_id": 1565,
+    "grade": "2"
+  },
+  "歡": {
+    "class_id": 1566,
+    "grade": "3"
+  },
+  "止": {
+    "class_id": 1567,
+    "grade": "준4"
+  },
+  "正": {
+    "class_id": 1568,
+    "grade": "준5"
+  },
+  "此": {
+    "class_id": 1569,
+    "grade": "3"
+  },
+  "步": {
+    "class_id": 1570,
+    "grade": "5"
+  },
+  "武": {
+    "class_id": 1571,
+    "grade": "4"
+  },
+  "歪": {
+    "class_id": 1572,
+    "grade": "2"
+  },
+  "歲": {
+    "class_id": 1573,
+    "grade": "4"
+  },
+  "歷": {
+    "class_id": 1574,
+    "grade": "준4"
+  },
+  "歸": {
+    "class_id": 1575,
+    "grade": "준3"
+  },
+  "死": {
+    "class_id": 1576,
+    "grade": "5"
+  },
+  "歿": {
+    "class_id": 1577,
+    "grade": "1"
+  },
+  "殃": {
+    "class_id": 1578,
+    "grade": "2"
+  },
+  "殆": {
+    "class_id": 1579,
+    "grade": "2"
+  },
+  "殉": {
+    "class_id": 1580,
+    "grade": "2"
+  },
+  "殊": {
+    "class_id": 1581,
+    "grade": "준2"
+  },
+  "殖": {
+    "class_id": 1582,
+    "grade": "2"
+  },
+  "殘": {
+    "class_id": 1583,
+    "grade": "준2"
+  },
+  "殞": {
+    "class_id": 1584,
+    "grade": "1"
+  },
+  "殲": {
+    "class_id": 1585,
+    "grade": "1"
+  },
+  "段": {
+    "class_id": 1586,
+    "grade": "3"
+  },
+  "殷": {
+    "class_id": 1587,
+    "grade": "준1"
+  },
+  "殺": {
+    "class_id": 1588,
+    "grade": "준3"
+  },
+  "殼": {
+    "class_id": 1589,
+    "grade": "준1"
+  },
+  "殿": {
+    "class_id": 1590,
+    "grade": "2"
+  },
+  "毁": {
+    "class_id": 1591,
+    "grade": "2"
+  },
+  "毅": {
+    "class_id": 1592,
+    "grade": "1"
+  },
+  "毆": {
+    "class_id": 1593,
+    "grade": "준1"
+  },
+  "毋": {
+    "class_id": 1594,
+    "grade": "준1"
+  },
+  "母": {
+    "class_id": 1595,
+    "grade": "8"
+  },
+  "每": {
+    "class_id": 1596,
+    "grade": "5"
+  },
+  "毒": {
+    "class_id": 1597,
+    "grade": "준2"
+  },
+  "比": {
+    "class_id": 1598,
+    "grade": "4"
+  },
+  "毖": {
+    "class_id": 1599,
+    "grade": "준1"
+  },
+  "毘": {
+    "class_id": 1600,
+    "grade": "준1"
+  },
+  "毛": {
+    "class_id": 1601,
+    "grade": "5"
+  },
+  "毫": {
+    "class_id": 1602,
+    "grade": "2"
+  },
+  "氏": {
+    "class_id": 1603,
+    "grade": "4"
+  },
+  "民": {
+    "class_id": 1604,
+    "grade": "5"
+  },
+  "氣": {
+    "class_id": 1605,
+    "grade": "5"
+  },
+  "水": {
+    "class_id": 1606,
+    "grade": "8"
+  },
+  "永": {
+    "class_id": 1607,
+    "grade": "5"
+  },
+  "氾": {
+    "class_id": 1608,
+    "grade": "1"
+  },
+  "汀": {
+    "class_id": 1609,
+    "grade": "준1"
+  },
+  "汁": {
+    "class_id": 1610,
+    "grade": "1"
+  },
+  "求": {
+    "class_id": 1611,
+    "grade": "4"
+  },
+  "汎": {
+    "class_id": 1612,
+    "grade": "준2"
+  },
+  "汐": {
+    "class_id": 1613,
+    "grade": "1"
+  },
+  "汗": {
+    "class_id": 1614,
+    "grade": "2"
+  },
+  "汚": {
+    "class_id": 1615,
+    "grade": "준2"
+  },
+  "汝": {
+    "class_id": 1616,
+    "grade": "3"
+  },
+  "江": {
+    "class_id": 1617,
+    "grade": "7"
+  },
+  "池": {
+    "class_id": 1618,
+    "grade": "준2"
+  },
+  "汪": {
+    "class_id": 1619,
+    "grade": "준1"
+  },
+  "汰": {
+    "class_id": 1620,
+    "grade": "1"
+  },
+  "汲": {
+    "class_id": 1621,
+    "grade": "1"
+  },
+  "汶": {
+    "class_id": 1622,
+    "grade": "준1"
+  },
+  "決": {
+    "class_id": 1623,
+    "grade": "준4"
+  },
+  "汽": {
+    "class_id": 1624,
+    "grade": "4"
+  },
+  "汾": {
+    "class_id": 1625,
+    "grade": "1"
+  },
+  "沁": {
+    "class_id": 1626,
+    "grade": "1"
+  },
+  "沂": {
+    "class_id": 1627,
+    "grade": "준1"
+  },
+  "沃": {
+    "class_id": 1628,
+    "grade": "준1"
+  },
+  "沄": {
+    "class_id": 1629,
+    "grade": "1"
+  },
+  "沅": {
+    "class_id": 1630,
+    "grade": "1"
+  },
+  "沆": {
+    "class_id": 1631,
+    "grade": "준1"
+  },
+  "沇": {
+    "class_id": 1632,
+    "grade": "1"
+  },
+  "沈": {
+    "class_id": 1633,
+    "grade": "준2"
+  },
+  "沐": {
+    "class_id": 1634,
+    "grade": "준2"
+  },
+  "沒": {
+    "class_id": 1635,
+    "grade": "2"
+  },
+  "沓": {
+    "class_id": 1636,
+    "grade": "1"
+  },
+  "沔": {
+    "class_id": 1637,
+    "grade": "1"
+  },
+  "沖": {
+    "class_id": 1638,
+    "grade": "준1"
+  },
+  "沙": {
+    "class_id": 1639,
+    "grade": "2"
+  },
+  "沚": {
+    "class_id": 1640,
+    "grade": "1"
+  },
+  "沛": {
+    "class_id": 1641,
+    "grade": "1"
+  },
+  "沫": {
+    "class_id": 1642,
+    "grade": "1"
+  },
+  "沮": {
+    "class_id": 1643,
+    "grade": "1"
+  },
+  "河": {
+    "class_id": 1644,
+    "grade": "준4"
+  },
+  "油": {
+    "class_id": 1645,
+    "grade": "준4"
+  },
+  "治": {
+    "class_id": 1646,
+    "grade": "준3"
+  },
+  "沼": {
+    "class_id": 1647,
+    "grade": "준1"
+  },
+  "沿": {
+    "class_id": 1648,
+    "grade": "준2"
+  },
+  "況": {
+    "class_id": 1649,
+    "grade": "준2"
+  },
+  "泂": {
+    "class_id": 1650,
+    "grade": "1"
+  },
+  "泄": {
+    "class_id": 1651,
+    "grade": "1"
+  },
+  "泉": {
+    "class_id": 1652,
+    "grade": "3"
+  },
+  "泊": {
+    "class_id": 1653,
+    "grade": "2"
+  },
+  "泌": {
+    "class_id": 1654,
+    "grade": "1"
+  },
+  "泓": {
+    "class_id": 1655,
+    "grade": "준1"
+  },
+  "法": {
+    "class_id": 1656,
+    "grade": "준4"
+  },
+  "泗": {
+    "class_id": 1657,
+    "grade": "준1"
+  },
+  "泡": {
+    "class_id": 1658,
+    "grade": "1"
+  },
+  "波": {
+    "class_id": 1659,
+    "grade": "4"
+  },
+  "泣": {
+    "class_id": 1660,
+    "grade": "3"
+  },
+  "泥": {
+    "class_id": 1661,
+    "grade": "2"
+  },
+  "注": {
+    "class_id": 1662,
+    "grade": "준4"
+  },
+  "泫": {
+    "class_id": 1663,
+    "grade": "1"
+  },
+  "泰": {
+    "class_id": 1664,
+    "grade": "3"
+  },
+  "泳": {
+    "class_id": 1665,
+    "grade": "준2"
+  },
+  "洋": {
+    "class_id": 1666,
+    "grade": "준4"
+  },
+  "洌": {
+    "class_id": 1667,
+    "grade": "1"
+  },
+  "洗": {
+    "class_id": 1668,
+    "grade": "준4"
+  },
+  "洙": {
+    "class_id": 1669,
+    "grade": "2"
+  },
+  "洛": {
+    "class_id": 1670,
+    "grade": "2"
+  },
+  "洞": {
+    "class_id": 1671,
+    "grade": "5"
+  },
+  "津": {
+    "class_id": 1672,
+    "grade": "2"
+  },
+  "洧": {
+    "class_id": 1673,
+    "grade": "1"
+  },
+  "洪": {
+    "class_id": 1674,
+    "grade": "2"
+  },
+  "洲": {
+    "class_id": 1675,
+    "grade": "2"
+  },
+  "洵": {
+    "class_id": 1676,
+    "grade": "준1"
+  },
+  "洸": {
+    "class_id": 1677,
+    "grade": "1"
+  },
+  "洹": {
+    "class_id": 1678,
+    "grade": "1"
+  },
+  "活": {
+    "class_id": 1679,
+    "grade": "5"
+  },
+  "洽": {
+    "class_id": 1680,
+    "grade": "1"
+  },
+  "派": {
+    "class_id": 1681,
+    "grade": "준2"
+  },
+  "流": {
+    "class_id": 1682,
+    "grade": "준4"
+  },
+  "浚": {
+    "class_id": 1683,
+    "grade": "준1"
+  },
+  "浣": {
+    "class_id": 1684,
+    "grade": "1"
+  },
+  "浦": {
+    "class_id": 1685,
+    "grade": "준2"
+  },
+  "浩": {
+    "class_id": 1686,
+    "grade": "2"
+  },
+  "浪": {
+    "class_id": 1687,
+    "grade": "3"
+  },
+  "浮": {
+    "class_id": 1688,
+    "grade": "3"
+  },
+  "浴": {
+    "class_id": 1689,
+    "grade": "4"
+  },
+  "海": {
+    "class_id": 1690,
+    "grade": "5"
+  },
+  "浸": {
+    "class_id": 1691,
+    "grade": "준2"
+  },
+  "浹": {
+    "class_id": 1692,
+    "grade": "1"
+  },
+  "浿": {
+    "class_id": 1693,
+    "grade": "1"
+  },
+  "涇": {
+    "class_id": 1694,
+    "grade": "1"
+  },
+  "消": {
+    "class_id": 1695,
+    "grade": "준4"
+  },
+  "涉": {
+    "class_id": 1696,
+    "grade": "준2"
+  },
+  "涍": {
+    "class_id": 1697,
+    "grade": "1"
+  },
+  "涓": {
+    "class_id": 1698,
+    "grade": "1"
+  },
+  "涯": {
+    "class_id": 1699,
+    "grade": "준2"
+  },
+  "液": {
+    "class_id": 1700,
+    "grade": "준2"
+  },
+  "涵": {
+    "class_id": 1701,
+    "grade": "1"
+  },
+  "涼": {
+    "class_id": 1702,
+    "grade": "3"
+  },
+  "淀": {
+    "class_id": 1703,
+    "grade": "1"
+  },
+  "淅": {
+    "class_id": 1704,
+    "grade": "1"
+  },
+  "淇": {
+    "class_id": 1705,
+    "grade": "1"
+  },
+  "淋": {
+    "class_id": 1706,
+    "grade": "1"
+  },
+  "淏": {
+    "class_id": 1707,
+    "grade": "1"
+  },
+  "淑": {
+    "class_id": 1708,
+    "grade": "3"
+  },
+  "淙": {
+    "class_id": 1709,
+    "grade": "1"
+  },
+  "淚": {
+    "class_id": 1710,
+    "grade": "2"
+  },
+  "淞": {
+    "class_id": 1711,
+    "grade": "1"
+  },
+  "淡": {
+    "class_id": 1712,
+    "grade": "준2"
+  },
+  "淨": {
+    "class_id": 1713,
+    "grade": "3"
+  },
+  "淪": {
+    "class_id": 1714,
+    "grade": "1"
+  },
+  "淫": {
+    "class_id": 1715,
+    "grade": "2"
+  },
+  "淮": {
+    "class_id": 1716,
+    "grade": "준1"
+  },
+  "深": {
+    "class_id": 1717,
+    "grade": "3"
+  },
+  "淳": {
+    "class_id": 1718,
+    "grade": "준1"
+  },
+  "淵": {
+    "class_id": 1719,
+    "grade": "준1"
+  },
+  "混": {
+    "class_id": 1720,
+    "grade": "3"
+  },
+  "淸": {
+    "class_id": 1721,
+    "grade": "준4"
+  },
+  "淺": {
+    "class_id": 1722,
+    "grade": "3"
+  },
+  "添": {
+    "class_id": 1723,
+    "grade": "준2"
+  },
+  "渙": {
+    "class_id": 1724,
+    "grade": "1"
+  },
+  "減": {
+    "class_id": 1725,
+    "grade": "4"
+  },
+  "渠": {
+    "class_id": 1726,
+    "grade": "1"
+  },
+  "渡": {
+    "class_id": 1727,
+    "grade": "2"
+  },
+  "渤": {
+    "class_id": 1728,
+    "grade": "준1"
+  },
+  "渦": {
+    "class_id": 1729,
+    "grade": "1"
+  },
+  "渫": {
+    "class_id": 1730,
+    "grade": "1"
+  },
+  "測": {
+    "class_id": 1731,
+    "grade": "준2"
+  },
+  "渭": {
+    "class_id": 1732,
+    "grade": "준1"
+  },
+  "港": {
+    "class_id": 1733,
+    "grade": "준2"
+  },
+  "渲": {
+    "class_id": 1734,
+    "grade": "1"
+  },
+  "渴": {
+    "class_id": 1735,
+    "grade": "3"
+  },
+  "渶": {
+    "class_id": 1736,
+    "grade": "1"
+  },
+  "游": {
+    "class_id": 1737,
+    "grade": "1"
+  },
+  "渼": {
+    "class_id": 1738,
+    "grade": "1"
+  },
+  "渾": {
+    "class_id": 1739,
+    "grade": "1"
+  },
+  "湃": {
+    "class_id": 1740,
+    "grade": "1"
+  },
+  "湊": {
+    "class_id": 1741,
+    "grade": "1"
+  },
+  "湍": {
+    "class_id": 1742,
+    "grade": "준1"
+  },
+  "湖": {
+    "class_id": 1743,
+    "grade": "4"
+  },
+  "湘": {
+    "class_id": 1744,
+    "grade": "1"
+  },
+  "湜": {
+    "class_id": 1745,
+    "grade": "준1"
+  },
+  "湞": {
+    "class_id": 1746,
+    "grade": "1"
+  },
+  "湧": {
+    "class_id": 1747,
+    "grade": "1"
+  },
+  "湯": {
+    "class_id": 1748,
+    "grade": "준2"
+  },
+  "湳": {
+    "class_id": 1749,
+    "grade": "1"
+  },
+  "源": {
+    "class_id": 1750,
+    "grade": "3"
+  },
+  "準": {
+    "class_id": 1751,
+    "grade": "준2"
+  },
+  "溝": {
+    "class_id": 1752,
+    "grade": "1"
+  },
+  "溟": {
+    "class_id": 1753,
+    "grade": "1"
+  },
+  "溢": {
+    "class_id": 1754,
+    "grade": "1"
+  },
+  "溥": {
+    "class_id": 1755,
+    "grade": "1"
+  },
+  "溪": {
+    "class_id": 1756,
+    "grade": "준3"
+  },
+  "溫": {
+    "class_id": 1757,
+    "grade": "준4"
+  },
+  "溶": {
+    "class_id": 1758,
+    "grade": "준1"
+  },
+  "溺": {
+    "class_id": 1759,
+    "grade": "준1"
+  },
+  "滂": {
+    "class_id": 1760,
+    "grade": "1"
+  },
+  "滄": {
+    "class_id": 1761,
+    "grade": "2"
+  },
+  "滅": {
+    "class_id": 1762,
+    "grade": "2"
+  },
+  "滉": {
+    "class_id": 1763,
+    "grade": "준1"
+  },
+  "滋": {
+    "class_id": 1764,
+    "grade": "준1"
+  },
+  "滌": {
+    "class_id": 1765,
+    "grade": "1"
+  },
+  "滑": {
+    "class_id": 1766,
+    "grade": "2"
+  },
+  "滯": {
+    "class_id": 1767,
+    "grade": "2"
+  },
+  "滴": {
+    "class_id": 1768,
+    "grade": "2"
+  },
+  "滿": {
+    "class_id": 1769,
+    "grade": "준3"
+  },
+  "漁": {
+    "class_id": 1770,
+    "grade": "준4"
+  },
+  "漂": {
+    "class_id": 1771,
+    "grade": "2"
+  },
+  "漆": {
+    "class_id": 1772,
+    "grade": "2"
+  },
+  "漌": {
+    "class_id": 1773,
+    "grade": "1"
+  },
+  "漏": {
+    "class_id": 1774,
+    "grade": "2"
+  },
+  "漑": {
+    "class_id": 1775,
+    "grade": "1"
+  },
+  "演": {
+    "class_id": 1776,
+    "grade": "준2"
+  },
+  "漠": {
+    "class_id": 1777,
+    "grade": "2"
+  },
+  "漢": {
+    "class_id": 1778,
+    "grade": "5"
+  },
+  "漣": {
+    "class_id": 1779,
+    "grade": "1"
+  },
+  "漫": {
+    "class_id": 1780,
+    "grade": "2"
+  },
+  "漳": {
+    "class_id": 1781,
+    "grade": "1"
+  },
+  "漸": {
+    "class_id": 1782,
+    "grade": "2"
+  },
+  "漾": {
+    "class_id": 1783,
+    "grade": "1"
+  },
+  "潑": {
+    "class_id": 1784,
+    "grade": "1"
+  },
+  "潔": {
+    "class_id": 1785,
+    "grade": "준3"
+  },
+  "潗": {
+    "class_id": 1786,
+    "grade": "1"
+  },
+  "潘": {
+    "class_id": 1787,
+    "grade": "준1"
+  },
+  "潛": {
+    "class_id": 1788,
+    "grade": "준2"
+  },
+  "潤": {
+    "class_id": 1789,
+    "grade": "2"
+  },
+  "潭": {
+    "class_id": 1790,
+    "grade": "2"
+  },
+  "潮": {
+    "class_id": 1791,
+    "grade": "준2"
+  },
+  "潰": {
+    "class_id": 1792,
+    "grade": "1"
+  },
+  "潼": {
+    "class_id": 1793,
+    "grade": "1"
+  },
+  "潽": {
+    "class_id": 1794,
+    "grade": "1"
+  },
+  "潾": {
+    "class_id": 1795,
+    "grade": "1"
+  },
+  "澄": {
+    "class_id": 1796,
+    "grade": "1"
+  },
+  "澈": {
+    "class_id": 1797,
+    "grade": "준1"
+  },
+  "澍": {
+    "class_id": 1798,
+    "grade": "1"
+  },
+  "澎": {
+    "class_id": 1799,
+    "grade": "1"
+  },
+  "澐": {
+    "class_id": 1800,
+    "grade": "1"
+  },
+  "澗": {
+    "class_id": 1801,
+    "grade": "1"
+  },
+  "澣": {
+    "class_id": 1802,
+    "grade": "1"
+  },
+  "澤": {
+    "class_id": 1803,
+    "grade": "준2"
+  },
+  "澮": {
+    "class_id": 1804,
+    "grade": "1"
+  },
+  "澯": {
+    "class_id": 1805,
+    "grade": "1"
+  },
+  "澹": {
+    "class_id": 1806,
+    "grade": "1"
+  },
+  "激": {
+    "class_id": 1807,
+    "grade": "준2"
+  },
+  "濁": {
+    "class_id": 1808,
+    "grade": "준2"
+  },
+  "濂": {
+    "class_id": 1809,
+    "grade": "1"
+  },
+  "濃": {
+    "class_id": 1810,
+    "grade": "준2"
+  },
+  "濊": {
+    "class_id": 1811,
+    "grade": "준1"
+  },
+  "濕": {
+    "class_id": 1812,
+    "grade": "준2"
+  },
+  "濟": {
+    "class_id": 1813,
+    "grade": "준2"
+  },
+  "濠": {
+    "class_id": 1814,
+    "grade": "준1"
+  },
+  "濡": {
+    "class_id": 1815,
+    "grade": "1"
+  },
+  "濤": {
+    "class_id": 1816,
+    "grade": "준1"
+  },
+  "濩": {
+    "class_id": 1817,
+    "grade": "1"
+  },
+  "濫": {
+    "class_id": 1818,
+    "grade": "2"
+  },
+  "濬": {
+    "class_id": 1819,
+    "grade": "준1"
+  },
+  "濯": {
+    "class_id": 1820,
+    "grade": "준2"
+  },
+  "濱": {
+    "class_id": 1821,
+    "grade": "1"
+  },
+  "瀅": {
+    "class_id": 1822,
+    "grade": "준1"
+  },
+  "瀆": {
+    "class_id": 1823,
+    "grade": "1"
+  },
+  "瀉": {
+    "class_id": 1824,
+    "grade": "1"
+  },
+  "瀋": {
+    "class_id": 1825,
+    "grade": "준1"
+  },
+  "瀑": {
+    "class_id": 1826,
+    "grade": "1"
+  },
+  "瀧": {
+    "class_id": 1827,
+    "grade": "1"
+  },
+  "瀯": {
+    "class_id": 1828,
+    "grade": "1"
+  },
+  "瀷": {
+    "class_id": 1829,
+    "grade": "1"
+  },
+  "瀾": {
+    "class_id": 1830,
+    "grade": "1"
+  },
+  "灌": {
+    "class_id": 1831,
+    "grade": "1"
+  },
+  "灑": {
+    "class_id": 1832,
+    "grade": "1"
+  },
+  "灘": {
+    "class_id": 1833,
+    "grade": "준1"
+  },
+  "灝": {
+    "class_id": 1834,
+    "grade": "1"
+  },
+  "灣": {
+    "class_id": 1835,
+    "grade": "2"
+  },
+  "火": {
+    "class_id": 1836,
+    "grade": "8"
+  },
+  "灰": {
+    "class_id": 1837,
+    "grade": "준2"
+  },
+  "灸": {
+    "class_id": 1838,
+    "grade": "준1"
+  },
+  "灼": {
+    "class_id": 1839,
+    "grade": "1"
+  },
+  "災": {
+    "class_id": 1840,
+    "grade": "4"
+  },
+  "炅": {
+    "class_id": 1841,
+    "grade": "2"
+  },
+  "炆": {
+    "class_id": 1842,
+    "grade": "1"
+  },
+  "炊": {
+    "class_id": 1843,
+    "grade": "2"
+  },
+  "炎": {
+    "class_id": 1844,
+    "grade": "3"
+  },
+  "炘": {
+    "class_id": 1845,
+    "grade": "1"
+  },
+  "炙": {
+    "class_id": 1846,
+    "grade": "준1"
+  },
+  "炚": {
+    "class_id": 1847,
+    "grade": "1"
+  },
+  "炡": {
+    "class_id": 1848,
+    "grade": "1"
+  },
+  "炤": {
+    "class_id": 1849,
+    "grade": "1"
+  },
+  "炫": {
+    "class_id": 1850,
+    "grade": "준1"
+  },
+  "炭": {
+    "class_id": 1851,
+    "grade": "4"
+  },
+  "炯": {
+    "class_id": 1852,
+    "grade": "준1"
+  },
+  "炳": {
+    "class_id": 1853,
+    "grade": "준1"
+  },
+  "炷": {
+    "class_id": 1854,
+    "grade": "1"
+  },
+  "炸": {
+    "class_id": 1855,
+    "grade": "1"
+  },
+  "烈": {
+    "class_id": 1856,
+    "grade": "준3"
+  },
+  "烋": {
+    "class_id": 1857,
+    "grade": "준1"
+  },
+  "烏": {
+    "class_id": 1858,
+    "grade": "3"
+  },
+  "烓": {
+    "class_id": 1859,
+    "grade": "1"
+  },
+  "烘": {
+    "class_id": 1860,
+    "grade": "1"
+  },
+  "烙": {
+    "class_id": 1861,
+    "grade": "1"
+  },
+  "烝": {
+    "class_id": 1862,
+    "grade": "1"
+  },
+  "烹": {
+    "class_id": 1863,
+    "grade": "1"
+  },
+  "烽": {
+    "class_id": 1864,
+    "grade": "1"
+  },
+  "焄": {
+    "class_id": 1865,
+    "grade": "1"
+  },
+  "焉": {
+    "class_id": 1866,
+    "grade": "2"
+  },
+  "焌": {
+    "class_id": 1867,
+    "grade": "1"
+  },
+  "焚": {
+    "class_id": 1868,
+    "grade": "준1"
+  },
+  "焞": {
+    "class_id": 1869,
+    "grade": "1"
+  },
+  "無": {
+    "class_id": 1870,
+    "grade": "5"
+  },
+  "焦": {
+    "class_id": 1871,
+    "grade": "2"
+  },
+  "然": {
+    "class_id": 1872,
+    "grade": "준4"
+  },
+  "煉": {
+    "class_id": 1873,
+    "grade": "2"
+  },
+  "煌": {
+    "class_id": 1874,
+    "grade": "1"
+  },
+  "煐": {
+    "class_id": 1875,
+    "grade": "1"
+  },
+  "煒": {
+    "class_id": 1876,
+    "grade": "1"
+  },
+  "煙": {
+    "class_id": 1877,
+    "grade": "준3"
+  },
+  "煜": {
+    "class_id": 1878,
+    "grade": "준1"
+  },
+  "煤": {
+    "class_id": 1879,
+    "grade": "1"
+  },
+  "煥": {
+    "class_id": 1880,
+    "grade": "준1"
+  },
+  "照": {
+    "class_id": 1881,
+    "grade": "준2"
+  },
+  "煩": {
+    "class_id": 1882,
+    "grade": "2"
+  },
+  "煮": {
+    "class_id": 1883,
+    "grade": "1"
+  },
+  "煽": {
+    "class_id": 1884,
+    "grade": "1"
+  },
+  "熄": {
+    "class_id": 1885,
+    "grade": "1"
+  },
+  "熊": {
+    "class_id": 1886,
+    "grade": "준1"
+  },
+  "熏": {
+    "class_id": 1887,
+    "grade": "준1"
+  },
+  "熒": {
+    "class_id": 1888,
+    "grade": "1"
+  },
+  "熙": {
+    "class_id": 1889,
+    "grade": "2"
+  },
+  "熟": {
+    "class_id": 1890,
+    "grade": "준2"
+  },
+  "熱": {
+    "class_id": 1891,
+    "grade": "4"
+  },
+  "熲": {
+    "class_id": 1892,
+    "grade": "1"
+  },
+  "熹": {
+    "class_id": 1893,
+    "grade": "준1"
+  },
+  "熾": {
+    "class_id": 1894,
+    "grade": "1"
+  },
+  "燁": {
+    "class_id": 1895,
+    "grade": "준1"
+  },
+  "燃": {
+    "class_id": 1896,
+    "grade": "준2"
+  },
+  "燈": {
+    "class_id": 1897,
+    "grade": "준3"
+  },
+  "燉": {
+    "class_id": 1898,
+    "grade": "준1"
+  },
+  "燒": {
+    "class_id": 1899,
+    "grade": "2"
+  },
+  "燕": {
+    "class_id": 1900,
+    "grade": "2"
+  },
+  "營": {
+    "class_id": 1901,
+    "grade": "준3"
+  },
+  "燥": {
+    "class_id": 1902,
+    "grade": "2"
+  },
+  "燦": {
+    "class_id": 1903,
+    "grade": "준1"
+  },
+  "燭": {
+    "class_id": 1904,
+    "grade": "2"
+  },
+  "燮": {
+    "class_id": 1905,
+    "grade": "준1"
+  },
+  "燻": {
+    "class_id": 1906,
+    "grade": "1"
+  },
+  "燾": {
+    "class_id": 1907,
+    "grade": "준1"
+  },
+  "爀": {
+    "class_id": 1908,
+    "grade": "준1"
+  },
+  "爆": {
+    "class_id": 1909,
+    "grade": "준2"
+  },
+  "爐": {
+    "class_id": 1910,
+    "grade": "2"
+  },
+  "爔": {
+    "class_id": 1911,
+    "grade": "1"
+  },
+  "爛": {
+    "class_id": 1912,
+    "grade": "2"
+  },
+  "爪": {
+    "class_id": 1913,
+    "grade": "준1"
+  },
+  "爭": {
+    "class_id": 1914,
+    "grade": "4"
+  },
+  "爲": {
+    "class_id": 1915,
+    "grade": "4"
+  },
+  "爵": {
+    "class_id": 1916,
+    "grade": "2"
+  },
+  "父": {
+    "class_id": 1917,
+    "grade": "8"
+  },
+  "爺": {
+    "class_id": 1918,
+    "grade": "1"
+  },
+  "爽": {
+    "class_id": 1919,
+    "grade": "1"
+  },
+  "爾": {
+    "class_id": 1920,
+    "grade": "1"
+  },
+  "片": {
+    "class_id": 1921,
+    "grade": "준3"
+  },
+  "版": {
+    "class_id": 1922,
+    "grade": "준2"
+  },
+  "牋": {
+    "class_id": 1923,
+    "grade": "1"
+  },
+  "牌": {
+    "class_id": 1924,
+    "grade": "준1"
+  },
+  "牒": {
+    "class_id": 1925,
+    "grade": "1"
+  },
+  "牙": {
+    "class_id": 1926,
+    "grade": "준2"
+  },
+  "牛": {
+    "class_id": 1927,
+    "grade": "6"
+  },
+  "牝": {
+    "class_id": 1928,
+    "grade": "1"
+  },
+  "牟": {
+    "class_id": 1929,
+    "grade": "준1"
+  },
+  "牡": {
+    "class_id": 1930,
+    "grade": "준1"
+  },
+  "牧": {
+    "class_id": 1931,
+    "grade": "4"
+  },
+  "物": {
+    "class_id": 1932,
+    "grade": "5"
+  },
+  "牲": {
+    "class_id": 1933,
+    "grade": "준1"
+  },
+  "特": {
+    "class_id": 1934,
+    "grade": "준4"
+  },
+  "牽": {
+    "class_id": 1935,
+    "grade": "2"
+  },
+  "犢": {
+    "class_id": 1936,
+    "grade": "1"
+  },
+  "犧": {
+    "class_id": 1937,
+    "grade": "준1"
+  },
+  "犬": {
+    "class_id": 1938,
+    "grade": "6"
+  },
+  "犯": {
+    "class_id": 1939,
+    "grade": "3"
+  },
+  "狀": {
+    "class_id": 1940,
+    "grade": "준3"
+  },
+  "狂": {
+    "class_id": 1941,
+    "grade": "2"
+  },
+  "狐": {
+    "class_id": 1942,
+    "grade": "1"
+  },
+  "狗": {
+    "class_id": 1943,
+    "grade": "2"
+  },
+  "狡": {
+    "class_id": 1944,
+    "grade": "2"
+  },
+  "狩": {
+    "class_id": 1945,
+    "grade": "1"
+  },
+  "狹": {
+    "class_id": 1946,
+    "grade": "준1"
+  },
+  "狼": {
+    "class_id": 1947,
+    "grade": "1"
+  },
+  "猛": {
+    "class_id": 1948,
+    "grade": "2"
+  },
+  "猜": {
+    "class_id": 1949,
+    "grade": "준1"
+  },
+  "猥": {
+    "class_id": 1950,
+    "grade": "1"
+  },
+  "猫": {
+    "class_id": 1951,
+    "grade": "1"
+  },
+  "猶": {
+    "class_id": 1952,
+    "grade": "3"
+  },
+  "猷": {
+    "class_id": 1953,
+    "grade": "1"
+  },
+  "猾": {
+    "class_id": 1954,
+    "grade": "준1"
+  },
+  "猿": {
+    "class_id": 1955,
+    "grade": "1"
+  },
+  "獄": {
+    "class_id": 1956,
+    "grade": "2"
+  },
+  "獅": {
+    "class_id": 1957,
+    "grade": "1"
+  },
+  "獎": {
+    "class_id": 1958,
+    "grade": "준2"
+  },
+  "獨": {
+    "class_id": 1959,
+    "grade": "4"
+  },
+  "獲": {
+    "class_id": 1960,
+    "grade": "2"
+  },
+  "獵": {
+    "class_id": 1961,
+    "grade": "2"
+  },
+  "獸": {
+    "class_id": 1962,
+    "grade": "2"
+  },
+  "獻": {
+    "class_id": 1963,
+    "grade": "준2"
+  },
+  "玄": {
+    "class_id": 1964,
+    "grade": "2"
+  },
+  "玆": {
+    "class_id": 1965,
+    "grade": "2"
+  },
+  "率": {
+    "class_id": 1966,
+    "grade": "준2"
+  },
+  "玉": {
+    "class_id": 1967,
+    "grade": "6"
+  },
+  "王": {
+    "class_id": 1968,
+    "grade": "준5"
+  },
+  "玎": {
+    "class_id": 1969,
+    "grade": "1"
+  },
+  "玕": {
+    "class_id": 1970,
+    "grade": "1"
+  },
+  "玖": {
+    "class_id": 1971,
+    "grade": "준1"
+  },
+  "玗": {
+    "class_id": 1972,
+    "grade": "1"
+  },
+  "玘": {
+    "class_id": 1973,
+    "grade": "1"
+  },
+  "玟": {
+    "class_id": 1974,
+    "grade": "준1"
+  },
+  "玧": {
+    "class_id": 1975,
+    "grade": "1"
+  },
+  "玩": {
+    "class_id": 1976,
+    "grade": "1"
+  },
+  "玲": {
+    "class_id": 1977,
+    "grade": "준1"
+  },
+  "玳": {
+    "class_id": 1978,
+    "grade": "1"
+  },
+  "玹": {
+    "class_id": 1979,
+    "grade": "1"
+  },
+  "玿": {
+    "class_id": 1980,
+    "grade": "1"
+  },
+  "珀": {
+    "class_id": 1981,
+    "grade": "1"
+  },
+  "珉": {
+    "class_id": 1982,
+    "grade": "준1"
+  },
+  "珊": {
+    "class_id": 1983,
+    "grade": "1"
+  },
+  "珌": {
+    "class_id": 1984,
+    "grade": "1"
+  },
+  "珍": {
+    "class_id": 1985,
+    "grade": "준2"
+  },
+  "珏": {
+    "class_id": 1986,
+    "grade": "준1"
+  },
+  "珖": {
+    "class_id": 1987,
+    "grade": "1"
+  },
+  "珗": {
+    "class_id": 1988,
+    "grade": "1"
+  },
+  "珙": {
+    "class_id": 1989,
+    "grade": "1"
+  },
+  "珞": {
+    "class_id": 1990,
+    "grade": "1"
+  },
+  "珠": {
+    "class_id": 1991,
+    "grade": "2"
+  },
+  "珣": {
+    "class_id": 1992,
+    "grade": "준1"
+  },
+  "珥": {
+    "class_id": 1993,
+    "grade": "준1"
+  },
+  "珦": {
+    "class_id": 1994,
+    "grade": "1"
+  },
+  "珩": {
+    "class_id": 1995,
+    "grade": "1"
+  },
+  "珪": {
+    "class_id": 1996,
+    "grade": "준1"
+  },
+  "珫": {
+    "class_id": 1997,
+    "grade": "1"
+  },
+  "班": {
+    "class_id": 1998,
+    "grade": "5"
+  },
+  "珵": {
+    "class_id": 1999,
+    "grade": "1"
+  },
+  "珷": {
+    "class_id": 2000,
+    "grade": "1"
+  },
+  "珸": {
+    "class_id": 2001,
+    "grade": "1"
+  },
+  "珹": {
+    "class_id": 2002,
+    "grade": "1"
+  },
+  "珽": {
+    "class_id": 2003,
+    "grade": "준1"
+  },
+  "現": {
+    "class_id": 2004,
+    "grade": "준4"
+  },
+  "琁": {
+    "class_id": 2005,
+    "grade": "1"
+  },
+  "球": {
+    "class_id": 2006,
+    "grade": "준4"
+  },
+  "琅": {
+    "class_id": 2007,
+    "grade": "1"
+  },
+  "理": {
+    "class_id": 2008,
+    "grade": "5"
+  },
+  "琇": {
+    "class_id": 2009,
+    "grade": "1"
+  },
+  "琉": {
+    "class_id": 2010,
+    "grade": "1"
+  },
+  "琛": {
+    "class_id": 2011,
+    "grade": "1"
+  },
+  "琠": {
+    "class_id": 2012,
+    "grade": "1"
+  },
+  "琡": {
+    "class_id": 2013,
+    "grade": "1"
+  },
+  "琢": {
+    "class_id": 2014,
+    "grade": "2"
+  },
+  "琥": {
+    "class_id": 2015,
+    "grade": "1"
+  },
+  "琦": {
+    "class_id": 2016,
+    "grade": "준1"
+  },
+  "琨": {
+    "class_id": 2017,
+    "grade": "1"
+  },
+  "琪": {
+    "class_id": 2018,
+    "grade": "준1"
+  },
+  "琫": {
+    "class_id": 2019,
+    "grade": "1"
+  },
+  "琬": {
+    "class_id": 2020,
+    "grade": "1"
+  },
+  "琮": {
+    "class_id": 2021,
+    "grade": "준1"
+  },
+  "琯": {
+    "class_id": 2022,
+    "grade": "1"
+  },
+  "琰": {
+    "class_id": 2023,
+    "grade": "1"
+  },
+  "琳": {
+    "class_id": 2024,
+    "grade": "1"
+  },
+  "琴": {
+    "class_id": 2025,
+    "grade": "준2"
+  },
+  "琵": {
+    "class_id": 2026,
+    "grade": "1"
+  },
+  "琶": {
+    "class_id": 2027,
+    "grade": "1"
+  },
+  "琸": {
+    "class_id": 2028,
+    "grade": "1"
+  },
+  "瑀": {
+    "class_id": 2029,
+    "grade": "1"
+  },
+  "瑃": {
+    "class_id": 2030,
+    "grade": "1"
+  },
+  "瑄": {
+    "class_id": 2031,
+    "grade": "준1"
+  },
+  "瑅": {
+    "class_id": 2032,
+    "grade": "1"
+  },
+  "瑆": {
+    "class_id": 2033,
+    "grade": "1"
+  },
+  "瑋": {
+    "class_id": 2034,
+    "grade": "1"
+  },
+  "瑕": {
+    "class_id": 2035,
+    "grade": "준1"
+  },
+  "瑗": {
+    "class_id": 2036,
+    "grade": "준1"
+  },
+  "瑚": {
+    "class_id": 2037,
+    "grade": "1"
+  },
+  "瑛": {
+    "class_id": 2038,
+    "grade": "준1"
+  },
+  "瑜": {
+    "class_id": 2039,
+    "grade": "1"
+  },
+  "瑞": {
+    "class_id": 2040,
+    "grade": "2"
+  },
+  "瑟": {
+    "class_id": 2041,
+    "grade": "준1"
+  },
+  "瑢": {
+    "class_id": 2042,
+    "grade": "준1"
+  },
+  "瑤": {
+    "class_id": 2043,
+    "grade": "1"
+  },
+  "瑥": {
+    "class_id": 2044,
+    "grade": "1"
+  },
+  "瑨": {
+    "class_id": 2045,
+    "grade": "1"
+  },
+  "瑩": {
+    "class_id": 2046,
+    "grade": "준1"
+  },
+  "瑪": {
+    "class_id": 2047,
+    "grade": "1"
+  },
+  "瑱": {
+    "class_id": 2048,
+    "grade": "1"
+  },
+  "瑳": {
+    "class_id": 2049,
+    "grade": "1"
+  },
+  "瑾": {
+    "class_id": 2050,
+    "grade": "준1"
+  },
+  "璂": {
+    "class_id": 2051,
+    "grade": "1"
+  },
+  "璃": {
+    "class_id": 2052,
+    "grade": "1"
+  },
+  "璇": {
+    "class_id": 2053,
+    "grade": "준1"
+  },
+  "璉": {
+    "class_id": 2054,
+    "grade": "1"
+  },
+  "璋": {
+    "class_id": 2055,
+    "grade": "준1"
+  },
+  "璘": {
+    "class_id": 2056,
+    "grade": "1"
+  },
+  "璜": {
+    "class_id": 2057,
+    "grade": "1"
+  },
+  "璞": {
+    "class_id": 2058,
+    "grade": "1"
+  },
+  "璟": {
+    "class_id": 2059,
+    "grade": "준1"
+  },
+  "璣": {
+    "class_id": 2060,
+    "grade": "준1"
+  },
+  "璧": {
+    "class_id": 2061,
+    "grade": "1"
+  },
+  "璨": {
+    "class_id": 2062,
+    "grade": "준1"
+  },
+  "環": {
+    "class_id": 2063,
+    "grade": "준2"
+  },
+  "璱": {
+    "class_id": 2064,
+    "grade": "1"
+  },
+  "璹": {
+    "class_id": 2065,
+    "grade": "1"
+  },
+  "璽": {
+    "class_id": 2066,
+    "grade": "1"
+  },
+  "璿": {
+    "class_id": 2067,
+    "grade": "준1"
+  },
+  "瓆": {
+    "class_id": 2068,
+    "grade": "1"
+  },
+  "瓊": {
+    "class_id": 2069,
+    "grade": "준1"
+  },
+  "瓏": {
+    "class_id": 2070,
+    "grade": "1"
+  },
+  "瓓": {
+    "class_id": 2071,
+    "grade": "1"
+  },
+  "瓔": {
+    "class_id": 2072,
+    "grade": "1"
+  },
+  "瓘": {
+    "class_id": 2073,
+    "grade": "1"
+  },
+  "瓚": {
+    "class_id": 2074,
+    "grade": "준1"
+  },
+  "瓜": {
+    "class_id": 2075,
+    "grade": "준2"
+  },
+  "瓦": {
+    "class_id": 2076,
+    "grade": "3"
+  },
+  "瓷": {
+    "class_id": 2077,
+    "grade": "1"
+  },
+  "甁": {
+    "class_id": 2078,
+    "grade": "1"
+  },
+  "甄": {
+    "class_id": 2079,
+    "grade": "준1"
+  },
+  "甕": {
+    "class_id": 2080,
+    "grade": "준1"
+  },
+  "甘": {
+    "class_id": 2081,
+    "grade": "4"
+  },
+  "甚": {
+    "class_id": 2082,
+    "grade": "3"
+  },
+  "生": {
+    "class_id": 2083,
+    "grade": "6"
+  },
+  "産": {
+    "class_id": 2084,
+    "grade": "4"
+  },
+  "甥": {
+    "class_id": 2085,
+    "grade": "준1"
+  },
+  "用": {
+    "class_id": 2086,
+    "grade": "5"
+  },
+  "甫": {
+    "class_id": 2087,
+    "grade": "준1"
+  },
+  "田": {
+    "class_id": 2088,
+    "grade": "5"
+  },
+  "由": {
+    "class_id": 2089,
+    "grade": "준4"
+  },
+  "甲": {
+    "class_id": 2090,
+    "grade": "준3"
+  },
+  "申": {
+    "class_id": 2091,
+    "grade": "준3"
+  },
+  "男": {
+    "class_id": 2092,
+    "grade": "8"
+  },
+  "甸": {
+    "class_id": 2093,
+    "grade": "준1"
+  },
+  "町": {
+    "class_id": 2094,
+    "grade": "1"
+  },
+  "畇": {
+    "class_id": 2095,
+    "grade": "1"
+  },
+  "界": {
+    "class_id": 2096,
+    "grade": "준4"
+  },
+  "畏": {
+    "class_id": 2097,
+    "grade": "2"
+  },
+  "畓": {
+    "class_id": 2098,
+    "grade": "준2"
+  },
+  "畔": {
+    "class_id": 2099,
+    "grade": "1"
+  },
+  "留": {
+    "class_id": 2100,
+    "grade": "3"
+  },
+  "畜": {
+    "class_id": 2101,
+    "grade": "준2"
+  },
+  "畝": {
+    "class_id": 2102,
+    "grade": "1"
+  },
+  "畢": {
+    "class_id": 2103,
+    "grade": "준2"
+  },
+  "略": {
+    "class_id": 2104,
+    "grade": "준3"
+  },
+  "番": {
+    "class_id": 2105,
+    "grade": "5"
+  },
+  "畫": {
+    "class_id": 2106,
+    "grade": "준4"
+  },
+  "畯": {
+    "class_id": 2107,
+    "grade": "1"
+  },
+  "異": {
+    "class_id": 2108,
+    "grade": "준3"
+  },
+  "當": {
+    "class_id": 2109,
+    "grade": "5"
+  },
+  "畿": {
+    "class_id": 2110,
+    "grade": "준2"
+  },
+  "疆": {
+    "class_id": 2111,
+    "grade": "준1"
+  },
+  "疇": {
+    "class_id": 2112,
+    "grade": "준1"
+  },
+  "疏": {
+    "class_id": 2113,
+    "grade": "2"
+  },
+  "疑": {
+    "class_id": 2114,
+    "grade": "준2"
+  },
+  "疥": {
+    "class_id": 2115,
+    "grade": "1"
+  },
+  "疫": {
+    "class_id": 2116,
+    "grade": "2"
+  },
+  "疲": {
+    "class_id": 2117,
+    "grade": "3"
+  },
+  "疵": {
+    "class_id": 2118,
+    "grade": "준1"
+  },
+  "疸": {
+    "class_id": 2119,
+    "grade": "1"
+  },
+  "疼": {
+    "class_id": 2120,
+    "grade": "1"
+  },
+  "疾": {
+    "class_id": 2121,
+    "grade": "2"
+  },
+  "病": {
+    "class_id": 2122,
+    "grade": "준4"
+  },
+  "症": {
+    "class_id": 2123,
+    "grade": "준2"
+  },
+  "痕": {
+    "class_id": 2124,
+    "grade": "2"
+  },
+  "痘": {
+    "class_id": 2125,
+    "grade": "1"
+  },
+  "痙": {
+    "class_id": 2126,
+    "grade": "1"
+  },
+  "痛": {
+    "class_id": 2127,
+    "grade": "3"
+  },
+  "痢": {
+    "class_id": 2128,
+    "grade": "1"
+  },
+  "痰": {
+    "class_id": 2129,
+    "grade": "1"
+  },
+  "痲": {
+    "class_id": 2130,
+    "grade": "준1"
+  },
+  "痹": {
+    "class_id": 2131,
+    "grade": "1"
+  },
+  "痼": {
+    "class_id": 2132,
+    "grade": "준1"
+  },
+  "瘍": {
+    "class_id": 2133,
+    "grade": "1"
+  },
+  "瘠": {
+    "class_id": 2134,
+    "grade": "1"
+  },
+  "瘡": {
+    "class_id": 2135,
+    "grade": "1"
+  },
+  "瘦": {
+    "class_id": 2136,
+    "grade": "1"
+  },
+  "療": {
+    "class_id": 2137,
+    "grade": "2"
+  },
+  "癌": {
+    "class_id": 2138,
+    "grade": "2"
+  },
+  "癒": {
+    "class_id": 2139,
+    "grade": "준1"
+  },
+  "癡": {
+    "class_id": 2140,
+    "grade": "1"
+  },
+  "癸": {
+    "class_id": 2141,
+    "grade": "준3"
+  },
+  "登": {
+    "class_id": 2142,
+    "grade": "5"
+  },
+  "發": {
+    "class_id": 2143,
+    "grade": "준4"
+  },
+  "白": {
+    "class_id": 2144,
+    "grade": "7"
+  },
+  "百": {
+    "class_id": 2145,
+    "grade": "6"
+  },
+  "的": {
+    "class_id": 2146,
+    "grade": "준4"
+  },
+  "皆": {
+    "class_id": 2147,
+    "grade": "3"
+  },
+  "皇": {
+    "class_id": 2148,
+    "grade": "3"
+  },
+  "皐": {
+    "class_id": 2149,
+    "grade": "준1"
+  },
+  "皓": {
+    "class_id": 2150,
+    "grade": "준1"
+  },
+  "皮": {
+    "class_id": 2151,
+    "grade": "3"
+  },
+  "盆": {
+    "class_id": 2152,
+    "grade": "준1"
+  },
+  "盈": {
+    "class_id": 2153,
+    "grade": "준1"
+  },
+  "益": {
+    "class_id": 2154,
+    "grade": "준3"
+  },
+  "盛": {
+    "class_id": 2155,
+    "grade": "4"
+  },
+  "盜": {
+    "class_id": 2156,
+    "grade": "준2"
+  },
+  "盞": {
+    "class_id": 2157,
+    "grade": "준1"
+  },
+  "盟": {
+    "class_id": 2158,
+    "grade": "준2"
+  },
+  "盡": {
+    "class_id": 2159,
+    "grade": "3"
+  },
+  "監": {
+    "class_id": 2160,
+    "grade": "4"
+  },
+  "盤": {
+    "class_id": 2161,
+    "grade": "2"
+  },
+  "盧": {
+    "class_id": 2162,
+    "grade": "준1"
+  },
+  "目": {
+    "class_id": 2163,
+    "grade": "7"
+  },
+  "盲": {
+    "class_id": 2164,
+    "grade": "준2"
+  },
+  "直": {
+    "class_id": 2165,
+    "grade": "5"
+  },
+  "相": {
+    "class_id": 2166,
+    "grade": "준4"
+  },
+  "盾": {
+    "class_id": 2167,
+    "grade": "준2"
+  },
+  "省": {
+    "class_id": 2168,
+    "grade": "준4"
+  },
+  "眈": {
+    "class_id": 2169,
+    "grade": "준1"
+  },
+  "眉": {
+    "class_id": 2170,
+    "grade": "2"
+  },
+  "看": {
+    "class_id": 2171,
+    "grade": "준3"
+  },
+  "眞": {
+    "class_id": 2172,
+    "grade": "4"
+  },
+  "眠": {
+    "class_id": 2173,
+    "grade": "3"
+  },
+  "眩": {
+    "class_id": 2174,
+    "grade": "1"
+  },
+  "眷": {
+    "class_id": 2175,
+    "grade": "준1"
+  },
+  "眺": {
+    "class_id": 2176,
+    "grade": "1"
+  },
+  "眼": {
+    "class_id": 2177,
+    "grade": "4"
+  },
+  "着": {
+    "class_id": 2178,
+    "grade": "4"
+  },
+  "睡": {
+    "class_id": 2179,
+    "grade": "2"
+  },
+  "督": {
+    "class_id": 2180,
+    "grade": "준2"
+  },
+  "睦": {
+    "class_id": 2181,
+    "grade": "준2"
+  },
+  "睾": {
+    "class_id": 2182,
+    "grade": "1"
+  },
+  "瞞": {
+    "class_id": 2183,
+    "grade": "준1"
+  },
+  "瞬": {
+    "class_id": 2184,
+    "grade": "2"
+  },
+  "瞭": {
+    "class_id": 2185,
+    "grade": "1"
+  },
+  "瞰": {
+    "class_id": 2186,
+    "grade": "1"
+  },
+  "瞳": {
+    "class_id": 2187,
+    "grade": "1"
+  },
+  "瞻": {
+    "class_id": 2188,
+    "grade": "준1"
+  },
+  "瞽": {
+    "class_id": 2189,
+    "grade": "1"
+  },
+  "矛": {
+    "class_id": 2190,
+    "grade": "준2"
+  },
+  "矜": {
+    "class_id": 2191,
+    "grade": "준1"
+  },
+  "矢": {
+    "class_id": 2192,
+    "grade": "준2"
+  },
+  "矣": {
+    "class_id": 2193,
+    "grade": "3"
+  },
+  "知": {
+    "class_id": 2194,
+    "grade": "준4"
+  },
+  "矩": {
+    "class_id": 2195,
+    "grade": "준1"
+  },
+  "短": {
+    "class_id": 2196,
+    "grade": "5"
+  },
+  "矯": {
+    "class_id": 2197,
+    "grade": "준2"
+  },
+  "石": {
+    "class_id": 2198,
+    "grade": "6"
+  },
+  "砲": {
+    "class_id": 2199,
+    "grade": "준2"
+  },
+  "破": {
+    "class_id": 2200,
+    "grade": "준3"
+  },
+  "硏": {
+    "class_id": 2201,
+    "grade": "준3"
+  },
+  "硫": {
+    "class_id": 2202,
+    "grade": "1"
+  },
+  "硬": {
+    "class_id": 2203,
+    "grade": "준2"
+  },
+  "硯": {
+    "class_id": 2204,
+    "grade": "3"
+  },
+  "碇": {
+    "class_id": 2205,
+    "grade": "1"
+  },
+  "碍": {
+    "class_id": 2206,
+    "grade": "2"
+  },
+  "碎": {
+    "class_id": 2207,
+    "grade": "준1"
+  },
+  "碑": {
+    "class_id": 2208,
+    "grade": "준2"
+  },
+  "碣": {
+    "class_id": 2209,
+    "grade": "1"
+  },
+  "碧": {
+    "class_id": 2210,
+    "grade": "2"
+  },
+  "碩": {
+    "class_id": 2211,
+    "grade": "2"
+  },
+  "確": {
+    "class_id": 2212,
+    "grade": "준2"
+  },
+  "磁": {
+    "class_id": 2213,
+    "grade": "2"
+  },
+  "磋": {
+    "class_id": 2214,
+    "grade": "1"
+  },
+  "磐": {
+    "class_id": 2215,
+    "grade": "1"
+  },
+  "磨": {
+    "class_id": 2216,
+    "grade": "2"
+  },
+  "磯": {
+    "class_id": 2217,
+    "grade": "1"
+  },
+  "磻": {
+    "class_id": 2218,
+    "grade": "준1"
+  },
+  "礎": {
+    "class_id": 2219,
+    "grade": "준2"
+  },
+  "礪": {
+    "class_id": 2220,
+    "grade": "준1"
+  },
+  "示": {
+    "class_id": 2221,
+    "grade": "5"
+  },
+  "社": {
+    "class_id": 2222,
+    "grade": "5"
+  },
+  "祀": {
+    "class_id": 2223,
+    "grade": "준2"
+  },
+  "祈": {
+    "class_id": 2224,
+    "grade": "준2"
+  },
+  "祉": {
+    "class_id": 2225,
+    "grade": "준1"
+  },
+  "祐": {
+    "class_id": 2226,
+    "grade": "준1"
+  },
+  "祖": {
+    "class_id": 2227,
+    "grade": "5"
+  },
+  "祗": {
+    "class_id": 2228,
+    "grade": "1"
+  },
+  "祚": {
+    "class_id": 2229,
+    "grade": "준1"
+  },
+  "祜": {
+    "class_id": 2230,
+    "grade": "준1"
+  },
+  "祝": {
+    "class_id": 2231,
+    "grade": "4"
+  },
+  "神": {
+    "class_id": 2232,
+    "grade": "5"
+  },
+  "祠": {
+    "class_id": 2233,
+    "grade": "준1"
+  },
+  "祥": {
+    "class_id": 2234,
+    "grade": "준2"
+  },
+  "票": {
+    "class_id": 2235,
+    "grade": "준3"
+  },
+  "祭": {
+    "class_id": 2236,
+    "grade": "4"
+  },
+  "祺": {
+    "class_id": 2237,
+    "grade": "1"
+  },
+  "祿": {
+    "class_id": 2238,
+    "grade": "2"
+  },
+  "禁": {
+    "class_id": 2239,
+    "grade": "준3"
+  },
+  "禍": {
+    "class_id": 2240,
+    "grade": "준2"
+  },
+  "禎": {
+    "class_id": 2241,
+    "grade": "준1"
+  },
+  "福": {
+    "class_id": 2242,
+    "grade": "준4"
+  },
+  "禛": {
+    "class_id": 2243,
+    "grade": "1"
+  },
+  "禦": {
+    "class_id": 2244,
+    "grade": "준1"
+  },
+  "禧": {
+    "class_id": 2245,
+    "grade": "준1"
+  },
+  "禪": {
+    "class_id": 2246,
+    "grade": "2"
+  },
+  "禮": {
+    "class_id": 2247,
+    "grade": "준4"
+  },
+  "禱": {
+    "class_id": 2248,
+    "grade": "준2"
+  },
+  "禹": {
+    "class_id": 2249,
+    "grade": "2"
+  },
+  "离": {
+    "class_id": 2250,
+    "grade": "1"
+  },
+  "禽": {
+    "class_id": 2251,
+    "grade": "준2"
+  },
+  "禾": {
+    "class_id": 2252,
+    "grade": "준2"
+  },
+  "秀": {
+    "class_id": 2253,
+    "grade": "3"
+  },
+  "私": {
+    "class_id": 2254,
+    "grade": "3"
+  },
+  "秉": {
+    "class_id": 2255,
+    "grade": "준1"
+  },
+  "秋": {
+    "class_id": 2256,
+    "grade": "5"
+  },
+  "科": {
+    "class_id": 2257,
+    "grade": "5"
+  },
+  "秒": {
+    "class_id": 2258,
+    "grade": "준1"
+  },
+  "秘": {
+    "class_id": 2259,
+    "grade": "3"
+  },
+  "秞": {
+    "class_id": 2260,
+    "grade": "1"
+  },
+  "租": {
+    "class_id": 2261,
+    "grade": "준2"
+  },
+  "秤": {
+    "class_id": 2262,
+    "grade": "1"
+  },
+  "秦": {
+    "class_id": 2263,
+    "grade": "준1"
+  },
+  "秩": {
+    "class_id": 2264,
+    "grade": "준2"
+  },
+  "移": {
+    "class_id": 2265,
+    "grade": "4"
+  },
+  "稀": {
+    "class_id": 2266,
+    "grade": "2"
+  },
+  "稅": {
+    "class_id": 2267,
+    "grade": "준3"
+  },
+  "程": {
+    "class_id": 2268,
+    "grade": "준2"
+  },
+  "稔": {
+    "class_id": 2269,
+    "grade": "1"
+  },
+  "稙": {
+    "class_id": 2270,
+    "grade": "준1"
+  },
+  "稚": {
+    "class_id": 2271,
+    "grade": "준2"
+  },
+  "稟": {
+    "class_id": 2272,
+    "grade": "1"
+  },
+  "種": {
+    "class_id": 2273,
+    "grade": "4"
+  },
+  "稱": {
+    "class_id": 2274,
+    "grade": "준2"
+  },
+  "稷": {
+    "class_id": 2275,
+    "grade": "준1"
+  },
+  "稻": {
+    "class_id": 2276,
+    "grade": "준2"
+  },
+  "稼": {
+    "class_id": 2277,
+    "grade": "1"
+  },
+  "稽": {
+    "class_id": 2278,
+    "grade": "1"
+  },
+  "稿": {
+    "class_id": 2279,
+    "grade": "준2"
+  },
+  "穀": {
+    "class_id": 2280,
+    "grade": "3"
+  },
+  "穆": {
+    "class_id": 2281,
+    "grade": "준1"
+  },
+  "積": {
+    "class_id": 2282,
+    "grade": "3"
+  },
+  "穎": {
+    "class_id": 2283,
+    "grade": "1"
+  },
+  "穗": {
+    "class_id": 2284,
+    "grade": "1"
+  },
+  "穡": {
+    "class_id": 2285,
+    "grade": "1"
+  },
+  "穩": {
+    "class_id": 2286,
+    "grade": "1"
+  },
+  "穫": {
+    "class_id": 2287,
+    "grade": "2"
+  },
+  "穴": {
+    "class_id": 2288,
+    "grade": "2"
+  },
+  "究": {
+    "class_id": 2289,
+    "grade": "준3"
+  },
+  "空": {
+    "class_id": 2290,
+    "grade": "5"
+  },
+  "穽": {
+    "class_id": 2291,
+    "grade": "2"
+  },
+  "突": {
+    "class_id": 2292,
+    "grade": "준2"
+  },
+  "窈": {
+    "class_id": 2293,
+    "grade": "1"
+  },
+  "窒": {
+    "class_id": 2294,
+    "grade": "준1"
+  },
+  "窓": {
+    "class_id": 2295,
+    "grade": "준4"
+  },
+  "窕": {
+    "class_id": 2296,
+    "grade": "1"
+  },
+  "窟": {
+    "class_id": 2297,
+    "grade": "2"
+  },
+  "窮": {
+    "class_id": 2298,
+    "grade": "3"
+  },
+  "窯": {
+    "class_id": 2299,
+    "grade": "1"
+  },
+  "窺": {
+    "class_id": 2300,
+    "grade": "1"
+  },
+  "竊": {
+    "class_id": 2301,
+    "grade": "2"
+  },
+  "立": {
+    "class_id": 2302,
+    "grade": "준5"
+  },
+  "竝": {
+    "class_id": 2303,
+    "grade": "준2"
+  },
+  "竟": {
+    "class_id": 2304,
+    "grade": "준2"
+  },
+  "章": {
+    "class_id": 2305,
+    "grade": "준4"
+  },
+  "竣": {
+    "class_id": 2306,
+    "grade": "1"
+  },
+  "童": {
+    "class_id": 2307,
+    "grade": "준4"
+  },
+  "竪": {
+    "class_id": 2308,
+    "grade": "1"
+  },
+  "竭": {
+    "class_id": 2309,
+    "grade": "1"
+  },
+  "端": {
+    "class_id": 2310,
+    "grade": "4"
+  },
+  "競": {
+    "class_id": 2311,
+    "grade": "4"
+  },
+  "竹": {
+    "class_id": 2312,
+    "grade": "5"
+  },
+  "竿": {
+    "class_id": 2313,
+    "grade": "준1"
+  },
+  "笑": {
+    "class_id": 2314,
+    "grade": "준3"
+  },
+  "笙": {
+    "class_id": 2315,
+    "grade": "1"
+  },
+  "笛": {
+    "class_id": 2316,
+    "grade": "2"
+  },
+  "笠": {
+    "class_id": 2317,
+    "grade": "1"
+  },
+  "符": {
+    "class_id": 2318,
+    "grade": "2"
+  },
+  "第": {
+    "class_id": 2319,
+    "grade": "준4"
+  },
+  "笵": {
+    "class_id": 2320,
+    "grade": "준1"
+  },
+  "筆": {
+    "class_id": 2321,
+    "grade": "4"
+  },
+  "等": {
+    "class_id": 2322,
+    "grade": "5"
+  },
+  "筋": {
+    "class_id": 2323,
+    "grade": "준2"
+  },
+  "筍": {
+    "class_id": 2324,
+    "grade": "준1"
+  },
+  "筏": {
+    "class_id": 2325,
+    "grade": "준1"
+  },
+  "筒": {
+    "class_id": 2326,
+    "grade": "1"
+  },
+  "答": {
+    "class_id": 2327,
+    "grade": "5"
+  },
+  "策": {
+    "class_id": 2328,
+    "grade": "준2"
+  },
+  "筵": {
+    "class_id": 2329,
+    "grade": "1"
+  },
+  "箇": {
+    "class_id": 2330,
+    "grade": "준1"
+  },
+  "箕": {
+    "class_id": 2331,
+    "grade": "준1"
+  },
+  "算": {
+    "class_id": 2332,
+    "grade": "준4"
+  },
+  "管": {
+    "class_id": 2333,
+    "grade": "준2"
+  },
+  "箱": {
+    "class_id": 2334,
+    "grade": "2"
+  },
+  "箴": {
+    "class_id": 2335,
+    "grade": "1"
+  },
+  "箸": {
+    "class_id": 2336,
+    "grade": "준1"
+  },
+  "節": {
+    "class_id": 2337,
+    "grade": "4"
+  },
+  "範": {
+    "class_id": 2338,
+    "grade": "준2"
+  },
+  "篇": {
+    "class_id": 2339,
+    "grade": "3"
+  },
+  "築": {
+    "class_id": 2340,
+    "grade": "준2"
+  },
+  "篤": {
+    "class_id": 2341,
+    "grade": "2"
+  },
+  "簡": {
+    "class_id": 2342,
+    "grade": "준2"
+  },
+  "簧": {
+    "class_id": 2343,
+    "grade": "1"
+  },
+  "簾": {
+    "class_id": 2344,
+    "grade": "1"
+  },
+  "簿": {
+    "class_id": 2345,
+    "grade": "2"
+  },
+  "籃": {
+    "class_id": 2346,
+    "grade": "1"
+  },
+  "籍": {
+    "class_id": 2347,
+    "grade": "준2"
+  },
+  "籠": {
+    "class_id": 2348,
+    "grade": "2"
+  },
+  "籤": {
+    "class_id": 2349,
+    "grade": "1"
+  },
+  "籬": {
+    "class_id": 2350,
+    "grade": "1"
+  },
+  "米": {
+    "class_id": 2351,
+    "grade": "5"
+  },
+  "粉": {
+    "class_id": 2352,
+    "grade": "준2"
+  },
+  "粒": {
+    "class_id": 2353,
+    "grade": "준1"
+  },
+  "粘": {
+    "class_id": 2354,
+    "grade": "1"
+  },
+  "粟": {
+    "class_id": 2355,
+    "grade": "2"
+  },
+  "粧": {
+    "class_id": 2356,
+    "grade": "2"
+  },
+  "粲": {
+    "class_id": 2357,
+    "grade": "1"
+  },
+  "粹": {
+    "class_id": 2358,
+    "grade": "준1"
+  },
+  "精": {
+    "class_id": 2359,
+    "grade": "4"
+  },
+  "糊": {
+    "class_id": 2360,
+    "grade": "1"
+  },
+  "糖": {
+    "class_id": 2361,
+    "grade": "준2"
+  },
+  "糞": {
+    "class_id": 2362,
+    "grade": "1"
+  },
+  "糟": {
+    "class_id": 2363,
+    "grade": "1"
+  },
+  "糠": {
+    "class_id": 2364,
+    "grade": "1"
+  },
+  "糧": {
+    "class_id": 2365,
+    "grade": "준2"
+  },
+  "系": {
+    "class_id": 2366,
+    "grade": "준2"
+  },
+  "糾": {
+    "class_id": 2367,
+    "grade": "2"
+  },
+  "紀": {
+    "class_id": 2368,
+    "grade": "준2"
+  },
+  "紂": {
+    "class_id": 2369,
+    "grade": "1"
+  },
+  "約": {
+    "class_id": 2370,
+    "grade": "4"
+  },
+  "紅": {
+    "class_id": 2371,
+    "grade": "3"
+  },
+  "紈": {
+    "class_id": 2372,
+    "grade": "1"
+  },
+  "紊": {
+    "class_id": 2373,
+    "grade": "2"
+  },
+  "紋": {
+    "class_id": 2374,
+    "grade": "1"
+  },
+  "納": {
+    "class_id": 2375,
+    "grade": "준3"
+  },
+  "紐": {
+    "class_id": 2376,
+    "grade": "1"
+  },
+  "純": {
+    "class_id": 2377,
+    "grade": "준3"
+  },
+  "紗": {
+    "class_id": 2378,
+    "grade": "1"
+  },
+  "紙": {
+    "class_id": 2379,
+    "grade": "준4"
+  },
+  "級": {
+    "class_id": 2380,
+    "grade": "준4"
+  },
+  "紛": {
+    "class_id": 2381,
+    "grade": "준2"
+  },
+  "素": {
+    "class_id": 2382,
+    "grade": "준3"
+  },
+  "紡": {
+    "class_id": 2383,
+    "grade": "2"
+  },
+  "索": {
+    "class_id": 2384,
+    "grade": "준2"
+  },
+  "紫": {
+    "class_id": 2385,
+    "grade": "2"
+  },
+  "累": {
+    "class_id": 2386,
+    "grade": "준2"
+  },
+  "細": {
+    "class_id": 2387,
+    "grade": "준3"
+  },
+  "紳": {
+    "class_id": 2388,
+    "grade": "2"
+  },
+  "紹": {
+    "class_id": 2389,
+    "grade": "2"
+  },
+  "終": {
+    "class_id": 2390,
+    "grade": "4"
+  },
+  "絃": {
+    "class_id": 2391,
+    "grade": "준2"
+  },
+  "組": {
+    "class_id": 2392,
+    "grade": "준2"
+  },
+  "結": {
+    "class_id": 2393,
+    "grade": "준4"
+  },
+  "絞": {
+    "class_id": 2394,
+    "grade": "2"
+  },
+  "絡": {
+    "class_id": 2395,
+    "grade": "준2"
+  },
+  "給": {
+    "class_id": 2396,
+    "grade": "4"
+  },
+  "統": {
+    "class_id": 2397,
+    "grade": "4"
+  },
+  "絲": {
+    "class_id": 2398,
+    "grade": "준3"
+  },
+  "絳": {
+    "class_id": 2399,
+    "grade": "1"
+  },
+  "絶": {
+    "class_id": 2400,
+    "grade": "준3"
+  },
+  "絹": {
+    "class_id": 2401,
+    "grade": "2"
+  },
+  "綎": {
+    "class_id": 2402,
+    "grade": "1"
+  },
+  "綏": {
+    "class_id": 2403,
+    "grade": "1"
+  },
+  "經": {
+    "class_id": 2404,
+    "grade": "준3"
+  },
+  "綜": {
+    "class_id": 2405,
+    "grade": "준1"
+  },
+  "綠": {
+    "class_id": 2406,
+    "grade": "준4"
+  },
+  "綬": {
+    "class_id": 2407,
+    "grade": "1"
+  },
+  "維": {
+    "class_id": 2408,
+    "grade": "준2"
+  },
+  "綱": {
+    "class_id": 2409,
+    "grade": "준2"
+  },
+  "網": {
+    "class_id": 2410,
+    "grade": "2"
+  },
+  "綴": {
+    "class_id": 2411,
+    "grade": "1"
+  },
+  "綵": {
+    "class_id": 2412,
+    "grade": "1"
+  },
+  "綸": {
+    "class_id": 2413,
+    "grade": "1"
+  },
+  "綺": {
+    "class_id": 2414,
+    "grade": "1"
+  },
+  "綾": {
+    "class_id": 2415,
+    "grade": "1"
+  },
+  "綿": {
+    "class_id": 2416,
+    "grade": "2"
+  },
+  "緊": {
+    "class_id": 2417,
+    "grade": "준2"
+  },
+  "緋": {
+    "class_id": 2418,
+    "grade": "1"
+  },
+  "緖": {
+    "class_id": 2419,
+    "grade": "2"
+  },
+  "緘": {
+    "class_id": 2420,
+    "grade": "1"
+  },
+  "線": {
+    "class_id": 2421,
+    "grade": "5"
+  },
+  "緞": {
+    "class_id": 2422,
+    "grade": "1"
+  },
+  "締": {
+    "class_id": 2423,
+    "grade": "2"
+  },
+  "緣": {
+    "class_id": 2424,
+    "grade": "준2"
+  },
+  "編": {
+    "class_id": 2425,
+    "grade": "준2"
+  },
+  "緩": {
+    "class_id": 2426,
+    "grade": "2"
+  },
+  "緯": {
+    "class_id": 2427,
+    "grade": "2"
+  },
+  "練": {
+    "class_id": 2428,
+    "grade": "4"
+  },
+  "縛": {
+    "class_id": 2429,
+    "grade": "준1"
+  },
+  "縝": {
+    "class_id": 2430,
+    "grade": "1"
+  },
+  "縡": {
+    "class_id": 2431,
+    "grade": "1"
+  },
+  "縣": {
+    "class_id": 2432,
+    "grade": "2"
+  },
+  "縫": {
+    "class_id": 2433,
+    "grade": "2"
+  },
+  "縮": {
+    "class_id": 2434,
+    "grade": "준2"
+  },
+  "縱": {
+    "class_id": 2435,
+    "grade": "2"
+  },
+  "縻": {
+    "class_id": 2436,
+    "grade": "1"
+  },
+  "總": {
+    "class_id": 2437,
+    "grade": "준2"
+  },
+  "績": {
+    "class_id": 2438,
+    "grade": "준2"
+  },
+  "繁": {
+    "class_id": 2439,
+    "grade": "준2"
+  },
+  "織": {
+    "class_id": 2440,
+    "grade": "준2"
+  },
+  "繕": {
+    "class_id": 2441,
+    "grade": "준1"
+  },
+  "繡": {
+    "class_id": 2442,
+    "grade": "준1"
+  },
+  "繩": {
+    "class_id": 2443,
+    "grade": "준1"
+  },
+  "繪": {
+    "class_id": 2444,
+    "grade": "1"
+  },
+  "繫": {
+    "class_id": 2445,
+    "grade": "2"
+  },
+  "繼": {
+    "class_id": 2446,
+    "grade": "준3"
+  },
+  "纂": {
+    "class_id": 2447,
+    "grade": "1"
+  },
+  "續": {
+    "class_id": 2448,
+    "grade": "준3"
+  },
+  "纓": {
+    "class_id": 2449,
+    "grade": "1"
+  },
+  "纖": {
+    "class_id": 2450,
+    "grade": "2"
+  },
+  "纘": {
+    "class_id": 2451,
+    "grade": "1"
+  },
+  "缺": {
+    "class_id": 2452,
+    "grade": "준2"
+  },
+  "罔": {
+    "class_id": 2453,
+    "grade": "2"
+  },
+  "罪": {
+    "class_id": 2454,
+    "grade": "4"
+  },
+  "置": {
+    "class_id": 2455,
+    "grade": "준2"
+  },
+  "罰": {
+    "class_id": 2456,
+    "grade": "준3"
+  },
+  "署": {
+    "class_id": 2457,
+    "grade": "준2"
+  },
+  "罵": {
+    "class_id": 2458,
+    "grade": "1"
+  },
+  "罷": {
+    "class_id": 2459,
+    "grade": "2"
+  },
+  "羅": {
+    "class_id": 2460,
+    "grade": "준2"
+  },
+  "羊": {
+    "class_id": 2461,
+    "grade": "6"
+  },
+  "羌": {
+    "class_id": 2462,
+    "grade": "1"
+  },
+  "美": {
+    "class_id": 2463,
+    "grade": "준4"
+  },
+  "羔": {
+    "class_id": 2464,
+    "grade": "1"
+  },
+  "羞": {
+    "class_id": 2465,
+    "grade": "준1"
+  },
+  "群": {
+    "class_id": 2466,
+    "grade": "준3"
+  },
+  "羨": {
+    "class_id": 2467,
+    "grade": "1"
+  },
+  "義": {
+    "class_id": 2468,
+    "grade": "4"
+  },
+  "羲": {
+    "class_id": 2469,
+    "grade": "준1"
+  },
+  "羹": {
+    "class_id": 2470,
+    "grade": "1"
+  },
+  "羽": {
+    "class_id": 2471,
+    "grade": "준2"
+  },
+  "翁": {
+    "class_id": 2472,
+    "grade": "2"
+  },
+  "翊": {
+    "class_id": 2473,
+    "grade": "준1"
+  },
+  "翌": {
+    "class_id": 2474,
+    "grade": "준1"
+  },
+  "習": {
+    "class_id": 2475,
+    "grade": "준4"
+  },
+  "翔": {
+    "class_id": 2476,
+    "grade": "1"
+  },
+  "翕": {
+    "class_id": 2477,
+    "grade": "1"
+  },
+  "翠": {
+    "class_id": 2478,
+    "grade": "1"
+  },
+  "翫": {
+    "class_id": 2479,
+    "grade": "1"
+  },
+  "翰": {
+    "class_id": 2480,
+    "grade": "2"
+  },
+  "翳": {
+    "class_id": 2481,
+    "grade": "1"
+  },
+  "翼": {
+    "class_id": 2482,
+    "grade": "2"
+  },
+  "耀": {
+    "class_id": 2483,
+    "grade": "준1"
+  },
+  "老": {
+    "class_id": 2484,
+    "grade": "5"
+  },
+  "考": {
+    "class_id": 2485,
+    "grade": "준4"
+  },
+  "者": {
+    "class_id": 2486,
+    "grade": "준4"
+  },
+  "耆": {
+    "class_id": 2487,
+    "grade": "준1"
+  },
+  "耈": {
+    "class_id": 2488,
+    "grade": "1"
+  },
+  "而": {
+    "class_id": 2489,
+    "grade": "3"
+  },
+  "耐": {
+    "class_id": 2490,
+    "grade": "준2"
+  },
+  "耕": {
+    "class_id": 2491,
+    "grade": "준3"
+  },
+  "耗": {
+    "class_id": 2492,
+    "grade": "준1"
+  },
+  "耘": {
+    "class_id": 2493,
+    "grade": "1"
+  },
+  "耳": {
+    "class_id": 2494,
+    "grade": "6"
+  },
+  "耶": {
+    "class_id": 2495,
+    "grade": "2"
+  },
+  "耽": {
+    "class_id": 2496,
+    "grade": "1"
+  },
+  "耿": {
+    "class_id": 2497,
+    "grade": "1"
+  },
+  "聖": {
+    "class_id": 2498,
+    "grade": "4"
+  },
+  "聘": {
+    "class_id": 2499,
+    "grade": "2"
+  },
+  "聚": {
+    "class_id": 2500,
+    "grade": "준1"
+  },
+  "聞": {
+    "class_id": 2501,
+    "grade": "5"
+  },
+  "聯": {
+    "class_id": 2502,
+    "grade": "준2"
+  },
+  "聰": {
+    "class_id": 2503,
+    "grade": "준2"
+  },
+  "聲": {
+    "class_id": 2504,
+    "grade": "4"
+  },
+  "職": {
+    "class_id": 2505,
+    "grade": "준3"
+  },
+  "聽": {
+    "class_id": 2506,
+    "grade": "준3"
+  },
+  "聾": {
+    "class_id": 2507,
+    "grade": "준1"
+  },
+  "肅": {
+    "class_id": 2508,
+    "grade": "준2"
+  },
+  "肆": {
+    "class_id": 2509,
+    "grade": "1"
+  },
+  "肇": {
+    "class_id": 2510,
+    "grade": "1"
+  },
+  "肉": {
+    "class_id": 2511,
+    "grade": "5"
+  },
+  "肋": {
+    "class_id": 2512,
+    "grade": "1"
+  },
+  "肖": {
+    "class_id": 2513,
+    "grade": "2"
+  },
+  "肝": {
+    "class_id": 2514,
+    "grade": "2"
+  },
+  "股": {
+    "class_id": 2515,
+    "grade": "1"
+  },
+  "肢": {
+    "class_id": 2516,
+    "grade": "준1"
+  },
+  "肥": {
+    "class_id": 2517,
+    "grade": "준2"
+  },
+  "肩": {
+    "class_id": 2518,
+    "grade": "2"
+  },
+  "肪": {
+    "class_id": 2519,
+    "grade": "준1"
+  },
+  "肯": {
+    "class_id": 2520,
+    "grade": "2"
+  },
+  "肱": {
+    "class_id": 2521,
+    "grade": "1"
+  },
+  "育": {
+    "class_id": 2522,
+    "grade": "5"
+  },
+  "肺": {
+    "class_id": 2523,
+    "grade": "준2"
+  },
+  "胃": {
+    "class_id": 2524,
+    "grade": "준2"
+  },
+  "背": {
+    "class_id": 2525,
+    "grade": "준3"
+  },
+  "胎": {
+    "class_id": 2526,
+    "grade": "2"
+  },
+  "胞": {
+    "class_id": 2527,
+    "grade": "준2"
+  },
+  "胡": {
+    "class_id": 2528,
+    "grade": "2"
+  },
+  "胤": {
+    "class_id": 2529,
+    "grade": "준1"
+  },
+  "胱": {
+    "class_id": 2530,
+    "grade": "1"
+  },
+  "胸": {
+    "class_id": 2531,
+    "grade": "3"
+  },
+  "能": {
+    "class_id": 2532,
+    "grade": "준4"
+  },
+  "脂": {
+    "class_id": 2533,
+    "grade": "2"
+  },
+  "脅": {
+    "class_id": 2534,
+    "grade": "2"
+  },
+  "脆": {
+    "class_id": 2535,
+    "grade": "1"
+  },
+  "脈": {
+    "class_id": 2536,
+    "grade": "준2"
+  },
+  "脊": {
+    "class_id": 2537,
+    "grade": "1"
+  },
+  "脚": {
+    "class_id": 2538,
+    "grade": "3"
+  },
+  "脣": {
+    "class_id": 2539,
+    "grade": "2"
+  },
+  "脫": {
+    "class_id": 2540,
+    "grade": "준3"
+  },
+  "脾": {
+    "class_id": 2541,
+    "grade": "1"
+  },
+  "腋": {
+    "class_id": 2542,
+    "grade": "1"
+  },
+  "腎": {
+    "class_id": 2543,
+    "grade": "2"
+  },
+  "腐": {
+    "class_id": 2544,
+    "grade": "2"
+  },
+  "腑": {
+    "class_id": 2545,
+    "grade": "1"
+  },
+  "腔": {
+    "class_id": 2546,
+    "grade": "준1"
+  },
+  "腕": {
+    "class_id": 2547,
+    "grade": "1"
+  },
+  "腦": {
+    "class_id": 2548,
+    "grade": "준2"
+  },
+  "腫": {
+    "class_id": 2549,
+    "grade": "1"
+  },
+  "腰": {
+    "class_id": 2550,
+    "grade": "2"
+  },
+  "腸": {
+    "class_id": 2551,
+    "grade": "3"
+  },
+  "腹": {
+    "class_id": 2552,
+    "grade": "준2"
+  },
+  "腺": {
+    "class_id": 2553,
+    "grade": "1"
+  },
+  "膀": {
+    "class_id": 2554,
+    "grade": "1"
+  },
+  "膏": {
+    "class_id": 2555,
+    "grade": "준1"
+  },
+  "膚": {
+    "class_id": 2556,
+    "grade": "2"
+  },
+  "膜": {
+    "class_id": 2557,
+    "grade": "준1"
+  },
+  "膝": {
+    "class_id": 2558,
+    "grade": "1"
+  },
+  "膠": {
+    "class_id": 2559,
+    "grade": "2"
+  },
+  "膳": {
+    "class_id": 2560,
+    "grade": "준1"
+  },
+  "膺": {
+    "class_id": 2561,
+    "grade": "1"
+  },
+  "膽": {
+    "class_id": 2562,
+    "grade": "2"
+  },
+  "膿": {
+    "class_id": 2563,
+    "grade": "1"
+  },
+  "臂": {
+    "class_id": 2564,
+    "grade": "1"
+  },
+  "臘": {
+    "class_id": 2565,
+    "grade": "1"
+  },
+  "臟": {
+    "class_id": 2566,
+    "grade": "준2"
+  },
+  "臣": {
+    "class_id": 2567,
+    "grade": "준4"
+  },
+  "臥": {
+    "class_id": 2568,
+    "grade": "3"
+  },
+  "臨": {
+    "class_id": 2569,
+    "grade": "준2"
+  },
+  "自": {
+    "class_id": 2570,
+    "grade": "준5"
+  },
+  "臭": {
+    "class_id": 2571,
+    "grade": "2"
+  },
+  "至": {
+    "class_id": 2572,
+    "grade": "4"
+  },
+  "致": {
+    "class_id": 2573,
+    "grade": "4"
+  },
+  "臺": {
+    "class_id": 2574,
+    "grade": "준2"
+  },
+  "臾": {
+    "class_id": 2575,
+    "grade": "1"
+  },
+  "舅": {
+    "class_id": 2576,
+    "grade": "준1"
+  },
+  "與": {
+    "class_id": 2577,
+    "grade": "준3"
+  },
+  "興": {
+    "class_id": 2578,
+    "grade": "준3"
+  },
+  "舊": {
+    "class_id": 2579,
+    "grade": "4"
+  },
+  "舌": {
+    "class_id": 2580,
+    "grade": "준3"
+  },
+  "舍": {
+    "class_id": 2581,
+    "grade": "준3"
+  },
+  "舒": {
+    "class_id": 2582,
+    "grade": "준1"
+  },
+  "舜": {
+    "class_id": 2583,
+    "grade": "2"
+  },
+  "舞": {
+    "class_id": 2584,
+    "grade": "3"
+  },
+  "舟": {
+    "class_id": 2585,
+    "grade": "준2"
+  },
+  "航": {
+    "class_id": 2586,
+    "grade": "준2"
+  },
+  "般": {
+    "class_id": 2587,
+    "grade": "준2"
+  },
+  "舶": {
+    "class_id": 2588,
+    "grade": "2"
+  },
+  "船": {
+    "class_id": 2589,
+    "grade": "4"
+  },
+  "艇": {
+    "class_id": 2590,
+    "grade": "2"
+  },
+  "艦": {
+    "class_id": 2591,
+    "grade": "2"
+  },
+  "艮": {
+    "class_id": 2592,
+    "grade": "준1"
+  },
+  "良": {
+    "class_id": 2593,
+    "grade": "준4"
+  },
+  "艱": {
+    "class_id": 2594,
+    "grade": "준1"
+  },
+  "色": {
+    "class_id": 2595,
+    "grade": "5"
+  },
+  "艶": {
+    "class_id": 2596,
+    "grade": "1"
+  },
+  "艾": {
+    "class_id": 2597,
+    "grade": "준1"
+  },
+  "芍": {
+    "class_id": 2598,
+    "grade": "1"
+  },
+  "芙": {
+    "class_id": 2599,
+    "grade": "1"
+  },
+  "芝": {
+    "class_id": 2600,
+    "grade": "준1"
+  },
+  "芥": {
+    "class_id": 2601,
+    "grade": "1"
+  },
+  "芬": {
+    "class_id": 2602,
+    "grade": "준1"
+  },
+  "芭": {
+    "class_id": 2603,
+    "grade": "1"
+  },
+  "芮": {
+    "class_id": 2604,
+    "grade": "준1"
+  },
+  "花": {
+    "class_id": 2605,
+    "grade": "5"
+  },
+  "芳": {
+    "class_id": 2606,
+    "grade": "준2"
+  },
+  "芸": {
+    "class_id": 2607,
+    "grade": "준1"
+  },
+  "芽": {
+    "class_id": 2608,
+    "grade": "2"
+  },
+  "苑": {
+    "class_id": 2609,
+    "grade": "2"
+  },
+  "苔": {
+    "class_id": 2610,
+    "grade": "1"
+  },
+  "苗": {
+    "class_id": 2611,
+    "grade": "준2"
+  },
+  "苛": {
+    "class_id": 2612,
+    "grade": "1"
+  },
+  "苟": {
+    "class_id": 2613,
+    "grade": "준2"
+  },
+  "若": {
+    "class_id": 2614,
+    "grade": "준3"
+  },
+  "苦": {
+    "class_id": 2615,
+    "grade": "준4"
+  },
+  "英": {
+    "class_id": 2616,
+    "grade": "5"
+  },
+  "苾": {
+    "class_id": 2617,
+    "grade": "1"
+  },
+  "茁": {
+    "class_id": 2618,
+    "grade": "1"
+  },
+  "茂": {
+    "class_id": 2619,
+    "grade": "3"
+  },
+  "范": {
+    "class_id": 2620,
+    "grade": "1"
+  },
+  "茅": {
+    "class_id": 2621,
+    "grade": "준1"
+  },
+  "茉": {
+    "class_id": 2622,
+    "grade": "1"
+  },
+  "茫": {
+    "class_id": 2623,
+    "grade": "2"
+  },
+  "茶": {
+    "class_id": 2624,
+    "grade": "준2"
+  },
+  "茸": {
+    "class_id": 2625,
+    "grade": "준1"
+  },
+  "荀": {
+    "class_id": 2626,
+    "grade": "준1"
+  },
+  "荃": {
+    "class_id": 2627,
+    "grade": "1"
+  },
+  "草": {
+    "class_id": 2628,
+    "grade": "5"
+  },
+  "荊": {
+    "class_id": 2629,
+    "grade": "1"
+  },
+  "荒": {
+    "class_id": 2630,
+    "grade": "2"
+  },
+  "荷": {
+    "class_id": 2631,
+    "grade": "준2"
+  },
+  "莉": {
+    "class_id": 2632,
+    "grade": "1"
+  },
+  "莊": {
+    "class_id": 2633,
+    "grade": "2"
+  },
+  "莖": {
+    "class_id": 2634,
+    "grade": "1"
+  },
+  "莘": {
+    "class_id": 2635,
+    "grade": "1"
+  },
+  "莞": {
+    "class_id": 2636,
+    "grade": "준1"
+  },
+  "莫": {
+    "class_id": 2637,
+    "grade": "준3"
+  },
+  "莽": {
+    "class_id": 2638,
+    "grade": "1"
+  },
+  "菊": {
+    "class_id": 2639,
+    "grade": "2"
+  },
+  "菌": {
+    "class_id": 2640,
+    "grade": "준2"
+  },
+  "菓": {
+    "class_id": 2641,
+    "grade": "2"
+  },
+  "菖": {
+    "class_id": 2642,
+    "grade": "1"
+  },
+  "菜": {
+    "class_id": 2643,
+    "grade": "3"
+  },
+  "菩": {
+    "class_id": 2644,
+    "grade": "1"
+  },
+  "華": {
+    "class_id": 2645,
+    "grade": "3"
+  },
+  "菱": {
+    "class_id": 2646,
+    "grade": "1"
+  },
+  "菴": {
+    "class_id": 2647,
+    "grade": "1"
+  },
+  "萃": {
+    "class_id": 2648,
+    "grade": "1"
+  },
+  "萄": {
+    "class_id": 2649,
+    "grade": "준1"
+  },
+  "萊": {
+    "class_id": 2650,
+    "grade": "준1"
+  },
+  "萌": {
+    "class_id": 2651,
+    "grade": "1"
+  },
+  "萬": {
+    "class_id": 2652,
+    "grade": "5"
+  },
+  "萱": {
+    "class_id": 2653,
+    "grade": "1"
+  },
+  "落": {
+    "class_id": 2654,
+    "grade": "준4"
+  },
+  "葉": {
+    "class_id": 2655,
+    "grade": "4"
+  },
+  "著": {
+    "class_id": 2656,
+    "grade": "3"
+  },
+  "葛": {
+    "class_id": 2657,
+    "grade": "2"
+  },
+  "葡": {
+    "class_id": 2658,
+    "grade": "준1"
+  },
+  "董": {
+    "class_id": 2659,
+    "grade": "준1"
+  },
+  "葬": {
+    "class_id": 2660,
+    "grade": "2"
+  },
+  "葵": {
+    "class_id": 2661,
+    "grade": "1"
+  },
+  "蒐": {
+    "class_id": 2662,
+    "grade": "준1"
+  },
+  "蒙": {
+    "class_id": 2663,
+    "grade": "준2"
+  },
+  "蒸": {
+    "class_id": 2664,
+    "grade": "2"
+  },
+  "蒼": {
+    "class_id": 2665,
+    "grade": "2"
+  },
+  "蓄": {
+    "class_id": 2666,
+    "grade": "준2"
+  },
+  "蓉": {
+    "class_id": 2667,
+    "grade": "1"
+  },
+  "蓋": {
+    "class_id": 2668,
+    "grade": "준2"
+  },
+  "蓬": {
+    "class_id": 2669,
+    "grade": "준1"
+  },
+  "蓮": {
+    "class_id": 2670,
+    "grade": "준2"
+  },
+  "蔑": {
+    "class_id": 2671,
+    "grade": "2"
+  },
+  "蔓": {
+    "class_id": 2672,
+    "grade": "1"
+  },
+  "蔘": {
+    "class_id": 2673,
+    "grade": "2"
+  },
+  "蔚": {
+    "class_id": 2674,
+    "grade": "준1"
+  },
+  "蔡": {
+    "class_id": 2675,
+    "grade": "준1"
+  },
+  "蔣": {
+    "class_id": 2676,
+    "grade": "준1"
+  },
+  "蔬": {
+    "class_id": 2677,
+    "grade": "준2"
+  },
+  "蔽": {
+    "class_id": 2678,
+    "grade": "2"
+  },
+  "蕃": {
+    "class_id": 2679,
+    "grade": "1"
+  },
+  "蕉": {
+    "class_id": 2680,
+    "grade": "1"
+  },
+  "蕙": {
+    "class_id": 2681,
+    "grade": "1"
+  },
+  "蕩": {
+    "class_id": 2682,
+    "grade": "1"
+  },
+  "薄": {
+    "class_id": 2683,
+    "grade": "준2"
+  },
+  "薇": {
+    "class_id": 2684,
+    "grade": "1"
+  },
+  "薑": {
+    "class_id": 2685,
+    "grade": "1"
+  },
+  "薔": {
+    "class_id": 2686,
+    "grade": "1"
+  },
+  "薛": {
+    "class_id": 2687,
+    "grade": "준1"
+  },
+  "薦": {
+    "class_id": 2688,
+    "grade": "2"
+  },
+  "薩": {
+    "class_id": 2689,
+    "grade": "1"
+  },
+  "薪": {
+    "class_id": 2690,
+    "grade": "1"
+  },
+  "薰": {
+    "class_id": 2691,
+    "grade": "준1"
+  },
+  "藉": {
+    "class_id": 2692,
+    "grade": "1"
+  },
+  "藍": {
+    "class_id": 2693,
+    "grade": "준2"
+  },
+  "藏": {
+    "class_id": 2694,
+    "grade": "2"
+  },
+  "藝": {
+    "class_id": 2695,
+    "grade": "4"
+  },
+  "藤": {
+    "class_id": 2696,
+    "grade": "2"
+  },
+  "藥": {
+    "class_id": 2697,
+    "grade": "준4"
+  },
+  "藿": {
+    "class_id": 2698,
+    "grade": "1"
+  },
+  "蘆": {
+    "class_id": 2699,
+    "grade": "준1"
+  },
+  "蘇": {
+    "class_id": 2700,
+    "grade": "2"
+  },
+  "蘭": {
+    "class_id": 2701,
+    "grade": "준2"
+  },
+  "虎": {
+    "class_id": 2702,
+    "grade": "3"
+  },
+  "虐": {
+    "class_id": 2703,
+    "grade": "2"
+  },
+  "虔": {
+    "class_id": 2704,
+    "grade": "1"
+  },
+  "處": {
+    "class_id": 2705,
+    "grade": "4"
+  },
+  "虛": {
+    "class_id": 2706,
+    "grade": "준3"
+  },
+  "虜": {
+    "class_id": 2707,
+    "grade": "2"
+  },
+  "虞": {
+    "class_id": 2708,
+    "grade": "1"
+  },
+  "號": {
+    "class_id": 2709,
+    "grade": "준4"
+  },
+  "虢": {
+    "class_id": 2710,
+    "grade": "1"
+  },
+  "虧": {
+    "class_id": 2711,
+    "grade": "1"
+  },
+  "虹": {
+    "class_id": 2712,
+    "grade": "1"
+  },
+  "蚊": {
+    "class_id": 2713,
+    "grade": "1"
+  },
+  "蛇": {
+    "class_id": 2714,
+    "grade": "2"
+  },
+  "蜀": {
+    "class_id": 2715,
+    "grade": "준1"
+  },
+  "蜂": {
+    "class_id": 2716,
+    "grade": "2"
+  },
+  "蜜": {
+    "class_id": 2717,
+    "grade": "2"
+  },
+  "蝕": {
+    "class_id": 2718,
+    "grade": "준1"
+  },
+  "蝦": {
+    "class_id": 2719,
+    "grade": "1"
+  },
+  "蝶": {
+    "class_id": 2720,
+    "grade": "2"
+  },
+  "融": {
+    "class_id": 2721,
+    "grade": "2"
+  },
+  "螢": {
+    "class_id": 2722,
+    "grade": "2"
+  },
+  "螳": {
+    "class_id": 2723,
+    "grade": "1"
+  },
+  "螺": {
+    "class_id": 2724,
+    "grade": "1"
+  },
+  "蟄": {
+    "class_id": 2725,
+    "grade": "1"
+  },
+  "蟲": {
+    "class_id": 2726,
+    "grade": "4"
+  },
+  "蟾": {
+    "class_id": 2727,
+    "grade": "준1"
+  },
+  "蠶": {
+    "class_id": 2728,
+    "grade": "2"
+  },
+  "蠻": {
+    "class_id": 2729,
+    "grade": "2"
+  },
+  "血": {
+    "class_id": 2730,
+    "grade": "5"
+  },
+  "衆": {
+    "class_id": 2731,
+    "grade": "준3"
+  },
+  "行": {
+    "class_id": 2732,
+    "grade": "5"
+  },
+  "衍": {
+    "class_id": 2733,
+    "grade": "준1"
+  },
+  "術": {
+    "class_id": 2734,
+    "grade": "준4"
+  },
+  "街": {
+    "class_id": 2735,
+    "grade": "준3"
+  },
+  "衙": {
+    "class_id": 2736,
+    "grade": "1"
+  },
+  "衛": {
+    "class_id": 2737,
+    "grade": "준2"
+  },
+  "衝": {
+    "class_id": 2738,
+    "grade": "2"
+  },
+  "衡": {
+    "class_id": 2739,
+    "grade": "2"
+  },
+  "衣": {
+    "class_id": 2740,
+    "grade": "준5"
+  },
+  "表": {
+    "class_id": 2741,
+    "grade": "준4"
+  },
+  "衰": {
+    "class_id": 2742,
+    "grade": "준2"
+  },
+  "衷": {
+    "class_id": 2743,
+    "grade": "2"
+  },
+  "衾": {
+    "class_id": 2744,
+    "grade": "1"
+  },
+  "衿": {
+    "class_id": 2745,
+    "grade": "1"
+  },
+  "袁": {
+    "class_id": 2746,
+    "grade": "준1"
+  },
+  "袈": {
+    "class_id": 2747,
+    "grade": "1"
+  },
+  "袋": {
+    "class_id": 2748,
+    "grade": "준1"
+  },
+  "袖": {
+    "class_id": 2749,
+    "grade": "1"
+  },
+  "被": {
+    "class_id": 2750,
+    "grade": "준2"
+  },
+  "裁": {
+    "class_id": 2751,
+    "grade": "2"
+  },
+  "裂": {
+    "class_id": 2752,
+    "grade": "준2"
+  },
+  "裏": {
+    "class_id": 2753,
+    "grade": "준2"
+  },
+  "裔": {
+    "class_id": 2754,
+    "grade": "1"
+  },
+  "裕": {
+    "class_id": 2755,
+    "grade": "준2"
+  },
+  "補": {
+    "class_id": 2756,
+    "grade": "준2"
+  },
+  "裝": {
+    "class_id": 2757,
+    "grade": "준2"
+  },
+  "裟": {
+    "class_id": 2758,
+    "grade": "1"
+  },
+  "裳": {
+    "class_id": 2759,
+    "grade": "2"
+  },
+  "裵": {
+    "class_id": 2760,
+    "grade": "준1"
+  },
+  "裸": {
+    "class_id": 2761,
+    "grade": "준1"
+  },
+  "製": {
+    "class_id": 2762,
+    "grade": "준3"
+  },
+  "複": {
+    "class_id": 2763,
+    "grade": "준2"
+  },
+  "褒": {
+    "class_id": 2764,
+    "grade": "1"
+  },
+  "褓": {
+    "class_id": 2765,
+    "grade": "1"
+  },
+  "褸": {
+    "class_id": 2766,
+    "grade": "1"
+  },
+  "褻": {
+    "class_id": 2767,
+    "grade": "1"
+  },
+  "襁": {
+    "class_id": 2768,
+    "grade": "1"
+  },
+  "襄": {
+    "class_id": 2769,
+    "grade": "준1"
+  },
+  "襟": {
+    "class_id": 2770,
+    "grade": "1"
+  },
+  "襤": {
+    "class_id": 2771,
+    "grade": "1"
+  },
+  "襲": {
+    "class_id": 2772,
+    "grade": "준2"
+  },
+  "西": {
+    "class_id": 2773,
+    "grade": "8"
+  },
+  "要": {
+    "class_id": 2774,
+    "grade": "준4"
+  },
+  "覃": {
+    "class_id": 2775,
+    "grade": "1"
+  },
+  "覆": {
+    "class_id": 2776,
+    "grade": "2"
+  },
+  "覇": {
+    "class_id": 2777,
+    "grade": "2"
+  },
+  "見": {
+    "class_id": 2778,
+    "grade": "5"
+  },
+  "規": {
+    "class_id": 2779,
+    "grade": "4"
+  },
+  "覓": {
+    "class_id": 2780,
+    "grade": "준1"
+  },
+  "視": {
+    "class_id": 2781,
+    "grade": "4"
+  },
+  "親": {
+    "class_id": 2782,
+    "grade": "5"
+  },
+  "覺": {
+    "class_id": 2783,
+    "grade": "준2"
+  },
+  "覽": {
+    "class_id": 2784,
+    "grade": "3"
+  },
+  "觀": {
+    "class_id": 2785,
+    "grade": "4"
+  },
+  "角": {
+    "class_id": 2786,
+    "grade": "준4"
+  },
+  "解": {
+    "class_id": 2787,
+    "grade": "준3"
+  },
+  "觸": {
+    "class_id": 2788,
+    "grade": "2"
+  },
+  "言": {
+    "class_id": 2789,
+    "grade": "5"
+  },
+  "訂": {
+    "class_id": 2790,
+    "grade": "준2"
+  },
+  "訃": {
+    "class_id": 2791,
+    "grade": "준1"
+  },
+  "計": {
+    "class_id": 2792,
+    "grade": "5"
+  },
+  "訊": {
+    "class_id": 2793,
+    "grade": "1"
+  },
+  "討": {
+    "class_id": 2794,
+    "grade": "준3"
+  },
+  "訓": {
+    "class_id": 2795,
+    "grade": "준4"
+  },
+  "託": {
+    "class_id": 2796,
+    "grade": "2"
+  },
+  "記": {
+    "class_id": 2797,
+    "grade": "5"
+  },
+  "訛": {
+    "class_id": 2798,
+    "grade": "준1"
+  },
+  "訝": {
+    "class_id": 2799,
+    "grade": "1"
+  },
+  "訟": {
+    "class_id": 2800,
+    "grade": "준2"
+  },
+  "訣": {
+    "class_id": 2801,
+    "grade": "2"
+  },
+  "訪": {
+    "class_id": 2802,
+    "grade": "준3"
+  },
+  "設": {
+    "class_id": 2803,
+    "grade": "3"
+  },
+  "許": {
+    "class_id": 2804,
+    "grade": "4"
+  },
+  "訴": {
+    "class_id": 2805,
+    "grade": "준2"
+  },
+  "診": {
+    "class_id": 2806,
+    "grade": "2"
+  },
+  "註": {
+    "class_id": 2807,
+    "grade": "준1"
+  },
+  "詐": {
+    "class_id": 2808,
+    "grade": "준2"
+  },
+  "詔": {
+    "class_id": 2809,
+    "grade": "1"
+  },
+  "評": {
+    "class_id": 2810,
+    "grade": "준2"
+  },
+  "詞": {
+    "class_id": 2811,
+    "grade": "준2"
+  },
+  "詠": {
+    "class_id": 2812,
+    "grade": "2"
+  },
+  "詢": {
+    "class_id": 2813,
+    "grade": "1"
+  },
+  "試": {
+    "class_id": 2814,
+    "grade": "4"
+  },
+  "詩": {
+    "class_id": 2815,
+    "grade": "5"
+  },
+  "詭": {
+    "class_id": 2816,
+    "grade": "1"
+  },
+  "詮": {
+    "class_id": 2817,
+    "grade": "1"
+  },
+  "詰": {
+    "class_id": 2818,
+    "grade": "1"
+  },
+  "話": {
+    "class_id": 2819,
+    "grade": "5"
+  },
+  "該": {
+    "class_id": 2820,
+    "grade": "2"
+  },
+  "詳": {
+    "class_id": 2821,
+    "grade": "2"
+  },
+  "誅": {
+    "class_id": 2822,
+    "grade": "1"
+  },
+  "誇": {
+    "class_id": 2823,
+    "grade": "2"
+  },
+  "誌": {
+    "class_id": 2824,
+    "grade": "준2"
+  },
+  "認": {
+    "class_id": 2825,
+    "grade": "준3"
+  },
+  "誓": {
+    "class_id": 2826,
+    "grade": "2"
+  },
+  "誕": {
+    "class_id": 2827,
+    "grade": "2"
+  },
+  "誘": {
+    "class_id": 2828,
+    "grade": "준2"
+  },
+  "誚": {
+    "class_id": 2829,
+    "grade": "1"
+  },
+  "語": {
+    "class_id": 2830,
+    "grade": "5"
+  },
+  "誠": {
+    "class_id": 2831,
+    "grade": "4"
+  },
+  "誡": {
+    "class_id": 2832,
+    "grade": "1"
+  },
+  "誤": {
+    "class_id": 2833,
+    "grade": "준3"
+  },
+  "誦": {
+    "class_id": 2834,
+    "grade": "준2"
+  },
+  "誨": {
+    "class_id": 2835,
+    "grade": "1"
+  },
+  "說": {
+    "class_id": 2836,
+    "grade": "4"
+  },
+  "誰": {
+    "class_id": 2837,
+    "grade": "3"
+  },
+  "課": {
+    "class_id": 2838,
+    "grade": "4"
+  },
+  "誹": {
+    "class_id": 2839,
+    "grade": "1"
+  },
+  "誼": {
+    "class_id": 2840,
+    "grade": "1"
+  },
+  "誾": {
+    "class_id": 2841,
+    "grade": "준1"
+  },
+  "調": {
+    "class_id": 2842,
+    "grade": "4"
+  },
+  "諂": {
+    "class_id": 2843,
+    "grade": "1"
+  },
+  "諄": {
+    "class_id": 2844,
+    "grade": "1"
+  },
+  "談": {
+    "class_id": 2845,
+    "grade": "4"
+  },
+  "請": {
+    "class_id": 2846,
+    "grade": "준3"
+  },
+  "諒": {
+    "class_id": 2847,
+    "grade": "2"
+  },
+  "論": {
+    "class_id": 2848,
+    "grade": "준3"
+  },
+  "諜": {
+    "class_id": 2849,
+    "grade": "2"
+  },
+  "諦": {
+    "class_id": 2850,
+    "grade": "1"
+  },
+  "諧": {
+    "class_id": 2851,
+    "grade": "1"
+  },
+  "諫": {
+    "class_id": 2852,
+    "grade": "2"
+  },
+  "諭": {
+    "class_id": 2853,
+    "grade": "1"
+  },
+  "諮": {
+    "class_id": 2854,
+    "grade": "2"
+  },
+  "諷": {
+    "class_id": 2855,
+    "grade": "1"
+  },
+  "諸": {
+    "class_id": 2856,
+    "grade": "3"
+  },
+  "諺": {
+    "class_id": 2857,
+    "grade": "1"
+  },
+  "諾": {
+    "class_id": 2858,
+    "grade": "준2"
+  },
+  "謀": {
+    "class_id": 2859,
+    "grade": "준2"
+  },
+  "謁": {
+    "class_id": 2860,
+    "grade": "2"
+  },
+  "謂": {
+    "class_id": 2861,
+    "grade": "2"
+  },
+  "謄": {
+    "class_id": 2862,
+    "grade": "2"
+  },
+  "謔": {
+    "class_id": 2863,
+    "grade": "1"
+  },
+  "謗": {
+    "class_id": 2864,
+    "grade": "준1"
+  },
+  "謙": {
+    "class_id": 2865,
+    "grade": "2"
+  },
+  "謚": {
+    "class_id": 2866,
+    "grade": "1"
+  },
+  "講": {
+    "class_id": 2867,
+    "grade": "준3"
+  },
+  "謝": {
+    "class_id": 2868,
+    "grade": "4"
+  },
+  "謠": {
+    "class_id": 2869,
+    "grade": "준3"
+  },
+  "謨": {
+    "class_id": 2870,
+    "grade": "준1"
+  },
+  "謬": {
+    "class_id": 2871,
+    "grade": "2"
+  },
+  "謹": {
+    "class_id": 2872,
+    "grade": "준2"
+  },
+  "證": {
+    "class_id": 2873,
+    "grade": "3"
+  },
+  "譎": {
+    "class_id": 2874,
+    "grade": "1"
+  },
+  "譏": {
+    "class_id": 2875,
+    "grade": "1"
+  },
+  "識": {
+    "class_id": 2876,
+    "grade": "4"
+  },
+  "譚": {
+    "class_id": 2877,
+    "grade": "1"
+  },
+  "譜": {
+    "class_id": 2878,
+    "grade": "준2"
+  },
+  "警": {
+    "class_id": 2879,
+    "grade": "준3"
+  },
+  "譬": {
+    "class_id": 2880,
+    "grade": "준1"
+  },
+  "譯": {
+    "class_id": 2881,
+    "grade": "2"
+  },
+  "議": {
+    "class_id": 2882,
+    "grade": "3"
+  },
+  "譴": {
+    "class_id": 2883,
+    "grade": "1"
+  },
+  "護": {
+    "class_id": 2884,
+    "grade": "준2"
+  },
+  "譽": {
+    "class_id": 2885,
+    "grade": "2"
+  },
+  "譿": {
+    "class_id": 2886,
+    "grade": "1"
+  },
+  "讀": {
+    "class_id": 2887,
+    "grade": "5"
+  },
+  "變": {
+    "class_id": 2888,
+    "grade": "4"
+  },
+  "讌": {
+    "class_id": 2889,
+    "grade": "1"
+  },
+  "讐": {
+    "class_id": 2890,
+    "grade": "1"
+  },
+  "讒": {
+    "class_id": 2891,
+    "grade": "1"
+  },
+  "讓": {
+    "class_id": 2892,
+    "grade": "3"
+  },
+  "讚": {
+    "class_id": 2893,
+    "grade": "준2"
+  },
+  "谷": {
+    "class_id": 2894,
+    "grade": "준3"
+  },
+  "豆": {
+    "class_id": 2895,
+    "grade": "준3"
+  },
+  "豈": {
+    "class_id": 2896,
+    "grade": "2"
+  },
+  "豊": {
+    "class_id": 2897,
+    "grade": "3"
+  },
+  "豚": {
+    "class_id": 2898,
+    "grade": "준2"
+  },
+  "象": {
+    "class_id": 2899,
+    "grade": "3"
+  },
+  "豪": {
+    "class_id": 2900,
+    "grade": "2"
+  },
+  "豫": {
+    "class_id": 2901,
+    "grade": "준2"
+  },
+  "豹": {
+    "class_id": 2902,
+    "grade": "2"
+  },
+  "貊": {
+    "class_id": 2903,
+    "grade": "준1"
+  },
+  "貌": {
+    "class_id": 2904,
+    "grade": "준2"
+  },
+  "貝": {
+    "class_id": 2905,
+    "grade": "5"
+  },
+  "貞": {
+    "class_id": 2906,
+    "grade": "3"
+  },
+  "負": {
+    "class_id": 2907,
+    "grade": "준2"
+  },
+  "財": {
+    "class_id": 2908,
+    "grade": "4"
+  },
+  "貢": {
+    "class_id": 2909,
+    "grade": "준2"
+  },
+  "貧": {
+    "class_id": 2910,
+    "grade": "4"
+  },
+  "貨": {
+    "class_id": 2911,
+    "grade": "준3"
+  },
+  "販": {
+    "class_id": 2912,
+    "grade": "준2"
+  },
+  "貪": {
+    "class_id": 2913,
+    "grade": "준2"
+  },
+  "貫": {
+    "class_id": 2914,
+    "grade": "준2"
+  },
+  "責": {
+    "class_id": 2915,
+    "grade": "준4"
+  },
+  "貯": {
+    "class_id": 2916,
+    "grade": "4"
+  },
+  "貰": {
+    "class_id": 2917,
+    "grade": "2"
+  },
+  "貳": {
+    "class_id": 2918,
+    "grade": "준3"
+  },
+  "貴": {
+    "class_id": 2919,
+    "grade": "준4"
+  },
+  "買": {
+    "class_id": 2920,
+    "grade": "준4"
+  },
+  "貸": {
+    "class_id": 2921,
+    "grade": "준2"
+  },
+  "費": {
+    "class_id": 2922,
+    "grade": "4"
+  },
+  "貽": {
+    "class_id": 2923,
+    "grade": "1"
+  },
+  "貿": {
+    "class_id": 2924,
+    "grade": "준2"
+  },
+  "賀": {
+    "class_id": 2925,
+    "grade": "3"
+  },
+  "賂": {
+    "class_id": 2926,
+    "grade": "준1"
+  },
+  "賃": {
+    "class_id": 2927,
+    "grade": "준2"
+  },
+  "賄": {
+    "class_id": 2928,
+    "grade": "준1"
+  },
+  "資": {
+    "class_id": 2929,
+    "grade": "준2"
+  },
+  "賈": {
+    "class_id": 2930,
+    "grade": "준1"
+  },
+  "賊": {
+    "class_id": 2931,
+    "grade": "준2"
+  },
+  "賑": {
+    "class_id": 2932,
+    "grade": "1"
+  },
+  "賓": {
+    "class_id": 2933,
+    "grade": "준2"
+  },
+  "賜": {
+    "class_id": 2934,
+    "grade": "준2"
+  },
+  "賞": {
+    "class_id": 2935,
+    "grade": "4"
+  },
+  "賠": {
+    "class_id": 2936,
+    "grade": "2"
+  },
+  "賢": {
+    "class_id": 2937,
+    "grade": "준3"
+  },
+  "賣": {
+    "class_id": 2938,
+    "grade": "준4"
+  },
+  "賤": {
+    "class_id": 2939,
+    "grade": "준2"
+  },
+  "賦": {
+    "class_id": 2940,
+    "grade": "2"
+  },
+  "質": {
+    "class_id": 2941,
+    "grade": "4"
+  },
+  "賰": {
+    "class_id": 2942,
+    "grade": "1"
+  },
+  "賴": {
+    "class_id": 2943,
+    "grade": "2"
+  },
+  "賻": {
+    "class_id": 2944,
+    "grade": "준1"
+  },
+  "購": {
+    "class_id": 2945,
+    "grade": "2"
+  },
+  "贈": {
+    "class_id": 2946,
+    "grade": "2"
+  },
+  "贊": {
+    "class_id": 2947,
+    "grade": "준2"
+  },
+  "赤": {
+    "class_id": 2948,
+    "grade": "준4"
+  },
+  "赦": {
+    "class_id": 2949,
+    "grade": "2"
+  },
+  "赫": {
+    "class_id": 2950,
+    "grade": "준1"
+  },
+  "走": {
+    "class_id": 2951,
+    "grade": "준3"
+  },
+  "赴": {
+    "class_id": 2952,
+    "grade": "2"
+  },
+  "起": {
+    "class_id": 2953,
+    "grade": "준3"
+  },
+  "超": {
+    "class_id": 2954,
+    "grade": "준2"
+  },
+  "越": {
+    "class_id": 2955,
+    "grade": "준2"
+  },
+  "趙": {
+    "class_id": 2956,
+    "grade": "준1"
+  },
+  "趣": {
+    "class_id": 2957,
+    "grade": "준2"
+  },
+  "趨": {
+    "class_id": 2958,
+    "grade": "2"
+  },
+  "足": {
+    "class_id": 2959,
+    "grade": "7"
+  },
+  "趾": {
+    "class_id": 2960,
+    "grade": "1"
+  },
+  "跆": {
+    "class_id": 2961,
+    "grade": "1"
+  },
+  "跋": {
+    "class_id": 2962,
+    "grade": "1"
+  },
+  "跌": {
+    "class_id": 2963,
+    "grade": "1"
+  },
+  "距": {
+    "class_id": 2964,
+    "grade": "준2"
+  },
+  "跡": {
+    "class_id": 2965,
+    "grade": "준2"
+  },
+  "路": {
+    "class_id": 2966,
+    "grade": "준4"
+  },
+  "跳": {
+    "class_id": 2967,
+    "grade": "준2"
+  },
+  "踊": {
+    "class_id": 2968,
+    "grade": "준1"
+  },
+  "踏": {
+    "class_id": 2969,
+    "grade": "2"
+  },
+  "踐": {
+    "class_id": 2970,
+    "grade": "준2"
+  },
+  "踪": {
+    "class_id": 2971,
+    "grade": "1"
+  },
+  "踰": {
+    "class_id": 2972,
+    "grade": "준1"
+  },
+  "蹂": {
+    "class_id": 2973,
+    "grade": "1"
+  },
+  "蹄": {
+    "class_id": 2974,
+    "grade": "1"
+  },
+  "蹈": {
+    "class_id": 2975,
+    "grade": "1"
+  },
+  "蹉": {
+    "class_id": 2976,
+    "grade": "1"
+  },
+  "蹟": {
+    "class_id": 2977,
+    "grade": "준2"
+  },
+  "蹴": {
+    "class_id": 2978,
+    "grade": "2"
+  },
+  "蹶": {
+    "class_id": 2979,
+    "grade": "1"
+  },
+  "躇": {
+    "class_id": 2980,
+    "grade": "1"
+  },
+  "躊": {
+    "class_id": 2981,
+    "grade": "1"
+  },
+  "躍": {
+    "class_id": 2982,
+    "grade": "준2"
+  },
+  "躪": {
+    "class_id": 2983,
+    "grade": "1"
+  },
+  "身": {
+    "class_id": 2984,
+    "grade": "5"
+  },
+  "躬": {
+    "class_id": 2985,
+    "grade": "1"
+  },
+  "軀": {
+    "class_id": 2986,
+    "grade": "1"
+  },
+  "車": {
+    "class_id": 2987,
+    "grade": "준5"
+  },
+  "軋": {
+    "class_id": 2988,
+    "grade": "1"
+  },
+  "軌": {
+    "class_id": 2989,
+    "grade": "2"
+  },
+  "軍": {
+    "class_id": 2990,
+    "grade": "5"
+  },
+  "軒": {
+    "class_id": 2991,
+    "grade": "2"
+  },
+  "軟": {
+    "class_id": 2992,
+    "grade": "2"
+  },
+  "軫": {
+    "class_id": 2993,
+    "grade": "1"
+  },
+  "軸": {
+    "class_id": 2994,
+    "grade": "2"
+  },
+  "軻": {
+    "class_id": 2995,
+    "grade": "준1"
+  },
+  "軾": {
+    "class_id": 2996,
+    "grade": "준1"
+  },
+  "較": {
+    "class_id": 2997,
+    "grade": "준2"
+  },
+  "載": {
+    "class_id": 2998,
+    "grade": "2"
+  },
+  "輔": {
+    "class_id": 2999,
+    "grade": "준1"
+  },
+  "輕": {
+    "class_id": 3000,
+    "grade": "준4"
+  },
+  "輛": {
+    "class_id": 3001,
+    "grade": "1"
+  },
+  "輝": {
+    "class_id": 3002,
+    "grade": "2"
+  },
+  "輦": {
+    "class_id": 3003,
+    "grade": "1"
+  },
+  "輧": {
+    "class_id": 3004,
+    "grade": "1"
+  },
+  "輩": {
+    "class_id": 3005,
+    "grade": "준2"
+  },
+  "輪": {
+    "class_id": 3006,
+    "grade": "준2"
+  },
+  "輯": {
+    "class_id": 3007,
+    "grade": "2"
+  },
+  "輳": {
+    "class_id": 3008,
+    "grade": "1"
+  },
+  "輶": {
+    "class_id": 3009,
+    "grade": "1"
+  },
+  "輸": {
+    "class_id": 3010,
+    "grade": "준2"
+  },
+  "輻": {
+    "class_id": 3011,
+    "grade": "1"
+  },
+  "輿": {
+    "class_id": 3012,
+    "grade": "준2"
+  },
+  "轂": {
+    "class_id": 3013,
+    "grade": "1"
+  },
+  "轄": {
+    "class_id": 3014,
+    "grade": "준1"
+  },
+  "轅": {
+    "class_id": 3015,
+    "grade": "1"
+  },
+  "轉": {
+    "class_id": 3016,
+    "grade": "3"
+  },
+  "轍": {
+    "class_id": 3017,
+    "grade": "1"
+  },
+  "轢": {
+    "class_id": 3018,
+    "grade": "1"
+  },
+  "辛": {
+    "class_id": 3019,
+    "grade": "준3"
+  },
+  "辣": {
+    "class_id": 3020,
+    "grade": "1"
+  },
+  "辨": {
+    "class_id": 3021,
+    "grade": "준2"
+  },
+  "辭": {
+    "class_id": 3022,
+    "grade": "준2"
+  },
+  "辯": {
+    "class_id": 3023,
+    "grade": "준2"
+  },
+  "辰": {
+    "class_id": 3024,
+    "grade": "준3"
+  },
+  "辱": {
+    "class_id": 3025,
+    "grade": "준2"
+  },
+  "農": {
+    "class_id": 3026,
+    "grade": "5"
+  },
+  "迂": {
+    "class_id": 3027,
+    "grade": "1"
+  },
+  "迅": {
+    "class_id": 3028,
+    "grade": "준1"
+  },
+  "迎": {
+    "class_id": 3029,
+    "grade": "3"
+  },
+  "近": {
+    "class_id": 3030,
+    "grade": "5"
+  },
+  "返": {
+    "class_id": 3031,
+    "grade": "준2"
+  },
+  "迦": {
+    "class_id": 3032,
+    "grade": "준1"
+  },
+  "迪": {
+    "class_id": 3033,
+    "grade": "1"
+  },
+  "迫": {
+    "class_id": 3034,
+    "grade": "2"
+  },
+  "述": {
+    "class_id": 3035,
+    "grade": "준2"
+  },
+  "迷": {
+    "class_id": 3036,
+    "grade": "준2"
+  },
+  "迹": {
+    "class_id": 3037,
+    "grade": "준1"
+  },
+  "追": {
+    "class_id": 3038,
+    "grade": "3"
+  },
+  "退": {
+    "class_id": 3039,
+    "grade": "4"
+  },
+  "送": {
+    "class_id": 3040,
+    "grade": "4"
+  },
+  "逃": {
+    "class_id": 3041,
+    "grade": "준2"
+  },
+  "逅": {
+    "class_id": 3042,
+    "grade": "1"
+  },
+  "逆": {
+    "class_id": 3043,
+    "grade": "준3"
+  },
+  "逍": {
+    "class_id": 3044,
+    "grade": "준1"
+  },
+  "透": {
+    "class_id": 3045,
+    "grade": "준2"
+  },
+  "逐": {
+    "class_id": 3046,
+    "grade": "2"
+  },
+  "途": {
+    "class_id": 3047,
+    "grade": "준2"
+  },
+  "逕": {
+    "class_id": 3048,
+    "grade": "1"
+  },
+  "通": {
+    "class_id": 3049,
+    "grade": "5"
+  },
+  "逝": {
+    "class_id": 3050,
+    "grade": "준1"
+  },
+  "速": {
+    "class_id": 3051,
+    "grade": "준4"
+  },
+  "造": {
+    "class_id": 3052,
+    "grade": "준3"
+  },
+  "逢": {
+    "class_id": 3053,
+    "grade": "3"
+  },
+  "連": {
+    "class_id": 3054,
+    "grade": "준3"
+  },
+  "逮": {
+    "class_id": 3055,
+    "grade": "2"
+  },
+  "週": {
+    "class_id": 3056,
+    "grade": "4"
+  },
+  "進": {
+    "class_id": 3057,
+    "grade": "4"
+  },
+  "逵": {
+    "class_id": 3058,
+    "grade": "1"
+  },
+  "逸": {
+    "class_id": 3059,
+    "grade": "준2"
+  },
+  "逼": {
+    "class_id": 3060,
+    "grade": "1"
+  },
+  "遁": {
+    "class_id": 3061,
+    "grade": "1"
+  },
+  "遂": {
+    "class_id": 3062,
+    "grade": "준2"
+  },
+  "遇": {
+    "class_id": 3063,
+    "grade": "준3"
+  },
+  "遊": {
+    "class_id": 3064,
+    "grade": "3"
+  },
+  "運": {
+    "class_id": 3065,
+    "grade": "준4"
+  },
+  "遍": {
+    "class_id": 3066,
+    "grade": "2"
+  },
+  "過": {
+    "class_id": 3067,
+    "grade": "준4"
+  },
+  "遐": {
+    "class_id": 3068,
+    "grade": "1"
+  },
+  "遒": {
+    "class_id": 3069,
+    "grade": "1"
+  },
+  "道": {
+    "class_id": 3070,
+    "grade": "5"
+  },
+  "達": {
+    "class_id": 3071,
+    "grade": "준3"
+  },
+  "違": {
+    "class_id": 3072,
+    "grade": "2"
+  },
+  "遙": {
+    "class_id": 3073,
+    "grade": "준2"
+  },
+  "遜": {
+    "class_id": 3074,
+    "grade": "2"
+  },
+  "遝": {
+    "class_id": 3075,
+    "grade": "준1"
+  },
+  "遞": {
+    "class_id": 3076,
+    "grade": "2"
+  },
+  "遠": {
+    "class_id": 3077,
+    "grade": "5"
+  },
+  "遡": {
+    "class_id": 3078,
+    "grade": "1"
+  },
+  "遣": {
+    "class_id": 3079,
+    "grade": "준2"
+  },
+  "適": {
+    "class_id": 3080,
+    "grade": "준3"
+  },
+  "遭": {
+    "class_id": 3081,
+    "grade": "1"
+  },
+  "遮": {
+    "class_id": 3082,
+    "grade": "2"
+  },
+  "遲": {
+    "class_id": 3083,
+    "grade": "2"
+  },
+  "遵": {
+    "class_id": 3084,
+    "grade": "준2"
+  },
+  "遷": {
+    "class_id": 3085,
+    "grade": "2"
+  },
+  "選": {
+    "class_id": 3086,
+    "grade": "4"
+  },
+  "遺": {
+    "class_id": 3087,
+    "grade": "준3"
+  },
+  "遼": {
+    "class_id": 3088,
+    "grade": "준1"
+  },
+  "遽": {
+    "class_id": 3089,
+    "grade": "1"
+  },
+  "避": {
+    "class_id": 3090,
+    "grade": "준2"
+  },
+  "邁": {
+    "class_id": 3091,
+    "grade": "1"
+  },
+  "邂": {
+    "class_id": 3092,
+    "grade": "1"
+  },
+  "還": {
+    "class_id": 3093,
+    "grade": "2"
+  },
+  "邇": {
+    "class_id": 3094,
+    "grade": "1"
+  },
+  "邈": {
+    "class_id": 3095,
+    "grade": "1"
+  },
+  "邊": {
+    "class_id": 3096,
+    "grade": "준2"
+  },
+  "邑": {
+    "class_id": 3097,
+    "grade": "5"
+  },
+  "邕": {
+    "class_id": 3098,
+    "grade": "준1"
+  },
+  "邙": {
+    "class_id": 3099,
+    "grade": "1"
+  },
+  "邢": {
+    "class_id": 3100,
+    "grade": "준1"
+  },
+  "那": {
+    "class_id": 3101,
+    "grade": "2"
+  },
+  "邦": {
+    "class_id": 3102,
+    "grade": "준2"
+  },
+  "邪": {
+    "class_id": 3103,
+    "grade": "2"
+  },
+  "邯": {
+    "class_id": 3104,
+    "grade": "준1"
+  },
+  "邰": {
+    "class_id": 3105,
+    "grade": "1"
+  },
+  "邱": {
+    "class_id": 3106,
+    "grade": "준1"
+  },
+  "邵": {
+    "class_id": 3107,
+    "grade": "준1"
+  },
+  "邸": {
+    "class_id": 3108,
+    "grade": "1"
+  },
+  "郁": {
+    "class_id": 3109,
+    "grade": "준1"
+  },
+  "郊": {
+    "class_id": 3110,
+    "grade": "준2"
+  },
+  "郞": {
+    "class_id": 3111,
+    "grade": "3"
+  },
+  "郡": {
+    "class_id": 3112,
+    "grade": "준4"
+  },
+  "部": {
+    "class_id": 3113,
+    "grade": "5"
+  },
+  "郭": {
+    "class_id": 3114,
+    "grade": "2"
+  },
+  "郵": {
+    "class_id": 3115,
+    "grade": "준2"
+  },
+  "都": {
+    "class_id": 3116,
+    "grade": "4"
+  },
+  "鄒": {
+    "class_id": 3117,
+    "grade": "준1"
+  },
+  "鄕": {
+    "class_id": 3118,
+    "grade": "준3"
+  },
+  "鄙": {
+    "class_id": 3119,
+    "grade": "1"
+  },
+  "鄧": {
+    "class_id": 3120,
+    "grade": "1"
+  },
+  "鄭": {
+    "class_id": 3121,
+    "grade": "준1"
+  },
+  "酉": {
+    "class_id": 3122,
+    "grade": "준3"
+  },
+  "酊": {
+    "class_id": 3123,
+    "grade": "1"
+  },
+  "酌": {
+    "class_id": 3124,
+    "grade": "2"
+  },
+  "配": {
+    "class_id": 3125,
+    "grade": "준2"
+  },
+  "酒": {
+    "class_id": 3126,
+    "grade": "3"
+  },
+  "酩": {
+    "class_id": 3127,
+    "grade": "1"
+  },
+  "酪": {
+    "class_id": 3128,
+    "grade": "1"
+  },
+  "酬": {
+    "class_id": 3129,
+    "grade": "준1"
+  },
+  "酷": {
+    "class_id": 3130,
+    "grade": "2"
+  },
+  "酸": {
+    "class_id": 3131,
+    "grade": "2"
+  },
+  "醇": {
+    "class_id": 3132,
+    "grade": "1"
+  },
+  "醉": {
+    "class_id": 3133,
+    "grade": "준2"
+  },
+  "醒": {
+    "class_id": 3134,
+    "grade": "준1"
+  },
+  "醜": {
+    "class_id": 3135,
+    "grade": "2"
+  },
+  "醫": {
+    "class_id": 3136,
+    "grade": "준4"
+  },
+  "醴": {
+    "class_id": 3137,
+    "grade": "준1"
+  },
+  "醵": {
+    "class_id": 3138,
+    "grade": "1"
+  },
+  "采": {
+    "class_id": 3139,
+    "grade": "준1"
+  },
+  "釋": {
+    "class_id": 3140,
+    "grade": "준2"
+  },
+  "里": {
+    "class_id": 3141,
+    "grade": "5"
+  },
+  "重": {
+    "class_id": 3142,
+    "grade": "5"
+  },
+  "野": {
+    "class_id": 3143,
+    "grade": "준4"
+  },
+  "量": {
+    "class_id": 3144,
+    "grade": "4"
+  },
+  "金": {
+    "class_id": 3145,
+    "grade": "8"
+  },
+  "釗": {
+    "class_id": 3146,
+    "grade": "1"
+  },
+  "釘": {
+    "class_id": 3147,
+    "grade": "1"
+  },
+  "釜": {
+    "class_id": 3148,
+    "grade": "준1"
+  },
+  "針": {
+    "class_id": 3149,
+    "grade": "준3"
+  },
+  "釣": {
+    "class_id": 3150,
+    "grade": "2"
+  },
+  "釧": {
+    "class_id": 3151,
+    "grade": "준1"
+  },
+  "釪": {
+    "class_id": 3152,
+    "grade": "1"
+  },
+  "鈍": {
+    "class_id": 3153,
+    "grade": "준2"
+  },
+  "鈕": {
+    "class_id": 3154,
+    "grade": "1"
+  },
+  "鈗": {
+    "class_id": 3155,
+    "grade": "준1"
+  },
+  "鈞": {
+    "class_id": 3156,
+    "grade": "1"
+  },
+  "鈴": {
+    "class_id": 3157,
+    "grade": "1"
+  },
+  "鈺": {
+    "class_id": 3158,
+    "grade": "준1"
+  },
+  "鉀": {
+    "class_id": 3159,
+    "grade": "준1"
+  },
+  "鉅": {
+    "class_id": 3160,
+    "grade": "1"
+  },
+  "鉉": {
+    "class_id": 3161,
+    "grade": "준1"
+  },
+  "鉍": {
+    "class_id": 3162,
+    "grade": "1"
+  },
+  "鉐": {
+    "class_id": 3163,
+    "grade": "1"
+  },
+  "鉑": {
+    "class_id": 3164,
+    "grade": "1"
+  },
+  "鉛": {
+    "class_id": 3165,
+    "grade": "준2"
+  },
+  "鉢": {
+    "class_id": 3166,
+    "grade": "준1"
+  },
+  "鉦": {
+    "class_id": 3167,
+    "grade": "1"
+  },
+  "鉷": {
+    "class_id": 3168,
+    "grade": "1"
+  },
+  "鉼": {
+    "class_id": 3169,
+    "grade": "1"
+  },
+  "銀": {
+    "class_id": 3170,
+    "grade": "5"
+  },
+  "銃": {
+    "class_id": 3171,
+    "grade": "준2"
+  },
+  "銅": {
+    "class_id": 3172,
+    "grade": "준2"
+  },
+  "銑": {
+    "class_id": 3173,
+    "grade": "1"
+  },
+  "銓": {
+    "class_id": 3174,
+    "grade": "1"
+  },
+  "銖": {
+    "class_id": 3175,
+    "grade": "준1"
+  },
+  "銘": {
+    "class_id": 3176,
+    "grade": "준2"
+  },
+  "銳": {
+    "class_id": 3177,
+    "grade": "준2"
+  },
+  "銶": {
+    "class_id": 3178,
+    "grade": "1"
+  },
+  "鋌": {
+    "class_id": 3179,
+    "grade": "1"
+  },
+  "鋒": {
+    "class_id": 3180,
+    "grade": "1"
+  },
+  "鋕": {
+    "class_id": 3181,
+    "grade": "1"
+  },
+  "鋥": {
+    "class_id": 3182,
+    "grade": "1"
+  },
+  "鋪": {
+    "class_id": 3183,
+    "grade": "준1"
+  },
+  "鋼": {
+    "class_id": 3184,
+    "grade": "준2"
+  },
+  "錄": {
+    "class_id": 3185,
+    "grade": "준3"
+  },
+  "錐": {
+    "class_id": 3186,
+    "grade": "1"
+  },
+  "錕": {
+    "class_id": 3187,
+    "grade": "1"
+  },
+  "錘": {
+    "class_id": 3188,
+    "grade": "1"
+  },
+  "錚": {
+    "class_id": 3189,
+    "grade": "1"
+  },
+  "錞": {
+    "class_id": 3190,
+    "grade": "1"
+  },
+  "錠": {
+    "class_id": 3191,
+    "grade": "1"
+  },
+  "錡": {
+    "class_id": 3192,
+    "grade": "1"
+  },
+  "錢": {
+    "class_id": 3193,
+    "grade": "3"
+  },
+  "錤": {
+    "class_id": 3194,
+    "grade": "1"
+  },
+  "錦": {
+    "class_id": 3195,
+    "grade": "준2"
+  },
+  "錧": {
+    "class_id": 3196,
+    "grade": "1"
+  },
+  "錨": {
+    "class_id": 3197,
+    "grade": "1"
+  },
+  "錫": {
+    "class_id": 3198,
+    "grade": "준1"
+  },
+  "錯": {
+    "class_id": 3199,
+    "grade": "준2"
+  },
+  "鍈": {
+    "class_id": 3200,
+    "grade": "1"
+  },
+  "鍊": {
+    "class_id": 3201,
+    "grade": "준2"
+  },
+  "鍍": {
+    "class_id": 3202,
+    "grade": "1"
+  },
+  "鍑": {
+    "class_id": 3203,
+    "grade": "1"
+  },
+  "鍛": {
+    "class_id": 3204,
+    "grade": "2"
+  },
+  "鍵": {
+    "class_id": 3205,
+    "grade": "준1"
+  },
+  "鍾": {
+    "class_id": 3206,
+    "grade": "1"
+  },
+  "鎌": {
+    "class_id": 3207,
+    "grade": "1"
+  },
+  "鎔": {
+    "class_id": 3208,
+    "grade": "2"
+  },
+  "鎖": {
+    "class_id": 3209,
+    "grade": "2"
+  },
+  "鎬": {
+    "class_id": 3210,
+    "grade": "준1"
+  },
+  "鎭": {
+    "class_id": 3211,
+    "grade": "준2"
+  },
+  "鎰": {
+    "class_id": 3212,
+    "grade": "준1"
+  },
+  "鏋": {
+    "class_id": 3213,
+    "grade": "1"
+  },
+  "鏞": {
+    "class_id": 3214,
+    "grade": "준1"
+  },
+  "鏡": {
+    "class_id": 3215,
+    "grade": "3"
+  },
+  "鐄": {
+    "class_id": 3216,
+    "grade": "1"
+  },
+  "鐘": {
+    "class_id": 3217,
+    "grade": "3"
+  },
+  "鐵": {
+    "class_id": 3218,
+    "grade": "4"
+  },
+  "鐶": {
+    "class_id": 3219,
+    "grade": "1"
+  },
+  "鐸": {
+    "class_id": 3220,
+    "grade": "준1"
+  },
+  "鐺": {
+    "class_id": 3221,
+    "grade": "1"
+  },
+  "鑂": {
+    "class_id": 3222,
+    "grade": "1"
+  },
+  "鑄": {
+    "class_id": 3223,
+    "grade": "2"
+  },
+  "鑑": {
+    "class_id": 3224,
+    "grade": "준2"
+  },
+  "鑛": {
+    "class_id": 3225,
+    "grade": "준2"
+  },
+  "鑽": {
+    "class_id": 3226,
+    "grade": "준1"
+  },
+  "長": {
+    "class_id": 3227,
+    "grade": "5"
+  },
+  "門": {
+    "class_id": 3228,
+    "grade": "8"
+  },
+  "閃": {
+    "class_id": 3229,
+    "grade": "준1"
+  },
+  "閉": {
+    "class_id": 3230,
+    "grade": "3"
+  },
+  "開": {
+    "class_id": 3231,
+    "grade": "5"
+  },
+  "閏": {
+    "class_id": 3232,
+    "grade": "2"
+  },
+  "閑": {
+    "class_id": 3233,
+    "grade": "3"
+  },
+  "閒": {
+    "class_id": 3234,
+    "grade": "1"
+  },
+  "間": {
+    "class_id": 3235,
+    "grade": "5"
+  },
+  "閔": {
+    "class_id": 3236,
+    "grade": "준1"
+  },
+  "閣": {
+    "class_id": 3237,
+    "grade": "준2"
+  },
+  "閥": {
+    "class_id": 3238,
+    "grade": "2"
+  },
+  "閨": {
+    "class_id": 3239,
+    "grade": "2"
+  },
+  "閭": {
+    "class_id": 3240,
+    "grade": "1"
+  },
+  "閱": {
+    "class_id": 3241,
+    "grade": "2"
+  },
+  "閻": {
+    "class_id": 3242,
+    "grade": "준1"
+  },
+  "閼": {
+    "class_id": 3243,
+    "grade": "준1"
+  },
+  "闇": {
+    "class_id": 3244,
+    "grade": "1"
+  },
+  "闊": {
+    "class_id": 3245,
+    "grade": "1"
+  },
+  "闕": {
+    "class_id": 3246,
+    "grade": "2"
+  },
+  "關": {
+    "class_id": 3247,
+    "grade": "4"
+  },
+  "闢": {
+    "class_id": 3248,
+    "grade": "1"
+  },
+  "阜": {
+    "class_id": 3249,
+    "grade": "준1"
+  },
+  "阡": {
+    "class_id": 3250,
+    "grade": "1"
+  },
+  "阪": {
+    "class_id": 3251,
+    "grade": "준1"
+  },
+  "阭": {
+    "class_id": 3252,
+    "grade": "1"
+  },
+  "阮": {
+    "class_id": 3253,
+    "grade": "1"
+  },
+  "防": {
+    "class_id": 3254,
+    "grade": "준3"
+  },
+  "阿": {
+    "class_id": 3255,
+    "grade": "2"
+  },
+  "附": {
+    "class_id": 3256,
+    "grade": "2"
+  },
+  "陋": {
+    "class_id": 3257,
+    "grade": "1"
+  },
+  "降": {
+    "class_id": 3258,
+    "grade": "준3"
+  },
+  "限": {
+    "class_id": 3259,
+    "grade": "4"
+  },
+  "陛": {
+    "class_id": 3260,
+    "grade": "1"
+  },
+  "陜": {
+    "class_id": 3261,
+    "grade": "준1"
+  },
+  "陝": {
+    "class_id": 3262,
+    "grade": "준1"
+  },
+  "陞": {
+    "class_id": 3263,
+    "grade": "1"
+  },
+  "陟": {
+    "class_id": 3264,
+    "grade": "준1"
+  },
+  "院": {
+    "class_id": 3265,
+    "grade": "준4"
+  },
+  "陣": {
+    "class_id": 3266,
+    "grade": "준2"
+  },
+  "除": {
+    "class_id": 3267,
+    "grade": "준3"
+  },
+  "陪": {
+    "class_id": 3268,
+    "grade": "1"
+  },
+  "陰": {
+    "class_id": 3269,
+    "grade": "준3"
+  },
+  "陳": {
+    "class_id": 3270,
+    "grade": "준2"
+  },
+  "陵": {
+    "class_id": 3271,
+    "grade": "준2"
+  },
+  "陶": {
+    "class_id": 3272,
+    "grade": "2"
+  },
+  "陷": {
+    "class_id": 3273,
+    "grade": "2"
+  },
+  "陸": {
+    "class_id": 3274,
+    "grade": "4"
+  },
+  "陽": {
+    "class_id": 3275,
+    "grade": "준4"
+  },
+  "隅": {
+    "class_id": 3276,
+    "grade": "1"
+  },
+  "隆": {
+    "class_id": 3277,
+    "grade": "2"
+  },
+  "隊": {
+    "class_id": 3278,
+    "grade": "준3"
+  },
+  "隋": {
+    "class_id": 3279,
+    "grade": "준1"
+  },
+  "階": {
+    "class_id": 3280,
+    "grade": "3"
+  },
+  "隔": {
+    "class_id": 3281,
+    "grade": "2"
+  },
+  "隘": {
+    "class_id": 3282,
+    "grade": "준1"
+  },
+  "隙": {
+    "class_id": 3283,
+    "grade": "1"
+  },
+  "際": {
+    "class_id": 3284,
+    "grade": "준2"
+  },
+  "障": {
+    "class_id": 3285,
+    "grade": "준2"
+  },
+  "隣": {
+    "class_id": 3286,
+    "grade": "준2"
+  },
+  "隧": {
+    "class_id": 3287,
+    "grade": "1"
+  },
+  "隨": {
+    "class_id": 3288,
+    "grade": "2"
+  },
+  "險": {
+    "class_id": 3289,
+    "grade": "준2"
+  },
+  "隱": {
+    "class_id": 3290,
+    "grade": "준2"
+  },
+  "隷": {
+    "class_id": 3291,
+    "grade": "1"
+  },
+  "隻": {
+    "class_id": 3292,
+    "grade": "준1"
+  },
+  "隼": {
+    "class_id": 3293,
+    "grade": "1"
+  },
+  "雀": {
+    "class_id": 3294,
+    "grade": "준1"
+  },
+  "雁": {
+    "class_id": 3295,
+    "grade": "2"
+  },
+  "雄": {
+    "class_id": 3296,
+    "grade": "4"
+  },
+  "雅": {
+    "class_id": 3297,
+    "grade": "준2"
+  },
+  "集": {
+    "class_id": 3298,
+    "grade": "준4"
+  },
+  "雇": {
+    "class_id": 3299,
+    "grade": "2"
+  },
+  "雉": {
+    "class_id": 3300,
+    "grade": "준1"
+  },
+  "雋": {
+    "class_id": 3301,
+    "grade": "1"
+  },
+  "雌": {
+    "class_id": 3302,
+    "grade": "준2"
+  },
+  "雍": {
+    "class_id": 3303,
+    "grade": "준1"
+  },
+  "雖": {
+    "class_id": 3304,
+    "grade": "3"
+  },
+  "雙": {
+    "class_id": 3305,
+    "grade": "준2"
+  },
+  "雜": {
+    "class_id": 3306,
+    "grade": "준2"
+  },
+  "離": {
+    "class_id": 3307,
+    "grade": "준2"
+  },
+  "難": {
+    "class_id": 3308,
+    "grade": "준3"
+  },
+  "雨": {
+    "class_id": 3309,
+    "grade": "4"
+  },
+  "雪": {
+    "class_id": 3310,
+    "grade": "준4"
+  },
+  "雰": {
+    "class_id": 3311,
+    "grade": "1"
+  },
+  "雲": {
+    "class_id": 3312,
+    "grade": "준4"
+  },
+  "零": {
+    "class_id": 3313,
+    "grade": "준2"
+  },
+  "雷": {
+    "class_id": 3314,
+    "grade": "준2"
+  },
+  "電": {
+    "class_id": 3315,
+    "grade": "5"
+  },
+  "需": {
+    "class_id": 3316,
+    "grade": "준2"
+  },
+  "霄": {
+    "class_id": 3317,
+    "grade": "1"
+  },
+  "震": {
+    "class_id": 3318,
+    "grade": "2"
+  },
+  "霖": {
+    "class_id": 3319,
+    "grade": "1"
+  },
+  "霜": {
+    "class_id": 3320,
+    "grade": "3"
+  },
+  "霞": {
+    "class_id": 3321,
+    "grade": "1"
+  },
+  "霧": {
+    "class_id": 3322,
+    "grade": "2"
+  },
+  "露": {
+    "class_id": 3323,
+    "grade": "3"
+  },
+  "霹": {
+    "class_id": 3324,
+    "grade": "1"
+  },
+  "靂": {
+    "class_id": 3325,
+    "grade": "1"
+  },
+  "靈": {
+    "class_id": 3326,
+    "grade": "2"
+  },
+  "靑": {
+    "class_id": 3327,
+    "grade": "7"
+  },
+  "靖": {
+    "class_id": 3328,
+    "grade": "1"
+  },
+  "靚": {
+    "class_id": 3329,
+    "grade": "1"
+  },
+  "靜": {
+    "class_id": 3330,
+    "grade": "3"
+  },
+  "非": {
+    "class_id": 3331,
+    "grade": "준3"
+  },
+  "靡": {
+    "class_id": 3332,
+    "grade": "1"
+  },
+  "面": {
+    "class_id": 3333,
+    "grade": "5"
+  },
+  "革": {
+    "class_id": 3334,
+    "grade": "준2"
+  },
+  "靴": {
+    "class_id": 3335,
+    "grade": "2"
+  },
+  "靺": {
+    "class_id": 3336,
+    "grade": "준1"
+  },
+  "鞍": {
+    "class_id": 3337,
+    "grade": "2"
+  },
+  "鞏": {
+    "class_id": 3338,
+    "grade": "1"
+  },
+  "鞠": {
+    "class_id": 3339,
+    "grade": "준1"
+  },
+  "鞨": {
+    "class_id": 3340,
+    "grade": "준1"
+  },
+  "鞭": {
+    "class_id": 3341,
+    "grade": "준1"
+  },
+  "韋": {
+    "class_id": 3342,
+    "grade": "준1"
+  },
+  "韓": {
+    "class_id": 3343,
+    "grade": "5"
+  },
+  "音": {
+    "class_id": 3344,
+    "grade": "5"
+  },
+  "韶": {
+    "class_id": 3345,
+    "grade": "1"
+  },
+  "韻": {
+    "class_id": 3346,
+    "grade": "2"
+  },
+  "響": {
+    "class_id": 3347,
+    "grade": "준2"
+  },
+  "頀": {
+    "class_id": 3348,
+    "grade": "1"
+  },
+  "頂": {
+    "class_id": 3349,
+    "grade": "3"
+  },
+  "頃": {
+    "class_id": 3350,
+    "grade": "2"
+  },
+  "項": {
+    "class_id": 3351,
+    "grade": "준2"
+  },
+  "順": {
+    "class_id": 3352,
+    "grade": "준4"
+  },
+  "須": {
+    "class_id": 3353,
+    "grade": "3"
+  },
+  "頊": {
+    "class_id": 3354,
+    "grade": "준1"
+  },
+  "頌": {
+    "class_id": 3355,
+    "grade": "준2"
+  },
+  "預": {
+    "class_id": 3356,
+    "grade": "2"
+  },
+  "頒": {
+    "class_id": 3357,
+    "grade": "1"
+  },
+  "頓": {
+    "class_id": 3358,
+    "grade": "준1"
+  },
+  "頗": {
+    "class_id": 3359,
+    "grade": "2"
+  },
+  "領": {
+    "class_id": 3360,
+    "grade": "4"
+  },
+  "頤": {
+    "class_id": 3361,
+    "grade": "1"
+  },
+  "頭": {
+    "class_id": 3362,
+    "grade": "5"
+  },
+  "頻": {
+    "class_id": 3363,
+    "grade": "2"
+  },
+  "題": {
+    "class_id": 3364,
+    "grade": "준4"
+  },
+  "額": {
+    "class_id": 3365,
+    "grade": "준2"
+  },
+  "顔": {
+    "class_id": 3366,
+    "grade": "3"
+  },
+  "願": {
+    "class_id": 3367,
+    "grade": "4"
+  },
+  "顙": {
+    "class_id": 3368,
+    "grade": "1"
+  },
+  "顚": {
+    "class_id": 3369,
+    "grade": "준1"
+  },
+  "類": {
+    "class_id": 3370,
+    "grade": "4"
+  },
+  "顥": {
+    "class_id": 3371,
+    "grade": "1"
+  },
+  "顧": {
+    "class_id": 3372,
+    "grade": "2"
+  },
+  "顯": {
+    "class_id": 3373,
+    "grade": "준2"
+  },
+  "風": {
+    "class_id": 3374,
+    "grade": "준4"
+  },
+  "颱": {
+    "class_id": 3375,
+    "grade": "2"
+  },
+  "颻": {
+    "class_id": 3376,
+    "grade": "1"
+  },
+  "飄": {
+    "class_id": 3377,
+    "grade": "1"
+  },
+  "飛": {
+    "class_id": 3378,
+    "grade": "준3"
+  },
+  "飜": {
+    "class_id": 3379,
+    "grade": "2"
+  },
+  "食": {
+    "class_id": 3380,
+    "grade": "준5"
+  },
+  "飢": {
+    "class_id": 3381,
+    "grade": "2"
+  },
+  "飫": {
+    "class_id": 3382,
+    "grade": "1"
+  },
+  "飮": {
+    "class_id": 3383,
+    "grade": "준4"
+  },
+  "飯": {
+    "class_id": 3384,
+    "grade": "준3"
+  },
+  "飱": {
+    "class_id": 3385,
+    "grade": "1"
+  },
+  "飼": {
+    "class_id": 3386,
+    "grade": "2"
+  },
+  "飽": {
+    "class_id": 3387,
+    "grade": "2"
+  },
+  "飾": {
+    "class_id": 3388,
+    "grade": "준2"
+  },
+  "養": {
+    "class_id": 3389,
+    "grade": "4"
+  },
+  "餐": {
+    "class_id": 3390,
+    "grade": "준1"
+  },
+  "餓": {
+    "class_id": 3391,
+    "grade": "준2"
+  },
+  "餘": {
+    "class_id": 3392,
+    "grade": "4"
+  },
+  "餠": {
+    "class_id": 3393,
+    "grade": "1"
+  },
+  "館": {
+    "class_id": 3394,
+    "grade": "2"
+  },
+  "饉": {
+    "class_id": 3395,
+    "grade": "1"
+  },
+  "饒": {
+    "class_id": 3396,
+    "grade": "1"
+  },
+  "饗": {
+    "class_id": 3397,
+    "grade": "1"
+  },
+  "首": {
+    "class_id": 3398,
+    "grade": "5"
+  },
+  "香": {
+    "class_id": 3399,
+    "grade": "4"
+  },
+  "馝": {
+    "class_id": 3400,
+    "grade": "1"
+  },
+  "馥": {
+    "class_id": 3401,
+    "grade": "1"
+  },
+  "馨": {
+    "class_id": 3402,
+    "grade": "준1"
+  },
+  "馬": {
+    "class_id": 3403,
+    "grade": "6"
+  },
+  "馭": {
+    "class_id": 3404,
+    "grade": "1"
+  },
+  "馮": {
+    "class_id": 3405,
+    "grade": "준1"
+  },
+  "馳": {
+    "class_id": 3406,
+    "grade": "1"
+  },
+  "馴": {
+    "class_id": 3407,
+    "grade": "1"
+  },
+  "馹": {
+    "class_id": 3408,
+    "grade": "1"
+  },
+  "駁": {
+    "class_id": 3409,
+    "grade": "1"
+  },
+  "駐": {
+    "class_id": 3410,
+    "grade": "2"
+  },
+  "駒": {
+    "class_id": 3411,
+    "grade": "1"
+  },
+  "駕": {
+    "class_id": 3412,
+    "grade": "1"
+  },
+  "駭": {
+    "class_id": 3413,
+    "grade": "1"
+  },
+  "駿": {
+    "class_id": 3414,
+    "grade": "준1"
+  },
+  "騎": {
+    "class_id": 3415,
+    "grade": "2"
+  },
+  "騏": {
+    "class_id": 3416,
+    "grade": "준1"
+  },
+  "騰": {
+    "class_id": 3417,
+    "grade": "2"
+  },
+  "騷": {
+    "class_id": 3418,
+    "grade": "2"
+  },
+  "騾": {
+    "class_id": 3419,
+    "grade": "1"
+  },
+  "驃": {
+    "class_id": 3420,
+    "grade": "1"
+  },
+  "驅": {
+    "class_id": 3421,
+    "grade": "2"
+  },
+  "驍": {
+    "class_id": 3422,
+    "grade": "1"
+  },
+  "驕": {
+    "class_id": 3423,
+    "grade": "준1"
+  },
+  "驗": {
+    "class_id": 3424,
+    "grade": "준3"
+  },
+  "驚": {
+    "class_id": 3425,
+    "grade": "3"
+  },
+  "驛": {
+    "class_id": 3426,
+    "grade": "준2"
+  },
+  "驤": {
+    "class_id": 3427,
+    "grade": "1"
+  },
+  "驥": {
+    "class_id": 3428,
+    "grade": "준1"
+  },
+  "驩": {
+    "class_id": 3429,
+    "grade": "1"
+  },
+  "驪": {
+    "class_id": 3430,
+    "grade": "준1"
+  },
+  "骨": {
+    "class_id": 3431,
+    "grade": "4"
+  },
+  "骸": {
+    "class_id": 3432,
+    "grade": "준1"
+  },
+  "髓": {
+    "class_id": 3433,
+    "grade": "1"
+  },
+  "體": {
+    "class_id": 3434,
+    "grade": "준4"
+  },
+  "高": {
+    "class_id": 3435,
+    "grade": "5"
+  },
+  "髮": {
+    "class_id": 3436,
+    "grade": "준2"
+  },
+  "鬧": {
+    "class_id": 3437,
+    "grade": "1"
+  },
+  "鬪": {
+    "class_id": 3438,
+    "grade": "준2"
+  },
+  "鬱": {
+    "class_id": 3439,
+    "grade": "2"
+  },
+  "鬼": {
+    "class_id": 3440,
+    "grade": "준2"
+  },
+  "魁": {
+    "class_id": 3441,
+    "grade": "1"
+  },
+  "魂": {
+    "class_id": 3442,
+    "grade": "2"
+  },
+  "魄": {
+    "class_id": 3443,
+    "grade": "2"
+  },
+  "魅": {
+    "class_id": 3444,
+    "grade": "준1"
+  },
+  "魏": {
+    "class_id": 3445,
+    "grade": "준1"
+  },
+  "魔": {
+    "class_id": 3446,
+    "grade": "2"
+  },
+  "魚": {
+    "class_id": 3447,
+    "grade": "6"
+  },
+  "魯": {
+    "class_id": 3448,
+    "grade": "준1"
+  },
+  "鮑": {
+    "class_id": 3449,
+    "grade": "준1"
+  },
+  "鮮": {
+    "class_id": 3450,
+    "grade": "4"
+  },
+  "鯤": {
+    "class_id": 3451,
+    "grade": "1"
+  },
+  "鯨": {
+    "class_id": 3452,
+    "grade": "1"
+  },
+  "鱗": {
+    "class_id": 3453,
+    "grade": "준1"
+  },
+  "鳥": {
+    "class_id": 3454,
+    "grade": "4"
+  },
+  "鳩": {
+    "class_id": 3455,
+    "grade": "준1"
+  },
+  "鳳": {
+    "class_id": 3456,
+    "grade": "2"
+  },
+  "鳴": {
+    "class_id": 3457,
+    "grade": "3"
+  },
+  "鴛": {
+    "class_id": 3458,
+    "grade": "1"
+  },
+  "鴦": {
+    "class_id": 3459,
+    "grade": "1"
+  },
+  "鴨": {
+    "class_id": 3460,
+    "grade": "준1"
+  },
+  "鴻": {
+    "class_id": 3461,
+    "grade": "2"
+  },
+  "鵑": {
+    "class_id": 3462,
+    "grade": "1"
+  },
+  "鵠": {
+    "class_id": 3463,
+    "grade": "1"
+  },
+  "鵡": {
+    "class_id": 3464,
+    "grade": "1"
+  },
+  "鵬": {
+    "class_id": 3465,
+    "grade": "준1"
+  },
+  "鵲": {
+    "class_id": 3466,
+    "grade": "1"
+  },
+  "鶯": {
+    "class_id": 3467,
+    "grade": "1"
+  },
+  "鶴": {
+    "class_id": 3468,
+    "grade": "2"
+  },
+  "鷄": {
+    "class_id": 3469,
+    "grade": "3"
+  },
+  "鷗": {
+    "class_id": 3470,
+    "grade": "2"
+  },
+  "鷹": {
+    "class_id": 3471,
+    "grade": "준1"
+  },
+  "鷺": {
+    "class_id": 3472,
+    "grade": "준1"
+  },
+  "鸚": {
+    "class_id": 3473,
+    "grade": "1"
+  },
+  "鹹": {
+    "class_id": 3474,
+    "grade": "1"
+  },
+  "鹽": {
+    "class_id": 3475,
+    "grade": "준2"
+  },
+  "鹿": {
+    "class_id": 3476,
+    "grade": "준2"
+  },
+  "麒": {
+    "class_id": 3477,
+    "grade": "준1"
+  },
+  "麗": {
+    "class_id": 3478,
+    "grade": "준2"
+  },
+  "麟": {
+    "class_id": 3479,
+    "grade": "준1"
+  },
+  "麥": {
+    "class_id": 3480,
+    "grade": "3"
+  },
+  "麵": {
+    "class_id": 3481,
+    "grade": "1"
+  },
+  "麻": {
+    "class_id": 3482,
+    "grade": "준2"
+  },
+  "黃": {
+    "class_id": 3483,
+    "grade": "5"
+  },
+  "黎": {
+    "class_id": 3484,
+    "grade": "1"
+  },
+  "黑": {
+    "class_id": 3485,
+    "grade": "준4"
+  },
+  "黙": {
+    "class_id": 3486,
+    "grade": "준2"
+  },
+  "黜": {
+    "class_id": 3487,
+    "grade": "준1"
+  },
+  "點": {
+    "class_id": 3488,
+    "grade": "준3"
+  },
+  "黨": {
+    "class_id": 3489,
+    "grade": "준2"
+  },
+  "鼎": {
+    "class_id": 3490,
+    "grade": "준1"
+  },
+  "鼓": {
+    "class_id": 3491,
+    "grade": "2"
+  },
+  "鼻": {
+    "class_id": 3492,
+    "grade": "4"
+  },
+  "齊": {
+    "class_id": 3493,
+    "grade": "준2"
+  },
+  "齋": {
+    "class_id": 3494,
+    "grade": "1"
+  },
+  "齒": {
+    "class_id": 3495,
+    "grade": "4"
+  },
+  "齡": {
+    "class_id": 3496,
+    "grade": "2"
+  },
+  "龍": {
+    "class_id": 3497,
+    "grade": "준2"
+  },
+  "龐": {
+    "class_id": 3498,
+    "grade": "준1"
+  },
+  "龜": {
+    "class_id": 3499,
+    "grade": "준2"
+  }
+}

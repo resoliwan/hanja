@@ -1,0 +1,6 @@
+{
+  "samples": 20000,
+  "unique_ids": 20000,
+  "smoke_candidate_mismatches": 0,
+  "execution": "first 5881 sequential, remaining 14119 in four disjoint processes with identical settings; merged and verified in original manifest order"
+}

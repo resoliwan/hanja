@@ -1,0 +1,17 @@
+{
+  "repository": "https://huggingface.co/kwadraten/shikiji",
+  "revision": "84cc2fbec1603cd72daaf1c2814a65b977636b5c",
+  "model": {
+    "type": "file",
+    "oid": "79f60e43d0654d898b0f1891982f63a8f04b0d84",
+    "size": 143951632,
+    "lfs": {
+      "oid": "f188732e3208b50bc39f3f5ea222f88ccf836f04136026beb99bcaf78771c6a1",
+      "size": 143951632,
+      "pointerSize": 134
+    },
+    "xetHash": "9c16d8e6c2906d7a08044cd8494c59987771a6ed1534a17c92a4ae65d55ad84b",
+    "path": "supervised_pretrain_checkpoint.onnx"
+  },
+  "verified_sha256": "f188732e3208b50bc39f3f5ea222f88ccf836f04136026beb99bcaf78771c6a1"
+}

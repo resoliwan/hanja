@@ -1,0 +1,18 @@
+{
+  "platform": "ProductName:\t\tmacOS\nProductVersion:\t\t26.5.1\nBuildVersion:\t\t25F80\n",
+  "architecture": "arm64",
+  "repositories": {
+    "hanzi_lookup": "01f90c3ab99a8fadf0696c28e5eb097223c500db",
+    "zinnia": "581faa8f6f15e4a7b21964be3a5ec36265c80e5b",
+    "cnn_chinese_hw": "6dba4ed4f667315545a616680bb300d9c23ad868",
+    "cnn_chinese_hw_legacy": "9049eb5e7cb353b19d07241cb8712e77c18afad3",
+    "GlyphWeave": "4be9f602c08b914d1bdc79b150ea6ffe9953a862",
+    "IME_Test": "12757c1d4a575a5b0b56abc31d4f1c890ace499e"
+  },
+  "sha256": {
+    "models/glyphweave-v1.0.0-inference/best.pt": "c9184a5a5a75f9ffbd656c10ce8755f647335e461983b5020441ae41012366d2",
+    "models/tegaki-zinnia-traditional-chinese-0.3/handwriting-zh_TW.model": "cd47f16b64e7ecaa4c2813d0f98231dfea7b411f48be1ead5c9b2eeb19330b11",
+    "vendor/cnn_chinese_hw_legacy/cnn_chinese_hw/data/hw_quant_model.tflite": "b703257bb24a7d4df7ebd506990dec6a8dd92ad7047259a8e30f089b1c86a889",
+    "vendor/hanzi_lookup/web_demo/hanzi_lookup_bg.wasm": "8d2affdbfffe651d62534fb6a4ad192d57cf3559631860a7aadb7cd48ffa7463"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "target_characters": 3500,
+  "image_size": [
+    128,
+    128
+  ],
+  "font_families": 5,
+  "counts_by_source": {
+    "fonts": 103440,
+    "ai-free": 174971,
+    "scut": 56949
+  },
+  "characters_by_source": {
+    "fonts": 3500,
+    "ai-free": 3352,
+    "scut": 3072
+  },
+  "handwriting_source_characters": 3354,
+  "font_only_characters": 146,
+  "no_image_characters": 0,
+  "training_performed": false,
+  "scut_usage": "evaluation_only",
+  "ai_free_provenance": "handwriting-derived; original writer identities and synthetic content not independently verified",
+  "split": {
+    "held_out_font": "noto-sans-kr",
+    "held_out_characters": 3500,
+    "counts": {
+      "ai-free:train_candidate": 174971,
+      "fonts:evaluation_only": 21000,
+      "fonts:train_candidate": 82440,
+      "scut:evaluation_only": 56949
+    },
+    "training_excluded_hashes": 0,
+    "exact_train_evaluation_overlap_hashes": 0,
+    "conflicting_label_hashes": 0,
+    "audit": "existing CSV labels and pixel hashes only; images not opened",
+    "variants_policy": "All six variants per font/character stay in the same split"
+  }
+}

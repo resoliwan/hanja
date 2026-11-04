@@ -1,0 +1,18 @@
+[submodule "vendor/cnn_chinese_hw_legacy"]
+	path = vendor/cnn_chinese_hw_legacy
+	url = https://github.com/mcyph/cnn_chinese_hw.git
+[submodule "vendor/hanzi_lookup"]
+	path = vendor/hanzi_lookup
+	url = https://github.com/gugray/hanzi_lookup.git
+[submodule "vendor/GlyphWeave"]
+	path = vendor/GlyphWeave
+	url = https://github.com/13536309143/GlyphWeave.git
+[submodule "vendor/cnn_chinese_hw"]
+	path = vendor/cnn_chinese_hw
+	url = https://github.com/mcyph/cnn_chinese_hw.git
+[submodule "vendor/zinnia"]
+	path = vendor/zinnia
+	url = https://github.com/taku910/zinnia.git
+[submodule "vendor/IME_Test"]
+	path = vendor/IME_Test
+	url = https://github.com/HCIILAB/IME_Test.git

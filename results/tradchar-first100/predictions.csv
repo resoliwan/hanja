@@ -1,0 +1,401 @@
+﻿model,id,label,candidates,ms,error,top1,top5
+Hanzi Lookup,trad1-0001,划,氶 队 犯 邓 孔,5.722542000000001,,False,False
+Hanzi Lookup,trad1-0002,虫,玄 讪 发 冎 亢,0.3154590000000006,,False,False
+Hanzi Lookup,trad1-0003,丁,丁 厂 寸 刂 冂,0.04550000000000054,,True,True
+Hanzi Lookup,trad1-0004,入,几 九 儿 乇 凡,0.06841700000000017,,False,False
+Hanzi Lookup,trad1-0005,刀,刀 卩 力 才 艹,0.06500000000000128,,True,True
+Hanzi Lookup,trad1-0006,匕,屮 丩 千 凵 冂,0.04758299999999949,,False,False
+Hanzi Lookup,trad1-0007,丸,飞 卂 书 瓦 互,0.11158299999999954,,False,False
+Hanzi Lookup,trad1-0008,五,马 丂 卫 弓 巳,0.07620800000000116,,False,False
+Hanzi Lookup,trad1-0009,亢,幺 弓 亿 乞 马,0.06741699999999895,,False,False
+Hanzi Lookup,trad1-0010,仆,仆 犬 灬 爪 川,0.08429100000000034,,True,True
+Hanzi Lookup,trad1-0011,切,切 邛 瓦 邓 厉,0.2651660000000007,,True,True
+Hanzi Lookup,trad1-0012,升,弓 弔 历 巿 牙,0.10004100000000093,,False,False
+Hanzi Lookup,trad1-0013,夫,夬 支 尺 友 圤,0.11841700000000088,,False,False
+Hanzi Lookup,trad1-0014,斤,飞 乃 马 阝 丂,0.04649999999999821,,False,False
+Hanzi Lookup,trad1-0015,乩,乩 叽 讬 叱 吒,0.4085839999999976,,True,True
+Hanzi Lookup,trad1-0016,位,位 忙 兄 住 后,0.26841699999999946,,True,True
+Hanzi Lookup,trad1-0017,吝,龙 存 尥 襾 驭,0.37962500000000077,,False,False
+Hanzi Lookup,trad1-0018,吹,吃 邡 丝 吸 收,0.36991700000000094,,False,False
+Hanzi Lookup,trad1-0019,吮,亾,0.020624999999999005,,False,False
+Hanzi Lookup,trad1-0020,希,氖 邬 邠 厽 邨,0.3625410000000002,,False,False
+Hanzi Lookup,trad1-0021,庇,讥 奶 讫 扔 饥,0.07679200000000108,,False,False
+Hanzi Lookup,trad1-0022,弄,弄 芙 层 吴 运,0.2120829999999998,,True,True
+Hanzi Lookup,trad1-0023,扭,圮 抠 坑 圯 证,0.7541249999999984,,False,False
+Hanzi Lookup,trad1-0024,汰,汰 汊 沐 泔 坏,0.23333399999999926,,True,True
+Hanzi Lookup,trad1-0025,肚,纣 纽 纪 闯 约,0.8873330000000017,,False,False
+Hanzi Lookup,trad1-0026,走,走 圪 忌 匣 扢,0.6580839999999988,,True,True
+Hanzi Lookup,trad1-0027,供,吗 妈 妁 吆 讪,0.5374999999999979,,False,False
+Hanzi Lookup,trad1-0028,券,劵 券 桊 卷 氛,3.0335420000000006,,False,True
+Hanzi Lookup,trad1-0029,夜,夜 衩 初 庙 祁,1.1011249999999961,,True,True
+Hanzi Lookup,trad1-0030,姑,坞 抛 鸡 鸠 抱,1.4285420000000002,,False,False
+Hanzi Lookup,trad1-0031,拌,抻 抵 拐 拌 抑,1.3556250000000034,,False,True
+Hanzi Lookup,trad1-0032,服,服 股 练 报 呜,2.1009170000000026,,True,True
+Hanzi Lookup,trad1-0033,沫,幻 冗 亢 乌 匹,0.15720799999999713,,False,False
+Hanzi Lookup,trad1-0034,沿,讥 仍 厹 阞 幻,0.13966700000000287,,False,False
+Hanzi Lookup,trad1-0035,炒,弘 仰 饥 仡 机,0.47645800000000094,,False,False
+Hanzi Lookup,trad1-0036,盂,盂 盏 盈 匧 盎,3.2538750000000007,,True,True
+Hanzi Lookup,trad1-0037,祀,夗 讥 包 犯 丝,0.13929100000000005,,False,False
+Hanzi Lookup,trad1-0038,肪,财 町 昉 咔 吩,0.7597499999999968,,False,False
+Hanzi Lookup,trad1-0039,勇,勇 势 贽 垫 通,3.254249999999999,,True,True
+Hanzi Lookup,trad1-0040,娃,娃 姪 眭 哇 诖,1.9136669999999967,,True,True
+Hanzi Lookup,trad1-0041,姚,侗 姚 俄 瓯 姒,3.0188330000000008,,False,True
+Hanzi Lookup,trad1-0042,孩,级 邬 设 饧 约,0.11841700000000088,,False,False
+Hanzi Lookup,trad1-0043,帝,谛 婦 帶 㣎 钸,3.7614170000000016,,False,False
+Hanzi Lookup,trad1-0044,按,扬 抢 批 扼 抛,0.6708330000000018,,False,False
+Hanzi Lookup,trad1-0045,拼,拐 拗 拚 拧 抑,1.7032500000000041,,False,False
+Hanzi Lookup,trad1-0046,拽,拽 拐 捭 捍 拗,3.9382499999999965,,True,True
+Hanzi Lookup,trad1-0047,炫,舷 幽 弦 炫 铉,4.40354099999999,,False,True
+Hanzi Lookup,trad1-0048,炬,佃 兆 杩 陉 彻,0.8090419999999909,,False,False
+Hanzi Lookup,trad1-0049,皆,眢 皆 指 背 㲋,4.337707999999992,,False,True
+Hanzi Lookup,trad1-0050,眇,眇 胁 眙 盼 肿,2.0009159999999895,,True,True
+Hanzi Lookup,trad1-0051,胝,晒 昀 胨 胭 昭,1.9899169999999913,,False,False
+Hanzi Lookup,trad1-0052,郎,邬 邮 即 邰 邨,0.5150000000000006,,False,False
+Hanzi Lookup,trad1-0053,首,首 眉 盾 省 宜,1.497833,,True,True
+Hanzi Lookup,trad1-0054,剜,兹 茲 約 剜 細,4.851916000000003,,False,True
+Hanzi Lookup,trad1-0055,哨,纨 级 纪 饩 约,0.8267079999999964,,False,False
+Hanzi Lookup,trad1-0056,疽,疽 疸 谊 组 祖,1.5571669999999926,,True,True
+Hanzi Lookup,trad1-0057,耕,耕 耘 奏 耙 耗,1.077541999999994,,True,True
+Hanzi Lookup,trad1-0058,荃,荃 苣 荟 莒 荅,1.2956250000000011,,True,True
+Hanzi Lookup,trad1-0059,豹,豹 豺 約 紈 敝,4.9156249999999915,,True,True
+Hanzi Lookup,trad1-0060,崖,崖 壹 馆 绾 滻,2.671875,,True,True
+Hanzi Lookup,trad1-0061,庵,鹿 庵 亮 谄 疵,5.394209000000004,,False,True
+Hanzi Lookup,trad1-0062,徜,熵 徜 噬 谒 嘀,6.383832999999996,,False,True
+Hanzi Lookup,trad1-0063,悼,焯 悼 倬 棹 惮,3.1655000000000086,,False,True
+Hanzi Lookup,trad1-0064,惕,赐 埸 喝 媧 惕,5.223667000000006,,False,True
+Hanzi Lookup,trad1-0065,敏,敏 缄 能 兟 筢,6.358000000000004,,True,True
+Hanzi Lookup,trad1-0066,曹,曹 暂 匮 富 谓,5.458791999999988,,True,True
+Hanzi Lookup,trad1-0067,涎,邬 吼 弛 呜 巠,0.2697499999999877,,False,False
+Hanzi Lookup,trad1-0068,烯,惙 稀 焓 烯 叕,3.570416999999992,,False,True
+Hanzi Lookup,trad1-0069,瓠,铆 钨 铅 骊 鸫,3.018250000000023,,False,False
+Hanzi Lookup,trad1-0070,莽,莽 荬 莫 荨 惹,3.3359159999999974,,True,True
+Hanzi Lookup,trad1-0071,寓,寓 嵩 暠 處 嗚,6.275749999999988,,True,True
+Hanzi Lookup,trad1-0072,悲,悲 砦 晗 啞 嗒,3.8817090000000007,,True,True
+Hanzi Lookup,trad1-0073,掌,掌 鲎 筝 當 萼,5.891957999999988,,True,True
+Hanzi Lookup,trad1-0074,揉,鸠 鸡 呜 凫 肠,0.12375000000000114,,False,False
+Hanzi Lookup,trad1-0075,湮,湮 堙 嘌 溧 摽,5.504750000000001,,True,True
+Hanzi Lookup,trad1-0076,渴,凫 纰 鸠 岛 呜,0.054417000000000826,,False,False
+Hanzi Lookup,trad1-0077,皓,肠 纾 纰 饧 纥,0.2278750000000116,,False,False
+Hanzi Lookup,trad1-0078,短,短 崞 矬 铵 姬,4.192625000000021,,True,True
+Hanzi Lookup,trad1-0079,筋,湔 筋 剮 淥 剐,4.494374999999991,,False,True
+Hanzi Lookup,trad1-0080,紫,紥 嗦 絮 紫 嗉,6.208874999999978,,False,True
+Hanzi Lookup,trad1-0081,腕,腕 婉 晚 琬 唬,5.499207999999982,,True,True
+Hanzi Lookup,trad1-0082,意,意 崽 喼 㥯 漶,5.533999999999992,,True,True
+Hanzi Lookup,trad1-0083,戡,戡 戤 戬 戧 葳,7.355165999999997,,True,True
+Hanzi Lookup,trad1-0084,牒,碟 螈 辍 楞 孫,5.580417000000011,,False,False
+Hanzi Lookup,trad1-0085,碰,骀 驾 驹 驺 呜,0.8993330000000128,,False,False
+Hanzi Lookup,trad1-0086,禁,禁 棼 噤 標 棕,3.655833000000001,,True,True
+Hanzi Lookup,trad1-0087,萱,茑 鸢 宛 骀 驾,0.4808339999999873,,False,False
+Hanzi Lookup,trad1-0088,葩,,0.029167000000001053,,False,False
+Hanzi Lookup,trad1-0089,雉,龃 雉 蚰 細 羥,5.688874999999996,,False,True
+Hanzi Lookup,trad1-0090,靖,谒 谓 绢 唬 绻,2.5204579999999908,,False,False
+Hanzi Lookup,trad1-0091,嗽,嗽 嫩 蔌 漱 龅,5.89862500000001,,True,True
+Hanzi Lookup,trad1-0092,榴,骝 馏 辎 溜 榀,7.713707999999997,,False,False
+Hanzi Lookup,trad1-0093,漩,鸲 鸱 能 铅 弱,2.431209000000024,,False,False
+Hanzi Lookup,trad1-0094,漯,驾 狍 拗 孢 呜,0.528917000000007,,False,False
+Hanzi Lookup,trad1-0095,獐,咝 驼 骀 狍 诡,0.3544159999999863,,False,False
+Hanzi Lookup,trad1-0096,蔽,戤 蒇 敬 蓣 鹋,5.6598749999999995,,False,False
+Hanzi Lookup,trad1-0097,髯,,0.12725000000000364,RuntimeError: unreachable,False,False
+Hanzi Lookup,trad1-0098,噤,,3.1398329999999817,,False,False
+Hanzi Lookup,trad1-0099,融,凫 邬,0.035166000000003805,,False,False
+Hanzi Lookup,trad1-0100,辨,邬 凫 饧 氖,0.03249999999999886,,False,False
+Zinnia,trad1-0001,划,俇 佫 刈 仈 孔,15.818667015992105,,False,False
+Zinnia,trad1-0002,虫,化 防 各 逭 云,14.785207924433053,,False,False
+Zinnia,trad1-0003,丁,丁 几 獫 狚 狪,13.725124998018146,,True,True
+Zinnia,trad1-0004,入,几 狠 狂 獙 狙,15.073499991558492,,False,False
+Zinnia,trad1-0005,刀,乃 与 日 及 忍,13.272166019305587,,False,False
+Zinnia,trad1-0006,匕,匕 九 且 力 頄,15.267041977494955,,True,True
+Zinnia,trad1-0007,丸,九 士 刃 寸 囗,14.983625034801662,,False,False
+Zinnia,trad1-0008,五,乃 孑 几 孓 乜,15.849458053708076,,False,False
+Zinnia,trad1-0009,亢,乙 姑 抃 凍 姨,14.806749997660518,,False,False
+Zinnia,trad1-0010,仆,仆 壬 仁 川 陜,12.343375012278557,,True,True
+Zinnia,trad1-0011,切,切 弔 伋 仇 歹,15.192416962236166,,True,True
+Zinnia,trad1-0012,升,干 弓 西 台 屮,13.945125043392181,,False,False
+Zinnia,trad1-0013,夫,干 夫 井 屆 囚,12.580249924212694,,False,True
+Zinnia,trad1-0014,斤,又 人 旴 因 名,13.276709010824561,,False,False
+Zinnia,trad1-0015,乩,此 札 矢 叭 帥,14.610000071115792,,False,False
+Zinnia,trad1-0016,位,隹 位 仁 收 圩,13.891584007069468,,False,True
+Zinnia,trad1-0017,吝,本 庂 弚 艽 仡,16.46812492981553,,False,False
+Zinnia,trad1-0018,吹,狃 各 狳 陂 帆,14.943125075660646,,False,False
+Zinnia,trad1-0019,吮,八 几 訄 之 夙,18.334791995584965,,False,False
+Zinnia,trad1-0020,希,弁 兄 仚 矢 仝,16.445707995444536,,False,False
+Zinnia,trad1-0021,庇,庀 气 奶 卞 汩,18.02625006530434,,False,False
+Zinnia,trad1-0022,弄,弄 汧 芽 芸 芙,12.913124985061586,,True,True
+Zinnia,trad1-0023,扭,扭 垏 掃 匣 戌,13.020041980780661,,True,True
+Zinnia,trad1-0024,汰,坏 決 汰 吜 溝,12.98650004900992,,False,True
+Zinnia,trad1-0025,肚,肚 用 孜 圩 胂,15.37229202222079,,True,True
+Zinnia,trad1-0026,走,交 吉 芝 呂 尖,13.87400005478412,,False,False
+Zinnia,trad1-0027,供,姶 俇 戉 兆 姐,16.677082981914282,,False,False
+Zinnia,trad1-0028,券,券 苓 翕 季 蔟,14.512374997138977,,True,True
+Zinnia,trad1-0029,夜,庈 极 卣 秞 規,14.29354096762836,,False,False
+Zinnia,trad1-0030,姑,杚 刉 滊 級 嫴,17.534916987642646,,False,False
+Zinnia,trad1-0031,拌,抖 找 西 匣 杅,13.737416011281312,,False,False
+Zinnia,trad1-0032,服,极 昅 日 瞗 乂,18.19216599687934,,False,False
+Zinnia,trad1-0033,沫,乇 己 乙 乞 勺,16.19620807468891,,False,False
+Zinnia,trad1-0034,沿,朵 乇 阞 殳 亍,18.083833041600883,,False,False
+Zinnia,trad1-0035,炒,妅 怡 仩 叫 本,15.25149994995445,,False,False
+Zinnia,trad1-0036,盂,盂 示 峉 苴 罞,15.845167101360857,,True,True
+Zinnia,trad1-0037,祀,厄 狣 氿 猳 逗,17.654582974500954,,False,False
+Zinnia,trad1-0038,肪,吥 犿 吘 囷 呅,13.52854201104492,,False,False
+Zinnia,trad1-0039,勇,泠 岭 更 協 彾,14.66979191172868,,False,False
+Zinnia,trad1-0040,娃,娃 山 姪 小 垔,13.093875022605062,,True,True
+Zinnia,trad1-0041,姚,姚 姶 熥 卹 嬬,14.455958968028426,,True,True
+Zinnia,trad1-0042,孩,乙 弘 以 玄 加,19.2909580655396,,False,False
+Zinnia,trad1-0043,帝,帝 俑 盄 胛 焄,14.196750009432435,,True,True
+Zinnia,trad1-0044,按,巧 挾 圴 拘 找,17.7379579981789,,False,False
+Zinnia,trad1-0045,拼,抬 乜 抄 孔 佫,14.988834038376808,,False,False
+Zinnia,trad1-0046,拽,拽 祗 捐 拷 持,15.030542039312422,,True,True
+Zinnia,trad1-0047,炫,玹 炫 玗 觓 舢,14.59970895666629,,False,True
+Zinnia,trad1-0048,炬,姖 奼 朼 侮 俺,14.443083084188402,,False,False
+Zinnia,trad1-0049,皆,治 沓 岊 昋 炎,14.874042011797428,,False,False
+Zinnia,trad1-0050,眇,甽 昑 眙 睮 明,15.192209044471383,,False,False
+Zinnia,trad1-0051,胝,狳 脈 暕 力 倧,14.811332919634879,,False,False
+Zinnia,trad1-0052,郎,曳 祁 勖 邢 盟,17.656208015978336,,False,False
+Zinnia,trad1-0053,首,首 相 珇 看 垚,13.231000048108399,,True,True
+Zinnia,trad1-0054,剜,帥 酮 禹 亮 敆,16.52579102665186,,False,False
+Zinnia,trad1-0055,哨,甩 州 伕 呔 牝,17.553374986164272,,False,False
+Zinnia,trad1-0056,疽,疸 租 卞 庫 砠,13.456374988891184,,False,False
+Zinnia,trad1-0057,耕,耕 師 鉬 湆 紋,13.740416965447366,,True,True
+Zinnia,trad1-0058,荃,荃 砭 皇 柱 荅,14.492042013444006,,True,True
+Zinnia,trad1-0059,豹,貂 侖 烑 約 瓴,18.044582917355,,False,False
+Zinnia,trad1-0060,崖,棄 嵀 軴 尋 貧,13.941750046797097,,False,False
+Zinnia,trad1-0061,庵,屍 卞 庫 展 袉,17.185083008371294,,False,False
+Zinnia,trad1-0062,徜,徜 須 楠 綑 裲,16.418916056863964,,True,True
+Zinnia,trad1-0063,悼,悼 什 佯 釬 俏,14.303250005468726,,True,True
+Zinnia,trad1-0064,惕,們 陓 恀 悍 惀,16.822416917420924,,False,False
+Zinnia,trad1-0065,敏,敏 莛 毓 敢 涎,18.468583934009075,,True,True
+Zinnia,trad1-0066,曹,曹 夏 瓷 害 紘,15.754624968394637,,True,True
+Zinnia,trad1-0067,涎,毽 汕 矢 佤 坋,17.818624968640506,,False,False
+Zinnia,trad1-0068,烯,悕 狶 師 囟 修,14.292042003944516,,False,False
+Zinnia,trad1-0069,瓠,怏 恥 盳 砏 眨,17.43537501897663,,False,False
+Zinnia,trad1-0070,莽,莽 師 莢 苤 紡,13.843041961081326,,True,True
+Zinnia,trad1-0071,寓,棗 甯 向 禹 黹,15.800292021594942,,False,False
+Zinnia,trad1-0072,悲,夏 毣 痁 歭 珞,15.286459005437791,,False,False
+Zinnia,trad1-0073,掌,嘗 于 掌 割 甯,15.94724995084107,,False,True
+Zinnia,trad1-0074,揉,乙 多 八 弚 殳,20.992625039070845,,False,False
+Zinnia,trad1-0075,湮,湊 徨 湮 軴 揀,14.502791920676827,,False,True
+Zinnia,trad1-0076,渴,乜 心 屯 匢 氙,18.880999996326864,,False,False
+Zinnia,trad1-0077,皓,岶 訄 頄 姶 阭,18.06966692674905,,False,False
+Zinnia,trad1-0078,短,秣 殺 蚖 袕 矯,15.412500011734664,,False,False
+Zinnia,trad1-0079,筋,能 莇 晶 剟 兗,16.16916700731963,,False,False
+Zinnia,trad1-0080,紫,累 唷 笞 爹 釬,15.337624936364591,,False,False
+Zinnia,trad1-0081,腕,烢 脆 晌 腔 暄,16.94783300627023,,False,False
+Zinnia,trad1-0082,意,煮 惹 貨 罥 治,15.786749892868102,,False,False
+Zinnia,trad1-0083,戡,戟 頸 喌 崴 虥,17.12841703556478,,False,False
+Zinnia,trad1-0084,牒,牒 楪 槆 楈 榙,15.375167015008628,,True,True
+Zinnia,trad1-0085,碰,彤 姶 岨 滊 迶,18.047124962322414,,False,False
+Zinnia,trad1-0086,禁,禁 塘 愫 萎 榃,15.417665941640735,,True,True
+Zinnia,trad1-0087,萱,玕 秀 孚 芟 炰,19.955207942985,,False,False
+Zinnia,trad1-0088,葩,旡 冗 殳 朵 勼,24.533540941774845,,False,False
+Zinnia,trad1-0089,雉,旨 婟 秷 凐 泇,16.286459052935243,,False,False
+Zinnia,trad1-0090,靖,俉 陓 凊 之 匽,19.336791010573506,,False,False
+Zinnia,trad1-0091,嗽,帔 卅 脈 晰 呔,15.876875026151538,,False,False
+Zinnia,trad1-0092,榴,婚 階 孮 頄 從,17.642624909058213,,False,False
+Zinnia,trad1-0093,漩,欣 頓 岨 炬 於,17.5328750628978,,False,False
+Zinnia,trad1-0094,漯,乙 馗 宏 長 岕,19.270457909442484,,False,False
+Zinnia,trad1-0095,獐,妐 伭 与 災 陀,18.599041970446706,,False,False
+Zinnia,trad1-0096,蔽,菽 荑 剬 荻 葫,18.3160409796983,,False,False
+Zinnia,trad1-0097,髯,鮂 濭 髶 瞥 麆,18.83416692726314,,False,False
+Zinnia,trad1-0098,噤,八 之 儿 鳩 脯,22.86999998614192,,False,False
+Zinnia,trad1-0099,融,及 頄 丹 加 陸,21.352124982513487,,False,False
+Zinnia,trad1-0100,辨,姐 礽 帆 犮 西,18.330916995182633,,False,False
+cnn_chinese_hw (legacy),trad1-0001,划,恿 晲 愿 暾 焄,7.1526250103488564,,False,False
+cnn_chinese_hw (legacy),trad1-0002,虫,漯 虫 出 埭 球,6.3266659853979945,,False,True
+cnn_chinese_hw (legacy),trad1-0003,丁,丿 了 疹 还 跤,6.25487498473376,,False,False
+cnn_chinese_hw (legacy),trad1-0004,入,克 厄 尾 藿 湸,6.0337919276207685,,False,False
+cnn_chinese_hw (legacy),trad1-0005,刀,刃 刀 尸 騕 矛,6.102832965552807,,False,True
+cnn_chinese_hw (legacy),trad1-0006,匕,匕 迄 牝 辺 也,6.101332954131067,,True,True
+cnn_chinese_hw (legacy),trad1-0007,丸,九 攴 夊 也 板,6.154292030259967,,False,False
+cnn_chinese_hw (legacy),trad1-0008,五,2 了 墁 壱 墬,6.267666933126748,,False,False
+cnn_chinese_hw (legacy),trad1-0009,亢,矂 甏 髢 蟟 洨,6.139291916042566,,False,False
+cnn_chinese_hw (legacy),trad1-0010,仆,仆 介 仈 卯 价,6.089790957048535,,True,True
+cnn_chinese_hw (legacy),trad1-0011,切,扔 沒 吻 忉 疡,6.171917077153921,,False,False
+cnn_chinese_hw (legacy),trad1-0012,升,ろ へ 諦 緙 廓,6.146583007648587,,False,False
+cnn_chinese_hw (legacy),trad1-0013,夫,夫 丰 尭 王 夹,6.132708978839219,,True,True
+cnn_chinese_hw (legacy),trad1-0014,斤,了 犀 つ 屌 雩,6.137875025160611,,False,False
+cnn_chinese_hw (legacy),trad1-0015,乩,淀 鳦 况 定 淑,6.153083057142794,,False,False
+cnn_chinese_hw (legacy),trad1-0016,位,庉 漧 蔻 嚙 獦,6.1666249530389905,,False,False
+cnn_chinese_hw (legacy),trad1-0017,吝,褅 诱 丐 谛 疙,6.247041979804635,,False,False
+cnn_chinese_hw (legacy),trad1-0018,吹,吹 哝 快 哏 哎,6.170209031552076,,True,True
+cnn_chinese_hw (legacy),trad1-0019,吮,壁 2 砣 硠 起,6.245083990506828,,False,False
+cnn_chinese_hw (legacy),trad1-0020,希,莠 鞥 蓆 蒡 箏,6.3350839773193,,False,False
+cnn_chinese_hw (legacy),trad1-0021,庇,一 褅 ん 鹧 効,6.221916992217302,,False,False
+cnn_chinese_hw (legacy),trad1-0022,弄,弄 幸 孑 铆 痱,6.071040988899767,,True,True
+cnn_chinese_hw (legacy),trad1-0023,扭,扭 扫 抱 資 賁,6.124541047029197,,True,True
+cnn_chinese_hw (legacy),trad1-0024,汰,汰 沐 达 珔 汝,6.054957979358733,,True,True
+cnn_chinese_hw (legacy),trad1-0025,肚,銮 胺 豗 廏 零,6.211500032804906,,False,False
+cnn_chinese_hw (legacy),trad1-0026,走,尭 走 赱 蔟 敖,6.145791034214199,,False,True
+cnn_chinese_hw (legacy),trad1-0027,供,域 峡 性 怅 娘,6.215792032890022,,False,False
+cnn_chinese_hw (legacy),trad1-0028,券,券 椦 考 殤 诱,6.277541979216039,,True,True
+cnn_chinese_hw (legacy),trad1-0029,夜,庚 庆 庄 庙 痍,6.202167016454041,,False,False
+cnn_chinese_hw (legacy),trad1-0030,姑,魌 婽 諾 轔 虫,6.230332888662815,,False,False
+cnn_chinese_hw (legacy),trad1-0031,拌,拌 料 抖 掸 捶,6.232792045921087,,True,True
+cnn_chinese_hw (legacy),trad1-0032,服,舨 楩 服 遯 版,6.291082943789661,,False,True
+cnn_chinese_hw (legacy),trad1-0033,沫,襻 瀝 讓 る 乙,6.4001670107245445,,False,False
+cnn_chinese_hw (legacy),trad1-0034,沿,湇 譜 甏 沆 法,6.212541949935257,,False,False
+cnn_chinese_hw (legacy),trad1-0035,炒,銬 汫 妝 狭 进,6.236915942281485,,False,False
+cnn_chinese_hw (legacy),trad1-0036,盂,盂 孰 肌 菰 甄,6.261207978241146,,True,True
+cnn_chinese_hw (legacy),trad1-0037,祀,舥 匜 靶 浪 誙,6.24720798805356,,False,False
+cnn_chinese_hw (legacy),trad1-0038,肪,肪 可 防 脐 忻,6.114167044870555,,True,True
+cnn_chinese_hw (legacy),trad1-0039,勇,勇 葶 舅 寧 峒,6.224542041309178,,True,True
+cnn_chinese_hw (legacy),trad1-0040,娃,娃 姥 娘 匿 民,6.174291949719191,,True,True
+cnn_chinese_hw (legacy),trad1-0041,姚,愀 姚 娳 嫒 楸,6.1981669859960675,,False,True
+cnn_chinese_hw (legacy),trad1-0042,孩,陔 圧 恿 厧 亙,6.242375005967915,,False,False
+cnn_chinese_hw (legacy),trad1-0043,帝,帝 蒂 棉 席 蔕,6.1845420859754086,,True,True
+cnn_chinese_hw (legacy),trad1-0044,按,粳 粮 按 迤 悔,6.280291941948235,,False,True
+cnn_chinese_hw (legacy),trad1-0045,拼,拚 絲 犐 鱕 轹,6.313874968327582,,False,False
+cnn_chinese_hw (legacy),trad1-0046,拽,拽 洗 誥 挖 蹲,6.40795798972249,,True,True
+cnn_chinese_hw (legacy),trad1-0047,炫,炫 絃 眩 樒 呟,6.25487498473376,,True,True
+cnn_chinese_hw (legacy),trad1-0048,炬,怩 熔 澑 呖 尷,6.082999985665083,,False,False
+cnn_chinese_hw (legacy),trad1-0049,皆,皆 峇 铛 借 喑,6.2362500466406345,,True,True
+cnn_chinese_hw (legacy),trad1-0050,眇,眇 亚 跎 渺 眈,6.229375023394823,,True,True
+cnn_chinese_hw (legacy),trad1-0051,胝,肽 肘 媽 胨 胝,6.248833960853517,,False,True
+cnn_chinese_hw (legacy),trad1-0052,郎,鄯 鄞 遷 る 瞢,6.280125002376735,,False,False
+cnn_chinese_hw (legacy),trad1-0053,首,者 首 督 枸 晢,6.201667012646794,,False,True
+cnn_chinese_hw (legacy),trad1-0054,剜,溶 涮 蓉 帰 窌,6.303458008915186,,False,False
+cnn_chinese_hw (legacy),trad1-0055,哨,咣 嫳 呓 忔 橶,6.272500031627715,,False,False
+cnn_chinese_hw (legacy),trad1-0056,疽,疸 蔸 珀 疽 膛,6.2032920541241765,,False,True
+cnn_chinese_hw (legacy),trad1-0057,耕,耕 趔 寳 褻 竞,6.2666250159963965,,True,True
+cnn_chinese_hw (legacy),trad1-0058,荃,荃 瑾 堇 革 莖,6.239833077415824,,True,True
+cnn_chinese_hw (legacy),trad1-0059,豹,豹 貂 勿 煸 劣,6.276458036154509,,True,True
+cnn_chinese_hw (legacy),trad1-0060,崖,差 爰 关 淫 恙,6.182165932841599,,False,False
+cnn_chinese_hw (legacy),trad1-0061,庵,庵 谥 摮 厳 旙,6.294584018178284,,True,True
+cnn_chinese_hw (legacy),trad1-0062,徜,徜 侖 倘 彻 淌,6.2231660122051835,,True,True
+cnn_chinese_hw (legacy),trad1-0063,悼,悼 焯 鱒 倬 闸,6.242958013899624,,True,True
+cnn_chinese_hw (legacy),trad1-0064,惕,惕 筋 る 偊 它,6.317749968729913,,True,True
+cnn_chinese_hw (legacy),trad1-0065,敏,敏 觚 毓 窯 觥,6.40349998138845,,True,True
+cnn_chinese_hw (legacy),trad1-0066,曹,る 槽 葛 膊 曹,6.52441696729511,,False,True
+cnn_chinese_hw (legacy),trad1-0067,涎,堰 圯 鍵 此 乙,6.317125051282346,,False,False
+cnn_chinese_hw (legacy),trad1-0068,烯,烯 嶙 蟒 嗾 烆,6.608790950849652,,True,True
+cnn_chinese_hw (legacy),trad1-0069,瓠,挛 鄴 要 嚼 鹳,6.524041062220931,,False,False
+cnn_chinese_hw (legacy),trad1-0070,莽,槔 莽 蓉 萃 犀,6.532417028211057,,False,True
+cnn_chinese_hw (legacy),trad1-0071,寓,寓 禺 舫 碼 宮,6.488332990556955,,True,True
+cnn_chinese_hw (legacy),trad1-0072,悲,珸 疸 汽 懖 挎,6.426417035982013,,False,False
+cnn_chinese_hw (legacy),trad1-0073,掌,掌 鸿 挙 裨 婆,6.436957977712154,,True,True
+cnn_chinese_hw (legacy),trad1-0074,揉,隰 曝 暰 陔 险,6.665957975201309,,False,False
+cnn_chinese_hw (legacy),trad1-0075,湮,堙 湮 恶 泛 慁,6.525125005282462,,False,True
+cnn_chinese_hw (legacy),trad1-0076,渴,割 溘 清 當 首,6.580624962225556,,False,False
+cnn_chinese_hw (legacy),trad1-0077,皓,続 蹄 嵞 睆 蠹,6.575832958333194,,False,False
+cnn_chinese_hw (legacy),trad1-0078,短,筅 伅 秺 谾 箬,6.401917082257569,,False,False
+cnn_chinese_hw (legacy),trad1-0079,筋,筋 諔 浾 窷 鵔,6.456082919612527,,True,True
+cnn_chinese_hw (legacy),trad1-0080,紫,紫 騃 较 關 埃,6.440749973990023,,True,True
+cnn_chinese_hw (legacy),trad1-0081,腕,腕 兡 榔 廊 癜,6.448875064961612,,True,True
+cnn_chinese_hw (legacy),trad1-0082,意,意 馘 憝 蕙 嵬,6.359666003845632,,True,True
+cnn_chinese_hw (legacy),trad1-0083,戡,戡 嗑 蚊 甄 蚍,6.551958969794214,,True,True
+cnn_chinese_hw (legacy),trad1-0084,牒,牒 楪 爍 機 煤,6.516207940876484,,True,True
+cnn_chinese_hw (legacy),trad1-0085,碰,沱 臌 跎 癜 蔻,6.487208069302142,,False,False
+cnn_chinese_hw (legacy),trad1-0086,禁,禁 敷 檢 裴 嚓,6.446499959565699,,True,True
+cnn_chinese_hw (legacy),trad1-0087,萱,竜 滝 對 汔 泛,6.400374928489327,,False,False
+cnn_chinese_hw (legacy),trad1-0088,葩,齕 沆 し 鬍 鐰,6.4602079801261425,,False,False
+cnn_chinese_hw (legacy),trad1-0089,雉,粧 維 榳 妍 琥,6.394875003024936,,False,False
+cnn_chinese_hw (legacy),trad1-0090,靖,遠 谛 艜 亳 蕁,6.39979203697294,,False,False
+cnn_chinese_hw (legacy),trad1-0091,嗽,嗽 慨 懐 漱 郦,6.377374986186624,,True,True
+cnn_chinese_hw (legacy),trad1-0092,榴,僗 赠 褶 猳 鰡,6.407334003597498,,False,False
+cnn_chinese_hw (legacy),trad1-0093,漩,淝 旅 游 卿 龉,6.3997500110417604,,False,False
+cnn_chinese_hw (legacy),trad1-0094,漯,谟 璒 環 嶮 薄,6.390082999132574,,False,False
+cnn_chinese_hw (legacy),trad1-0095,獐,彝 隧 婬 瘩 藤,6.458250107243657,,False,False
+cnn_chinese_hw (legacy),trad1-0096,蔽,蔽 飋 匾 蕨 腕,6.452584057115018,,True,True
+cnn_chinese_hw (legacy),trad1-0097,髯,髣 髯 瀚 滔 谿,6.468042032793164,,False,True
+cnn_chinese_hw (legacy),trad1-0098,噤,る 飋 昲 皻 匝,6.687709013931453,,False,False
+cnn_chinese_hw (legacy),trad1-0099,融,醺 鰹 轗 瞡 囂,6.480750045739114,,False,False
+cnn_chinese_hw (legacy),trad1-0100,辨,搴 る 摹 飋 泐,6.51729095261544,,False,False
+GlyphWeave,trad1-0001,划,划 圳 妙 扪 戈,94.15666596032679,,True,True
+GlyphWeave,trad1-0002,虫,虫 忠 电 由 击,89.22575006727129,,True,True
+GlyphWeave,trad1-0003,丁,丁 寸 J 厂 十,88.01841596141458,,True,True
+GlyphWeave,trad1-0004,入,入 乙 几 又 刀,87.29779103305191,,True,True
+GlyphWeave,trad1-0005,刀,刀 刁 丌 乃 入,87.91991602629423,,True,True
+GlyphWeave,trad1-0006,匕,七 匕 乂 乜 X,86.92258305381984,,False,True
+GlyphWeave,trad1-0007,丸,丸 九 凡 扎 纨,87.67566597089171,,True,True
+GlyphWeave,trad1-0008,五,五 互 乏 支 王,87.47466700151563,,True,True
+GlyphWeave,trad1-0009,亢,亢 瓦 芪 庇 瓮,86.95887494832277,,True,True
+GlyphWeave,trad1-0010,仆,仆 什 外 介 爪,86.58433402888477,,True,True
+GlyphWeave,trad1-0011,切,切 沏 均 场 圾,88.26437499374151,,True,True
+GlyphWeave,trad1-0012,升,升 开 母 乡 可,88.87650002725422,,True,True
+GlyphWeave,trad1-0013,夫,夫 夬 天 大 失,88.21445796638727,,True,True
+GlyphWeave,trad1-0014,斤,斤 厅 芹 折 片,87.53079199232161,,True,True
+GlyphWeave,trad1-0015,乩,乩 乱 卢 占 扎,87.525499984622,,True,True
+GlyphWeave,trad1-0016,位,位 拉 立 垃 俭,86.12174994777888,,True,True
+GlyphWeave,trad1-0017,吝,吝 各 客 杏 吞,81.48874994367361,,True,True
+GlyphWeave,trad1-0018,吹,吹 砍 呗 吮 欠,82.31920807156712,,True,True
+GlyphWeave,trad1-0019,吮,吮 唉 咣 嗞 哞,83.9570420794189,,True,True
+GlyphWeave,trad1-0020,希,希 肴 郗 莽 斋,81.68116596061736,,True,True
+GlyphWeave,trad1-0021,庇,庇 底 庖 庼 麻,85.67491709254682,,True,True
+GlyphWeave,trad1-0022,弄,弄 卉 奔 幸 青,87.73095905780792,,True,True
+GlyphWeave,trad1-0023,扭,扭 杻 扫 扣 狃,87.57533296011388,,True,True
+GlyphWeave,trad1-0024,汰,汰 浕 呔 太 泜,87.48954196926206,,True,True
+GlyphWeave,trad1-0025,肚,肚 肛 牡 胜 壮,87.50899997539818,,True,True
+GlyphWeave,trad1-0026,走,走 徒 起 壶 疋,88.57541694305837,,True,True
+GlyphWeave,trad1-0027,供,供 拱 侥 洪 借,87.65870798379183,,True,True
+GlyphWeave,trad1-0028,券,券 誊 拳 桊 眷,87.69658394157887,,True,True
+GlyphWeave,trad1-0029,夜,夜 莜 放 疚 液,87.19437499530613,,True,True
+GlyphWeave,trad1-0030,姑,轱 牯 姑 聒 粘,86.79866709280759,,False,True
+GlyphWeave,trad1-0031,拌,拌 伴 挡 柈 捎,87.2101659188047,,True,True
+GlyphWeave,trad1-0032,服,服 股 腹 报 胶,86.66499995160848,,True,True
+GlyphWeave,trad1-0033,沫,漆 沫 涞 涤 冻,86.78416698239744,,False,True
+GlyphWeave,trad1-0034,沿,沾 沿 治 冶 站,85.89466603007168,,False,True
+GlyphWeave,trad1-0035,炒,炒 妙 灿 纱 沙,86.15995896980166,,True,True
+GlyphWeave,trad1-0036,盂,盂 盉 孟 盘 盖,88.36566691752523,,True,True
+GlyphWeave,trad1-0037,祀,祀 矩 杞 耙 犯,91.37633291538805,,True,True
+GlyphWeave,trad1-0038,肪,肪 舫 肠 肮 肋,87.60783297475427,,True,True
+GlyphWeave,trad1-0039,勇,勇 剪 甬 舅 劈,86.29704208578914,,True,True
+GlyphWeave,trad1-0040,娃,娃 姓 蛙 诖 婞,81.783666042611,,True,True
+GlyphWeave,trad1-0041,姚,姚 挑 桃 珧 绯,80.79012494999915,,True,True
+GlyphWeave,trad1-0042,孩,孩 骇 较 狡 核,81.15266694221646,,True,True
+GlyphWeave,trad1-0043,帝,帝 帚 席 带 蒂,79.33274994138628,,True,True
+GlyphWeave,trad1-0044,按,按 桉 拨 挖 胺,87.09141693543643,,True,True
+GlyphWeave,trad1-0045,拼,拼 栟 拚 摒 描,88.3069169940427,,True,True
+GlyphWeave,trad1-0046,拽,拽 曳 按 抻 搜,87.54558395594358,,True,True
+GlyphWeave,trad1-0047,炫,炫 恼 赅 燃 烂,86.9775409810245,,True,True
+GlyphWeave,trad1-0048,炬,炬 柜 矩 讵 拒,80.65416698809713,,True,True
+GlyphWeave,trad1-0049,皆,皆 昏 蒈 喈 毕,87.3775000218302,,True,True
+GlyphWeave,trad1-0050,眇,眇 钞 渺 盼 抄,88.07200007140636,,True,True
+GlyphWeave,trad1-0051,胝,胝 胍 胴 胭 抵,88.62237504217774,,True,True
+GlyphWeave,trad1-0052,郎,郎 即 朗 郡 刨,88.46183295827359,,True,True
+GlyphWeave,trad1-0053,首,首 着 酋 眷 肴,87.5405000988394,,True,True
+GlyphWeave,trad1-0054,剜,剜 宛 剡 剟 厕,87.54458301700652,,True,True
+GlyphWeave,trad1-0055,哨,哨 啃 喘 蛸 硝,87.72183291148394,,True,True
+GlyphWeave,trad1-0056,疽,疽 疸 瘟 痘 植,87.68524997867644,,True,True
+GlyphWeave,trad1-0057,耕,耕 耘 耙 耩 耢,87.24962500855327,,True,True
+GlyphWeave,trad1-0058,荃,荃 荼 荟 基 芩,88.16508296877146,,True,True
+GlyphWeave,trad1-0059,豹,豹 豺 貉 貊 豸,87.68312493339181,,True,True
+GlyphWeave,trad1-0060,崖,崖 崔 宦 崇 堂,87.29316596873105,,True,True
+GlyphWeave,trad1-0061,庵,庵 魇 阉 俺 罨,90.51087498664856,,True,True
+GlyphWeave,trad1-0062,徜,徜 徊 倘 绱 祠,90.15516599174589,,True,True
+GlyphWeave,trad1-0063,悼,悼 焯 掉 棹 卓,81.01812493987381,,True,True
+GlyphWeave,trad1-0064,惕,惕 愣 愠 慢 赐,80.15808300115168,,True,True
+GlyphWeave,trad1-0065,敏,敏 舨 繁 每 般,80.30749997124076,,True,True
+GlyphWeave,trad1-0066,曹,曹 瞢 漕 遭 嘈,80.48520796000957,,True,True
+GlyphWeave,trad1-0067,涎,涎 诞 涵 漩 蜒,79.07841703854501,,True,True
+GlyphWeave,trad1-0068,烯,烯 炼 豨 崤 唏,82.04266708344221,,True,True
+GlyphWeave,trad1-0069,瓠,瓠 刳 欹 巯 瓤,88.47800001967698,,True,True
+GlyphWeave,trad1-0070,莽,莽 奔 苯 荞 漭,87.77933300007135,,True,True
+GlyphWeave,trad1-0071,寓,寓 宴 寅 冥 窠,91.20704105589539,,True,True
+GlyphWeave,trad1-0072,悲,悲 韭 裴 蜚 斐,89.20408296398818,,True,True
+GlyphWeave,trad1-0073,掌,掌 堂 裳 牚 棠,87.4062079237774,,True,True
+GlyphWeave,trad1-0074,揉,揉 搡 操 猱 糅,87.71170803811401,,True,True
+GlyphWeave,trad1-0075,湮,湮 淫 茳 涅 堙,88.44333293382078,,True,True
+GlyphWeave,trad1-0076,渴,渴 漹 蔼 谒 褐,89.31637508794665,,True,True
+GlyphWeave,trad1-0077,皓,皓 鲒 酷 睃 锆,90.16579203307629,,True,True
+GlyphWeave,trad1-0078,短,短 矩 知 矮 雉,91.22729196678847,,True,True
+GlyphWeave,trad1-0079,筋,筋 m 笛 笳 勖,87.51283294986933,,True,True
+GlyphWeave,trad1-0080,紫,紫 紧 觜 絮 累,86.86608308926225,,True,True
+GlyphWeave,trad1-0081,腕,腕 臃 畹 宛 惋,86.70445904135704,,True,True
+GlyphWeave,trad1-0082,意,意 薏 竟 童 噫,86.61854092497379,,True,True
+GlyphWeave,trad1-0083,戡,戡 勘 魆 斟 惑,86.80562500376254,,True,True
+GlyphWeave,trad1-0084,牒,牒 碟 牌 渫 谍,88.26079207938164,,True,True
+GlyphWeave,trad1-0085,碰,碰 磺 潽 磁 硭,88.08054099790752,,True,True
+GlyphWeave,trad1-0086,禁,禁 柰 噤 楚 絷,82.94487500097603,,True,True
+GlyphWeave,trad1-0087,萱,萱 鲎 壹 蓿 宣,81.1842909315601,,True,True
+GlyphWeave,trad1-0088,葩,葩 苑 靶 菀 范,85.37725009955466,,True,True
+GlyphWeave,trad1-0089,雉,雉 矩 矬 难 雄,83.75204191543162,,True,True
+GlyphWeave,trad1-0090,靖,靖 竦 翊 请 清,82.83012500032783,,True,True
+GlyphWeave,trad1-0091,嗽,嗽 漱 喇 嫩 噘,89.69333407003433,,True,True
+GlyphWeave,trad1-0092,榴,榴 熘 瘤 檑 留,87.50162494834512,,True,True
+GlyphWeave,trad1-0093,漩,漩 璇 淤 旋 涨,87.10533403791487,,True,True
+GlyphWeave,trad1-0094,漯,璟 漯 瀑 缧 骡,87.35437504947186,,False,True
+GlyphWeave,trad1-0095,獐,獐 狰 漳 獍 猝,87.7792090177536,,True,True
+GlyphWeave,trad1-0096,蔽,蔽 薮 薇 黻 敝,87.87716599181294,,True,True
+GlyphWeave,trad1-0097,髯,髯 翳 髹 箔 髭,87.75762503501028,,True,True
+GlyphWeave,trad1-0098,噤,噤 嘴 憷 縻 襟,88.59208400826901,,True,True
+GlyphWeave,trad1-0099,融,融 鼬 翮 副 触,86.37454092968255,,True,True
+GlyphWeave,trad1-0100,辨,辨 辩 辫 瓣 貔,87.94562495313585,,True,True

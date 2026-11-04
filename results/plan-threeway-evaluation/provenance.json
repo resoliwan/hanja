@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "font_original": 3500,
+    "font_variants": 17500,
+    "scut": 52987
+  },
+  "classes_sha256": "cf99f7047f2fd55e0cce64011d36373878f57ac50747a88e383b42e979e388dd",
+  "manifest_sha256": "9e26117e97b5a3e1c7880f06f6f5bb92f3b28ed42d1488f10ffb15f0b67a0519",
+  "target": "simpledic Daehan Geomjeonghoe cumulative 3500, per training plan",
+  "training_performed": false,
+  "model_files": {
+    "models/glyphweave-v1.0.0-inference/best.pt": "c9184a5a5a75f9ffbd656c10ce8755f647335e461983b5020441ae41012366d2",
+    "models/shikiji.onnx": "f188732e3208b50bc39f3f5ea222f88ccf836f04136026beb99bcaf78771c6a1"
+  }
+}

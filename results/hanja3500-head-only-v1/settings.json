@@ -1,0 +1,35 @@
+{
+  "experiment": "head-only",
+  "seed": 42,
+  "classes": 3500,
+  "transferred_output_classes": 2115,
+  "new_output_classes": 1385,
+  "trainable_parameters": 1120001,
+  "frozen_parameters": 5501003,
+  "learning_rate": 0.001,
+  "weight_decay": 0.01,
+  "label_smoothing": 0.05,
+  "batch_size": 256,
+  "draws_per_epoch": 35000,
+  "max_epochs": 10,
+  "patience": 3,
+  "train_samples": 226527,
+  "validation_samples": 14103,
+  "evaluation_samples": 73987,
+  "trainable_names": [
+    "classifier.weight",
+    "classifier.log_scale"
+  ],
+  "original_sha256": "c9184a5a5a75f9ffbd656c10ce8755f647335e461983b5020441ae41012366d2",
+  "data_manifest_sha256": {
+    "ai-free.csv": "47a764d8a0ca540f402938cfd2557bd0fc6f7429bcc42c1340d0ce0c6f62905e",
+    "fonts.csv": "95b45a2223c62ea5a9e7e6c2ee0b20b6193571c94006c2fcdc6d8b09f818bc82",
+    "scut.csv": "71d5894a9abf52554db1c3dbc71b58bef62d353631f3d3b6f9eb3eac6ef7be9b"
+  },
+  "validation_ids_sha256": "66d6b3f3c2e084f85af4dbb4cf18ae0995369472e61241a991356cc90fdce102",
+  "class_map_sha256": "cf99f7047f2fd55e0cce64011d36373878f57ac50747a88e383b42e979e388dd",
+  "preprocessing": "official GlyphTransform(128, training=False)",
+  "feature_dtype": "float32",
+  "device": "Apple M4 Pro MPS",
+  "torch_version": "2.15.0"
+}

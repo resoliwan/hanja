@@ -1,0 +1,97 @@
+{
+  "repository": "chenkenanalytic/handwritting_data_all",
+  "revision": "2388ea0be27a3b966994c094e0b7fff0357deea9",
+  "parts": [
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.001",
+      "path": "data/ai-free/all_data.zip.001",
+      "bytes": 99614720,
+      "sha256": "f3b2fa8b7a1f5672f3262afc649f7d25e9bc41d31902df5937fb7799bfa796d7",
+      "git_blob_sha1": "4abf272b35a589a484c5af2fb806f0ea95775856"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.002",
+      "path": "data/ai-free/all_data.zip.002",
+      "bytes": 99614720,
+      "sha256": "2bd99ade823fe2d07f5a6bba3d3cf14023eb934a4d7172463a875b4f5f3f0f4a",
+      "git_blob_sha1": "028c6a464994ff974665b59d7149366090748776"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.003",
+      "path": "data/ai-free/all_data.zip.003",
+      "bytes": 99614720,
+      "sha256": "9f8f35a65376cc160fb7316d41ea3c336c583f39dd51b35ae483fdf8d4b5371f",
+      "git_blob_sha1": "c5cfb0458b14a3c7687834a84511aabbd927fc13"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.004",
+      "path": "data/ai-free/all_data.zip.004",
+      "bytes": 99614720,
+      "sha256": "3caeef7a8db491daec672f7094449060b3cdac49e944e4cdd87cf7767984e405",
+      "git_blob_sha1": "a1cc7214cad8be798943e759ba01e1ec3123279a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.005",
+      "path": "data/ai-free/all_data.zip.005",
+      "bytes": 99614720,
+      "sha256": "da6482d9d949055a05d04c25a2d3e64d29d4331b0b66617cae28c8c8840ae3d1",
+      "git_blob_sha1": "0f05ba351797af5fe4e5a19bc6886cac81b2045d"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.006",
+      "path": "data/ai-free/all_data.zip.006",
+      "bytes": 99614720,
+      "sha256": "a3e5c4947497e8aef971f9b1c83e65d995ed6309bd9973b81b3b8cf9673aae53",
+      "git_blob_sha1": "326cc23678fe3384a851517085e3a5f4f5ba5005"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.007",
+      "path": "data/ai-free/all_data.zip.007",
+      "bytes": 99614720,
+      "sha256": "00fd6a37ec1255243f87f85d8a7a17129145abc62e4a8f08c2765accd553d04d",
+      "git_blob_sha1": "51b42b2f7440b53b0673f3f16e14cc93a657d94e"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.008",
+      "path": "data/ai-free/all_data.zip.008",
+      "bytes": 99614720,
+      "sha256": "24391455e01b1943aa6ff6d50dbbecb3f03d9287f807ec5fb84598ca0672ad9b",
+      "git_blob_sha1": "3dfff6a58cf151d07af587f53a37b1257c777977"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.009",
+      "path": "data/ai-free/all_data.zip.009",
+      "bytes": 99614720,
+      "sha256": "3032cd4a5af4e186b07e003ed89a07d1b725521466d03c62393113c7e6e29978",
+      "git_blob_sha1": "656935bacde923bb1ebb4a99fe4bdd0556be90db"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.010",
+      "path": "data/ai-free/all_data.zip.010",
+      "bytes": 99614720,
+      "sha256": "5b713e4569bc858d15a656046603c488c5f0f9a39bd391edd496d71ed57cc716",
+      "git_blob_sha1": "3a43ceb388a5af62b6d5d83e9c557de77a094ddd"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.011",
+      "path": "data/ai-free/all_data.zip.011",
+      "bytes": 99614720,
+      "sha256": "8ef3fa8f9985f0e2665c8d53f6cca71834e2c5bec7c5a06194ad6da618f15c4e",
+      "git_blob_sha1": "3e702a59f3971215bb2ef14764cbc72d349415cb"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/all_data.zip.012",
+      "path": "data/ai-free/all_data.zip.012",
+      "bytes": 44338542,
+      "sha256": "c93b0ab310bb1f10b085eb56dd796e03aeca36ad5a8d5e329f96f3b446eb3451",
+      "git_blob_sha1": "5adbf5cd0d28f122d25aee96718fc8fc84f1a0ab"
+    }
+  ],
+  "readme": {
+    "url": "https://raw.githubusercontent.com/chenkenanalytic/handwritting_data_all/2388ea0be27a3b966994c094e0b7fff0357deea9/README.md",
+    "path": "data/ai-free/README-pinned.md",
+    "bytes": 6037,
+    "sha256": "0fb846f785743d15a8c5a6f3fd2f81431c30801675ad4969b846d4d9265d8b5e",
+    "git_blob_sha1": null
+  }
+}

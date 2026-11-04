@@ -1,0 +1,73 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Flutter/Dart generated output (keep app source, project files and lockfiles)
+.dart_tool/
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+.widget_preview/
+**/doc/api/
+**/android/.gradle/
+**/android/local.properties
+**/android/key.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/Flutter/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/Flutter/.last_build_id
+**/GeneratedPluginRegistrant.*
+**/generated_plugin_registrant.*
+**/generated_plugins.cmake
+**/Pods/
+**/.symlinks/
+**/.build/
+**/.swiftpm/
+**/DerivedData/
+**/xcuserdata/
+*.ipa
+*.apk
+*.aab
+*.dSYM/
+app.*.symbols
+app.*.map.json
+
+# Host-specific compiled helper executables; Swift sources remain in scripts/
+/bin/
+
+# Incomplete, superseded dataset build; retain final dataset and source archives
+/data/.korean-hanja3500-incomplete-first-build/
+*.part
+*.tmp
+
+# Downloaded browser pages; source manifests and dataset documentation are retained
+/data/drive.html
+/data/scut-download.html
+
+# Local/editor/credential files
+.DS_Store
+._*
+.idea/
+*.iml
+*.swp
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.mobileprovision

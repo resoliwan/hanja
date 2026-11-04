@@ -1,0 +1,97 @@
+[
+  {
+    "id": "noto-sans-kr",
+    "repository": "notofonts/noto-cjk",
+    "revision": "f8d157532fbfaeda587e826d4cd5b21a49186f7c",
+    "font": {
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/Korean/NotoSansCJKkr-Regular.otf",
+      "path": "data/fonts-korean-hanja/noto-sans-kr/NotoSansCJKkr-Regular.otf",
+      "bytes": 16433112,
+      "sha256": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a",
+      "git_blob_sha1": null
+    },
+    "license": {
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/LICENSE",
+      "path": "data/fonts-korean-hanja/noto-sans-kr/LICENSE.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "git_blob_sha1": null
+    }
+  },
+  {
+    "id": "noto-serif-kr",
+    "repository": "notofonts/noto-cjk",
+    "revision": "f8d157532fbfaeda587e826d4cd5b21a49186f7c",
+    "font": {
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/Korean/NotoSerifCJKkr-Regular.otf",
+      "path": "data/fonts-korean-hanja/noto-serif-kr/NotoSerifCJKkr-Regular.otf",
+      "bytes": 24539640,
+      "sha256": "77b4b741f864d27f15e90f275b17106dde90b2ad28f82bab72dc95805db5fb42",
+      "git_blob_sha1": null
+    },
+    "license": {
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/LICENSE",
+      "path": "data/fonts-korean-hanja/noto-serif-kr/LICENSE.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "git_blob_sha1": null
+    }
+  },
+  {
+    "id": "un-batang",
+    "repository": "deepin-community/fonts-unfonts-core",
+    "revision": "ef6c68f4f0beb2a03fcf460aa643d73389aac59a",
+    "font": {
+      "url": "https://raw.githubusercontent.com/deepin-community/fonts-unfonts-core/ef6c68f4f0beb2a03fcf460aa643d73389aac59a/UnBatang.ttf",
+      "path": "data/fonts-korean-hanja/un-batang/UnBatang.ttf",
+      "bytes": 6157280,
+      "sha256": "5066e52d247568acc6c2984f41d8f7e3c20e28f19f0d8acda9d33027be91e991",
+      "git_blob_sha1": null
+    },
+    "license": {
+      "url": "https://raw.githubusercontent.com/deepin-community/fonts-unfonts-core/ef6c68f4f0beb2a03fcf460aa643d73389aac59a/COPYING",
+      "path": "data/fonts-korean-hanja/un-batang/LICENSE.txt",
+      "bytes": 17989,
+      "sha256": "b8a2f73f743dc1a51aff23f1aacbca4b868564db52496fa3c0caba755bfd1eaf",
+      "git_blob_sha1": null
+    }
+  },
+  {
+    "id": "un-dotum",
+    "repository": "deepin-community/fonts-unfonts-core",
+    "revision": "ef6c68f4f0beb2a03fcf460aa643d73389aac59a",
+    "font": {
+      "url": "https://raw.githubusercontent.com/deepin-community/fonts-unfonts-core/ef6c68f4f0beb2a03fcf460aa643d73389aac59a/UnDotum.ttf",
+      "path": "data/fonts-korean-hanja/un-dotum/UnDotum.ttf",
+      "bytes": 3656228,
+      "sha256": "5b8373e126bb61f59105cf7f54a47eb1b089c2b0aacb70c6cd688bd8ea76cdc9",
+      "git_blob_sha1": null
+    },
+    "license": {
+      "url": "https://raw.githubusercontent.com/deepin-community/fonts-unfonts-core/ef6c68f4f0beb2a03fcf460aa643d73389aac59a/COPYING",
+      "path": "data/fonts-korean-hanja/un-dotum/LICENSE.txt",
+      "bytes": 17989,
+      "sha256": "b8a2f73f743dc1a51aff23f1aacbca4b868564db52496fa3c0caba755bfd1eaf",
+      "git_blob_sha1": null
+    }
+  },
+  {
+    "id": "lxgw-wenkai-kr",
+    "repository": "lxgw/LxgwWenkaiKR",
+    "revision": "dd9ce0bb2f31d40c9a965b2c86527e79af329f62",
+    "font": {
+      "url": "https://raw.githubusercontent.com/lxgw/LxgwWenkaiKR/dd9ce0bb2f31d40c9a965b2c86527e79af329f62/fonts/TTF/LXGWWenKaiKR-Regular.ttf",
+      "path": "data/fonts-korean-hanja/lxgw-wenkai-kr/LXGWWenKaiKR-Regular.ttf",
+      "bytes": 13930700,
+      "sha256": "202395030d07b078dfa5ae8f11f6ab0a5575dd5a49357fa560c319fef39bc5b0",
+      "git_blob_sha1": null
+    },
+    "license": {
+      "url": "https://raw.githubusercontent.com/lxgw/LxgwWenkaiKR/dd9ce0bb2f31d40c9a965b2c86527e79af329f62/OFL.txt",
+      "path": "data/fonts-korean-hanja/lxgw-wenkai-kr/LICENSE.txt",
+      "bytes": 4395,
+      "sha256": "e270ddb6be9ebd4d25c460dcddb7ca2255508ae5ae560c514f2e5b07daed764b",
+      "git_blob_sha1": null
+    }
+  }
+]

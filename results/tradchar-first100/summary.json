@@ -1,0 +1,33 @@
+{
+  "Zinnia": {
+    "vocabulary_covered": 100,
+    "n": 100,
+    "errors": 0,
+    "top1": 23,
+    "top5": 29,
+    "median_ms": 15.586145455017686
+  },
+  "cnn_chinese_hw (legacy)": {
+    "vocabulary_covered": 100,
+    "n": 100,
+    "errors": 0,
+    "top1": 38,
+    "top5": 51,
+    "median_ms": 6.274479033891112
+  },
+  "GlyphWeave": {
+    "vocabulary_covered": 100,
+    "n": 100,
+    "errors": 0,
+    "top1": 95,
+    "top5": 100,
+    "median_ms": 87.50531246187165
+  },
+  "Hanzi Lookup": {
+    "n": 100,
+    "errors": 1,
+    "top1": 35,
+    "top5": 49,
+    "median_ms": 1.1983749999999986
+  }
+}

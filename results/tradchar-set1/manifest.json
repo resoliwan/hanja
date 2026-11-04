@@ -1,0 +1,8 @@
+{
+  "dataset": "SCUT-onHCCTestDB TradChar subset 1, not COUCH2009",
+  "samples": 20000,
+  "unique_labels": 5283,
+  "verified_labels": 20000,
+  "pot_bytes": 9557676,
+  "selection": "all records in original order, no exclusions"
+}

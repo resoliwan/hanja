@@ -1,0 +1,2462 @@
+[
+  {
+    "sha": "6dba4ed4f667315545a616680bb300d9c23ad868",
+    "node_id": "C_kwDODivTENoAKDZkYmE0ZWQ0ZjY2NzMxNTU0NWE2MTY2ODBiYjMwMGQ5YzIzYWQ4Njg",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-23T21:37:00Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-23T21:37:00Z"
+      },
+      "message": "various updates; remove dead code",
+      "tree": {
+        "sha": "2b50270dee057b9b1cf0fbaef3dfd53d0a3c70e5",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/2b50270dee057b9b1cf0fbaef3dfd53d0a3c70e5"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/6dba4ed4f667315545a616680bb300d9c23ad868",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6dba4ed4f667315545a616680bb300d9c23ad868",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6dba4ed4f667315545a616680bb300d9c23ad868",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6dba4ed4f667315545a616680bb300d9c23ad868/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b1721bec604e16a165c3d14d44f5d56dd0fe99d2",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b1721bec604e16a165c3d14d44f5d56dd0fe99d2",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/b1721bec604e16a165c3d14d44f5d56dd0fe99d2"
+      }
+    ]
+  },
+  {
+    "sha": "b1721bec604e16a165c3d14d44f5d56dd0fe99d2",
+    "node_id": "C_kwDODivTENoAKGIxNzIxYmVjNjA0ZTE2YTE2NWMzZDE0ZDQ0ZjVkNTZkZDBmZTk5ZDI",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-23T10:57:01Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-23T10:57:01Z"
+      },
+      "message": "various updates; remove dead code",
+      "tree": {
+        "sha": "06558ce420a162dbe41389645dbb828a8b76a04b",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/06558ce420a162dbe41389645dbb828a8b76a04b"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/b1721bec604e16a165c3d14d44f5d56dd0fe99d2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b1721bec604e16a165c3d14d44f5d56dd0fe99d2",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/b1721bec604e16a165c3d14d44f5d56dd0fe99d2",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b1721bec604e16a165c3d14d44f5d56dd0fe99d2/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "58e00dad757f5a97219abb118687817657fdca83",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/58e00dad757f5a97219abb118687817657fdca83",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/58e00dad757f5a97219abb118687817657fdca83"
+      }
+    ]
+  },
+  {
+    "sha": "58e00dad757f5a97219abb118687817657fdca83",
+    "node_id": "C_kwDODivTENoAKDU4ZTAwZGFkNzU3ZjVhOTcyMTlhYmIxMTg2ODc4MTc2NTdmZGNhODM",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-19T14:13:25Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-19T14:13:25Z"
+      },
+      "message": "various updates",
+      "tree": {
+        "sha": "81436085c10e38c3efcbc70f640de35ee1492b51",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/81436085c10e38c3efcbc70f640de35ee1492b51"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/58e00dad757f5a97219abb118687817657fdca83",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/58e00dad757f5a97219abb118687817657fdca83",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/58e00dad757f5a97219abb118687817657fdca83",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/58e00dad757f5a97219abb118687817657fdca83/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94"
+      }
+    ]
+  },
+  {
+    "sha": "4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94",
+    "node_id": "C_kwDODivTENoAKDRmY2I1OGQ4YzdlYmE5NmYxZmVkZjMzM2M1NTJhYzhkNGQ2YWVjOTQ",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-18T22:53:24Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-18T22:53:24Z"
+      },
+      "message": "various updates",
+      "tree": {
+        "sha": "69f4e1fac800b3e73ce54174778a2218798fe44c",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/69f4e1fac800b3e73ce54174778a2218798fe44c"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/4fcb58d8c7eba96f1fedf333c552ac8d4d6aec94/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6242af926055ec0fc9b4a13e7779021acfc42dce",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6242af926055ec0fc9b4a13e7779021acfc42dce",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6242af926055ec0fc9b4a13e7779021acfc42dce"
+      }
+    ]
+  },
+  {
+    "sha": "6242af926055ec0fc9b4a13e7779021acfc42dce",
+    "node_id": "C_kwDODivTENoAKDYyNDJhZjkyNjA1NWVjMGZjOWI0YTEzZTc3NzkwMjFhY2ZjNDJkY2U",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-08T22:54:39Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-09-08T22:54:39Z"
+      },
+      "message": "various updates",
+      "tree": {
+        "sha": "308aaa885f18a6bbd69911bc1ae0696d88291b0d",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/308aaa885f18a6bbd69911bc1ae0696d88291b0d"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/6242af926055ec0fc9b4a13e7779021acfc42dce",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6242af926055ec0fc9b4a13e7779021acfc42dce",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6242af926055ec0fc9b4a13e7779021acfc42dce",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6242af926055ec0fc9b4a13e7779021acfc42dce/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b98826e760beadc2097d5ffa3f65885a14ae06fc",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b98826e760beadc2097d5ffa3f65885a14ae06fc",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/b98826e760beadc2097d5ffa3f65885a14ae06fc"
+      }
+    ]
+  },
+  {
+    "sha": "b98826e760beadc2097d5ffa3f65885a14ae06fc",
+    "node_id": "C_kwDODivTENoAKGI5ODgyNmU3NjBiZWFkYzIwOTdkNWZmYTNmNjU4ODVhMTRhZTA2ZmM",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-07-05T00:18:37Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-07-05T00:18:37Z"
+      },
+      "message": "various updates",
+      "tree": {
+        "sha": "a2fc665d84238dfbd262c1fd11fb0d969e164300",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/a2fc665d84238dfbd262c1fd11fb0d969e164300"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/b98826e760beadc2097d5ffa3f65885a14ae06fc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b98826e760beadc2097d5ffa3f65885a14ae06fc",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/b98826e760beadc2097d5ffa3f65885a14ae06fc",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b98826e760beadc2097d5ffa3f65885a14ae06fc/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a2ed46a58acb5d97e22f1e4f83676e15d7eea09b",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/a2ed46a58acb5d97e22f1e4f83676e15d7eea09b",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/a2ed46a58acb5d97e22f1e4f83676e15d7eea09b"
+      }
+    ]
+  },
+  {
+    "sha": "a2ed46a58acb5d97e22f1e4f83676e15d7eea09b",
+    "node_id": "C_kwDODivTENoAKGEyZWQ0NmE1OGFjYjVkOTdlMjJmMWU0ZjgzNjc2ZTE1ZDdlZWEwOWI",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-23T22:10:01Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-23T22:10:01Z"
+      },
+      "message": "move LLM tools to separate repository",
+      "tree": {
+        "sha": "72fad1b44821e00bcf59854d2c30bdeeb8a802b9",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/72fad1b44821e00bcf59854d2c30bdeeb8a802b9"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/a2ed46a58acb5d97e22f1e4f83676e15d7eea09b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/a2ed46a58acb5d97e22f1e4f83676e15d7eea09b",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/a2ed46a58acb5d97e22f1e4f83676e15d7eea09b",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/a2ed46a58acb5d97e22f1e4f83676e15d7eea09b/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "98034d4ec0381e8353872ae84dfdab0131351daf",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/98034d4ec0381e8353872ae84dfdab0131351daf",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/98034d4ec0381e8353872ae84dfdab0131351daf"
+      }
+    ]
+  },
+  {
+    "sha": "98034d4ec0381e8353872ae84dfdab0131351daf",
+    "node_id": "C_kwDODivTENoAKDk4MDM0ZDRlYzAzODFlODM1Mzg3MmFlODRkZmRhYjAxMzEzNTFkYWY",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-17T15:29:50Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-17T15:29:50Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "dd2e6d09f302124f689ef151dd403dd177a2351a",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/dd2e6d09f302124f689ef151dd403dd177a2351a"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/98034d4ec0381e8353872ae84dfdab0131351daf",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/98034d4ec0381e8353872ae84dfdab0131351daf",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/98034d4ec0381e8353872ae84dfdab0131351daf",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/98034d4ec0381e8353872ae84dfdab0131351daf/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c"
+      }
+    ]
+  },
+  {
+    "sha": "0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c",
+    "node_id": "C_kwDODivTENoAKDBlODY0ZjU4NTFhMWU3ZDRmMGM2NmRjMGU4Zjk4ZGI0NWVjYjYzMGM",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-17T13:08:21Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-17T13:08:21Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "9fe15307a676a7b57af373edf8308de40a79f14d",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/9fe15307a676a7b57af373edf8308de40a79f14d"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/0e864f5851a1e7d4f0c66dc0e8f98db45ecb630c/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9f8e0797c5bf8e47377c97f352cef74305d5544e",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/9f8e0797c5bf8e47377c97f352cef74305d5544e",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/9f8e0797c5bf8e47377c97f352cef74305d5544e"
+      }
+    ]
+  },
+  {
+    "sha": "9f8e0797c5bf8e47377c97f352cef74305d5544e",
+    "node_id": "C_kwDODivTENoAKDlmOGUwNzk3YzViZjhlNDczNzdjOTdmMzUyY2VmNzQzMDVkNTU0NGU",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-16T09:35:35Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-16T09:35:35Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "97830496a3d024356e0afdbc5b2b41949794bad2",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/97830496a3d024356e0afdbc5b2b41949794bad2"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/9f8e0797c5bf8e47377c97f352cef74305d5544e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/9f8e0797c5bf8e47377c97f352cef74305d5544e",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/9f8e0797c5bf8e47377c97f352cef74305d5544e",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/9f8e0797c5bf8e47377c97f352cef74305d5544e/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "aa6dc9115eb7eebeec299b30a896f3ee35e57804",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/aa6dc9115eb7eebeec299b30a896f3ee35e57804",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/aa6dc9115eb7eebeec299b30a896f3ee35e57804"
+      }
+    ]
+  },
+  {
+    "sha": "aa6dc9115eb7eebeec299b30a896f3ee35e57804",
+    "node_id": "C_kwDODivTENoAKGFhNmRjOTExNWViN2VlYmVlYzI5OWIzMGE4OTZmM2VlMzVlNTc4MDQ",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-15T10:11:34Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-15T10:11:34Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "0fa69e9c5d11dbe1e935b0f1a776167b56e1247b",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/0fa69e9c5d11dbe1e935b0f1a776167b56e1247b"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/aa6dc9115eb7eebeec299b30a896f3ee35e57804",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/aa6dc9115eb7eebeec299b30a896f3ee35e57804",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/aa6dc9115eb7eebeec299b30a896f3ee35e57804",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/aa6dc9115eb7eebeec299b30a896f3ee35e57804/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8158471686399f9d775d9a982634de0e5b1c1364",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/8158471686399f9d775d9a982634de0e5b1c1364",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/8158471686399f9d775d9a982634de0e5b1c1364"
+      }
+    ]
+  },
+  {
+    "sha": "8158471686399f9d775d9a982634de0e5b1c1364",
+    "node_id": "C_kwDODivTENoAKDgxNTg0NzE2ODYzOTlmOWQ3NzVkOWE5ODI2MzRkZTBlNWIxYzEzNjQ",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T08:41:52Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T08:41:52Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "c2d1ff87de78be23efa2bb3a055eb75d52009d47",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/c2d1ff87de78be23efa2bb3a055eb75d52009d47"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/8158471686399f9d775d9a982634de0e5b1c1364",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/8158471686399f9d775d9a982634de0e5b1c1364",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/8158471686399f9d775d9a982634de0e5b1c1364",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/8158471686399f9d775d9a982634de0e5b1c1364/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ce5486cd7af6503dcae76ddf64cd1eea416e998a",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/ce5486cd7af6503dcae76ddf64cd1eea416e998a",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/ce5486cd7af6503dcae76ddf64cd1eea416e998a"
+      }
+    ]
+  },
+  {
+    "sha": "ce5486cd7af6503dcae76ddf64cd1eea416e998a",
+    "node_id": "C_kwDODivTENoAKGNlNTQ4NmNkN2FmNjUwM2RjYWU3NmRkZjY0Y2QxZWVhNDE2ZTk5OGE",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T05:34:53Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T05:34:53Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "8d73a30b731fa4d8ff5215cb8fb8247e3e592738",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/8d73a30b731fa4d8ff5215cb8fb8247e3e592738"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/ce5486cd7af6503dcae76ddf64cd1eea416e998a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/ce5486cd7af6503dcae76ddf64cd1eea416e998a",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/ce5486cd7af6503dcae76ddf64cd1eea416e998a",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/ce5486cd7af6503dcae76ddf64cd1eea416e998a/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "feaba70304063d352afce6affa98adf91ef8151b",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/feaba70304063d352afce6affa98adf91ef8151b",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/feaba70304063d352afce6affa98adf91ef8151b"
+      }
+    ]
+  },
+  {
+    "sha": "feaba70304063d352afce6affa98adf91ef8151b",
+    "node_id": "C_kwDODivTENoAKGZlYWJhNzAzMDQwNjNkMzUyYWZjZTZhZmZhOThhZGY5MWVmODE1MWI",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T05:29:20Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T05:29:20Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "cc5c3a8980b08aca59683cf937679bb7e5794584",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/cc5c3a8980b08aca59683cf937679bb7e5794584"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/feaba70304063d352afce6affa98adf91ef8151b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/feaba70304063d352afce6affa98adf91ef8151b",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/feaba70304063d352afce6affa98adf91ef8151b",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/feaba70304063d352afce6affa98adf91ef8151b/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "339986a2dbae38d62674333201fe94591285e131",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/339986a2dbae38d62674333201fe94591285e131",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/339986a2dbae38d62674333201fe94591285e131"
+      }
+    ]
+  },
+  {
+    "sha": "339986a2dbae38d62674333201fe94591285e131",
+    "node_id": "C_kwDODivTENoAKDMzOTk4NmEyZGJhZTM4ZDYyNjc0MzMzMjAxZmU5NDU5MTI4NWUxMzE",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T02:57:54Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-14T02:57:54Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "c5747017412ed43f581ffc3e6fdbf0e144314be0",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/c5747017412ed43f581ffc3e6fdbf0e144314be0"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/339986a2dbae38d62674333201fe94591285e131",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/339986a2dbae38d62674333201fe94591285e131",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/339986a2dbae38d62674333201fe94591285e131",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/339986a2dbae38d62674333201fe94591285e131/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b87194fb5d68534207b5ecd1ecaa2f03686fac2b",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b87194fb5d68534207b5ecd1ecaa2f03686fac2b",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/b87194fb5d68534207b5ecd1ecaa2f03686fac2b"
+      }
+    ]
+  },
+  {
+    "sha": "b87194fb5d68534207b5ecd1ecaa2f03686fac2b",
+    "node_id": "C_kwDODivTENoAKGI4NzE5NGZiNWQ2ODUzNDIwN2I1ZWNkMWVjYWEyZjAzNjg2ZmFjMmI",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T09:30:03Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T09:30:03Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "4b4350d72505d1eaaa9a3747c95274ce74a1d6d7",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/4b4350d72505d1eaaa9a3747c95274ce74a1d6d7"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/b87194fb5d68534207b5ecd1ecaa2f03686fac2b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b87194fb5d68534207b5ecd1ecaa2f03686fac2b",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/b87194fb5d68534207b5ecd1ecaa2f03686fac2b",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/b87194fb5d68534207b5ecd1ecaa2f03686fac2b/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6eb07600338736ee2f0fffbe0a9e050df5e30b68",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6eb07600338736ee2f0fffbe0a9e050df5e30b68",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6eb07600338736ee2f0fffbe0a9e050df5e30b68"
+      }
+    ]
+  },
+  {
+    "sha": "6eb07600338736ee2f0fffbe0a9e050df5e30b68",
+    "node_id": "C_kwDODivTENoAKDZlYjA3NjAwMzM4NzM2ZWUyZjBmZmZiZTBhOWUwNTBkZjVlMzBiNjg",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:56:00Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:56:00Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "c3a1ac415dae4ee5636ff2e1ab637eac9f150b77",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/c3a1ac415dae4ee5636ff2e1ab637eac9f150b77"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/6eb07600338736ee2f0fffbe0a9e050df5e30b68",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6eb07600338736ee2f0fffbe0a9e050df5e30b68",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6eb07600338736ee2f0fffbe0a9e050df5e30b68",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6eb07600338736ee2f0fffbe0a9e050df5e30b68/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "16cc684a47c2efaf0c700996288f0b9ccee5ee07",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/16cc684a47c2efaf0c700996288f0b9ccee5ee07",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/16cc684a47c2efaf0c700996288f0b9ccee5ee07"
+      }
+    ]
+  },
+  {
+    "sha": "16cc684a47c2efaf0c700996288f0b9ccee5ee07",
+    "node_id": "C_kwDODivTENoAKDE2Y2M2ODRhNDdjMmVmYWYwYzcwMDk5NjI4OGYwYjljY2VlNWVlMDc",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:50:22Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:50:22Z"
+      },
+      "message": "various updates+cleanups",
+      "tree": {
+        "sha": "722eee12615edb863a4296cab5a1e5db5f658088",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/722eee12615edb863a4296cab5a1e5db5f658088"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/16cc684a47c2efaf0c700996288f0b9ccee5ee07",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/16cc684a47c2efaf0c700996288f0b9ccee5ee07",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/16cc684a47c2efaf0c700996288f0b9ccee5ee07",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/16cc684a47c2efaf0c700996288f0b9ccee5ee07/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "299e3ed5ddcec5e340e8bb7688c13dda071330a0",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/299e3ed5ddcec5e340e8bb7688c13dda071330a0",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/299e3ed5ddcec5e340e8bb7688c13dda071330a0"
+      }
+    ]
+  },
+  {
+    "sha": "299e3ed5ddcec5e340e8bb7688c13dda071330a0",
+    "node_id": "C_kwDODivTENoAKDI5OWUzZWQ1ZGRjZWM1ZTM0MGU4YmI3Njg4YzEzZGRhMDcxMzMwYTA",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:48:56Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:48:56Z"
+      },
+      "message": "various updates",
+      "tree": {
+        "sha": "f187a9e90f9684a113d8656494fa0635a004691a",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/f187a9e90f9684a113d8656494fa0635a004691a"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/299e3ed5ddcec5e340e8bb7688c13dda071330a0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/299e3ed5ddcec5e340e8bb7688c13dda071330a0",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/299e3ed5ddcec5e340e8bb7688c13dda071330a0",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/299e3ed5ddcec5e340e8bb7688c13dda071330a0/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "01f5501b9c0da586ceccb605434638f7b5dbd688",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/01f5501b9c0da586ceccb605434638f7b5dbd688",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/01f5501b9c0da586ceccb605434638f7b5dbd688"
+      }
+    ]
+  },
+  {
+    "sha": "01f5501b9c0da586ceccb605434638f7b5dbd688",
+    "node_id": "C_kwDODivTENoAKDAxZjU1MDFiOWMwZGE1ODZjZWNjYjYwNTQzNDYzOGY3YjVkYmQ2ODg",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:09:43Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-06-13T06:09:43Z"
+      },
+      "message": "convert to pytorch with substantial updates",
+      "tree": {
+        "sha": "d87c18213e1db8395e120a7ebf95ba417a0923ba",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/d87c18213e1db8395e120a7ebf95ba417a0923ba"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/01f5501b9c0da586ceccb605434638f7b5dbd688",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/01f5501b9c0da586ceccb605434638f7b5dbd688",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/01f5501b9c0da586ceccb605434638f7b5dbd688",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/01f5501b9c0da586ceccb605434638f7b5dbd688/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9049eb5e7cb353b19d07241cb8712e77c18afad3",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/9049eb5e7cb353b19d07241cb8712e77c18afad3",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/9049eb5e7cb353b19d07241cb8712e77c18afad3"
+      }
+    ]
+  },
+  {
+    "sha": "9049eb5e7cb353b19d07241cb8712e77c18afad3",
+    "node_id": "C_kwDODivTENoAKDkwNDllYjVlN2NiMzUzYjE5ZDA3MjQxY2I4NzEyZTc3YzE4YWZhZDM",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-04-18T02:17:00Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-04-18T02:17:00Z"
+      },
+      "message": "ipa normalisation fixes",
+      "tree": {
+        "sha": "65f7d5a72c432dec5da522ed58df2392231e17ae",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/65f7d5a72c432dec5da522ed58df2392231e17ae"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/9049eb5e7cb353b19d07241cb8712e77c18afad3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/9049eb5e7cb353b19d07241cb8712e77c18afad3",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/9049eb5e7cb353b19d07241cb8712e77c18afad3",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/9049eb5e7cb353b19d07241cb8712e77c18afad3/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8"
+      }
+    ]
+  },
+  {
+    "sha": "33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8",
+    "node_id": "C_kwDODivTENoAKDMzZmE0MGUxZjU5YjFiYjdmMmIyN2Y3N2ViZGI4ZGE3OGJiZjI1ZTg",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-03-13T05:43:26Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2026-03-13T05:43:26Z"
+      },
+      "message": "various fixes",
+      "tree": {
+        "sha": "4e5117f0da62f97c94672001b86a7b720b20e8ea",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/4e5117f0da62f97c94672001b86a7b720b20e8ea"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/33fa40e1f59b1bb7f2b27f77ebdb8da78bbf25e8/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc"
+      }
+    ]
+  },
+  {
+    "sha": "05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc",
+    "node_id": "C_kwDODivTENoAKDA1ZDAzYTY5M2ZiODM1MWE4NWVhY2RhZWZjYzJmYjZiZDVkMTNlY2M",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2024-11-04T11:31:40Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2024-11-04T11:31:40Z"
+      },
+      "message": "fixes needed due to package and ubuntu upgrades",
+      "tree": {
+        "sha": "7e271dc123db49042bb4f2b62687f6193c4422ab",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/7e271dc123db49042bb4f2b62687f6193c4422ab"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/05d03a693fb8351a85eacdaefcc2fb6bd5d13ecc/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "252e4505f1f53f433e36492f875cc2156beb8c3e",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/252e4505f1f53f433e36492f875cc2156beb8c3e",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/252e4505f1f53f433e36492f875cc2156beb8c3e"
+      }
+    ]
+  },
+  {
+    "sha": "252e4505f1f53f433e36492f875cc2156beb8c3e",
+    "node_id": "C_kwDODivTENoAKDI1MmU0NTA1ZjFmNTNmNDMzZTM2NDkyZjg3NWNjMjE1NmJlYjhjM2U",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2024-01-09T09:15:14Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2024-01-09T09:15:14Z"
+      },
+      "message": "restore chinese handwriting input",
+      "tree": {
+        "sha": "3b4e80d954285b44664974823a6b64d73d571336",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/3b4e80d954285b44664974823a6b64d73d571336"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/252e4505f1f53f433e36492f875cc2156beb8c3e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/252e4505f1f53f433e36492f875cc2156beb8c3e",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/252e4505f1f53f433e36492f875cc2156beb8c3e",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/252e4505f1f53f433e36492f875cc2156beb8c3e/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bdf9271fefc03571b6e3b6bba48d8b3598698905",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/bdf9271fefc03571b6e3b6bba48d8b3598698905",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/bdf9271fefc03571b6e3b6bba48d8b3598698905"
+      }
+    ]
+  },
+  {
+    "sha": "bdf9271fefc03571b6e3b6bba48d8b3598698905",
+    "node_id": "C_kwDODivTENoAKGJkZjkyNzFmZWZjMDM1NzFiNmUzYjZiYmE0OGQ4YjM1OTg2OTg5MDU",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-09-01T07:28:18Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-09-01T07:28:18Z"
+      },
+      "message": "make model fit in 12gb gpu memory",
+      "tree": {
+        "sha": "d6ca2644e49747c6a4b810d4b9b5e79fb261b478",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/d6ca2644e49747c6a4b810d4b9b5e79fb261b478"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/bdf9271fefc03571b6e3b6bba48d8b3598698905",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/bdf9271fefc03571b6e3b6bba48d8b3598698905",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/bdf9271fefc03571b6e3b6bba48d8b3598698905",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/bdf9271fefc03571b6e3b6bba48d8b3598698905/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0a423e918edbe91a38875034d6216bb9263d2efc",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/0a423e918edbe91a38875034d6216bb9263d2efc",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/0a423e918edbe91a38875034d6216bb9263d2efc"
+      }
+    ]
+  },
+  {
+    "sha": "0a423e918edbe91a38875034d6216bb9263d2efc",
+    "node_id": "C_kwDODivTENoAKDBhNDIzZTkxOGVkYmU5MWEzODg3NTAzNGQ2MjE2YmI5MjYzZDJlZmM",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-18T02:41:05Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-18T02:41:05Z"
+      },
+      "message": "remove ISOTools instances and cleanups",
+      "tree": {
+        "sha": "3b0c922e9efe5f5526550fac3fbb071088d056df",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/3b0c922e9efe5f5526550fac3fbb071088d056df"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/0a423e918edbe91a38875034d6216bb9263d2efc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/0a423e918edbe91a38875034d6216bb9263d2efc",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/0a423e918edbe91a38875034d6216bb9263d2efc",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/0a423e918edbe91a38875034d6216bb9263d2efc/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "77d03e1d7722d6f931212b8c5a3d1d78600d4fb1",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/77d03e1d7722d6f931212b8c5a3d1d78600d4fb1",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/77d03e1d7722d6f931212b8c5a3d1d78600d4fb1"
+      }
+    ]
+  },
+  {
+    "sha": "77d03e1d7722d6f931212b8c5a3d1d78600d4fb1",
+    "node_id": "C_kwDODivTENoAKDc3ZDAzZTFkNzcyMmQ2ZjkzMTIxMmI4YzVhM2QxZDc4NjAwZDRmYjE",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-15T06:43:32Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-15T06:43:32Z"
+      },
+      "message": "remove all instances of ISOTools",
+      "tree": {
+        "sha": "2d7fc20caee708be5a66c930818f61bd74e908e5",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/2d7fc20caee708be5a66c930818f61bd74e908e5"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/77d03e1d7722d6f931212b8c5a3d1d78600d4fb1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/77d03e1d7722d6f931212b8c5a3d1d78600d4fb1",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/77d03e1d7722d6f931212b8c5a3d1d78600d4fb1",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/77d03e1d7722d6f931212b8c5a3d1d78600d4fb1/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "48ff536312967babb21438252a7fdf0c62b47a33",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/48ff536312967babb21438252a7fdf0c62b47a33",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/48ff536312967babb21438252a7fdf0c62b47a33"
+      }
+    ]
+  },
+  {
+    "sha": "48ff536312967babb21438252a7fdf0c62b47a33",
+    "node_id": "C_kwDODivTENoAKDQ4ZmY1MzYzMTI5NjdiYWJiMjE0MzgyNTJhN2ZkZjBjNjJiNDdhMzM",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-13T06:37:27Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-13T06:37:27Z"
+      },
+      "message": "code style updates+import fixes",
+      "tree": {
+        "sha": "01fbaed3d9543f047d2d0c7252f0f9452302b26b",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/01fbaed3d9543f047d2d0c7252f0f9452302b26b"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/48ff536312967babb21438252a7fdf0c62b47a33",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/48ff536312967babb21438252a7fdf0c62b47a33",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/48ff536312967babb21438252a7fdf0c62b47a33",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/48ff536312967babb21438252a7fdf0c62b47a33/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6221febbc6cff1933de08f1b8de95f3bae3e61cc",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6221febbc6cff1933de08f1b8de95f3bae3e61cc",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6221febbc6cff1933de08f1b8de95f3bae3e61cc"
+      }
+    ]
+  },
+  {
+    "sha": "6221febbc6cff1933de08f1b8de95f3bae3e61cc",
+    "node_id": "C_kwDODivTENoAKDYyMjFmZWJiYzZjZmYxOTMzZGUwOGYxYjhkZTk1ZjNiYWUzZTYxY2M",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-04T04:05:44Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2023-02-04T04:05:44Z"
+      },
+      "message": "code style updates",
+      "tree": {
+        "sha": "0919e4b309748a4b9f84e473e47f46fc4cf34aa8",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/0919e4b309748a4b9f84e473e47f46fc4cf34aa8"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/6221febbc6cff1933de08f1b8de95f3bae3e61cc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6221febbc6cff1933de08f1b8de95f3bae3e61cc",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/6221febbc6cff1933de08f1b8de95f3bae3e61cc",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/6221febbc6cff1933de08f1b8de95f3bae3e61cc/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d783ca6edd7da73b273badb20b7fe457563d2cb1",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/d783ca6edd7da73b273badb20b7fe457563d2cb1",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/d783ca6edd7da73b273badb20b7fe457563d2cb1"
+      }
+    ]
+  },
+  {
+    "sha": "d783ca6edd7da73b273badb20b7fe457563d2cb1",
+    "node_id": "C_kwDODivTENoAKGQ3ODNjYTZlZGQ3ZGE3M2IyNzNiYWRiMjBiN2ZlNDU3NTYzZDJjYjE",
+    "commit": {
+      "author": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2022-09-26T12:48:18Z"
+      },
+      "committer": {
+        "name": "Dave Morrissey",
+        "email": "20507948+mcyph@users.noreply.github.com",
+        "date": "2022-09-26T12:48:18Z"
+      },
+      "message": "convert to new speedysvc version",
+      "tree": {
+        "sha": "954419c84d75a2d5aa50b327636c7a52e14cf287",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/trees/954419c84d75a2d5aa50b327636c7a52e14cf287"
+      },
+      "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/git/commits/d783ca6edd7da73b273badb20b7fe457563d2cb1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/d783ca6edd7da73b273badb20b7fe457563d2cb1",
+    "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/d783ca6edd7da73b273badb20b7fe457563d2cb1",
+    "comments_url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/d783ca6edd7da73b273badb20b7fe457563d2cb1/comments",
+    "author": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mcyph",
+      "id": 20507948,
+      "node_id": "MDQ6VXNlcjIwNTA3OTQ4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20507948?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mcyph",
+      "html_url": "https://github.com/mcyph",
+      "followers_url": "https://api.github.com/users/mcyph/followers",
+      "following_url": "https://api.github.com/users/mcyph/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mcyph/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mcyph/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mcyph/subscriptions",
+      "organizations_url": "https://api.github.com/users/mcyph/orgs",
+      "repos_url": "https://api.github.com/users/mcyph/repos",
+      "events_url": "https://api.github.com/users/mcyph/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mcyph/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3dca8ff2dc590cd332f03a320d0297c84a23b89f",
+        "url": "https://api.github.com/repos/mcyph/cnn_chinese_hw/commits/3dca8ff2dc590cd332f03a320d0297c84a23b89f",
+        "html_url": "https://github.com/mcyph/cnn_chinese_hw/commit/3dca8ff2dc590cd332f03a320d0297c84a23b89f"
+      }
+    ]
+  }
+]

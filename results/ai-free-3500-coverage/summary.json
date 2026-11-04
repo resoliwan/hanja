@@ -1,0 +1,23 @@
+{
+  "archive_folders": 13065,
+  "single_character_labels": 13063,
+  "excluded_malformed_labels": {
+    "p嶒": 51,
+    "濈u": 51
+  },
+  "archive_images": 684677,
+  "target_covered": 3352,
+  "target_missing": 148,
+  "glyph_missing_covered": 1261,
+  "glyph_missing_remaining": 124,
+  "target_images": 174981,
+  "target_samples_min": 20,
+  "target_samples_median": 51.0,
+  "target_samples_max": 60,
+  "target_samples_mean": 52.201968973747015,
+  "glyph_missing_images": 67569,
+  "glyph_missing_samples_min": 34,
+  "glyph_missing_samples_median": 51,
+  "glyph_missing_samples_max": 60,
+  "glyph_missing_samples_mean": 53.58366375892149
+}

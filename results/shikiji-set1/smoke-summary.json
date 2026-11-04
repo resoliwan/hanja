@@ -1,0 +1,14 @@
+{
+  "n": 102,
+  "top1": 61,
+  "top5": 79,
+  "errors": 0,
+  "covered_samples": 102,
+  "unique_labels": 101,
+  "missing_labels": [],
+  "median_amortized_ms": 10.692941406887257,
+  "providers": [
+    "CPUExecutionProvider"
+  ],
+  "model_sha256": "f188732e3208b50bc39f3f5ea222f88ccf836f04136026beb99bcaf78771c6a1"
+}
