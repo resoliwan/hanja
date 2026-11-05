@@ -1,0 +1,16 @@
+{
+  "seed": 20261105,
+  "max_epochs": 500,
+  "evaluate_every": 100,
+  "base_channels": 48,
+  "parameters": 4378753,
+  "train_sources": 1000,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "initial_epoch": 1,
+  "optimizer_reset_at_continuation": true,
+  "source_checkpoint_sha256": "5c4ea9f683443a428599c7a91410f5dcb6e32039ddad1fd1f68b626d4ed6bd40",
+  "source_split_sha256": "3e2d9ee191292ac9db5f3e041e8db9713959f89d20e95bb29ef5a7b491fd9064",
+  "classifier_sha256": "999c5f74c3339ffd7e1de140f37be104ee2a6171f8478ef127ed68f8744b9655"
+}

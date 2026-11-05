@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "cho-light-neutral",
+    "character": "超",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-neutral.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "恝",
+      "炤",
+      "柖",
+      "起",
+      "楚",
+      "詔",
+      "照"
+    ]
+  },
+  {
+    "id": "cho-light-neutral",
+    "character": "超",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-neutral.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "照",
+      "迢",
+      "炤",
+      "軺",
+      "蠅",
+      "絶",
+      "柖",
+      "楚",
+      "紹"
+    ]
+  },
+  {
+    "id": "cho-light-neutral",
+    "character": "超",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-neutral.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-neutral",
+    "character": "超",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-neutral.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-red",
+    "character": "超",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "恝",
+      "炤",
+      "楚",
+      "起",
+      "照",
+      "柖",
+      "絶"
+    ]
+  },
+  {
+    "id": "cho-light-red",
+    "character": "超",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "恝",
+      "楚",
+      "炤",
+      "照",
+      "絶",
+      "起",
+      "柖"
+    ]
+  },
+  {
+    "id": "cho-light-red",
+    "character": "超",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-red",
+    "character": "超",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-blue",
+    "character": "超",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "恝",
+      "炤",
+      "柖",
+      "楚",
+      "起",
+      "照",
+      "絶"
+    ]
+  },
+  {
+    "id": "cho-light-blue",
+    "character": "超",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "照",
+      "炤",
+      "柖",
+      "絶",
+      "恝",
+      "楚",
+      "蠅"
+    ]
+  },
+  {
+    "id": "cho-light-blue",
+    "character": "超",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-blue",
+    "character": "超",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-green",
+    "character": "超",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "楚",
+      "恝",
+      "炤",
+      "起",
+      "照",
+      "琶",
+      "絶"
+    ]
+  },
+  {
+    "id": "cho-light-green",
+    "character": "超",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "楚",
+      "恝",
+      "炤",
+      "起",
+      "琶",
+      "絶",
+      "照"
+    ]
+  },
+  {
+    "id": "cho-light-green",
+    "character": "超",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-green",
+    "character": "超",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-light-rgb-gradient",
+    "character": "超",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-rgb-gradient.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "恝",
+      "楚",
+      "炤",
+      "起",
+      "絶",
+      "招",
+      "柖"
+    ]
+  },
+  {
+    "id": "cho-light-rgb-gradient",
+    "character": "超",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-rgb-gradient.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "恝",
+      "楚",
+      "炤",
+      "絶",
+      "柖",
+      "起",
+      "翅"
+    ]
+  },
+  {
+    "id": "cho-light-rgb-gradient",
+    "character": "超",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-rgb-gradient.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "照",
+      "楚",
+      "絶"
+    ]
+  },
+  {
+    "id": "cho-light-rgb-gradient",
+    "character": "超",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-rgb-gradient.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "照",
+      "楚",
+      "絶"
+    ]
+  },
+  {
+    "id": "cho-light-red-center-glare",
+    "character": "超",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "楚",
+      "恝",
+      "絶",
+      "這",
+      "夷",
+      "炤",
+      "招"
+    ]
+  },
+  {
+    "id": "cho-light-red-center-glare",
+    "character": "超",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "楚",
+      "恝",
+      "這",
+      "絶",
+      "過",
+      "夷",
+      "炤"
+    ]
+  },
+  {
+    "id": "cho-light-red-center-glare",
+    "character": "超",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red-center-glare.png",
+    "method": "current-binary",
+    "rank": 2,
+    "top10": [
+      "程",
+      "超",
+      "起",
+      "邦",
+      "駕",
+      "猩",
+      "尨",
+      "桯",
+      "耜",
+      "捏"
+    ]
+  },
+  {
+    "id": "cho-light-red-center-glare",
+    "character": "超",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 2,
+    "top10": [
+      "程",
+      "超",
+      "起",
+      "邦",
+      "駕",
+      "猩",
+      "尨",
+      "桯",
+      "耜",
+      "捏"
+    ]
+  },
+  {
+    "id": "cho-light-blue-center-glare",
+    "character": "超",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "楚",
+      "絶",
+      "恝",
+      "炤",
+      "這",
+      "翅",
+      "過"
+    ]
+  },
+  {
+    "id": "cho-light-blue-center-glare",
+    "character": "超",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趨",
+      "迢",
+      "楚",
+      "絶",
+      "過",
+      "炤",
+      "翅",
+      "這",
+      "柖"
+    ]
+  },
+  {
+    "id": "cho-light-blue-center-glare",
+    "character": "超",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue-center-glare.png",
+    "method": "current-binary",
+    "rank": 2,
+    "top10": [
+      "程",
+      "超",
+      "起",
+      "邦",
+      "駕",
+      "桯",
+      "猩",
+      "尨",
+      "耜",
+      "挹"
+    ]
+  },
+  {
+    "id": "cho-light-blue-center-glare",
+    "character": "超",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 2,
+    "top10": [
+      "程",
+      "超",
+      "起",
+      "邦",
+      "駕",
+      "桯",
+      "猩",
+      "尨",
+      "耜",
+      "挹"
+    ]
+  },
+  {
+    "id": "cho-light-green-center-glare",
+    "character": "超",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "賴",
+      "恝",
+      "招",
+      "柖",
+      "趨",
+      "炤",
+      "耜",
+      "楚"
+    ]
+  },
+  {
+    "id": "cho-light-green-center-glare",
+    "character": "超",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "賴",
+      "恝",
+      "趨",
+      "招",
+      "起",
+      "柖",
+      "弛",
+      "藉"
+    ]
+  },
+  {
+    "id": "cho-light-green-center-glare",
+    "character": "超",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green-center-glare.png",
+    "method": "current-binary",
+    "rank": 2,
+    "top10": [
+      "程",
+      "超",
+      "起",
+      "猩",
+      "駕",
+      "邦",
+      "尨",
+      "遑",
+      "桯",
+      "狸"
+    ]
+  },
+  {
+    "id": "cho-light-green-center-glare",
+    "character": "超",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 2,
+    "top10": [
+      "程",
+      "超",
+      "起",
+      "猩",
+      "駕",
+      "邦",
+      "尨",
+      "遑",
+      "桯",
+      "狸"
+    ]
+  },
+  {
+    "id": "cho-dark-neutral",
+    "character": "超",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-neutral.png",
+    "method": "direct-gray",
+    "rank": 192,
+    "top10": [
+      "牘",
+      "遭",
+      "過",
+      "籩",
+      "疊",
+      "適",
+      "趨",
+      "靄",
+      "贖",
+      "邊"
+    ]
+  },
+  {
+    "id": "cho-dark-neutral",
+    "character": "超",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-neutral.png",
+    "method": "gray-normalized",
+    "rank": 1846,
+    "top10": [
+      "閫",
+      "圜",
+      "閻",
+      "悶",
+      "圓",
+      "隧",
+      "邇",
+      "闡",
+      "圖",
+      "闥"
+    ]
+  },
+  {
+    "id": "cho-dark-neutral",
+    "character": "超",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-neutral.png",
+    "method": "current-binary",
+    "rank": 501,
+    "top10": [
+      "悶",
+      "閫",
+      "邇",
+      "圓",
+      "閻",
+      "圖",
+      "剛",
+      "駟",
+      "愆",
+      "過"
+    ]
+  },
+  {
+    "id": "cho-dark-neutral",
+    "character": "超",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-neutral.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-dark-red",
+    "character": "超",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red.png",
+    "method": "direct-gray",
+    "rank": 4594,
+    "top10": [
+      "川",
+      "口",
+      "一",
+      "几",
+      "剛",
+      "乂",
+      "熊",
+      "昭",
+      "幻",
+      "些"
+    ]
+  },
+  {
+    "id": "cho-dark-red",
+    "character": "超",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red.png",
+    "method": "gray-normalized",
+    "rank": 832,
+    "top10": [
+      "日",
+      "四",
+      "口",
+      "曰",
+      "囚",
+      "田",
+      "柶",
+      "几",
+      "丑",
+      "由"
+    ]
+  },
+  {
+    "id": "cho-dark-red",
+    "character": "超",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red.png",
+    "method": "current-binary",
+    "rank": 483,
+    "top10": [
+      "悶",
+      "閫",
+      "邇",
+      "圓",
+      "閻",
+      "圖",
+      "剛",
+      "駟",
+      "愆",
+      "過"
+    ]
+  },
+  {
+    "id": "cho-dark-red",
+    "character": "超",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "詔",
+      "照"
+    ]
+  },
+  {
+    "id": "cho-dark-blue",
+    "character": "超",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue.png",
+    "method": "direct-gray",
+    "rank": 4478,
+    "top10": [
+      "一",
+      "川",
+      "比",
+      "口",
+      "剛",
+      "乂",
+      "電",
+      "熊",
+      "昭",
+      "幻"
+    ]
+  },
+  {
+    "id": "cho-dark-blue",
+    "character": "超",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue.png",
+    "method": "gray-normalized",
+    "rank": 1405,
+    "top10": [
+      "曰",
+      "四",
+      "日",
+      "口",
+      "田",
+      "囚",
+      "目",
+      "几",
+      "旦",
+      "冒"
+    ]
+  },
+  {
+    "id": "cho-dark-blue",
+    "character": "超",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-dark-blue",
+    "character": "超",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-dark-green",
+    "character": "超",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green.png",
+    "method": "direct-gray",
+    "rank": 4050,
+    "top10": [
+      "剛",
+      "几",
+      "口",
+      "試",
+      "冏",
+      "又",
+      "過",
+      "濃",
+      "釋",
+      "濘"
+    ]
+  },
+  {
+    "id": "cho-dark-green",
+    "character": "超",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green.png",
+    "method": "gray-normalized",
+    "rank": 729,
+    "top10": [
+      "圓",
+      "閫",
+      "圖",
+      "閻",
+      "圜",
+      "閭",
+      "賻",
+      "慮",
+      "圄",
+      "扈"
+    ]
+  },
+  {
+    "id": "cho-dark-green",
+    "character": "超",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green.png",
+    "method": "current-binary",
+    "rank": 502,
+    "top10": [
+      "悶",
+      "閫",
+      "邇",
+      "圓",
+      "閻",
+      "圖",
+      "剛",
+      "駟",
+      "愆",
+      "過"
+    ]
+  },
+  {
+    "id": "cho-dark-green",
+    "character": "超",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "照",
+      "詔"
+    ]
+  },
+  {
+    "id": "cho-dark-rgb-gradient",
+    "character": "超",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-rgb-gradient.png",
+    "method": "direct-gray",
+    "rank": 4329,
+    "top10": [
+      "羽",
+      "口",
+      "川",
+      "熊",
+      "剛",
+      "只",
+      "訓",
+      "齋",
+      "幻",
+      "鷸"
+    ]
+  },
+  {
+    "id": "cho-dark-rgb-gradient",
+    "character": "超",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-rgb-gradient.png",
+    "method": "gray-normalized",
+    "rank": 1865,
+    "top10": [
+      "目",
+      "曰",
+      "冒",
+      "四",
+      "日",
+      "圓",
+      "回",
+      "口",
+      "酊",
+      "旦"
+    ]
+  },
+  {
+    "id": "cho-dark-rgb-gradient",
+    "character": "超",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-rgb-gradient.png",
+    "method": "current-binary",
+    "rank": 619,
+    "top10": [
+      "閻",
+      "邇",
+      "悶",
+      "愆",
+      "閫",
+      "剛",
+      "圓",
+      "緬",
+      "駟",
+      "圃"
+    ]
+  },
+  {
+    "id": "cho-dark-rgb-gradient",
+    "character": "超",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-rgb-gradient.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "趙",
+      "越",
+      "趨",
+      "藍",
+      "詞",
+      "楚",
+      "聲",
+      "這",
+      "磾"
+    ]
+  },
+  {
+    "id": "cho-dark-red-center-glare",
+    "character": "超",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red-center-glare.png",
+    "method": "direct-gray",
+    "rank": 416,
+    "top10": [
+      "又",
+      "入",
+      "訓",
+      "口",
+      "丑",
+      "日",
+      "几",
+      "朴",
+      "剃",
+      "櫝"
+    ]
+  },
+  {
+    "id": "cho-dark-red-center-glare",
+    "character": "超",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1117,
+    "top10": [
+      "四",
+      "口",
+      "日",
+      "丑",
+      "几",
+      "柶",
+      "駟",
+      "酊",
+      "曰",
+      "只"
+    ]
+  },
+  {
+    "id": "cho-dark-red-center-glare",
+    "character": "超",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red-center-glare.png",
+    "method": "current-binary",
+    "rank": 648,
+    "top10": [
+      "憁",
+      "掬",
+      "桭",
+      "梟",
+      "利",
+      "珤",
+      "川",
+      "八",
+      "鳴",
+      "釘"
+    ]
+  },
+  {
+    "id": "cho-dark-red-center-glare",
+    "character": "超",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1505,
+    "top10": [
+      "卜",
+      "飜",
+      "轟",
+      "楕",
+      "惰",
+      "瀝",
+      "瞻",
+      "工",
+      "目",
+      "殤"
+    ]
+  },
+  {
+    "id": "cho-dark-blue-center-glare",
+    "character": "超",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue-center-glare.png",
+    "method": "direct-gray",
+    "rank": 383,
+    "top10": [
+      "又",
+      "入",
+      "中",
+      "朴",
+      "日",
+      "剃",
+      "口",
+      "訓",
+      "士",
+      "卜"
+    ]
+  },
+  {
+    "id": "cho-dark-blue-center-glare",
+    "character": "超",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 885,
+    "top10": [
+      "四",
+      "口",
+      "日",
+      "丑",
+      "柶",
+      "几",
+      "曰",
+      "駟",
+      "田",
+      "囚"
+    ]
+  },
+  {
+    "id": "cho-dark-blue-center-glare",
+    "character": "超",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue-center-glare.png",
+    "method": "current-binary",
+    "rank": 514,
+    "top10": [
+      "利",
+      "掬",
+      "憁",
+      "忻",
+      "梟",
+      "桃",
+      "八",
+      "珤",
+      "玹",
+      "鳴"
+    ]
+  },
+  {
+    "id": "cho-dark-blue-center-glare",
+    "character": "超",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1442,
+    "top10": [
+      "卜",
+      "轟",
+      "楕",
+      "飜",
+      "惰",
+      "工",
+      "淫",
+      "瀝",
+      "秦",
+      "葺"
+    ]
+  },
+  {
+    "id": "cho-dark-green-center-glare",
+    "character": "超",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1724,
+    "top10": [
+      "羽",
+      "剛",
+      "濃",
+      "剌",
+      "目",
+      "顓",
+      "璽",
+      "冏",
+      "搆",
+      "又"
+    ]
+  },
+  {
+    "id": "cho-dark-green-center-glare",
+    "character": "超",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 244,
+    "top10": [
+      "圓",
+      "酊",
+      "酉",
+      "目",
+      "四",
+      "冏",
+      "回",
+      "曰",
+      "冒",
+      "圄"
+    ]
+  },
+  {
+    "id": "cho-dark-green-center-glare",
+    "character": "超",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green-center-glare.png",
+    "method": "current-binary",
+    "rank": 768,
+    "top10": [
+      "飼",
+      "臼",
+      "幻",
+      "印",
+      "閻",
+      "玿",
+      "窠",
+      "目",
+      "約",
+      "肆"
+    ]
+  },
+  {
+    "id": "cho-dark-green-center-glare",
+    "character": "超",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1068,
+    "top10": [
+      "梶",
+      "輩",
+      "轝",
+      "畫",
+      "拒",
+      "虐",
+      "相",
+      "握",
+      "槳",
+      "嶪"
+    ]
+  },
+  {
+    "id": "cho-original",
+    "character": "超",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-original.png",
+    "method": "direct-gray",
+    "rank": 238,
+    "top10": [
+      "遭",
+      "過",
+      "題",
+      "籩",
+      "瑥",
+      "廻",
+      "顣",
+      "趨",
+      "晝",
+      "爬"
+    ]
+  },
+  {
+    "id": "cho-original",
+    "character": "超",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-original.png",
+    "method": "gray-normalized",
+    "rank": 1886,
+    "top10": [
+      "圜",
+      "閻",
+      "圓",
+      "閫",
+      "圖",
+      "悶",
+      "閭",
+      "賻",
+      "隧",
+      "闡"
+    ]
+  },
+  {
+    "id": "cho-original",
+    "character": "超",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-original.png",
+    "method": "current-binary",
+    "rank": 466,
+    "top10": [
+      "悶",
+      "閫",
+      "邇",
+      "圓",
+      "閻",
+      "圖",
+      "剛",
+      "駟",
+      "愆",
+      "過"
+    ]
+  },
+  {
+    "id": "cho-original",
+    "character": "超",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-original.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "超",
+      "迢",
+      "趨",
+      "柖",
+      "炤",
+      "恝",
+      "招",
+      "紹",
+      "詔",
+      "照"
+    ]
+  },
+  {
+    "id": "yeok-light-neutral",
+    "character": "譯",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-neutral.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "諪",
+      "繹",
+      "課",
+      "評",
+      "讓",
+      "擇",
+      "澤"
+    ]
+  },
+  {
+    "id": "yeok-light-neutral",
+    "character": "譯",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-neutral.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "課",
+      "諪",
+      "讖",
+      "譚",
+      "讓"
+    ]
+  },
+  {
+    "id": "yeok-light-neutral",
+    "character": "譯",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-neutral.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-light-neutral",
+    "character": "譯",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-neutral.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-light-red",
+    "character": "譯",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "諪",
+      "課",
+      "繹",
+      "譚",
+      "評",
+      "讓",
+      "諜"
+    ]
+  },
+  {
+    "id": "yeok-light-red",
+    "character": "譯",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "課",
+      "譚",
+      "評",
+      "諪",
+      "讓",
+      "讖"
+    ]
+  },
+  {
+    "id": "yeok-light-red",
+    "character": "譯",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-light-red",
+    "character": "譯",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-light-blue",
+    "character": "譯",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "諪",
+      "譁",
+      "繹",
+      "課",
+      "評",
+      "讓",
+      "譚",
+      "訶"
+    ]
+  },
+  {
+    "id": "yeok-light-blue",
+    "character": "譯",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "課",
+      "評",
+      "諪",
+      "譚",
+      "讖",
+      "讓"
+    ]
+  },
+  {
+    "id": "yeok-light-blue",
+    "character": "譯",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-light-blue",
+    "character": "譯",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-light-green",
+    "character": "譯",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "鐸",
+      "評",
+      "譚",
+      "課",
+      "諪",
+      "詳",
+      "繹",
+      "肄"
+    ]
+  },
+  {
+    "id": "yeok-light-green",
+    "character": "譯",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "鐸",
+      "課",
+      "評",
+      "繹",
+      "譚",
+      "諪",
+      "詳",
+      "肄"
+    ]
+  },
+  {
+    "id": "yeok-light-green",
+    "character": "譯",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "試"
+    ]
+  },
+  {
+    "id": "yeok-light-green",
+    "character": "譯",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "試"
+    ]
+  },
+  {
+    "id": "yeok-light-rgb-gradient",
+    "character": "譯",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-rgb-gradient.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "評",
+      "諪",
+      "課",
+      "繹",
+      "譚",
+      "詳",
+      "讓"
+    ]
+  },
+  {
+    "id": "yeok-light-rgb-gradient",
+    "character": "譯",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-rgb-gradient.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "鐸",
+      "繹",
+      "課",
+      "評",
+      "譚",
+      "諪",
+      "肄",
+      "蹕"
+    ]
+  },
+  {
+    "id": "yeok-light-rgb-gradient",
+    "character": "譯",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-rgb-gradient.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "譚",
+      "鏤",
+      "課",
+      "讖"
+    ]
+  },
+  {
+    "id": "yeok-light-rgb-gradient",
+    "character": "譯",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-rgb-gradient.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "譚",
+      "鏤",
+      "課",
+      "讖"
+    ]
+  },
+  {
+    "id": "yeok-light-red-center-glare",
+    "character": "譯",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "評",
+      "鐸",
+      "譁",
+      "詳",
+      "諪",
+      "譚",
+      "課",
+      "繹",
+      "誹"
+    ]
+  },
+  {
+    "id": "yeok-light-red-center-glare",
+    "character": "譯",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "評",
+      "鐸",
+      "諱",
+      "詳",
+      "諪",
+      "譚",
+      "謬",
+      "試"
+    ]
+  },
+  {
+    "id": "yeok-light-red-center-glare",
+    "character": "譯",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red-center-glare.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "試",
+      "諱",
+      "謠",
+      "誄",
+      "詳",
+      "誤",
+      "訂",
+      "銀",
+      "詔"
+    ]
+  },
+  {
+    "id": "yeok-light-red-center-glare",
+    "character": "譯",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "試",
+      "諱",
+      "謠",
+      "誄",
+      "詳",
+      "誤",
+      "訂",
+      "銀",
+      "詔"
+    ]
+  },
+  {
+    "id": "yeok-light-blue-center-glare",
+    "character": "譯",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "評",
+      "譁",
+      "諪",
+      "課",
+      "詳",
+      "謬",
+      "譚",
+      "繹"
+    ]
+  },
+  {
+    "id": "yeok-light-blue-center-glare",
+    "character": "譯",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "評",
+      "鐸",
+      "諪",
+      "諱",
+      "謬",
+      "譚",
+      "鏤",
+      "詳"
+    ]
+  },
+  {
+    "id": "yeok-light-blue-center-glare",
+    "character": "譯",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue-center-glare.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "試",
+      "諱",
+      "謠",
+      "誄",
+      "詳",
+      "誤",
+      "訂",
+      "銀",
+      "關"
+    ]
+  },
+  {
+    "id": "yeok-light-blue-center-glare",
+    "character": "譯",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "試",
+      "諱",
+      "謠",
+      "誄",
+      "詳",
+      "誤",
+      "訂",
+      "銀",
+      "關"
+    ]
+  },
+  {
+    "id": "yeok-light-green-center-glare",
+    "character": "譯",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green-center-glare.png",
+    "method": "direct-gray",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "詳",
+      "評",
+      "諱",
+      "誹",
+      "鐸",
+      "譁",
+      "謬",
+      "轟",
+      "許"
+    ]
+  },
+  {
+    "id": "yeok-light-green-center-glare",
+    "character": "譯",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "詳",
+      "諱",
+      "譁",
+      "評",
+      "試",
+      "誹",
+      "謬",
+      "鐸",
+      "諜"
+    ]
+  },
+  {
+    "id": "yeok-light-green-center-glare",
+    "character": "譯",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green-center-glare.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "諱",
+      "試",
+      "謠",
+      "誄",
+      "詳",
+      "誤",
+      "訂",
+      "銀",
+      "詔"
+    ]
+  },
+  {
+    "id": "yeok-light-green-center-glare",
+    "character": "譯",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "諱",
+      "試",
+      "謠",
+      "誄",
+      "詳",
+      "誤",
+      "訂",
+      "銀",
+      "詔"
+    ]
+  },
+  {
+    "id": "yeok-dark-neutral",
+    "character": "譯",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-neutral.png",
+    "method": "direct-gray",
+    "rank": 109,
+    "top10": [
+      "鬢",
+      "騶",
+      "贖",
+      "靄",
+      "彎",
+      "關",
+      "纜",
+      "霽",
+      "趨",
+      "竊"
+    ]
+  },
+  {
+    "id": "yeok-dark-neutral",
+    "character": "譯",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-neutral.png",
+    "method": "gray-normalized",
+    "rank": 3443,
+    "top10": [
+      "闡",
+      "邇",
+      "闥",
+      "閫",
+      "圜",
+      "闔",
+      "鬪",
+      "斷",
+      "彎",
+      "國"
+    ]
+  },
+  {
+    "id": "yeok-dark-neutral",
+    "character": "譯",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-neutral.png",
+    "method": "current-binary",
+    "rank": 4414,
+    "top10": [
+      "邇",
+      "國",
+      "閫",
+      "團",
+      "闥",
+      "毆",
+      "圖",
+      "闔",
+      "鬪",
+      "圓"
+    ]
+  },
+  {
+    "id": "yeok-dark-neutral",
+    "character": "譯",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-neutral.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "讖",
+      "課"
+    ]
+  },
+  {
+    "id": "yeok-dark-red",
+    "character": "譯",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red.png",
+    "method": "direct-gray",
+    "rank": 3326,
+    "top10": [
+      "川",
+      "一",
+      "口",
+      "几",
+      "乂",
+      "剛",
+      "只",
+      "幻",
+      "熊",
+      "些"
+    ]
+  },
+  {
+    "id": "yeok-dark-red",
+    "character": "譯",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red.png",
+    "method": "gray-normalized",
+    "rank": 3587,
+    "top10": [
+      "日",
+      "口",
+      "曰",
+      "四",
+      "田",
+      "囚",
+      "几",
+      "柶",
+      "丑",
+      "由"
+    ]
+  },
+  {
+    "id": "yeok-dark-red",
+    "character": "譯",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red.png",
+    "method": "current-binary",
+    "rank": 4410,
+    "top10": [
+      "邇",
+      "國",
+      "闥",
+      "闔",
+      "鬪",
+      "毆",
+      "閫",
+      "團",
+      "圖",
+      "闡"
+    ]
+  },
+  {
+    "id": "yeok-dark-red",
+    "character": "譯",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "課",
+      "讓",
+      "讖"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue",
+    "character": "譯",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue.png",
+    "method": "direct-gray",
+    "rank": 2837,
+    "top10": [
+      "一",
+      "川",
+      "剛",
+      "口",
+      "昭",
+      "乂",
+      "比",
+      "几",
+      "幻",
+      "電"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue",
+    "character": "譯",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue.png",
+    "method": "gray-normalized",
+    "rank": 4442,
+    "top10": [
+      "目",
+      "曰",
+      "日",
+      "口",
+      "冒",
+      "几",
+      "田",
+      "四",
+      "囚",
+      "圓"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue",
+    "character": "譯",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue.png",
+    "method": "current-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "鐸",
+      "繹",
+      "評",
+      "諪",
+      "讓",
+      "澤",
+      "讖",
+      "試"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue",
+    "character": "譯",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "鐸",
+      "繹",
+      "評",
+      "諪",
+      "讓",
+      "澤",
+      "讖",
+      "試"
+    ]
+  },
+  {
+    "id": "yeok-dark-green",
+    "character": "譯",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green.png",
+    "method": "direct-gray",
+    "rank": 37,
+    "top10": [
+      "剛",
+      "關",
+      "又",
+      "訓",
+      "揮",
+      "剿",
+      "罔",
+      "濃",
+      "齋",
+      "羽"
+    ]
+  },
+  {
+    "id": "yeok-dark-green",
+    "character": "譯",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green.png",
+    "method": "gray-normalized",
+    "rank": 4198,
+    "top10": [
+      "圖",
+      "團",
+      "圍",
+      "闈",
+      "圄",
+      "闔",
+      "閫",
+      "闥",
+      "圃",
+      "廚"
+    ]
+  },
+  {
+    "id": "yeok-dark-green",
+    "character": "譯",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green.png",
+    "method": "current-binary",
+    "rank": 4419,
+    "top10": [
+      "邇",
+      "國",
+      "閫",
+      "團",
+      "闥",
+      "毆",
+      "圖",
+      "闔",
+      "鬪",
+      "圓"
+    ]
+  },
+  {
+    "id": "yeok-dark-green",
+    "character": "譯",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "繹",
+      "評",
+      "諪",
+      "澤",
+      "讓",
+      "課",
+      "讖"
+    ]
+  },
+  {
+    "id": "yeok-dark-rgb-gradient",
+    "character": "譯",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-rgb-gradient.png",
+    "method": "direct-gray",
+    "rank": 1646,
+    "top10": [
+      "口",
+      "訓",
+      "羽",
+      "錢",
+      "剛",
+      "引",
+      "非",
+      "卜",
+      "几",
+      "濚"
+    ]
+  },
+  {
+    "id": "yeok-dark-rgb-gradient",
+    "character": "譯",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-rgb-gradient.png",
+    "method": "gray-normalized",
+    "rank": 3785,
+    "top10": [
+      "圄",
+      "冒",
+      "目",
+      "圖",
+      "圈",
+      "圃",
+      "酊",
+      "几",
+      "圓",
+      "罔"
+    ]
+  },
+  {
+    "id": "yeok-dark-rgb-gradient",
+    "character": "譯",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-rgb-gradient.png",
+    "method": "current-binary",
+    "rank": 3898,
+    "top10": [
+      "閫",
+      "邇",
+      "圓",
+      "國",
+      "鬪",
+      "閻",
+      "圖",
+      "闥",
+      "毆",
+      "團"
+    ]
+  },
+  {
+    "id": "yeok-dark-rgb-gradient",
+    "character": "譯",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-rgb-gradient.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "鐸",
+      "譁",
+      "試",
+      "評",
+      "諪",
+      "諱",
+      "繹",
+      "詳",
+      "譚"
+    ]
+  },
+  {
+    "id": "yeok-dark-red-center-glare",
+    "character": "譯",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red-center-glare.png",
+    "method": "direct-gray",
+    "rank": 399,
+    "top10": [
+      "入",
+      "又",
+      "訓",
+      "丑",
+      "口",
+      "日",
+      "朴",
+      "几",
+      "剃",
+      "櫝"
+    ]
+  },
+  {
+    "id": "yeok-dark-red-center-glare",
+    "character": "譯",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 3014,
+    "top10": [
+      "四",
+      "口",
+      "日",
+      "丑",
+      "几",
+      "柶",
+      "曰",
+      "只",
+      "駟",
+      "酊"
+    ]
+  },
+  {
+    "id": "yeok-dark-red-center-glare",
+    "character": "譯",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red-center-glare.png",
+    "method": "current-binary",
+    "rank": 1242,
+    "top10": [
+      "桭",
+      "掬",
+      "憁",
+      "珤",
+      "梟",
+      "忻",
+      "玎",
+      "川",
+      "鳴",
+      "利"
+    ]
+  },
+  {
+    "id": "yeok-dark-red-center-glare",
+    "character": "譯",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 2146,
+    "top10": [
+      "卜",
+      "轟",
+      "瀝",
+      "葺",
+      "惰",
+      "目",
+      "楕",
+      "湄",
+      "飜",
+      "玄"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue-center-glare",
+    "character": "譯",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue-center-glare.png",
+    "method": "direct-gray",
+    "rank": 709,
+    "top10": [
+      "又",
+      "入",
+      "口",
+      "朴",
+      "訓",
+      "士",
+      "日",
+      "剃",
+      "中",
+      "昕"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue-center-glare",
+    "character": "譯",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 3423,
+    "top10": [
+      "四",
+      "口",
+      "日",
+      "几",
+      "丑",
+      "柶",
+      "曰",
+      "駟",
+      "澳",
+      "酊"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue-center-glare",
+    "character": "譯",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue-center-glare.png",
+    "method": "current-binary",
+    "rank": 1355,
+    "top10": [
+      "川",
+      "八",
+      "州",
+      "梟",
+      "桭",
+      "掬",
+      "憁",
+      "珤",
+      "利",
+      "飜"
+    ]
+  },
+  {
+    "id": "yeok-dark-blue-center-glare",
+    "character": "譯",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 1724,
+    "top10": [
+      "卜",
+      "轟",
+      "楕",
+      "飜",
+      "葺",
+      "員",
+      "瀝",
+      "惰",
+      "淫",
+      "焚"
+    ]
+  },
+  {
+    "id": "yeok-dark-green-center-glare",
+    "character": "譯",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green-center-glare.png",
+    "method": "direct-gray",
+    "rank": 884,
+    "top10": [
+      "羽",
+      "調",
+      "剃",
+      "冒",
+      "詞",
+      "訓",
+      "口",
+      "鉐",
+      "又",
+      "晝"
+    ]
+  },
+  {
+    "id": "yeok-dark-green-center-glare",
+    "character": "譯",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green-center-glare.png",
+    "method": "gray-normalized",
+    "rank": 3335,
+    "top10": [
+      "圖",
+      "圃",
+      "田",
+      "團",
+      "閫",
+      "目",
+      "圄",
+      "圓",
+      "適",
+      "邇"
+    ]
+  },
+  {
+    "id": "yeok-dark-green-center-glare",
+    "character": "譯",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green-center-glare.png",
+    "method": "current-binary",
+    "rank": 1318,
+    "top10": [
+      "飼",
+      "圍",
+      "關",
+      "蔔",
+      "閻",
+      "鬪",
+      "闥",
+      "闖",
+      "鳳",
+      "犀"
+    ]
+  },
+  {
+    "id": "yeok-dark-green-center-glare",
+    "character": "譯",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green-center-glare.png",
+    "method": "auto-polarity-binary",
+    "rank": 389,
+    "top10": [
+      "耨",
+      "筆",
+      "塞",
+      "晝",
+      "耜",
+      "妻",
+      "卜",
+      "挈",
+      "寨",
+      "畫"
+    ]
+  },
+  {
+    "id": "yeok-original",
+    "character": "譯",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-original.png",
+    "method": "direct-gray",
+    "rank": 200,
+    "top10": [
+      "團",
+      "齟",
+      "趨",
+      "聲",
+      "鬢",
+      "圖",
+      "罰",
+      "疊",
+      "詛",
+      "窺"
+    ]
+  },
+  {
+    "id": "yeok-original",
+    "character": "譯",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-original.png",
+    "method": "gray-normalized",
+    "rank": 3364,
+    "top10": [
+      "圖",
+      "團",
+      "閫",
+      "邇",
+      "圜",
+      "闡",
+      "圍",
+      "圃",
+      "闥",
+      "適"
+    ]
+  },
+  {
+    "id": "yeok-original",
+    "character": "譯",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-original.png",
+    "method": "current-binary",
+    "rank": 4388,
+    "top10": [
+      "邇",
+      "國",
+      "閫",
+      "團",
+      "毆",
+      "闥",
+      "圖",
+      "圓",
+      "闔",
+      "鬪"
+    ]
+  },
+  {
+    "id": "yeok-original",
+    "character": "譯",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-original.png",
+    "method": "auto-polarity-binary",
+    "rank": 1,
+    "top10": [
+      "譯",
+      "譁",
+      "鐸",
+      "繹",
+      "評",
+      "諪",
+      "試",
+      "讖",
+      "讓",
+      "澤"
+    ]
+  }
+]

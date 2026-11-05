@@ -1,0 +1,99 @@
+{
+  "checkpoint_sha256": "285a07ed3ca90974e6e767b6487b3bf5919813b30ff2145c8a5255f9d17a0b58",
+  "evaluation_samples": 99807,
+  "matches_previous_top1_top5": true,
+  "matches_app_checkpoint": true,
+  "method": "Frozen feature cache and saved classifier; exact prior evaluation sample order.",
+  "metrics": {
+    "scut_handwriting": {
+      "samples": 69819,
+      "classes": 4043,
+      "top1": 0.9560578066142454,
+      "correct_top1": 66751,
+      "top5": 0.9902462080522494,
+      "correct_top5": 69138,
+      "top10": 0.9941849639782867,
+      "correct_top10": 69413,
+      "existing_characters": {
+        "samples": 52987,
+        "classes": 3072,
+        "top1": 0.9524789099213015,
+        "correct_top1": 50469,
+        "top5": 0.9889973012248288,
+        "correct_top5": 52404,
+        "top10": 0.9933946062241682,
+        "correct_top10": 52637
+      },
+      "new_characters": {
+        "samples": 16832,
+        "classes": 971,
+        "top1": 0.967324144486692,
+        "correct_top1": 16282,
+        "top5": 0.9941777566539924,
+        "correct_top5": 16734,
+        "top10": 0.9966730038022814,
+        "correct_top10": 16776
+      }
+    },
+    "font_base": {
+      "samples": 4998,
+      "classes": 4998,
+      "top1": 0.9981992797118847,
+      "correct_top1": 4989,
+      "top5": 0.9997999199679872,
+      "correct_top5": 4997,
+      "top10": 0.9997999199679872,
+      "correct_top10": 4997,
+      "existing_characters": {
+        "samples": 3500,
+        "classes": 3500,
+        "top1": 0.998,
+        "correct_top1": 3493,
+        "top5": 1.0,
+        "correct_top5": 3500,
+        "top10": 1.0,
+        "correct_top10": 3500
+      },
+      "new_characters": {
+        "samples": 1498,
+        "classes": 1498,
+        "top1": 0.9986648865153538,
+        "correct_top1": 1496,
+        "top5": 0.9993324432576769,
+        "correct_top5": 1497,
+        "top10": 0.9993324432576769,
+        "correct_top10": 1497
+      }
+    },
+    "font_variants": {
+      "samples": 24990,
+      "classes": 4998,
+      "top1": 0.9981192476990797,
+      "correct_top1": 24943,
+      "top5": 0.9997999199679872,
+      "correct_top5": 24985,
+      "top10": 0.9998399359743898,
+      "correct_top10": 24986,
+      "existing_characters": {
+        "samples": 17500,
+        "classes": 3500,
+        "top1": 0.9980571428571429,
+        "correct_top1": 17466,
+        "top5": 1.0,
+        "correct_top5": 17500,
+        "top10": 1.0,
+        "correct_top10": 17500
+      },
+      "new_characters": {
+        "samples": 7490,
+        "classes": 1498,
+        "top1": 0.9982643524699599,
+        "correct_top1": 7477,
+        "top5": 0.9993324432576769,
+        "correct_top5": 7485,
+        "top10": 0.9994659546061415,
+        "correct_top10": 7486
+      }
+    }
+  }
+}

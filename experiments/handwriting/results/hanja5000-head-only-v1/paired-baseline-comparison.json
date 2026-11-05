@@ -1,0 +1,100 @@
+{
+  "paired": {
+    "font_base": {
+      "previous": {
+        "samples": 3500,
+        "classes": 3500,
+        "top1": 0.9985714285714286,
+        "top5": 1.0,
+        "macro_top1": 0.9985714285714286
+      },
+      "expanded": {
+        "samples": 3500,
+        "classes": 3500,
+        "top1": 0.998,
+        "top5": 1.0,
+        "macro_top1": 0.998
+      }
+    },
+    "font_variants": {
+      "previous": {
+        "samples": 17500,
+        "classes": 3500,
+        "top1": 0.9985714285714286,
+        "top5": 1.0,
+        "macro_top1": 0.9985714285714287
+      },
+      "expanded": {
+        "samples": 17500,
+        "classes": 3500,
+        "top1": 0.9980571428571429,
+        "top5": 1.0,
+        "macro_top1": 0.9980571428571428
+      }
+    },
+    "scut_handwriting": {
+      "previous": {
+        "samples": 52987,
+        "classes": 3072,
+        "top1": 0.9583671466586143,
+        "top5": 0.9916205861815163,
+        "macro_top1": 0.9588119844206274
+      },
+      "expanded": {
+        "samples": 52987,
+        "classes": 3072,
+        "top1": 0.9524789099213015,
+        "top5": 0.9889973012248288,
+        "macro_top1": 0.9528393895372028
+      }
+    }
+  },
+  "additional": {
+    "font_only_training": {
+      "font_base": {
+        "samples": 276,
+        "classes": 276,
+        "top1": 1.0,
+        "top5": 1.0,
+        "macro_top1": 1.0
+      },
+      "font_variants": {
+        "samples": 1380,
+        "classes": 276,
+        "top1": 1.0,
+        "top5": 1.0,
+        "macro_top1": 1.0
+      },
+      "scut_handwriting": {
+        "samples": 36,
+        "classes": 2,
+        "top1": 0.75,
+        "top5": 0.9722222222222222,
+        "macro_top1": 0.7694805194805194
+      }
+    },
+    "without_scut_evaluation": {
+      "font_base": {
+        "samples": 955,
+        "classes": 955,
+        "top1": 1.0,
+        "top5": 1.0,
+        "macro_top1": 1.0
+      },
+      "font_variants": {
+        "samples": 4775,
+        "classes": 955,
+        "top1": 0.9997905759162303,
+        "top5": 1.0,
+        "macro_top1": 0.9997905759162303
+      },
+      "scut_handwriting": {
+        "samples": 0,
+        "classes": 0,
+        "top1": null,
+        "top5": null,
+        "macro_top1": null
+      }
+    }
+  }
+}

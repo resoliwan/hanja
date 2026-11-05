@@ -1,0 +1,78 @@
+{
+  "checkpoint": "/Users/leo/aoo_workspace/hanja/resources/handwriting/models/glyphweave-v1.0.0-inference/best.pt",
+  "checkpoint_sha256": "c9184a5a5a75f9ffbd656c10ce8755f647335e461983b5020441ae41012366d2",
+  "output_classes": 7247,
+  "photos": 500,
+  "scope": "ground truth character crops; exact Unicode labels, no script conversion, full 7247-way ranking",
+  "all_han": {
+    "n": 6740,
+    "supported": 6619,
+    "original_preprocessing": {
+      "top1": 0.17388724035608308,
+      "top5": 0.250593471810089,
+      "top10": 0.28338278931750743,
+      "rejected": 0
+    },
+    "same_binary_preprocessing": {
+      "top1": 0.42537091988130565,
+      "top5": 0.5363501483679525,
+      "top10": 0.5718100890207715,
+      "rejected": 0
+    }
+  },
+  "supported_han": {
+    "n": 6619,
+    "supported": 6619,
+    "original_preprocessing": {
+      "top1": 0.17706602205771266,
+      "top5": 0.25517449765825656,
+      "top10": 0.28856322707357607,
+      "rejected": 0
+    },
+    "same_binary_preprocessing": {
+      "top1": 0.43314700105756154,
+      "top5": 0.5461550083094123,
+      "top10": 0.582263181749509,
+      "rejected": 0
+    }
+  },
+  "same_4449": {
+    "n": 4449,
+    "supported": 4342,
+    "original_preprocessing": {
+      "top1": 0.16947628680602383,
+      "top5": 0.2463474938188357,
+      "top10": 0.2796133962688245,
+      "rejected": 0
+    },
+    "same_binary_preprocessing": {
+      "top1": 0.40997977073499664,
+      "top5": 0.5309058215329288,
+      "top10": 0.5646212632052147,
+      "rejected": 0
+    }
+  },
+  "common_vocabulary": {
+    "n": 4342,
+    "supported": 4342,
+    "original_preprocessing": {
+      "top1": 0.17365269461077845,
+      "top5": 0.2524182404421925,
+      "top10": 0.2865039152464302,
+      "rejected": 0
+    },
+    "same_binary_preprocessing": {
+      "top1": 0.4200829111008752,
+      "top5": 0.5439889451865499,
+      "top10": 0.5785352372178719,
+      "rejected": 0
+    }
+  },
+  "current_classifier_on_common": {
+    "top1": 0.45716259788116076,
+    "top5": 0.5575771533855366,
+    "top10": 0.5891294334408107
+  },
+  "seconds": 43.69425392150879,
+  "no_training": true
+}

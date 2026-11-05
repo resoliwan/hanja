@@ -1,0 +1,3008 @@
+{
+  "n": 600,
+  "any_foreground_rate": 0.018333333333333333,
+  "at_least_16_pixels_rate": 0.013333333333333334,
+  "scope": "Unseen procedural backgrounds only. Diagnostic area threshold, not calibrated rejection policy.",
+  "rows": [
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "clean",
+      "foreground_pixels": 0,
+      "max_probability": 6.729947155115212e-10
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.150701009095428e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.018550240900367e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.0019599594457418e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.490544986561872e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.811878966393124e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.971392743551405e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.7666468288268788e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.00020751454576384276
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.806546022948169e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.5497226374682214e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.0424324702617014e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.1537596150977834e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.940626243092993e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.835105637037486e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.972003347982536e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.0002721439814195037
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.09329108893871307
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.1018946174299344e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 8.327411705977283e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.0975967629510706e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.0353874080901733e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.538787266028521e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 9.467016326425437e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.009361553937196732
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.0452782106540326e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.6902085064884886e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.875049626676173e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.1320807971060276e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.190204875456402e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.165149145293981e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.5007979274960235e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.102239017811371e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.066119518280175e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.8126144141206169e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.246124826247978e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 8.960505510913208e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.2346883270074613e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.743839559116168e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.307522764676833e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.295413802424264e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.3168533402895264e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 8.085329739060398e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.6766609756710977e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.1338358635603072e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 5.239417441771366e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.731184915523045e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.0001863913203123957
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.281699946455774e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.291445977993135e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.0365803973400034e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.475743769991823e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.005175088066607714
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.0389980193158408e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.2365084078046493e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.0004782851319760084
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 8.234670167972524e-10
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.4284485056778067e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.587755706277676e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.00012681391672231257
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.0909290014969883e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.557874495323631e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.9485297520513996e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.3350092970275682e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.0277507903520018e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.8954581548769056e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.1694201020873152e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.5854171309115372e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.4522130338009447e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.394091880996712e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.82532016121695e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.593808569097746e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.9193339539924636e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 9.68876292972709e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 4.377174178671339e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.445231928049907e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 5.630126338473929e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 0.00018131019896827638
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.2041466712631177e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.5170286360444152e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.9797645311191445e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.11587280571257e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.016092624072655e-10
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.91337447733531e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 7.510532751275889e-10
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.2134064181500435e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.221456269462351e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.550867066020146e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.4960235603211913e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.92858686634645e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.9549676039408723e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 6.391114304449275e-10
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.3133594656267178e-08
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 9.012620125758986e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.003445686365012e-05
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.513486663247022e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.568627621712949e-07
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 8.028009688132443e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 1.5083345488164923e-06
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 2.598044002155575e-09
+    },
+    {
+      "condition": "solid",
+      "foreground_pixels": 0,
+      "max_probability": 3.5364092809686554e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.710397550094058e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.243245825819031e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0001105105911847204
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.085620043450035e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.0472688272145092e-09
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.4267939150158782e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 7.190543692559004e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.810809741684352e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.2472962680476485e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.8628064683289267e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 9.666234745964175e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 8.934780693081734e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.402849131362018e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.8235819374676794e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 9.378112736158073e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.0790082427547532e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.9402710549343283e-09
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.845073221484199e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0002605202898848802
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 49,
+      "max_probability": 0.7473702430725098
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 8.906976822764534e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 7.250677835912711e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.0771230891987216e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.2703807189827785e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.881906079390319e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.516763117910159e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 8.673289357830072e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.3596901428390993e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.1979737968867994e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.731542849687685e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 7.745026096017682e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.789340550814813e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.833332357316976e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.4481963666621596e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.6318987263730378e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.21078299900546e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.106388248852454e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 9.26610232987457e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.8486048247723375e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.01927778124809265
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0018024103483185172
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 9.67865958045877e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 9.863418881650432e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.4992056094342843e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.3836313377832994e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.167823585201404e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.0766228772117756e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.576373721145501e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.764230254750146e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 39,
+      "max_probability": 0.9291425943374634
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.305871132397442e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.4495279856419074e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.4462869419039635e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.1604867040659883e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0003397917316760868
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.02671603943827e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.1680715178717946e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.0294000680441968e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.250281785469269e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.230163064747103e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.00029101496329531074
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.3252034705146798e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 5.7326419664605055e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 7.779572541721791e-09
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 7.015711389612989e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.182107164117042e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.00018990164971910417
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 8.975086416285194e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.631510142236948e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.007594611495733261
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.879672417715028e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0002524910669308156
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.785467927424179e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.00014899253437761217
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.595002868270967e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 7.333040841217553e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.4479815386466726e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.440797895024275e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 3.5574927892412234e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.2482477390894928e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 5.36243589976948e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.6490528171052574e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.179490820708452e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 5.745656728173287e-10
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.1596946514202955e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.0314556081757473e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.232897716363368e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.0491286950298218e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.401748672691383e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 8.039570502660354e-07
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.394375769654289e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.7202603430632735e-06
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0008394910837523639
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.0001669388875598088
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 1.236011303262785e-05
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 0.008680058643221855
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 12,
+      "max_probability": 0.8270014524459839
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 6.837747434929042e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 2.764270590205342e-08
+    },
+    {
+      "condition": "gradient",
+      "foreground_pixels": 0,
+      "max_probability": 4.259126455963269e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00013663955905940384
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.2400566851720214e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.108787081553601e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.7411735977220815e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.0030892048671376e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.33691878040554e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.561111978138797e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.0991723431507125e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 8.49257194204256e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.0060835342737846e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 8.045630011110916e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.5498495688225375e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 9.573913075655582e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.491398269441561e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.0031036112923175097
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.10420317202806473
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00041830053669400513
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.004013690631836653
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.000438260001828894
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.11995495899464e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.25645623888704e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.465720285727002e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.005906071979552507
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.125832878618894e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 7.034658722204767e-08
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.1887872208026238e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.397167572278704e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 6.005837462907948e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 49,
+      "max_probability": 0.9725922346115112
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.9402499421848916e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 8,
+      "max_probability": 0.7249354124069214
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.5076548152137548e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.5885385664660134e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.000488840218167752
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.2022063136100769
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.8998794359958993e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 7.014117727521807e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.1532313692441676e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 7.695720341871493e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.7607508097135e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.2942316061526071e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.0002240200265077874
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 9.745200259203557e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.1709003956639208e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.1265528005187662e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.6350396840134636e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.7203527022502385e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 6.83748658047989e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 296,
+      "max_probability": 0.9947276711463928
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.1629480468400288e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.0005255810683593154
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 91,
+      "max_probability": 0.9837577939033508
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.0964879948005546e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.181857416871935e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00010566235869191587
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.564779833846842e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.09861677326262e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 8.237768270191737e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00125536834821105
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.1422681382100563e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.442385031528829e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.3172067307750694e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.404443982115481e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00029033407918177545
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.479434963082895e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.822506409458583e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.4877667808832484e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.8723316316027194e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.1901420293725096e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.648113463190384e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 6.139980541775003e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 2.8052509151166305e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 5.9335889091016725e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.1969846077117836e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.76986213773489e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.975662821176229e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00019388546934351325
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 6.427589596569305e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.0035027382145927e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.0017790187848731875
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.3268322618387174e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.0013922976795583963
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 8.232068466895726e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.1344736776663922e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.737644339527833e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.818489295146719e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.5431959986453876e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.4121835192781873e-05
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.9732603959710104e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.154906726696936e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.000691032619215548
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 3.9993773270907695e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.0038967174477875233
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 1.088178009922558e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.402292688610032e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.172653007117333e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 4.462616288947174e-06
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 20,
+      "max_probability": 0.7701424360275269
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 7.001247013249667e-07
+    },
+    {
+      "condition": "texture",
+      "foreground_pixels": 0,
+      "max_probability": 0.00047463865485042334
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.6254358570222394e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 9.933140245266259e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.00010032148566097021
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.1302836355753243e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.756330210715532e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.3976848549646093e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.1270876711932942e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.208535753808974e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.309120079895365e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.348298610537313e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.432718808151549e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.6423976957376e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.720242958138442e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.0253789923808654e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.5696018635935616e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.0806281497698365e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.253043476230232e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 6.691572593808814e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 9.092059940485342e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 7.223381004450857e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 6.008799005030596e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 9.521824440028581e-10
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.1847933179562915e-09
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.1834165292157195e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.215589433442801e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.16075678169727325
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.724739119410515e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.0223870958725456e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 8.008029794837057e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.7377536210005928e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.128293310008303e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.295726855867542e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 7.991022954456639e-09
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.3079403490555706e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.0981520063069183e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.00023117978707887232
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.381602942274185e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.795370062675829e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 7.652139174751937e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 7.637288945261389e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.4266313630505465e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.297146685734333e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 8.428709179497673e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.994126546695952e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 6.888018106110394e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.8550356862288027e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 7.098349215084454e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.0009628902771510184
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.491655802965397e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.750771249144691e-09
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.581675909776095e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.4760009435121901e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 6.589356615904762e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.0008032385376282036
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.00011466451542219147
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 21,
+      "max_probability": 0.7782930731773376
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.0633963043460426e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 8.098618309304584e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.681986299852724e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.7098679450100462e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.770791406372155e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.0098063967234339e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.446938424327527e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.004354578908532858
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.306662958697416e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 6.382416017913783e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.688034096034244e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.00521360756829381
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.3538587962975726e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.0284802815240255e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.4112105165841058e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.361330070423719e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.816962271230295e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.822719125106232e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.777953108714428e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 4.495973371376749e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.162217803444946e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.3784979557840416e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.47638001080486e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.0876664658972004e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.0006472054519690573
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.014244028367102146
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.0010153396287932992
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 9.75506645772839e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.0005768731352873147
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.0704237613244914e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.5283777656804887e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.3763332990256458e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.133297354906972e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.00015437749971169978
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 6.362209319377143e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 5.96813094944082e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.004635725170373917
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 2.0907921793877904e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.00781868863850832
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 3.37923279403185e-06
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 1.1216694474569522e-05
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 9.14756057568411e-08
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 7.216308972601837e-07
+    },
+    {
+      "condition": "glare",
+      "foreground_pixels": 0,
+      "max_probability": 0.0001647627359488979
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.0402981034712866e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.1160092728678137e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.588592547515873e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.335211135573445e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.04371565207839012
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.259177780520986e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.00035489958827383816
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.3157223217349383e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.9185254213359713e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.088039243768435e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.0001765589986462146
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.456800474552438e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.2888630163132575e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.719751839881269e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 33,
+      "max_probability": 0.890688419342041
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.331575832518865e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.873202447517542e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.957464744213212e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.4291075558503508e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 11,
+      "max_probability": 0.6576082110404968
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.00014129825285635889
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.9203066869977192e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.0072059486992657185
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.3038182089530892e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.037880875170230865
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.207944132554985e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.001758884871378541
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.1832520360476337e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.5205703713691037e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.044891343506606e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.302442792119109e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.0002748409169726074
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.010802191421135e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.0945216217805864e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.0470536437878764e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.9040207188680824e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.2314063496887684e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.075808153672142e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.9451360344646673e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.9725755464605754e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.660328846104676e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.6499655834631994e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.40402742344304e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.1382767556588078e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 8.485803171254247e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.33705736718548e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.0031677461229264736
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.3408872493746458e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.329047153030842e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.1993537201487925e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.3285001538606593e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.620081194341765e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.0311030368702632e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 5.7655430651948336e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.93039407148899e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.00590477604418993
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.3069329440895672e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.2341667949585826e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.071948738892388e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 8.060929417297302e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 7.740293312963331e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.753499472873955e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.720647434121929e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.864509316528711e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.914642772746447e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.286373407793917e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 8.781506949162576e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.6133509436476743e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.050053519222274e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.7059099377547682e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.106658403278061e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.88872670859564e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.688314595024394e-10
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.016768010231317e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.0522184058791026e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.656737241428345e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.734936401793675e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.670166577445343e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.08053328841924667
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.434101276094225e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 7.450151997545618e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.502722953882767e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.879280484397896e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.975038119591773e-05
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.8583252976186486e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 9.575190915711573e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 7.374177926067205e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.479076217947295e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.744358423318772e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.0135044803405435e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.0432793209911324e-06
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 3.9194242162921e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 8.082196245595696e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.190552426232898e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 8.230892944993684e-08
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 6.515072641377628e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 4.120508823035607e-09
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 2.653449939771235e-07
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 0.001647617551498115
+    },
+    {
+      "condition": "low_contrast",
+      "foreground_pixels": 0,
+      "max_probability": 1.3499801809757628e-07
+    }
+  ]
+}

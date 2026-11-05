@@ -1,0 +1,122 @@
+{
+  "epochs": 1,
+  "elapsed_seconds": 113.14313912391663,
+  "results": {
+    "A": {
+      "all": {
+        "n": 600,
+        "top1": 0.2916666666666667,
+        "top10": 0.3516666666666667,
+        "clean_target_top1": 0.8983333333333333,
+        "interior_recall": 0.2754913134139182,
+        "dice": 0.31150069636178696
+      },
+      "clean": {
+        "n": 100,
+        "top1": 0.84,
+        "top10": 0.95,
+        "clean_target_top1": 0.96,
+        "interior_recall": 1.0,
+        "dice": 0.5341211902810123
+      },
+      "solid": {
+        "n": 100,
+        "top1": 0.37,
+        "top10": 0.41,
+        "clean_target_top1": 0.95,
+        "interior_recall": 0.45541467470380376,
+        "dice": 0.3329653566196663
+      },
+      "gradient": {
+        "n": 100,
+        "top1": 0.13,
+        "top10": 0.18,
+        "clean_target_top1": 0.94,
+        "interior_recall": 0.2205328423903843,
+        "dice": 0.20953508399751017
+      },
+      "glare": {
+        "n": 100,
+        "top1": 0.17,
+        "top10": 0.25,
+        "clean_target_top1": 0.94,
+        "interior_recall": 0.2190399547808259,
+        "dice": 0.28244153533235944
+      },
+      "thick": {
+        "n": 100,
+        "top1": 0.13,
+        "top10": 0.16,
+        "clean_target_top1": 0.81,
+        "interior_recall": 0.24603345704374288,
+        "dice": 0.32243674760174534
+      },
+      "thick_blur": {
+        "n": 100,
+        "top1": 0.11,
+        "top10": 0.16,
+        "clean_target_top1": 0.79,
+        "interior_recall": 0.14805542727667997,
+        "dice": 0.1875042643384283
+      }
+    },
+    "B": {
+      "all": {
+        "n": 600,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.8983333333333333,
+        "interior_recall": 0.870351869075517,
+        "dice": 0.39448445726564746
+      },
+      "clean": {
+        "n": 100,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.96,
+        "interior_recall": 0.04129895752792812,
+        "dice": 0.15832265788018784
+      },
+      "solid": {
+        "n": 100,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.95,
+        "interior_recall": 0.9682405171908394,
+        "dice": 0.3328114948001267
+      },
+      "gradient": {
+        "n": 100,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.94,
+        "interior_recall": 0.9059325799898426,
+        "dice": 0.3165242275427977
+      },
+      "glare": {
+        "n": 100,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.94,
+        "interior_recall": 0.942225798880059,
+        "dice": 0.3371638689962676
+      },
+      "thick": {
+        "n": 100,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.81,
+        "interior_recall": 0.9193756158052372,
+        "dice": 0.603996430332825
+      },
+      "thick_blur": {
+        "n": 100,
+        "top1": 0.0,
+        "top10": 0.0,
+        "clean_target_top1": 0.79,
+        "interior_recall": 0.9526709462299964,
+        "dice": 0.6180880640416802
+      }
+    }
+  }
+}

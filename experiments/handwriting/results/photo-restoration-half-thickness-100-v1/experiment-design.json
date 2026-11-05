@@ -1,0 +1,15 @@
+{
+  "comparison": "Same epoch-1 B checkpoint, sources, seed, order and optimizer reset as original 100-epoch run; add half-strength thickness augmentation for epochs 2..100.",
+  "baseline_checkpoint": "../photo-restoration-wide-500-v1/epoch-100.pt",
+  "baseline_original_evaluation": "../photo-restoration-wide-500-v1/epoch-100/test.json",
+  "baseline_half_evaluation": "baseline-half-thickness.json",
+  "new_half_evaluation": "epoch-100/test.json",
+  "new_original_evaluation": "epoch-100/test-original-thickness.json",
+  "training_sources": {
+    "handwriting": 638,
+    "fonts": 362
+  },
+  "thickness": "Additional stroke width approximately 12px -> 6px at 256px input before affine geometry; not halving original stroke width.",
+  "augmentation": "2/3 original synthesis, 1/6 thick solid, 1/6 thick solid plus Gaussian blur radius 3. Target preserves thickened shape.",
+  "checks": "10 unit tests passed; direct clean-line test confirms +6 pixels."
+}

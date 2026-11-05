@@ -1,0 +1,42 @@
+{
+  "completed_epoch": 24,
+  "best_epoch": 14,
+  "stopping_reason": "validation_plateau",
+  "before_rects": {
+    "n": 4449,
+    "top1": 0.022252191503708697,
+    "top5": 0.03753652506181164,
+    "top10": 0.04472915261856597
+  },
+  "after_rects": {
+    "n": 4449,
+    "top1": 0.4598786244099798,
+    "top5": 0.5464149247021802,
+    "top10": 0.5713643515396718
+  },
+  "binary_baseline": {
+    "top1": 0.45628231063160263,
+    "top5": 0.5558552483704203,
+    "top10": 0.587547763542369
+  },
+  "classifier_unchanged": true,
+  "training_seconds": 5243.284083366394,
+  "data_summary": {
+    "validation": {
+      "photos": 100,
+      "characters": 1007,
+      "unique_characters": 365,
+      "excluded": {
+        "unsupported": 1557
+      }
+    },
+    "train": {
+      "photos": 400,
+      "characters": 3380,
+      "unique_characters": 667,
+      "excluded": {
+        "unsupported": 4932
+      }
+    }
+  }
+}

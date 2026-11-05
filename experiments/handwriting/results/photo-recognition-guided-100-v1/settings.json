@@ -1,0 +1,15 @@
+{
+  "epochs": 100,
+  "seed": 20261105,
+  "train_sources": 1000,
+  "train_classes": 50,
+  "batch_size": 16,
+  "learning_rate": 0.0001,
+  "loss": "character cross entropy only",
+  "classifier_frozen": true,
+  "rects_training": false,
+  "classifier_sha256": "285a07ed3ca90974e6e767b6487b3bf5919813b30ff2145c8a5255f9d17a0b58",
+  "frontend_initial_sha256": "f4c0ac8d34a24ed16e8714e1077b5e9d4643f3d2be096b89f9531c248ab81996",
+  "app_onnx_sha256": "999c5f74c3339ffd7e1de140f37be104ee2a6171f8478ef127ed68f8744b9655",
+  "split_sha256": "3e2d9ee191292ac9db5f3e041e8db9713959f89d20e95bb29ef5a7b491fd9064"
+}

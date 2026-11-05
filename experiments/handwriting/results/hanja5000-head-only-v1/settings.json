@@ -1,0 +1,26 @@
+{
+  "classes": 4998,
+  "seed": 42,
+  "initial_checkpoint_sha256": "76be1904f5f3e7901a51cedc62f65bcecc1ab4e3bd765b562af3fba5311619a6",
+  "original_checkpoint_sha256": "c9184a5a5a75f9ffbd656c10ce8755f647335e461983b5020441ae41012366d2",
+  "manifests": {
+    "ai-free.csv": "655eb3022e3722baefd28cb4035e4fa13db7c1d8c2a5fa478cefa9ddc774a89b",
+    "fonts.csv": "8278cfc345c823133d4f88d1b8fb7d6f5790266c3f3ff36c7b49af03ea45d43e",
+    "scut.csv": "281180049b98d64aca1186200c228bb0acfcaf401f6e68f3687124ac64ae6b83"
+  },
+  "validation_sha256": "63537b8f17ea1dd8456514e70a7587d7ba10903ee95bf8d8a6ed3ded2940b848",
+  "old_classes": 3500,
+  "added_classes": 1498,
+  "train": 317494,
+  "validation": 19576,
+  "evaluation": 99807,
+  "learning_rate": 0.001,
+  "weight_decay": 0.01,
+  "label_smoothing": 0.05,
+  "batch_size": 256,
+  "draws_per_epoch": 49980,
+  "max_epochs": 10,
+  "patience": 3,
+  "preprocessing": "official GlyphTransform(128, training=False)",
+  "training": "classifier only; frozen backbone verified identical to 3500 feature cache"
+}

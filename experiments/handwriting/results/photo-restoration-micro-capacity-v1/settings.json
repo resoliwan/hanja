@@ -1,0 +1,17 @@
+{
+  "seed": 20261105,
+  "train_sources": 1000,
+  "validation_sources": 50,
+  "test_sources": 100,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "from_scratch": true,
+  "blank_fraction": 0,
+  "parameters": {
+    "A": 1095553,
+    "B": 4378753
+  },
+  "extension_rule": "If BOTH validation Top-1 < 50% after epoch 1, extend BOTH to epoch 3; use final epoch, no test-based selection.",
+  "comparison": "same images, augmentations, sample order, optimization steps and optimizer settings; single seed; not equal compute time",
+  "classifier_sha256": "999c5f74c3339ffd7e1de140f37be104ee2a6171f8478ef127ed68f8744b9655"
+}

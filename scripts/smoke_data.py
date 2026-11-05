@@ -1,4 +1,0 @@
-import json
-from pathlib import Path
-s = {'id':'readme-wo','label':'我','source':'cnn_chinese_hw README example; execution smoke test only','strokes':[[[208,0],[199,119],[94,341]],[[0,461],[781,520],[915,520],[999,479]],[[189,167],[213,209],[238,826],[268,934],[203,910]],[[303,514],[94,766]],[[462,17],[497,586],[522,688],[646,886],[796,1000]],[[716,628],[462,916]],[[696,101],[771,155],[835,251]]]}
-Path('data/smoke.json').write_text(json.dumps([s],ensure_ascii=False))

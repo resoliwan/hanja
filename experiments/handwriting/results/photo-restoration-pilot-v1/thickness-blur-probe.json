@@ -1,0 +1,98 @@
+[
+  {
+    "dilation_pixels": 0,
+    "blur_sigma": 0,
+    "n": 32,
+    "ink_recall": 0.9998685997109193,
+    "interior_recall": 1.0,
+    "interior_probability": 0.9987403750419617
+  },
+  {
+    "dilation_pixels": 0,
+    "blur_sigma": 1,
+    "n": 32,
+    "ink_recall": 0.9999780999518199,
+    "interior_recall": 1.0,
+    "interior_probability": 0.9987316727638245
+  },
+  {
+    "dilation_pixels": 0,
+    "blur_sigma": 3,
+    "n": 32,
+    "ink_recall": 0.9598134115895055,
+    "interior_recall": 0.9478260869565217,
+    "interior_probability": 0.8845388889312744
+  },
+  {
+    "dilation_pixels": 4,
+    "blur_sigma": 0,
+    "n": 32,
+    "ink_recall": 0.9896850235938677,
+    "interior_recall": 0.9992238703001035,
+    "interior_probability": 0.9973599910736084
+  },
+  {
+    "dilation_pixels": 4,
+    "blur_sigma": 1,
+    "n": 32,
+    "ink_recall": 0.99246239835292,
+    "interior_recall": 0.9995688168333908,
+    "interior_probability": 0.9980087876319885
+  },
+  {
+    "dilation_pixels": 4,
+    "blur_sigma": 3,
+    "n": 32,
+    "ink_recall": 0.9014584671931243,
+    "interior_recall": 0.7984649879268714,
+    "interior_probability": 0.7756125330924988
+  },
+  {
+    "dilation_pixels": 10,
+    "blur_sigma": 0,
+    "n": 32,
+    "ink_recall": 0.5744871382742129,
+    "interior_recall": 0.5264149828277986,
+    "interior_probability": 0.5224689245223999
+  },
+  {
+    "dilation_pixels": 10,
+    "blur_sigma": 1,
+    "n": 32,
+    "ink_recall": 0.577947765845082,
+    "interior_recall": 0.5264346832500443,
+    "interior_probability": 0.5226309299468994
+  },
+  {
+    "dilation_pixels": 10,
+    "blur_sigma": 3,
+    "n": 32,
+    "ink_recall": 0.3906605698390726,
+    "interior_recall": 0.27770371878303923,
+    "interior_probability": 0.2783905565738678
+  },
+  {
+    "dilation_pixels": 20,
+    "blur_sigma": 0,
+    "n": 32,
+    "ink_recall": 0.05690247724835721,
+    "interior_recall": 0.022044625231799963,
+    "interior_probability": 0.023607125505805016
+  },
+  {
+    "dilation_pixels": 20,
+    "blur_sigma": 1,
+    "n": 32,
+    "ink_recall": 0.05232373777643361,
+    "interior_recall": 0.017668241909433512,
+    "interior_probability": 0.019442658871412277
+  },
+  {
+    "dilation_pixels": 20,
+    "blur_sigma": 3,
+    "n": 32,
+    "ink_recall": 0.07141037273285493,
+    "interior_recall": 0.0019883950469581865,
+    "interior_probability": 0.003979792818427086
+  }
+]

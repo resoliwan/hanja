@@ -1,0 +1,53 @@
+{
+  "official_url": "https://www.hanja.ne.kr/board/board/view.asp?tb=inno_12&num=15",
+  "pdf_sha256": "c305cc4f5b1e0a26bd19c2577e539ce98d5ebe07c3a90590cb2a8568f00f7314",
+  "official_entries": 5000,
+  "exact_unique": 4999,
+  "canonical_unique": 4998,
+  "normalization": "Unicode NFC; no variant substitution",
+  "duplicate_entries": {
+    "汨": 2
+  },
+  "canonical_collisions": {
+    "輻": [
+      "輻",
+      "輻"
+    ]
+  },
+  "source_unique": {
+    "ai_free": 13063,
+    "scut": 5401
+  },
+  "malformed_ai_free_labels": [
+    "p嶒",
+    "濈u"
+  ],
+  "official": {
+    "total": 4998,
+    "ai_free": 4722,
+    "scut": 4043,
+    "either": 4724,
+    "neither": 274
+  },
+  "additional_to_current": {
+    "total": 1498,
+    "ai_free": 1370,
+    "scut": 971,
+    "either": 1370,
+    "neither": 128
+  },
+  "current_in_official": 3500,
+  "current_outside_official": [],
+  "combined_model": {
+    "total": 4998,
+    "ai_free": 4722,
+    "scut": 4043,
+    "either": 4724,
+    "neither": 274
+  },
+  "exact_codepoint_coverage": {
+    "ai_free": 4709,
+    "scut": 4031
+  },
+  "limitation": "Source label presence only. AI-FREE uses the saved archive inventory; SCUT reads all five label files. No pixel quality check or training performed. SCUT remains evaluation-only."
+}

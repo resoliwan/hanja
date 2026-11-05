@@ -1,0 +1,8 @@
+{
+  "epoch": 3,
+  "step": 1250,
+  "steps": 1250,
+  "loss": 0.25171888139247894,
+  "elapsed_seconds": 267.2428197860718,
+  "estimated_epoch_remaining_seconds": 0.0
+}

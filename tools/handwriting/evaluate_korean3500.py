@@ -1,0 +1,48 @@
+from paths import DATASETS, MODELS, RESULTS
+import csv,json,unicodedata,hashlib,collections
+from pathlib import Path
+from decimal import Decimal,ROUND_HALF_UP
+from opencc import OpenCC
+OUT=RESULTS / 'korean3500';OUT.mkdir(exist_ok=True)
+norm=lambda s:unicodedata.normalize('NFC',s)
+cc=OpenCC('s2t')
+rows=[r for r in csv.DictReader((DATASETS / 'korean3500/hanja.csv').open()) if not r['level'].startswith('특')]
+chars={norm(r['hanja']) for r in rows};assert len(chars)==len(rows)==3500
+models={'GlyphWeave':{'vocab':(MODELS / 'glyphweave-v1.0.0-inference/classes.txt').read_text().splitlines(),'path':RESULTS / 'tradchar-set1/glyph.jsonl'},'Shikiji':{'vocab':json.loads((MODELS / 'shikiji.metadata.json').read_text())['label_chars'],'path':RESULTS / 'shikiji-set1/predictions.jsonl'}}
+samples=json.loads((DATASETS / 'tradchar-set1.json').read_text());counts=collections.Counter(norm(x['label']) for x in samples if norm(x['label']) in chars)
+summary={'list_size':3500,'tested_unique':len(counts),'tested_samples':sum(counts.values()),'not_tested_unique':len(chars-set(counts)),'normalization':'Unicode NFC for compatibility ideographs on inventory, labels, predictions; no variant equivalence','list_source':'https://github.com/rycont/hanja-grade-dataset','official_level_source':'https://www.hanja.re.kr/kccpt/exam/levelConfirm.do','models':{}}
+charrows=[dict(original_hanja=r['hanja'],hanja=norm(r['hanja']),level=r['level'],sound=r['main_sound'],sample_count=counts[norm(r['hanja'])]) for r in rows]
+allpred=[]
+for name,m in models.items():
+ rr=[json.loads(l) for l in m['path'].read_text().splitlines()];assert [(r['id'],r['label']) for r in rr]==[(r['id'],r['label']) for r in samples]
+ rr=[r for r in rr if norm(r['label']) in chars];info={}
+ for mode in ['original','s2t']:
+  convert=lambda x:norm(cc.convert(x) if mode=='s2t' else x)
+  vocab={convert(c) for c in m['vocab']}
+  metrics=collections.defaultdict(lambda: {'n':0,'top1':0,'top5':0})
+  for r in rr:
+   label=norm(r['label']);pred=[convert(c) for c in r['candidates']]
+   t1=bool(pred) and pred[0]==label;t5=label in pred
+   a=metrics[label];a['n']+=1;a['top1']+=int(t1);a['top5']+=int(t5)
+   allpred.append(dict(model=name,mode=mode,id=r['id'],label=label,candidates=' '.join(pred),top1=t1,top5=t5))
+  info[mode]={'output_coverage':len(chars&vocab),'missing_output_chars':sorted(chars-vocab),'n':len(rr),'unique':len(metrics),'top1':sum(a['top1'] for a in metrics.values()),'top5':sum(a['top5'] for a in metrics.values()),'macro_top1':sum(a['top1']/a['n'] for a in metrics.values())/len(metrics),'macro_top5':sum(a['top5']/a['n'] for a in metrics.values())/len(metrics)}
+  for cr in charrows:
+   ch=cr['hanja'];prefix=name+'_'+mode;cr[prefix+'_supported']=ch in vocab
+   for k in ['top1','top5']:cr[prefix+'_'+k]=metrics[ch][k] if ch in metrics else ''
+ summary['models'][name]=info
+(OUT/'summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2))
+for file,rs in [('characters-3500.csv',charrows),('predictions-filtered.csv',allpred)]:
+ with (OUT/file).open('w',encoding='utf-8-sig',newline='') as f:
+  w=csv.DictWriter(f,fieldnames=rs[0].keys());w.writeheader();w.writerows(rs)
+(OUT/'not-tested.txt').write_text(''.join(sorted(chars-set(counts)))+'\n')
+(OUT/'inventory-3500.txt').write_text(''.join(sorted(chars))+'\n')
+def pct(n,d):return str((Decimal(n)*100/Decimal(d)).quantize(Decimal('.01'),rounding=ROUND_HALF_UP))
+lines=['# 한국어문회 1급 누적 3,500자 기준 비교','',f'목록 3,500자 중 첫 세트에 실제 필기가 있는 **{len(counts):,}자 / {sum(counts.values()):,}개 샘플**을 평가했습니다. 나머지 **{3500-len(counts):,}자**는 이 세트에 표본이 없어 인식 정확도를 평가하지 못했습니다. 한국 필기자가 작성한 데이터가 아니라 SCUT TradChar 필기에서 한국어문회 목록에 해당하는 글자를 추린 평가입니다.','', '| 모델 | 원본 출력 지원 | 간체→번체 변환 후 출력 지원 |','|---|---:|---:|']
+for name,info in summary['models'].items():lines.append(f'| {name} | {info["original"]["output_coverage"]:,}/3,500자 | {info["s2t"]["output_coverage"]:,}/3,500자 |')
+lines+=['','출력 지원은 해당 한자를 출력할 수 있다는 뜻이며 정확히 인식한다는 뜻은 아닙니다. 변환 후 지원 범위는 후보 전체에 일괄 OpenCC s2t를 적용했을 때의 범위로, 원본과 변환 후보를 합친 값이 아닙니다.','','| 방식 | 모델 | Top-1 | Top-5 |','|---|---|---:|---:|']
+for mode in ['original','s2t']:
+ for name,info in summary['models'].items():
+  x=info[mode];lines.append(f'| {mode} | {name} | {pct(x["top1"],x["n"])}% ({x["top1"]:,}/{x["n"]:,}) | {pct(x["top5"],x["n"])}% ({x["top5"]:,}/{x["n"]:,}) |')
+lines+=['','## 집계 조건','', '- 동일 20,000개 결과 중 정답이 3,500자 목록에 속하는 샘플만 선택했습니다. 모델 지원 여부·성공 여부로 표본을 거르지 않았습니다. 후보도 한국어문회 목록으로 제한하거나 추가하지 않았습니다.','- 원래 Top-5 후보를 그대로 사용한 결과와, 두 모델 모두 같은 OpenCC s2t를 적용한 결과를 구분했습니다. 정답의 간체/번체 변환은 하지 않았습니다.','- 목록에 車·金·樂 등 호환 한자가 9개 있어 Unicode NFC로 목록·정답·후보를 동일하게 정규화했습니다. 이들은 車·金·樂처럼 같은 글자의 Unicode 표현 차이입니다. 정규화 후에도 서로 다른 3,500자입니다.','- 爲/為, 靑/青, 敎/教 같은 별개의 이체자는 추가로 통합하지 않았습니다. OpenCC는 한국어문회 전용 표기 변환기가 아니므로 한국식 글자 표기를 모두 보장하지 않습니다.','- 같은 글자의 필기 샘플 수가 다르므로 위 표는 샘플 기준 정확도입니다. 글자별 평균 정확도는 summary.json의 macro_top1/macro_top5에 별도 기록했습니다.','', '## 목록 출처와 한계','', '- 한국어문회 공식 급수배정 페이지에서 1급 읽기 누적 3,500자를 확인했습니다: https://www.hanja.re.kr/kccpt/exam/levelConfirm.do','- 계산에는 공식 XLS를 CSV로 변환했다고 명시한 https://github.com/rycont/hanja-grade-dataset 의 hanja.csv를 사용했습니다. 특급·특급Ⅱ를 제외한 8급~1급 합계와 고유 글자 수가 모두 3,500임을 검증했습니다.','- 이번 접속에서 공식 XLS 다운로드는 정상 파일을 반환하지 않았습니다(POST 재시도 403). 따라서 CSV와 최신 공식 XLS의 문자별 동일성은 별도로 검증하지 못했습니다. 데이터 원권리는 한국어문회에 있습니다.','- 한국어문회는 1급 위에 특급·특급Ⅱ도 있으므로 여기서의 3,500자는 전체 급수가 아니라 요청한 1급 누적 범위입니다.','- 모델 학습 자료와 SCUT 데이터의 중복/필기자 독립성은 검증하지 않았습니다.','','## 파일','', '- characters-3500.csv: 3,500자별 급수·독음·표본 수·모델 지원 여부·정답 수','- not-tested.txt: 이 세트에 표본이 없는 글자','- predictions-filtered.csv: 두 모델, 두 조건의 전체 후보 및 정오답','- summary.json: 지원 범위·미지원 글자·정확도·글자별 평균','', '재집계: `.venv/bin/python tools/handwriting/evaluate_korean3500.py`']
+(OUT/'REPORT.md').write_text('\n'.join(lines)+'\n')
+print('\n'.join(lines[:18]))

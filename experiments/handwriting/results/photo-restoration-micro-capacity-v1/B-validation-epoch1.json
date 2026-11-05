@@ -1,0 +1,930 @@
+{
+  "summary": {
+    "all": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.98,
+      "interior_recall": 0.9732142857142857,
+      "dice": 0.16367691485464428
+    },
+    "clean": {
+      "n": 50,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.98,
+      "interior_recall": 1.0,
+      "dice": 0.17407236329074144
+    },
+    "solid": {
+      "n": 50,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.98,
+      "interior_recall": 0.94,
+      "dice": 0.15328146641854695
+    }
+  },
+  "rows": [
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "clean",
+      "rank": 3295,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21501015085320804
+    },
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "solid",
+      "rank": 3103,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21030604113178805
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "clean",
+      "rank": 4497,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.23257329639697402
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "solid",
+      "rank": 4458,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17339599984407802
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "clean",
+      "rank": 3726,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15850817957260233
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "solid",
+      "rank": 3764,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14983721559664678
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "clean",
+      "rank": 86,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16119282830775128
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "solid",
+      "rank": 92,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14455443131110082
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "clean",
+      "rank": 376,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17987612488659885
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "solid",
+      "rank": 351,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16641086530283933
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "clean",
+      "rank": 2932,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.15023931007672844
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "solid",
+      "rank": 4217,
+      "target_rank": 1,
+      "interior_pixels": 15,
+      "interior_retained": 0,
+      "dice": 0.033843074146995146
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "clean",
+      "rank": 3930,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17428635734377293
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "solid",
+      "rank": 4068,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11948965620141866
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "clean",
+      "rank": 633,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14259251717348037
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "solid",
+      "rank": 699,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11474891550656059
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "clean",
+      "rank": 2876,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12341158634559009
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "solid",
+      "rank": 4441,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17059281782945013
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "clean",
+      "rank": 4606,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1268478384299235
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "solid",
+      "rank": 4649,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.08718611512560648
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "clean",
+      "rank": 3328,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19244097571842597
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "solid",
+      "rank": 3256,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16258881489491608
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "clean",
+      "rank": 3209,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19915771678742467
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "solid",
+      "rank": 3229,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17965819780978845
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "clean",
+      "rank": 1179,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1913589495727158
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "solid",
+      "rank": 1164,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16209607460420733
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "clean",
+      "rank": 3624,
+      "target_rank": 1,
+      "interior_pixels": 73,
+      "interior_retained": 73,
+      "dice": 0.13721934892385873
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "solid",
+      "rank": 3323,
+      "target_rank": 1,
+      "interior_pixels": 80,
+      "interior_retained": 80,
+      "dice": 0.1352916611531007
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "clean",
+      "rank": 4680,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1823786904209293
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "solid",
+      "rank": 4690,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15169308328466663
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "clean",
+      "rank": 2717,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17326166050814992
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "solid",
+      "rank": 2717,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18036370391842205
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "clean",
+      "rank": 599,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1743628888552668
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "solid",
+      "rank": 627,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13300585821430036
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "clean",
+      "rank": 2907,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16207406170482713
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "solid",
+      "rank": 4019,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13377875250160182
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "clean",
+      "rank": 1157,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13563551051204828
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "solid",
+      "rank": 1103,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1413709444332125
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "clean",
+      "rank": 2611,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12057995697287235
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "solid",
+      "rank": 2610,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12694125696870906
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "clean",
+      "rank": 2908,
+      "target_rank": 1,
+      "interior_pixels": 23,
+      "interior_retained": 23,
+      "dice": 0.17966443822459177
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "solid",
+      "rank": 2984,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.14328747732631433
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "clean",
+      "rank": 1507,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14092019266500594
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "solid",
+      "rank": 1635,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.10822628276031013
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "clean",
+      "rank": 3576,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19397564761613414
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "solid",
+      "rank": 3524,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1944673274879834
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "clean",
+      "rank": 455,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2004687973286905
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "solid",
+      "rank": 517,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18061017851926361
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "clean",
+      "rank": 4829,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.22314153760263472
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "solid",
+      "rank": 4785,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1854018756993356
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "clean",
+      "rank": 729,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11291915522725471
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "solid",
+      "rank": 565,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.09170479557935132
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "clean",
+      "rank": 2209,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1438498134249481
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "solid",
+      "rank": 2079,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11680711350570033
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "clean",
+      "rank": 4783,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14252415320294057
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "solid",
+      "rank": 4835,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12195734195535447
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "clean",
+      "rank": 490,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14731013950278216
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "solid",
+      "rank": 546,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11188995175353536
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "clean",
+      "rank": 2636,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14717843278191736
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "solid",
+      "rank": 2605,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11534875021851876
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "clean",
+      "rank": 2144,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14371342150666438
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "solid",
+      "rank": 2011,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13145499286528678
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "clean",
+      "rank": 1108,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2557016533160492
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "solid",
+      "rank": 984,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2440482784918619
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "clean",
+      "rank": 4924,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17444186437963788
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "solid",
+      "rank": 4916,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1307812459048158
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "clean",
+      "rank": 2060,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13259732064654753
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "solid",
+      "rank": 2106,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14707237956172842
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "clean",
+      "rank": 4423,
+      "target_rank": 1,
+      "interior_pixels": 140,
+      "interior_retained": 140,
+      "dice": 0.21704016603947454
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "solid",
+      "rank": 4598,
+      "target_rank": 1,
+      "interior_pixels": 31,
+      "interior_retained": 31,
+      "dice": 0.14521207064067085
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "clean",
+      "rank": 4650,
+      "target_rank": 1,
+      "interior_pixels": 25,
+      "interior_retained": 25,
+      "dice": 0.22194170859363374
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "solid",
+      "rank": 4647,
+      "target_rank": 1,
+      "interior_pixels": 25,
+      "interior_retained": 25,
+      "dice": 0.23271901399311432
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "clean",
+      "rank": 3394,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18355399629915858
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "solid",
+      "rank": 3483,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16869351791800058
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "clean",
+      "rank": 2816,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12291372366146681
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "solid",
+      "rank": 2815,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.129035316053039
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "clean",
+      "rank": 1529,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16546904144329658
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "solid",
+      "rank": 1641,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16408322098620756
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "clean",
+      "rank": 2622,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18265307814286788
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "solid",
+      "rank": 2621,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18381172458086564
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "clean",
+      "rank": 2544,
+      "target_rank": 1,
+      "interior_pixels": 15,
+      "interior_retained": 15,
+      "dice": 0.3199595365198888
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "solid",
+      "rank": 2586,
+      "target_rank": 1,
+      "interior_pixels": 8,
+      "interior_retained": 8,
+      "dice": 0.27264821606422257
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "clean",
+      "rank": 2780,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13423047873986663
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "solid",
+      "rank": 2826,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.09610049303956
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "clean",
+      "rank": 4333,
+      "target_rank": 1,
+      "interior_pixels": 8,
+      "interior_retained": 8,
+      "dice": 0.2519910318046891
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "solid",
+      "rank": 4376,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.25236511414788215
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "clean",
+      "rank": 4494,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13389070579329235
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "solid",
+      "rank": 4543,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13242204824707268
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "clean",
+      "rank": 4377,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.19713468601307182
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "solid",
+      "rank": 4363,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.19764404246438724
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "clean",
+      "rank": 4644,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2222241762051796
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "solid",
+      "rank": 4649,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18363129634582503
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "clean",
+      "rank": 114,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11995750122003003
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "solid",
+      "rank": 237,
+      "target_rank": 1,
+      "interior_pixels": 3,
+      "interior_retained": 0,
+      "dice": 0.09945813789692017
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "clean",
+      "rank": 3279,
+      "target_rank": 1,
+      "interior_pixels": 11,
+      "interior_retained": 11,
+      "dice": 0.18814236875911328
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "solid",
+      "rank": 3465,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12743123641952409
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "clean",
+      "rank": 4809,
+      "target_rank": 1,
+      "interior_pixels": 62,
+      "interior_retained": 62,
+      "dice": 0.24923776788587165
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "solid",
+      "rank": 4782,
+      "target_rank": 1,
+      "interior_pixels": 127,
+      "interior_retained": 127,
+      "dice": 0.2688095968571569
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "clean",
+      "rank": 841,
+      "target_rank": 2,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.12186368062722414
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "solid",
+      "rank": 783,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.10979680386413025
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "seed": 20261104,
+  "selected_classes": 500,
+  "train_sources": 20000,
+  "epochs": 3,
+  "batch_size": 16,
+  "input_size": 256,
+  "parameters": 1095553,
+  "learning_rate": 0.001,
+  "blank_fraction": 0.05,
+  "device": "MPS",
+  "output_cutoff": 0.5,
+  "augmentation": "procedural backgrounds only, mild affine + RGB + texture + glare + blur/noise; no real-photo backgrounds/JPEG in pilot",
+  "model_sha256": "999c5f74c3339ffd7e1de140f37be104ee2a6171f8478ef127ed68f8744b9655",
+  "torch_version": "2.15.0",
+  "source_manifest_hashes": {
+    "ai-free.csv": "655eb3022e3722baefd28cb4035e4fa13db7c1d8c2a5fa478cefa9ddc774a89b",
+    "fonts.csv": "8278cfc345c823133d4f88d1b8fb7d6f5790266c3f3ff36c7b49af03ea45d43e",
+    "scut.csv": "281180049b98d64aca1186200c228bb0acfcaf401f6e68f3687124ac64ae6b83"
+  }
+}

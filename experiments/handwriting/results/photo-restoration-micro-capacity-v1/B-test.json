@@ -1,0 +1,5462 @@
+{
+  "summary": {
+    "all": {
+      "n": 600,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.8983333333333333,
+      "interior_recall": 0.870351869075517,
+      "dice": 0.39448445726564746
+    },
+    "clean": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.96,
+      "interior_recall": 0.04129895752792812,
+      "dice": 0.15832265788018784
+    },
+    "solid": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.95,
+      "interior_recall": 0.9682405171908394,
+      "dice": 0.3328114948001267
+    },
+    "gradient": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.94,
+      "interior_recall": 0.9059325799898426,
+      "dice": 0.3165242275427977
+    },
+    "glare": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.94,
+      "interior_recall": 0.942225798880059,
+      "dice": 0.3371638689962676
+    },
+    "thick": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.81,
+      "interior_recall": 0.9193756158052372,
+      "dice": 0.603996430332825
+    },
+    "thick_blur": {
+      "n": 100,
+      "top1": 0.0,
+      "top10": 0.0,
+      "clean_target_top1": 0.79,
+      "interior_recall": 0.9526709462299964,
+      "dice": 0.6180880640416802
+    }
+  },
+  "rows": [
+    {
+      "sample_id": "scut-0021443",
+      "condition": "clean",
+      "rank": 3220,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2219616568838067
+    },
+    {
+      "sample_id": "scut-0021443",
+      "condition": "solid",
+      "rank": 3116,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2219889762472872
+    },
+    {
+      "sample_id": "scut-0021443",
+      "condition": "gradient",
+      "rank": 2890,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14797089306192804
+    },
+    {
+      "sample_id": "scut-0021443",
+      "condition": "glare",
+      "rank": 3145,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18501826677995167
+    },
+    {
+      "sample_id": "scut-0021443",
+      "condition": "thick",
+      "rank": 3645,
+      "target_rank": 10,
+      "interior_pixels": 8922,
+      "interior_retained": 8690,
+      "dice": 0.5668620377504644
+    },
+    {
+      "sample_id": "scut-0021443",
+      "condition": "thick_blur",
+      "rank": 3104,
+      "target_rank": 40,
+      "interior_pixels": 9579,
+      "interior_retained": 9098,
+      "dice": 0.5672088982671922
+    },
+    {
+      "sample_id": "fonts-0014859",
+      "condition": "clean",
+      "rank": 2890,
+      "target_rank": 1,
+      "interior_pixels": 5485,
+      "interior_retained": 255,
+      "dice": 0.14750093299464975
+    },
+    {
+      "sample_id": "fonts-0014859",
+      "condition": "solid",
+      "rank": 3942,
+      "target_rank": 1,
+      "interior_pixels": 4790,
+      "interior_retained": 4790,
+      "dice": 0.6058067527590676
+    },
+    {
+      "sample_id": "fonts-0014859",
+      "condition": "gradient",
+      "rank": 3116,
+      "target_rank": 1,
+      "interior_pixels": 3113,
+      "interior_retained": 3113,
+      "dice": 0.5015294371991608
+    },
+    {
+      "sample_id": "fonts-0014859",
+      "condition": "glare",
+      "rank": 3119,
+      "target_rank": 1,
+      "interior_pixels": 6764,
+      "interior_retained": 5604,
+      "dice": 0.5698471803808782
+    },
+    {
+      "sample_id": "fonts-0014859",
+      "condition": "thick",
+      "rank": 3226,
+      "target_rank": 1,
+      "interior_pixels": 19346,
+      "interior_retained": 18563,
+      "dice": 0.8336839330201232
+    },
+    {
+      "sample_id": "fonts-0014859",
+      "condition": "thick_blur",
+      "rank": 4645,
+      "target_rank": 1,
+      "interior_pixels": 14285,
+      "interior_retained": 14285,
+      "dice": 0.8065328616383804
+    },
+    {
+      "sample_id": "fonts-0001004",
+      "condition": "clean",
+      "rank": 3539,
+      "target_rank": 1,
+      "interior_pixels": 4260,
+      "interior_retained": 103,
+      "dice": 0.08688532433366732
+    },
+    {
+      "sample_id": "fonts-0001004",
+      "condition": "solid",
+      "rank": 4456,
+      "target_rank": 1,
+      "interior_pixels": 3295,
+      "interior_retained": 3108,
+      "dice": 0.5276966726127658
+    },
+    {
+      "sample_id": "fonts-0001004",
+      "condition": "gradient",
+      "rank": 4459,
+      "target_rank": 1,
+      "interior_pixels": 2034,
+      "interior_retained": 2034,
+      "dice": 0.45971191214374874
+    },
+    {
+      "sample_id": "fonts-0001004",
+      "condition": "glare",
+      "rank": 4538,
+      "target_rank": 1,
+      "interior_pixels": 4313,
+      "interior_retained": 4185,
+      "dice": 0.5708343972173536
+    },
+    {
+      "sample_id": "fonts-0001004",
+      "condition": "thick",
+      "rank": 4541,
+      "target_rank": 1,
+      "interior_pixels": 22287,
+      "interior_retained": 20825,
+      "dice": 0.8444447217018242
+    },
+    {
+      "sample_id": "fonts-0001004",
+      "condition": "thick_blur",
+      "rank": 4473,
+      "target_rank": 1,
+      "interior_pixels": 15393,
+      "interior_retained": 15393,
+      "dice": 0.789930706305379
+    },
+    {
+      "sample_id": "scut-0032494",
+      "condition": "clean",
+      "rank": 4494,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2503600383126177
+    },
+    {
+      "sample_id": "scut-0032494",
+      "condition": "solid",
+      "rank": 331,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1039835668920013
+    },
+    {
+      "sample_id": "scut-0032494",
+      "condition": "gradient",
+      "rank": 3659,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21623622632143968
+    },
+    {
+      "sample_id": "scut-0032494",
+      "condition": "glare",
+      "rank": 4454,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.23319216153569522
+    },
+    {
+      "sample_id": "scut-0032494",
+      "condition": "thick",
+      "rank": 4581,
+      "target_rank": 1,
+      "interior_pixels": 8906,
+      "interior_retained": 7915,
+      "dice": 0.5795765590598115
+    },
+    {
+      "sample_id": "scut-0032494",
+      "condition": "thick_blur",
+      "rank": 4518,
+      "target_rank": 1,
+      "interior_pixels": 9307,
+      "interior_retained": 9267,
+      "dice": 0.6530220712389662
+    },
+    {
+      "sample_id": "scut-0041517",
+      "condition": "clean",
+      "rank": 3802,
+      "target_rank": 1,
+      "interior_pixels": 14,
+      "interior_retained": 14,
+      "dice": 0.26412978858289227
+    },
+    {
+      "sample_id": "scut-0041517",
+      "condition": "solid",
+      "rank": 3808,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19584785144423264
+    },
+    {
+      "sample_id": "scut-0041517",
+      "condition": "gradient",
+      "rank": 3566,
+      "target_rank": 1,
+      "interior_pixels": 25,
+      "interior_retained": 0,
+      "dice": 0.19697783403114935
+    },
+    {
+      "sample_id": "scut-0041517",
+      "condition": "glare",
+      "rank": 3758,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.20568568952198024
+    },
+    {
+      "sample_id": "scut-0041517",
+      "condition": "thick",
+      "rank": 3822,
+      "target_rank": 1,
+      "interior_pixels": 7234,
+      "interior_retained": 7234,
+      "dice": 0.5446228660604808
+    },
+    {
+      "sample_id": "scut-0041517",
+      "condition": "thick_blur",
+      "rank": 3808,
+      "target_rank": 1,
+      "interior_pixels": 6180,
+      "interior_retained": 6180,
+      "dice": 0.5055572569086004
+    },
+    {
+      "sample_id": "fonts-0007229",
+      "condition": "clean",
+      "rank": 527,
+      "target_rank": 1,
+      "interior_pixels": 4645,
+      "interior_retained": 127,
+      "dice": 0.10182162432455123
+    },
+    {
+      "sample_id": "fonts-0007229",
+      "condition": "solid",
+      "rank": 3796,
+      "target_rank": 1,
+      "interior_pixels": 2545,
+      "interior_retained": 2545,
+      "dice": 0.47487902322920716
+    },
+    {
+      "sample_id": "fonts-0007229",
+      "condition": "gradient",
+      "rank": 3798,
+      "target_rank": 1,
+      "interior_pixels": 4040,
+      "interior_retained": 3969,
+      "dice": 0.5575765190023022
+    },
+    {
+      "sample_id": "fonts-0007229",
+      "condition": "glare",
+      "rank": 3803,
+      "target_rank": 1,
+      "interior_pixels": 2716,
+      "interior_retained": 2716,
+      "dice": 0.49327893571549153
+    },
+    {
+      "sample_id": "fonts-0007229",
+      "condition": "thick",
+      "rank": 3087,
+      "target_rank": 1,
+      "interior_pixels": 16807,
+      "interior_retained": 16744,
+      "dice": 0.847916527798742
+    },
+    {
+      "sample_id": "fonts-0007229",
+      "condition": "thick_blur",
+      "rank": 3817,
+      "target_rank": 1,
+      "interior_pixels": 12505,
+      "interior_retained": 12505,
+      "dice": 0.741031271868228
+    },
+    {
+      "sample_id": "scut-0017919",
+      "condition": "clean",
+      "rank": 92,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.3034201051403092
+    },
+    {
+      "sample_id": "scut-0017919",
+      "condition": "solid",
+      "rank": 82,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.3102485379984862
+    },
+    {
+      "sample_id": "scut-0017919",
+      "condition": "gradient",
+      "rank": 103,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2099768453448854
+    },
+    {
+      "sample_id": "scut-0017919",
+      "condition": "glare",
+      "rank": 95,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.3035933060625956
+    },
+    {
+      "sample_id": "scut-0017919",
+      "condition": "thick",
+      "rank": 102,
+      "target_rank": 1,
+      "interior_pixels": 12714,
+      "interior_retained": 12327,
+      "dice": 0.7025400445330173
+    },
+    {
+      "sample_id": "scut-0017919",
+      "condition": "thick_blur",
+      "rank": 103,
+      "target_rank": 1,
+      "interior_pixels": 9133,
+      "interior_retained": 9133,
+      "dice": 0.6216935934329585
+    },
+    {
+      "sample_id": "fonts-0003456",
+      "condition": "clean",
+      "rank": 925,
+      "target_rank": 1,
+      "interior_pixels": 3843,
+      "interior_retained": 117,
+      "dice": 0.10064511220202581
+    },
+    {
+      "sample_id": "fonts-0003456",
+      "condition": "solid",
+      "rank": 104,
+      "target_rank": 1,
+      "interior_pixels": 2804,
+      "interior_retained": 2804,
+      "dice": 0.5338231059959059
+    },
+    {
+      "sample_id": "fonts-0003456",
+      "condition": "gradient",
+      "rank": 146,
+      "target_rank": 1,
+      "interior_pixels": 4014,
+      "interior_retained": 3934,
+      "dice": 0.6065175682709892
+    },
+    {
+      "sample_id": "fonts-0003456",
+      "condition": "glare",
+      "rank": 944,
+      "target_rank": 1,
+      "interior_pixels": 1372,
+      "interior_retained": 932,
+      "dice": 0.3718264048907011
+    },
+    {
+      "sample_id": "fonts-0003456",
+      "condition": "thick",
+      "rank": 104,
+      "target_rank": 3,
+      "interior_pixels": 13977,
+      "interior_retained": 13977,
+      "dice": 0.717000888583892
+    },
+    {
+      "sample_id": "fonts-0003456",
+      "condition": "thick_blur",
+      "rank": 94,
+      "target_rank": 2,
+      "interior_pixels": 24823,
+      "interior_retained": 23318,
+      "dice": 0.8565938239391934
+    },
+    {
+      "sample_id": "fonts-0002560",
+      "condition": "clean",
+      "rank": 3473,
+      "target_rank": 1,
+      "interior_pixels": 5554,
+      "interior_retained": 153,
+      "dice": 0.0931510586525383
+    },
+    {
+      "sample_id": "fonts-0002560",
+      "condition": "solid",
+      "rank": 694,
+      "target_rank": 1,
+      "interior_pixels": 6637,
+      "interior_retained": 4992,
+      "dice": 0.5951254689803964
+    },
+    {
+      "sample_id": "fonts-0002560",
+      "condition": "gradient",
+      "rank": 328,
+      "target_rank": 1,
+      "interior_pixels": 6040,
+      "interior_retained": 5987,
+      "dice": 0.5425900003263624
+    },
+    {
+      "sample_id": "fonts-0002560",
+      "condition": "glare",
+      "rank": 389,
+      "target_rank": 1,
+      "interior_pixels": 6157,
+      "interior_retained": 6057,
+      "dice": 0.554394648739341
+    },
+    {
+      "sample_id": "fonts-0002560",
+      "condition": "thick",
+      "rank": 392,
+      "target_rank": 1,
+      "interior_pixels": 10168,
+      "interior_retained": 10168,
+      "dice": 0.6207585131647664
+    },
+    {
+      "sample_id": "fonts-0002560",
+      "condition": "thick_blur",
+      "rank": 398,
+      "target_rank": 1,
+      "interior_pixels": 19662,
+      "interior_retained": 18553,
+      "dice": 0.7750648234479192
+    },
+    {
+      "sample_id": "scut-0050584",
+      "condition": "clean",
+      "rank": 377,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16284328703216375
+    },
+    {
+      "sample_id": "scut-0050584",
+      "condition": "solid",
+      "rank": 387,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16025621015060615
+    },
+    {
+      "sample_id": "scut-0050584",
+      "condition": "gradient",
+      "rank": 134,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.10261242886170105
+    },
+    {
+      "sample_id": "scut-0050584",
+      "condition": "glare",
+      "rank": 417,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14688005177010355
+    },
+    {
+      "sample_id": "scut-0050584",
+      "condition": "thick",
+      "rank": 379,
+      "target_rank": 1,
+      "interior_pixels": 6315,
+      "interior_retained": 6003,
+      "dice": 0.48078740451339796
+    },
+    {
+      "sample_id": "scut-0050584",
+      "condition": "thick_blur",
+      "rank": 398,
+      "target_rank": 1,
+      "interior_pixels": 4358,
+      "interior_retained": 4358,
+      "dice": 0.4213420358590358
+    },
+    {
+      "sample_id": "fonts-0011631",
+      "condition": "clean",
+      "rank": 3766,
+      "target_rank": 1,
+      "interior_pixels": 3795,
+      "interior_retained": 206,
+      "dice": 0.11199799165364419
+    },
+    {
+      "sample_id": "fonts-0011631",
+      "condition": "solid",
+      "rank": 3180,
+      "target_rank": 1,
+      "interior_pixels": 4114,
+      "interior_retained": 3860,
+      "dice": 0.40172739997677875
+    },
+    {
+      "sample_id": "fonts-0011631",
+      "condition": "gradient",
+      "rank": 3140,
+      "target_rank": 1,
+      "interior_pixels": 2529,
+      "interior_retained": 2529,
+      "dice": 0.34169178248282384
+    },
+    {
+      "sample_id": "fonts-0011631",
+      "condition": "glare",
+      "rank": 2573,
+      "target_rank": 1,
+      "interior_pixels": 3640,
+      "interior_retained": 2819,
+      "dice": 0.3395564112923787
+    },
+    {
+      "sample_id": "fonts-0011631",
+      "condition": "thick",
+      "rank": 3126,
+      "target_rank": 1,
+      "interior_pixels": 8361,
+      "interior_retained": 8361,
+      "dice": 0.5405240929258066
+    },
+    {
+      "sample_id": "fonts-0011631",
+      "condition": "thick_blur",
+      "rank": 3092,
+      "target_rank": 1,
+      "interior_pixels": 14215,
+      "interior_retained": 12668,
+      "dice": 0.6284065440559886
+    },
+    {
+      "sample_id": "scut-0002198",
+      "condition": "clean",
+      "rank": 3070,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12649209608850323
+    },
+    {
+      "sample_id": "scut-0002198",
+      "condition": "solid",
+      "rank": 3056,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11978572025374884
+    },
+    {
+      "sample_id": "scut-0002198",
+      "condition": "gradient",
+      "rank": 3134,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.09587578741503681
+    },
+    {
+      "sample_id": "scut-0002198",
+      "condition": "glare",
+      "rank": 3069,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.10263979238170881
+    },
+    {
+      "sample_id": "scut-0002198",
+      "condition": "thick",
+      "rank": 3091,
+      "target_rank": 2,
+      "interior_pixels": 4926,
+      "interior_retained": 4672,
+      "dice": 0.3967457174495874
+    },
+    {
+      "sample_id": "scut-0002198",
+      "condition": "thick_blur",
+      "rank": 3137,
+      "target_rank": 1,
+      "interior_pixels": 4218,
+      "interior_retained": 4093,
+      "dice": 0.37950921368735235
+    },
+    {
+      "sample_id": "scut-0025633",
+      "condition": "clean",
+      "rank": 3950,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1640114360083516
+    },
+    {
+      "sample_id": "scut-0025633",
+      "condition": "solid",
+      "rank": 4066,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13631786978556762
+    },
+    {
+      "sample_id": "scut-0025633",
+      "condition": "gradient",
+      "rank": 3955,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12453479966866511
+    },
+    {
+      "sample_id": "scut-0025633",
+      "condition": "glare",
+      "rank": 4035,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1093051881331929
+    },
+    {
+      "sample_id": "scut-0025633",
+      "condition": "thick",
+      "rank": 3995,
+      "target_rank": 1,
+      "interior_pixels": 5624,
+      "interior_retained": 5624,
+      "dice": 0.48911736938285616
+    },
+    {
+      "sample_id": "scut-0025633",
+      "condition": "thick_blur",
+      "rank": 4016,
+      "target_rank": 1,
+      "interior_pixels": 7249,
+      "interior_retained": 5981,
+      "dice": 0.4396376559324448
+    },
+    {
+      "sample_id": "fonts-0017754",
+      "condition": "clean",
+      "rank": 815,
+      "target_rank": 1,
+      "interior_pixels": 5145,
+      "interior_retained": 68,
+      "dice": 0.04588118760599172
+    },
+    {
+      "sample_id": "fonts-0017754",
+      "condition": "solid",
+      "rank": 4033,
+      "target_rank": 1,
+      "interior_pixels": 3423,
+      "interior_retained": 3423,
+      "dice": 0.4281108593529368
+    },
+    {
+      "sample_id": "fonts-0017754",
+      "condition": "gradient",
+      "rank": 3993,
+      "target_rank": 1,
+      "interior_pixels": 6172,
+      "interior_retained": 5571,
+      "dice": 0.5048428729357692
+    },
+    {
+      "sample_id": "fonts-0017754",
+      "condition": "glare",
+      "rank": 4023,
+      "target_rank": 1,
+      "interior_pixels": 3476,
+      "interior_retained": 3476,
+      "dice": 0.43351422051719424
+    },
+    {
+      "sample_id": "fonts-0017754",
+      "condition": "thick",
+      "rank": 304,
+      "target_rank": 1,
+      "interior_pixels": 16402,
+      "interior_retained": 12713,
+      "dice": 0.740203304576834
+    },
+    {
+      "sample_id": "fonts-0017754",
+      "condition": "thick_blur",
+      "rank": 4009,
+      "target_rank": 1,
+      "interior_pixels": 11614,
+      "interior_retained": 11589,
+      "dice": 0.6575476282627539
+    },
+    {
+      "sample_id": "fonts-0001266",
+      "condition": "clean",
+      "rank": 2929,
+      "target_rank": 1,
+      "interior_pixels": 4871,
+      "interior_retained": 18,
+      "dice": 0.02655167505005411
+    },
+    {
+      "sample_id": "fonts-0001266",
+      "condition": "solid",
+      "rank": 672,
+      "target_rank": 1,
+      "interior_pixels": 2704,
+      "interior_retained": 2704,
+      "dice": 0.35471653268452
+    },
+    {
+      "sample_id": "fonts-0001266",
+      "condition": "gradient",
+      "rank": 700,
+      "target_rank": 1,
+      "interior_pixels": 4751,
+      "interior_retained": 4751,
+      "dice": 0.4716498131159771
+    },
+    {
+      "sample_id": "fonts-0001266",
+      "condition": "glare",
+      "rank": 1046,
+      "target_rank": 1,
+      "interior_pixels": 4708,
+      "interior_retained": 3297,
+      "dice": 0.3448783739445585
+    },
+    {
+      "sample_id": "fonts-0001266",
+      "condition": "thick",
+      "rank": 686,
+      "target_rank": 1,
+      "interior_pixels": 9598,
+      "interior_retained": 9598,
+      "dice": 0.5814776259833696
+    },
+    {
+      "sample_id": "fonts-0001266",
+      "condition": "thick_blur",
+      "rank": 694,
+      "target_rank": 1,
+      "interior_pixels": 15389,
+      "interior_retained": 13324,
+      "dice": 0.6361760727303042
+    },
+    {
+      "sample_id": "scut-0038333",
+      "condition": "clean",
+      "rank": 704,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18090418684147405
+    },
+    {
+      "sample_id": "scut-0038333",
+      "condition": "solid",
+      "rank": 40,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 7.76067717865549e-05
+    },
+    {
+      "sample_id": "scut-0038333",
+      "condition": "gradient",
+      "rank": 702,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13729076899777193
+    },
+    {
+      "sample_id": "scut-0038333",
+      "condition": "glare",
+      "rank": 683,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13593490205056047
+    },
+    {
+      "sample_id": "scut-0038333",
+      "condition": "thick",
+      "rank": 701,
+      "target_rank": 1,
+      "interior_pixels": 3977,
+      "interior_retained": 3977,
+      "dice": 0.4069084724474341
+    },
+    {
+      "sample_id": "scut-0038333",
+      "condition": "thick_blur",
+      "rank": 708,
+      "target_rank": 1,
+      "interior_pixels": 6844,
+      "interior_retained": 5685,
+      "dice": 0.45677118940853056
+    },
+    {
+      "sample_id": "sabeom-scut-0003044",
+      "condition": "clean",
+      "rank": 2909,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.27088428615921484
+    },
+    {
+      "sample_id": "sabeom-scut-0003044",
+      "condition": "solid",
+      "rank": 2970,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2804249698918829
+    },
+    {
+      "sample_id": "sabeom-scut-0003044",
+      "condition": "gradient",
+      "rank": 3118,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.22550654079505764
+    },
+    {
+      "sample_id": "sabeom-scut-0003044",
+      "condition": "glare",
+      "rank": 2852,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.23348219045919805
+    },
+    {
+      "sample_id": "sabeom-scut-0003044",
+      "condition": "thick",
+      "rank": 2940,
+      "target_rank": 1,
+      "interior_pixels": 13986,
+      "interior_retained": 12868,
+      "dice": 0.6832302921707281
+    },
+    {
+      "sample_id": "sabeom-scut-0003044",
+      "condition": "thick_blur",
+      "rank": 2066,
+      "target_rank": 1,
+      "interior_pixels": 11692,
+      "interior_retained": 10862,
+      "dice": 0.6373594370494093
+    },
+    {
+      "sample_id": "sabeom-fonts-0002608",
+      "condition": "clean",
+      "rank": 4897,
+      "target_rank": 1,
+      "interior_pixels": 3943,
+      "interior_retained": 129,
+      "dice": 0.09494628993817664
+    },
+    {
+      "sample_id": "sabeom-fonts-0002608",
+      "condition": "solid",
+      "rank": 3126,
+      "target_rank": 1,
+      "interior_pixels": 2187,
+      "interior_retained": 2187,
+      "dice": 0.4859992326705228
+    },
+    {
+      "sample_id": "sabeom-fonts-0002608",
+      "condition": "gradient",
+      "rank": 2953,
+      "target_rank": 1,
+      "interior_pixels": 4823,
+      "interior_retained": 4630,
+      "dice": 0.5939671224075131
+    },
+    {
+      "sample_id": "sabeom-fonts-0002608",
+      "condition": "glare",
+      "rank": 3036,
+      "target_rank": 1,
+      "interior_pixels": 2381,
+      "interior_retained": 2381,
+      "dice": 0.497706236164978
+    },
+    {
+      "sample_id": "sabeom-fonts-0002608",
+      "condition": "thick",
+      "rank": 1737,
+      "target_rank": 3,
+      "interior_pixels": 16041,
+      "interior_retained": 15674,
+      "dice": 0.7601845156081757
+    },
+    {
+      "sample_id": "sabeom-fonts-0002608",
+      "condition": "thick_blur",
+      "rank": 2959,
+      "target_rank": 3,
+      "interior_pixels": 15442,
+      "interior_retained": 15442,
+      "dice": 0.7267402615139902
+    },
+    {
+      "sample_id": "fonts-0002422",
+      "condition": "clean",
+      "rank": 558,
+      "target_rank": 1,
+      "interior_pixels": 4587,
+      "interior_retained": 51,
+      "dice": 0.04269662575736755
+    },
+    {
+      "sample_id": "fonts-0002422",
+      "condition": "solid",
+      "rank": 4606,
+      "target_rank": 1,
+      "interior_pixels": 5672,
+      "interior_retained": 5536,
+      "dice": 0.523536025407125
+    },
+    {
+      "sample_id": "fonts-0002422",
+      "condition": "gradient",
+      "rank": 1590,
+      "target_rank": 1,
+      "interior_pixels": 5366,
+      "interior_retained": 0,
+      "dice": 0.0001999093640097029
+    },
+    {
+      "sample_id": "fonts-0002422",
+      "condition": "glare",
+      "rank": 4596,
+      "target_rank": 1,
+      "interior_pixels": 5552,
+      "interior_retained": 5368,
+      "dice": 0.5197301480299129
+    },
+    {
+      "sample_id": "fonts-0002422",
+      "condition": "thick",
+      "rank": 4648,
+      "target_rank": 1,
+      "interior_pixels": 12694,
+      "interior_retained": 12545,
+      "dice": 0.6954080230171366
+    },
+    {
+      "sample_id": "fonts-0002422",
+      "condition": "thick_blur",
+      "rank": 4817,
+      "target_rank": 1,
+      "interior_pixels": 11793,
+      "interior_retained": 11440,
+      "dice": 0.6527826299250645
+    },
+    {
+      "sample_id": "scut-0053410",
+      "condition": "clean",
+      "rank": 4591,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15814621627869432
+    },
+    {
+      "sample_id": "scut-0053410",
+      "condition": "solid",
+      "rank": 4362,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13514065634357883
+    },
+    {
+      "sample_id": "scut-0053410",
+      "condition": "gradient",
+      "rank": 4621,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15382054416560287
+    },
+    {
+      "sample_id": "scut-0053410",
+      "condition": "glare",
+      "rank": 4621,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1310451030792681
+    },
+    {
+      "sample_id": "scut-0053410",
+      "condition": "thick",
+      "rank": 4622,
+      "target_rank": 1,
+      "interior_pixels": 6469,
+      "interior_retained": 6402,
+      "dice": 0.5012418835747914
+    },
+    {
+      "sample_id": "scut-0053410",
+      "condition": "thick_blur",
+      "rank": 4618,
+      "target_rank": 1,
+      "interior_pixels": 4327,
+      "interior_retained": 4327,
+      "dice": 0.404391515583406
+    },
+    {
+      "sample_id": "fonts-0018187",
+      "condition": "clean",
+      "rank": 3183,
+      "target_rank": 1,
+      "interior_pixels": 4445,
+      "interior_retained": 290,
+      "dice": 0.1689399180922846
+    },
+    {
+      "sample_id": "fonts-0018187",
+      "condition": "solid",
+      "rank": 3373,
+      "target_rank": 1,
+      "interior_pixels": 4574,
+      "interior_retained": 4464,
+      "dice": 0.5410885841909019
+    },
+    {
+      "sample_id": "fonts-0018187",
+      "condition": "gradient",
+      "rank": 3410,
+      "target_rank": 1,
+      "interior_pixels": 2419,
+      "interior_retained": 2419,
+      "dice": 0.4461530291647192
+    },
+    {
+      "sample_id": "fonts-0018187",
+      "condition": "glare",
+      "rank": 3355,
+      "target_rank": 1,
+      "interior_pixels": 5869,
+      "interior_retained": 5538,
+      "dice": 0.5638118414751807
+    },
+    {
+      "sample_id": "fonts-0018187",
+      "condition": "thick",
+      "rank": 3478,
+      "target_rank": 1,
+      "interior_pixels": 22394,
+      "interior_retained": 19450,
+      "dice": 0.7939761455030377
+    },
+    {
+      "sample_id": "fonts-0018187",
+      "condition": "thick_blur",
+      "rank": 3430,
+      "target_rank": 1,
+      "interior_pixels": 15547,
+      "interior_retained": 15226,
+      "dice": 0.7688164515493309
+    },
+    {
+      "sample_id": "scut-0032225",
+      "condition": "clean",
+      "rank": 3400,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17984269565507663
+    },
+    {
+      "sample_id": "scut-0032225",
+      "condition": "solid",
+      "rank": 3525,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15597513236203267
+    },
+    {
+      "sample_id": "scut-0032225",
+      "condition": "gradient",
+      "rank": 3410,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1429234761421926
+    },
+    {
+      "sample_id": "scut-0032225",
+      "condition": "glare",
+      "rank": 3549,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12262300333837099
+    },
+    {
+      "sample_id": "scut-0032225",
+      "condition": "thick",
+      "rank": 3384,
+      "target_rank": 1,
+      "interior_pixels": 4696,
+      "interior_retained": 4659,
+      "dice": 0.42728984803194925
+    },
+    {
+      "sample_id": "scut-0032225",
+      "condition": "thick_blur",
+      "rank": 3556,
+      "target_rank": 1,
+      "interior_pixels": 4500,
+      "interior_retained": 4500,
+      "dice": 0.4297976117568424
+    },
+    {
+      "sample_id": "scut-0015908",
+      "condition": "clean",
+      "rank": 3287,
+      "target_rank": 1,
+      "interior_pixels": 13,
+      "interior_retained": 13,
+      "dice": 0.33457624653362716
+    },
+    {
+      "sample_id": "scut-0015908",
+      "condition": "solid",
+      "rank": 3340,
+      "target_rank": 1,
+      "interior_pixels": 11,
+      "interior_retained": 11,
+      "dice": 0.3241673904820755
+    },
+    {
+      "sample_id": "scut-0015908",
+      "condition": "gradient",
+      "rank": 3298,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.2774911026106707
+    },
+    {
+      "sample_id": "scut-0015908",
+      "condition": "glare",
+      "rank": 3229,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.2955121687414066
+    },
+    {
+      "sample_id": "scut-0015908",
+      "condition": "thick",
+      "rank": 3150,
+      "target_rank": 1,
+      "interior_pixels": 10146,
+      "interior_retained": 10146,
+      "dice": 0.6395481136747632
+    },
+    {
+      "sample_id": "scut-0015908",
+      "condition": "thick_blur",
+      "rank": 3288,
+      "target_rank": 1,
+      "interior_pixels": 12389,
+      "interior_retained": 11832,
+      "dice": 0.6874891981184614
+    },
+    {
+      "sample_id": "fonts-0008161",
+      "condition": "clean",
+      "rank": 2637,
+      "target_rank": 1,
+      "interior_pixels": 4828,
+      "interior_retained": 144,
+      "dice": 0.11443039467290345
+    },
+    {
+      "sample_id": "fonts-0008161",
+      "condition": "solid",
+      "rank": 4547,
+      "target_rank": 1,
+      "interior_pixels": 3022,
+      "interior_retained": 3018,
+      "dice": 0.5363373089342516
+    },
+    {
+      "sample_id": "fonts-0008161",
+      "condition": "gradient",
+      "rank": 3305,
+      "target_rank": 1,
+      "interior_pixels": 2712,
+      "interior_retained": 2712,
+      "dice": 0.5127424594699792
+    },
+    {
+      "sample_id": "fonts-0008161",
+      "condition": "glare",
+      "rank": 3218,
+      "target_rank": 1,
+      "interior_pixels": 5002,
+      "interior_retained": 4969,
+      "dice": 0.5980052428692347
+    },
+    {
+      "sample_id": "fonts-0008161",
+      "condition": "thick",
+      "rank": 2810,
+      "target_rank": 1,
+      "interior_pixels": 19170,
+      "interior_retained": 19071,
+      "dice": 0.854753660506562
+    },
+    {
+      "sample_id": "fonts-0008161",
+      "condition": "thick_blur",
+      "rank": 4554,
+      "target_rank": 1,
+      "interior_pixels": 19313,
+      "interior_retained": 17716,
+      "dice": 0.8057836716081899
+    },
+    {
+      "sample_id": "fonts-0001653",
+      "condition": "clean",
+      "rank": 690,
+      "target_rank": 1,
+      "interior_pixels": 4716,
+      "interior_retained": 135,
+      "dice": 0.08957574203733408
+    },
+    {
+      "sample_id": "fonts-0001653",
+      "condition": "solid",
+      "rank": 1145,
+      "target_rank": 1,
+      "interior_pixels": 5227,
+      "interior_retained": 5153,
+      "dice": 0.5183589461901004
+    },
+    {
+      "sample_id": "fonts-0001653",
+      "condition": "gradient",
+      "rank": 1195,
+      "target_rank": 1,
+      "interior_pixels": 4538,
+      "interior_retained": 4516,
+      "dice": 0.49823888580964076
+    },
+    {
+      "sample_id": "fonts-0001653",
+      "condition": "glare",
+      "rank": 799,
+      "target_rank": 1,
+      "interior_pixels": 3178,
+      "interior_retained": 3161,
+      "dice": 0.4484435253985781
+    },
+    {
+      "sample_id": "fonts-0001653",
+      "condition": "thick",
+      "rank": 1226,
+      "target_rank": 1,
+      "interior_pixels": 12805,
+      "interior_retained": 12715,
+      "dice": 0.7021171792209081
+    },
+    {
+      "sample_id": "fonts-0001653",
+      "condition": "thick_blur",
+      "rank": 1181,
+      "target_rank": 1,
+      "interior_pixels": 16526,
+      "interior_retained": 14390,
+      "dice": 0.6878117871978682
+    },
+    {
+      "sample_id": "scut-0033943",
+      "condition": "clean",
+      "rank": 1334,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20067560468892878
+    },
+    {
+      "sample_id": "scut-0033943",
+      "condition": "solid",
+      "rank": 506,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16622269880268223
+    },
+    {
+      "sample_id": "scut-0033943",
+      "condition": "gradient",
+      "rank": 1246,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16231317841779247
+    },
+    {
+      "sample_id": "scut-0033943",
+      "condition": "glare",
+      "rank": 1789,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20483386949309695
+    },
+    {
+      "sample_id": "scut-0033943",
+      "condition": "thick",
+      "rank": 1228,
+      "target_rank": 1,
+      "interior_pixels": 8614,
+      "interior_retained": 7968,
+      "dice": 0.5673833674195108
+    },
+    {
+      "sample_id": "scut-0033943",
+      "condition": "thick_blur",
+      "rank": 1164,
+      "target_rank": 1,
+      "interior_pixels": 6164,
+      "interior_retained": 6164,
+      "dice": 0.5221960200408496
+    },
+    {
+      "sample_id": "scut-0007074",
+      "condition": "clean",
+      "rank": 3224,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1161150857629034
+    },
+    {
+      "sample_id": "scut-0007074",
+      "condition": "solid",
+      "rank": 3266,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.0761924699359538
+    },
+    {
+      "sample_id": "scut-0007074",
+      "condition": "gradient",
+      "rank": 3247,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.08290255656712255
+    },
+    {
+      "sample_id": "scut-0007074",
+      "condition": "glare",
+      "rank": 3245,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.08402484275453882
+    },
+    {
+      "sample_id": "scut-0007074",
+      "condition": "thick",
+      "rank": 3286,
+      "target_rank": 1,
+      "interior_pixels": 3056,
+      "interior_retained": 3056,
+      "dice": 0.32139355563560973
+    },
+    {
+      "sample_id": "scut-0007074",
+      "condition": "thick_blur",
+      "rank": 3245,
+      "target_rank": 1,
+      "interior_pixels": 3300,
+      "interior_retained": 3292,
+      "dice": 0.33216897951502106
+    },
+    {
+      "sample_id": "fonts-0007631",
+      "condition": "clean",
+      "rank": 1388,
+      "target_rank": 1,
+      "interior_pixels": 4073,
+      "interior_retained": 20,
+      "dice": 0.02966419914368308
+    },
+    {
+      "sample_id": "fonts-0007631",
+      "condition": "solid",
+      "rank": 3227,
+      "target_rank": 1,
+      "interior_pixels": 3336,
+      "interior_retained": 3281,
+      "dice": 0.3943597333442207
+    },
+    {
+      "sample_id": "fonts-0007631",
+      "condition": "gradient",
+      "rank": 3225,
+      "target_rank": 1,
+      "interior_pixels": 3933,
+      "interior_retained": 3933,
+      "dice": 0.43383561120873937
+    },
+    {
+      "sample_id": "fonts-0007631",
+      "condition": "glare",
+      "rank": 3086,
+      "target_rank": 1,
+      "interior_pixels": 4634,
+      "interior_retained": 4360,
+      "dice": 0.438675275664556
+    },
+    {
+      "sample_id": "fonts-0007631",
+      "condition": "thick",
+      "rank": 4602,
+      "target_rank": 1,
+      "interior_pixels": 12740,
+      "interior_retained": 2274,
+      "dice": 0.19176333106113372
+    },
+    {
+      "sample_id": "fonts-0007631",
+      "condition": "thick_blur",
+      "rank": 3252,
+      "target_rank": 1,
+      "interior_pixels": 12169,
+      "interior_retained": 11870,
+      "dice": 0.6392865984912974
+    },
+    {
+      "sample_id": "scut-0007522",
+      "condition": "clean",
+      "rank": 4651,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.2268228925325074
+    },
+    {
+      "sample_id": "scut-0007522",
+      "condition": "solid",
+      "rank": 4704,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1543650287201548
+    },
+    {
+      "sample_id": "scut-0007522",
+      "condition": "gradient",
+      "rank": 4682,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17314166892576752
+    },
+    {
+      "sample_id": "scut-0007522",
+      "condition": "glare",
+      "rank": 4659,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.22855797632083985
+    },
+    {
+      "sample_id": "scut-0007522",
+      "condition": "thick",
+      "rank": 4700,
+      "target_rank": 1,
+      "interior_pixels": 8654,
+      "interior_retained": 8609,
+      "dice": 0.576531278511348
+    },
+    {
+      "sample_id": "scut-0007522",
+      "condition": "thick_blur",
+      "rank": 4678,
+      "target_rank": 2,
+      "interior_pixels": 10071,
+      "interior_retained": 9949,
+      "dice": 0.6158559912102091
+    },
+    {
+      "sample_id": "fonts-0012260",
+      "condition": "clean",
+      "rank": 756,
+      "target_rank": 1,
+      "interior_pixels": 3855,
+      "interior_retained": 143,
+      "dice": 0.11794039083115629
+    },
+    {
+      "sample_id": "fonts-0012260",
+      "condition": "solid",
+      "rank": 4663,
+      "target_rank": 1,
+      "interior_pixels": 4364,
+      "interior_retained": 4323,
+      "dice": 0.55889730827932
+    },
+    {
+      "sample_id": "fonts-0012260",
+      "condition": "gradient",
+      "rank": 4692,
+      "target_rank": 1,
+      "interior_pixels": 1799,
+      "interior_retained": 1799,
+      "dice": 0.43484435071715327
+    },
+    {
+      "sample_id": "fonts-0012260",
+      "condition": "glare",
+      "rank": 4690,
+      "target_rank": 1,
+      "interior_pixels": 5103,
+      "interior_retained": 5014,
+      "dice": 0.5983663164081845
+    },
+    {
+      "sample_id": "fonts-0012260",
+      "condition": "thick",
+      "rank": 4667,
+      "target_rank": 1,
+      "interior_pixels": 22177,
+      "interior_retained": 19172,
+      "dice": 0.7596838665491956
+    },
+    {
+      "sample_id": "fonts-0012260",
+      "condition": "thick_blur",
+      "rank": 4672,
+      "target_rank": 2,
+      "interior_pixels": 12799,
+      "interior_retained": 12799,
+      "dice": 0.7103169760243196
+    },
+    {
+      "sample_id": "fonts-0019690",
+      "condition": "clean",
+      "rank": 1894,
+      "target_rank": 1,
+      "interior_pixels": 5622,
+      "interior_retained": 96,
+      "dice": 0.04097358083178043
+    },
+    {
+      "sample_id": "fonts-0019690",
+      "condition": "solid",
+      "rank": 2600,
+      "target_rank": 1,
+      "interior_pixels": 2861,
+      "interior_retained": 2861,
+      "dice": 0.49722412461930715
+    },
+    {
+      "sample_id": "fonts-0019690",
+      "condition": "gradient",
+      "rank": 2104,
+      "target_rank": 1,
+      "interior_pixels": 2834,
+      "interior_retained": 1932,
+      "dice": 0.4439478610365618
+    },
+    {
+      "sample_id": "fonts-0019690",
+      "condition": "glare",
+      "rank": 2619,
+      "target_rank": 1,
+      "interior_pixels": 7072,
+      "interior_retained": 5260,
+      "dice": 0.5453925953175145
+    },
+    {
+      "sample_id": "fonts-0019690",
+      "condition": "thick",
+      "rank": 46,
+      "target_rank": 1,
+      "interior_pixels": 20158,
+      "interior_retained": 16851,
+      "dice": 0.8101941045512548
+    },
+    {
+      "sample_id": "fonts-0019690",
+      "condition": "thick_blur",
+      "rank": 2611,
+      "target_rank": 1,
+      "interior_pixels": 17244,
+      "interior_retained": 17094,
+      "dice": 0.8382887751385288
+    },
+    {
+      "sample_id": "scut-0019267",
+      "condition": "clean",
+      "rank": 2734,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.27158122397750023
+    },
+    {
+      "sample_id": "scut-0019267",
+      "condition": "solid",
+      "rank": 2606,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2549810762809462
+    },
+    {
+      "sample_id": "scut-0019267",
+      "condition": "gradient",
+      "rank": 2537,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19670011593307482
+    },
+    {
+      "sample_id": "scut-0019267",
+      "condition": "glare",
+      "rank": 2659,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21703584427812678
+    },
+    {
+      "sample_id": "scut-0019267",
+      "condition": "thick",
+      "rank": 2644,
+      "target_rank": 1,
+      "interior_pixels": 12982,
+      "interior_retained": 11166,
+      "dice": 0.6637250975029579
+    },
+    {
+      "sample_id": "scut-0019267",
+      "condition": "thick_blur",
+      "rank": 2671,
+      "target_rank": 1,
+      "interior_pixels": 7128,
+      "interior_retained": 7128,
+      "dice": 0.5993343468919703
+    },
+    {
+      "sample_id": "fonts-0000193",
+      "condition": "clean",
+      "rank": 611,
+      "target_rank": 1,
+      "interior_pixels": 4061,
+      "interior_retained": 99,
+      "dice": 0.06458606115039339
+    },
+    {
+      "sample_id": "fonts-0000193",
+      "condition": "solid",
+      "rank": 508,
+      "target_rank": 1,
+      "interior_pixels": 3704,
+      "interior_retained": 3680,
+      "dice": 0.44606329010657697
+    },
+    {
+      "sample_id": "fonts-0000193",
+      "condition": "gradient",
+      "rank": 655,
+      "target_rank": 1,
+      "interior_pixels": 3710,
+      "interior_retained": 3549,
+      "dice": 0.43037852761283624
+    },
+    {
+      "sample_id": "fonts-0000193",
+      "condition": "glare",
+      "rank": 654,
+      "target_rank": 1,
+      "interior_pixels": 2448,
+      "interior_retained": 2448,
+      "dice": 0.371306220981729
+    },
+    {
+      "sample_id": "fonts-0000193",
+      "condition": "thick",
+      "rank": 2145,
+      "target_rank": 1,
+      "interior_pixels": 15284,
+      "interior_retained": 11969,
+      "dice": 0.65147447602486
+    },
+    {
+      "sample_id": "fonts-0000193",
+      "condition": "thick_blur",
+      "rank": 600,
+      "target_rank": 1,
+      "interior_pixels": 8636,
+      "interior_retained": 8636,
+      "dice": 0.5747426550234165
+    },
+    {
+      "sample_id": "scut-0002877",
+      "condition": "clean",
+      "rank": 622,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.23413717562908384
+    },
+    {
+      "sample_id": "scut-0002877",
+      "condition": "solid",
+      "rank": 622,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.22738100309547224
+    },
+    {
+      "sample_id": "scut-0002877",
+      "condition": "gradient",
+      "rank": 755,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20575832631436
+    },
+    {
+      "sample_id": "scut-0002877",
+      "condition": "glare",
+      "rank": 643,
+      "target_rank": 1,
+      "interior_pixels": 9,
+      "interior_retained": 9,
+      "dice": 0.2479808275089242
+    },
+    {
+      "sample_id": "scut-0002877",
+      "condition": "thick",
+      "rank": 627,
+      "target_rank": 1,
+      "interior_pixels": 10771,
+      "interior_retained": 9241,
+      "dice": 0.579602082720381
+    },
+    {
+      "sample_id": "scut-0002877",
+      "condition": "thick_blur",
+      "rank": 908,
+      "target_rank": 1,
+      "interior_pixels": 9715,
+      "interior_retained": 4586,
+      "dice": 0.37108477120654965
+    },
+    {
+      "sample_id": "scut-0022439",
+      "condition": "clean",
+      "rank": 2882,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18061571974769475
+    },
+    {
+      "sample_id": "scut-0022439",
+      "condition": "solid",
+      "rank": 2842,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15668171111347326
+    },
+    {
+      "sample_id": "scut-0022439",
+      "condition": "gradient",
+      "rank": 2759,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.16639551576249617
+    },
+    {
+      "sample_id": "scut-0022439",
+      "condition": "glare",
+      "rank": 2849,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13752237760511893
+    },
+    {
+      "sample_id": "scut-0022439",
+      "condition": "thick",
+      "rank": 1456,
+      "target_rank": 3,
+      "interior_pixels": 4317,
+      "interior_retained": 2532,
+      "dice": 0.28659167027080934
+    },
+    {
+      "sample_id": "scut-0022439",
+      "condition": "thick_blur",
+      "rank": 2746,
+      "target_rank": 3,
+      "interior_pixels": 5668,
+      "interior_retained": 5668,
+      "dice": 0.4980218667312859
+    },
+    {
+      "sample_id": "fonts-0011041",
+      "condition": "clean",
+      "rank": 2356,
+      "target_rank": 1,
+      "interior_pixels": 2412,
+      "interior_retained": 1063,
+      "dice": 0.41336629701346744
+    },
+    {
+      "sample_id": "fonts-0011041",
+      "condition": "solid",
+      "rank": 3425,
+      "target_rank": 1,
+      "interior_pixels": 2560,
+      "interior_retained": 2525,
+      "dice": 0.4136889320232709
+    },
+    {
+      "sample_id": "fonts-0011041",
+      "condition": "gradient",
+      "rank": 2527,
+      "target_rank": 1,
+      "interior_pixels": 1903,
+      "interior_retained": 1866,
+      "dice": 0.3675767859429098
+    },
+    {
+      "sample_id": "fonts-0011041",
+      "condition": "glare",
+      "rank": 2823,
+      "target_rank": 1,
+      "interior_pixels": 1734,
+      "interior_retained": 1734,
+      "dice": 0.3664872996794098
+    },
+    {
+      "sample_id": "fonts-0011041",
+      "condition": "thick",
+      "rank": 2988,
+      "target_rank": 1,
+      "interior_pixels": 12034,
+      "interior_retained": 11886,
+      "dice": 0.6867942242163153
+    },
+    {
+      "sample_id": "fonts-0011041",
+      "condition": "thick_blur",
+      "rank": 2850,
+      "target_rank": 1,
+      "interior_pixels": 8211,
+      "interior_retained": 8211,
+      "dice": 0.5807960770288672
+    },
+    {
+      "sample_id": "scut-0045224",
+      "condition": "clean",
+      "rank": 1050,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2292915191963274
+    },
+    {
+      "sample_id": "scut-0045224",
+      "condition": "solid",
+      "rank": 1119,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15874443724782847
+    },
+    {
+      "sample_id": "scut-0045224",
+      "condition": "gradient",
+      "rank": 1138,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1562660515180198
+    },
+    {
+      "sample_id": "scut-0045224",
+      "condition": "glare",
+      "rank": 1113,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21928281014599524
+    },
+    {
+      "sample_id": "scut-0045224",
+      "condition": "thick",
+      "rank": 1188,
+      "target_rank": 2,
+      "interior_pixels": 9191,
+      "interior_retained": 9151,
+      "dice": 0.6091105619217394
+    },
+    {
+      "sample_id": "scut-0045224",
+      "condition": "thick_blur",
+      "rank": 1138,
+      "target_rank": 10,
+      "interior_pixels": 7601,
+      "interior_retained": 7601,
+      "dice": 0.5560109616123685
+    },
+    {
+      "sample_id": "fonts-0010668",
+      "condition": "clean",
+      "rank": 1068,
+      "target_rank": 1,
+      "interior_pixels": 4370,
+      "interior_retained": 347,
+      "dice": 0.1774167933895118
+    },
+    {
+      "sample_id": "fonts-0010668",
+      "condition": "solid",
+      "rank": 1086,
+      "target_rank": 1,
+      "interior_pixels": 3079,
+      "interior_retained": 3079,
+      "dice": 0.5045906419640379
+    },
+    {
+      "sample_id": "fonts-0010668",
+      "condition": "gradient",
+      "rank": 1072,
+      "target_rank": 1,
+      "interior_pixels": 5427,
+      "interior_retained": 5090,
+      "dice": 0.575658126739459
+    },
+    {
+      "sample_id": "fonts-0010668",
+      "condition": "glare",
+      "rank": 1099,
+      "target_rank": 1,
+      "interior_pixels": 3984,
+      "interior_retained": 3984,
+      "dice": 0.5606641025058997
+    },
+    {
+      "sample_id": "fonts-0010668",
+      "condition": "thick",
+      "rank": 574,
+      "target_rank": 1,
+      "interior_pixels": 17042,
+      "interior_retained": 16491,
+      "dice": 0.848118730317337
+    },
+    {
+      "sample_id": "fonts-0010668",
+      "condition": "thick_blur",
+      "rank": 1019,
+      "target_rank": 1,
+      "interior_pixels": 21268,
+      "interior_retained": 19399,
+      "dice": 0.8143054331667743
+    },
+    {
+      "sample_id": "fonts-0020683",
+      "condition": "clean",
+      "rank": 4007,
+      "target_rank": 1,
+      "interior_pixels": 4093,
+      "interior_retained": 500,
+      "dice": 0.19794740853778897
+    },
+    {
+      "sample_id": "fonts-0020683",
+      "condition": "solid",
+      "rank": 2796,
+      "target_rank": 1,
+      "interior_pixels": 4073,
+      "interior_retained": 4064,
+      "dice": 0.5113336300473289
+    },
+    {
+      "sample_id": "fonts-0020683",
+      "condition": "gradient",
+      "rank": 2800,
+      "target_rank": 1,
+      "interior_pixels": 4460,
+      "interior_retained": 4344,
+      "dice": 0.524256874492576
+    },
+    {
+      "sample_id": "fonts-0020683",
+      "condition": "glare",
+      "rank": 2808,
+      "target_rank": 1,
+      "interior_pixels": 2892,
+      "interior_retained": 2892,
+      "dice": 0.44299722351980036
+    },
+    {
+      "sample_id": "fonts-0020683",
+      "condition": "thick",
+      "rank": 2755,
+      "target_rank": 1,
+      "interior_pixels": 12850,
+      "interior_retained": 12815,
+      "dice": 0.7074544929365022
+    },
+    {
+      "sample_id": "fonts-0020683",
+      "condition": "thick_blur",
+      "rank": 2613,
+      "target_rank": 1,
+      "interior_pixels": 15983,
+      "interior_retained": 15835,
+      "dice": 0.8029489788185086
+    },
+    {
+      "sample_id": "scut-0011391",
+      "condition": "clean",
+      "rank": 2609,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20670721128165948
+    },
+    {
+      "sample_id": "scut-0011391",
+      "condition": "solid",
+      "rank": 2815,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1421277858814793
+    },
+    {
+      "sample_id": "scut-0011391",
+      "condition": "gradient",
+      "rank": 2785,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15793698431759712
+    },
+    {
+      "sample_id": "scut-0011391",
+      "condition": "glare",
+      "rank": 2797,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15749184459082893
+    },
+    {
+      "sample_id": "scut-0011391",
+      "condition": "thick",
+      "rank": 2776,
+      "target_rank": 1,
+      "interior_pixels": 6249,
+      "interior_retained": 6249,
+      "dice": 0.507675662686989
+    },
+    {
+      "sample_id": "scut-0011391",
+      "condition": "thick_blur",
+      "rank": 3548,
+      "target_rank": 1,
+      "interior_pixels": 8023,
+      "interior_retained": 8023,
+      "dice": 0.5881499704210706
+    },
+    {
+      "sample_id": "fonts-0003560",
+      "condition": "clean",
+      "rank": 4612,
+      "target_rank": 1,
+      "interior_pixels": 3298,
+      "interior_retained": 212,
+      "dice": 0.10582237796455031
+    },
+    {
+      "sample_id": "fonts-0003560",
+      "condition": "solid",
+      "rank": 2877,
+      "target_rank": 1,
+      "interior_pixels": 3315,
+      "interior_retained": 3266,
+      "dice": 0.405888088780229
+    },
+    {
+      "sample_id": "fonts-0003560",
+      "condition": "gradient",
+      "rank": 494,
+      "target_rank": 1,
+      "interior_pixels": 3058,
+      "interior_retained": 1090,
+      "dice": 0.1985955270994286
+    },
+    {
+      "sample_id": "fonts-0003560",
+      "condition": "glare",
+      "rank": 2934,
+      "target_rank": 1,
+      "interior_pixels": 2719,
+      "interior_retained": 2719,
+      "dice": 0.38635261592198666
+    },
+    {
+      "sample_id": "fonts-0003560",
+      "condition": "thick",
+      "rank": 2518,
+      "target_rank": 1,
+      "interior_pixels": 11632,
+      "interior_retained": 11528,
+      "dice": 0.650098363693157
+    },
+    {
+      "sample_id": "fonts-0003560",
+      "condition": "thick_blur",
+      "rank": 3013,
+      "target_rank": 1,
+      "interior_pixels": 11992,
+      "interior_retained": 11965,
+      "dice": 0.6537960797563781
+    },
+    {
+      "sample_id": "scut-0008816",
+      "condition": "clean",
+      "rank": 2811,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18968353944795135
+    },
+    {
+      "sample_id": "scut-0008816",
+      "condition": "solid",
+      "rank": 2984,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12590393062991884
+    },
+    {
+      "sample_id": "scut-0008816",
+      "condition": "gradient",
+      "rank": 2986,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15792987581687776
+    },
+    {
+      "sample_id": "scut-0008816",
+      "condition": "glare",
+      "rank": 2988,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15642847916655894
+    },
+    {
+      "sample_id": "scut-0008816",
+      "condition": "thick",
+      "rank": 2885,
+      "target_rank": 1,
+      "interior_pixels": 7183,
+      "interior_retained": 6662,
+      "dice": 0.494062221617293
+    },
+    {
+      "sample_id": "scut-0008816",
+      "condition": "thick_blur",
+      "rank": 2988,
+      "target_rank": 1,
+      "interior_pixels": 7755,
+      "interior_retained": 7553,
+      "dice": 0.5407802526391441
+    },
+    {
+      "sample_id": "scut-0029469",
+      "condition": "clean",
+      "rank": 1568,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.22752330692165865
+    },
+    {
+      "sample_id": "scut-0029469",
+      "condition": "solid",
+      "rank": 1617,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16268383062998745
+    },
+    {
+      "sample_id": "scut-0029469",
+      "condition": "gradient",
+      "rank": 1562,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.217282746996671
+    },
+    {
+      "sample_id": "scut-0029469",
+      "condition": "glare",
+      "rank": 1570,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17492334370652082
+    },
+    {
+      "sample_id": "scut-0029469",
+      "condition": "thick",
+      "rank": 1623,
+      "target_rank": 1,
+      "interior_pixels": 5154,
+      "interior_retained": 5154,
+      "dice": 0.4230830311278478
+    },
+    {
+      "sample_id": "scut-0029469",
+      "condition": "thick_blur",
+      "rank": 1299,
+      "target_rank": 1,
+      "interior_pixels": 8927,
+      "interior_retained": 8469,
+      "dice": 0.5424263525400211
+    },
+    {
+      "sample_id": "fonts-0018874",
+      "condition": "clean",
+      "rank": 3723,
+      "target_rank": 1,
+      "interior_pixels": 4122,
+      "interior_retained": 202,
+      "dice": 0.09461824727684588
+    },
+    {
+      "sample_id": "fonts-0018874",
+      "condition": "solid",
+      "rank": 1591,
+      "target_rank": 1,
+      "interior_pixels": 3713,
+      "interior_retained": 3713,
+      "dice": 0.47439908888002724
+    },
+    {
+      "sample_id": "fonts-0018874",
+      "condition": "gradient",
+      "rank": 1573,
+      "target_rank": 1,
+      "interior_pixels": 4385,
+      "interior_retained": 4191,
+      "dice": 0.4795511897998736
+    },
+    {
+      "sample_id": "fonts-0018874",
+      "condition": "glare",
+      "rank": 1598,
+      "target_rank": 1,
+      "interior_pixels": 4431,
+      "interior_retained": 4333,
+      "dice": 0.5006639329135176
+    },
+    {
+      "sample_id": "fonts-0018874",
+      "condition": "thick",
+      "rank": 1370,
+      "target_rank": 1,
+      "interior_pixels": 15182,
+      "interior_retained": 14934,
+      "dice": 0.7526106863755907
+    },
+    {
+      "sample_id": "fonts-0018874",
+      "condition": "thick_blur",
+      "rank": 1593,
+      "target_rank": 1,
+      "interior_pixels": 11933,
+      "interior_retained": 11858,
+      "dice": 0.6645945520813281
+    },
+    {
+      "sample_id": "sabeom-fonts-0003268",
+      "condition": "clean",
+      "rank": 290,
+      "target_rank": 1,
+      "interior_pixels": 4293,
+      "interior_retained": 999,
+      "dice": 0.3944415559775837
+    },
+    {
+      "sample_id": "sabeom-fonts-0003268",
+      "condition": "solid",
+      "rank": 3507,
+      "target_rank": 1,
+      "interior_pixels": 2712,
+      "interior_retained": 2712,
+      "dice": 0.4687557179512482
+    },
+    {
+      "sample_id": "sabeom-fonts-0003268",
+      "condition": "gradient",
+      "rank": 3559,
+      "target_rank": 1,
+      "interior_pixels": 5196,
+      "interior_retained": 4735,
+      "dice": 0.5239912698086792
+    },
+    {
+      "sample_id": "sabeom-fonts-0003268",
+      "condition": "glare",
+      "rank": 3498,
+      "target_rank": 1,
+      "interior_pixels": 5450,
+      "interior_retained": 5348,
+      "dice": 0.5726578199156156
+    },
+    {
+      "sample_id": "sabeom-fonts-0003268",
+      "condition": "thick",
+      "rank": 3507,
+      "target_rank": 1,
+      "interior_pixels": 12786,
+      "interior_retained": 12786,
+      "dice": 0.7323986389371395
+    },
+    {
+      "sample_id": "sabeom-fonts-0003268",
+      "condition": "thick_blur",
+      "rank": 3517,
+      "target_rank": 1,
+      "interior_pixels": 20083,
+      "interior_retained": 18099,
+      "dice": 0.7863826961406359
+    },
+    {
+      "sample_id": "sabeom-scut-0017724",
+      "condition": "clean",
+      "rank": 3516,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.22220272361890717
+    },
+    {
+      "sample_id": "sabeom-scut-0017724",
+      "condition": "solid",
+      "rank": 3525,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14871842264729818
+    },
+    {
+      "sample_id": "sabeom-scut-0017724",
+      "condition": "gradient",
+      "rank": 3530,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18587109407509425
+    },
+    {
+      "sample_id": "sabeom-scut-0017724",
+      "condition": "glare",
+      "rank": 3486,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20495642914139914
+    },
+    {
+      "sample_id": "sabeom-scut-0017724",
+      "condition": "thick",
+      "rank": 3515,
+      "target_rank": 1,
+      "interior_pixels": 6860,
+      "interior_retained": 6860,
+      "dice": 0.5795525447621781
+    },
+    {
+      "sample_id": "sabeom-scut-0017724",
+      "condition": "thick_blur",
+      "rank": 3550,
+      "target_rank": 1,
+      "interior_pixels": 5869,
+      "interior_retained": 5869,
+      "dice": 0.5366458470180787
+    },
+    {
+      "sample_id": "fonts-0013173",
+      "condition": "clean",
+      "rank": 4806,
+      "target_rank": 1,
+      "interior_pixels": 5601,
+      "interior_retained": 121,
+      "dice": 0.07092909681237651
+    },
+    {
+      "sample_id": "fonts-0013173",
+      "condition": "solid",
+      "rank": 483,
+      "target_rank": 1,
+      "interior_pixels": 2759,
+      "interior_retained": 2759,
+      "dice": 0.4175757774423782
+    },
+    {
+      "sample_id": "fonts-0013173",
+      "condition": "gradient",
+      "rank": 486,
+      "target_rank": 1,
+      "interior_pixels": 3050,
+      "interior_retained": 3050,
+      "dice": 0.4452664609054161
+    },
+    {
+      "sample_id": "fonts-0013173",
+      "condition": "glare",
+      "rank": 463,
+      "target_rank": 1,
+      "interior_pixels": 6358,
+      "interior_retained": 5469,
+      "dice": 0.510170533942026
+    },
+    {
+      "sample_id": "fonts-0013173",
+      "condition": "thick",
+      "rank": 506,
+      "target_rank": 1,
+      "interior_pixels": 21435,
+      "interior_retained": 19037,
+      "dice": 0.7772931525299122
+    },
+    {
+      "sample_id": "fonts-0013173",
+      "condition": "thick_blur",
+      "rank": 480,
+      "target_rank": 2,
+      "interior_pixels": 18978,
+      "interior_retained": 17273,
+      "dice": 0.7653096337675256
+    },
+    {
+      "sample_id": "scut-0048427",
+      "condition": "clean",
+      "rank": 479,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.22856499665112467
+    },
+    {
+      "sample_id": "scut-0048427",
+      "condition": "solid",
+      "rank": 490,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2128225116521592
+    },
+    {
+      "sample_id": "scut-0048427",
+      "condition": "gradient",
+      "rank": 481,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19661394744015606
+    },
+    {
+      "sample_id": "scut-0048427",
+      "condition": "glare",
+      "rank": 492,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2448302682011005
+    },
+    {
+      "sample_id": "scut-0048427",
+      "condition": "thick",
+      "rank": 483,
+      "target_rank": 1,
+      "interior_pixels": 6274,
+      "interior_retained": 6274,
+      "dice": 0.5094644955788277
+    },
+    {
+      "sample_id": "scut-0048427",
+      "condition": "thick_blur",
+      "rank": 485,
+      "target_rank": 1,
+      "interior_pixels": 8015,
+      "interior_retained": 8015,
+      "dice": 0.5817495227973903
+    },
+    {
+      "sample_id": "scut-0010695",
+      "condition": "clean",
+      "rank": 4838,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2473568914493019
+    },
+    {
+      "sample_id": "scut-0010695",
+      "condition": "solid",
+      "rank": 4801,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.23562481944446195
+    },
+    {
+      "sample_id": "scut-0010695",
+      "condition": "gradient",
+      "rank": 4748,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.2567438413457558
+    },
+    {
+      "sample_id": "scut-0010695",
+      "condition": "glare",
+      "rank": 4786,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21390177005405847
+    },
+    {
+      "sample_id": "scut-0010695",
+      "condition": "thick",
+      "rank": 4289,
+      "target_rank": 1,
+      "interior_pixels": 6977,
+      "interior_retained": 6977,
+      "dice": 0.5635305584450135
+    },
+    {
+      "sample_id": "scut-0010695",
+      "condition": "thick_blur",
+      "rank": 1529,
+      "target_rank": 1,
+      "interior_pixels": 10485,
+      "interior_retained": 10290,
+      "dice": 0.7127190485205409
+    },
+    {
+      "sample_id": "fonts-0013443",
+      "condition": "clean",
+      "rank": 3820,
+      "target_rank": 1,
+      "interior_pixels": 4731,
+      "interior_retained": 167,
+      "dice": 0.12131892364759769
+    },
+    {
+      "sample_id": "fonts-0013443",
+      "condition": "solid",
+      "rank": 4858,
+      "target_rank": 1,
+      "interior_pixels": 4928,
+      "interior_retained": 3824,
+      "dice": 0.502111238736942
+    },
+    {
+      "sample_id": "fonts-0013443",
+      "condition": "gradient",
+      "rank": 4821,
+      "target_rank": 1,
+      "interior_pixels": 2184,
+      "interior_retained": 1961,
+      "dice": 0.4135787022369396
+    },
+    {
+      "sample_id": "fonts-0013443",
+      "condition": "glare",
+      "rank": 4784,
+      "target_rank": 1,
+      "interior_pixels": 3739,
+      "interior_retained": 3729,
+      "dice": 0.5516832565532657
+    },
+    {
+      "sample_id": "fonts-0013443",
+      "condition": "thick",
+      "rank": 338,
+      "target_rank": 1,
+      "interior_pixels": 11023,
+      "interior_retained": 8869,
+      "dice": 0.7037417877432798
+    },
+    {
+      "sample_id": "fonts-0013443",
+      "condition": "thick_blur",
+      "rank": 4807,
+      "target_rank": 1,
+      "interior_pixels": 11875,
+      "interior_retained": 11773,
+      "dice": 0.7253020549184525
+    },
+    {
+      "sample_id": "fonts-0003513",
+      "condition": "clean",
+      "rank": 4349,
+      "target_rank": 2,
+      "interior_pixels": 4471,
+      "interior_retained": 22,
+      "dice": 0.026154312560519963
+    },
+    {
+      "sample_id": "fonts-0003513",
+      "condition": "solid",
+      "rank": 662,
+      "target_rank": 2,
+      "interior_pixels": 2290,
+      "interior_retained": 2290,
+      "dice": 0.31048758611343347
+    },
+    {
+      "sample_id": "fonts-0003513",
+      "condition": "gradient",
+      "rank": 624,
+      "target_rank": 2,
+      "interior_pixels": 5398,
+      "interior_retained": 3865,
+      "dice": 0.3627414985673802
+    },
+    {
+      "sample_id": "fonts-0003513",
+      "condition": "glare",
+      "rank": 668,
+      "target_rank": 2,
+      "interior_pixels": 2572,
+      "interior_retained": 2572,
+      "dice": 0.3379253517302839
+    },
+    {
+      "sample_id": "fonts-0003513",
+      "condition": "thick",
+      "rank": 621,
+      "target_rank": 2,
+      "interior_pixels": 8704,
+      "interior_retained": 8704,
+      "dice": 0.5490639167543864
+    },
+    {
+      "sample_id": "fonts-0003513",
+      "condition": "thick_blur",
+      "rank": 640,
+      "target_rank": 2,
+      "interior_pixels": 9058,
+      "interior_retained": 9058,
+      "dice": 0.5651399113223158
+    },
+    {
+      "sample_id": "scut-0011430",
+      "condition": "clean",
+      "rank": 687,
+      "target_rank": 955,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1266034373450544
+    },
+    {
+      "sample_id": "scut-0011430",
+      "condition": "solid",
+      "rank": 660,
+      "target_rank": 2165,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12074111131703046
+    },
+    {
+      "sample_id": "scut-0011430",
+      "condition": "gradient",
+      "rank": 641,
+      "target_rank": 987,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11774967453493121
+    },
+    {
+      "sample_id": "scut-0011430",
+      "condition": "glare",
+      "rank": 635,
+      "target_rank": 1085,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12235487490811395
+    },
+    {
+      "sample_id": "scut-0011430",
+      "condition": "thick",
+      "rank": 943,
+      "target_rank": 1261,
+      "interior_pixels": 2516,
+      "interior_retained": 311,
+      "dice": 0.04822039550179856
+    },
+    {
+      "sample_id": "scut-0011430",
+      "condition": "thick_blur",
+      "rank": 1231,
+      "target_rank": 710,
+      "interior_pixels": 4013,
+      "interior_retained": 2354,
+      "dice": 0.27272705356687915
+    },
+    {
+      "sample_id": "fonts-0000444",
+      "condition": "clean",
+      "rank": 4197,
+      "target_rank": 1,
+      "interior_pixels": 3423,
+      "interior_retained": 449,
+      "dice": 0.18766357465450875
+    },
+    {
+      "sample_id": "fonts-0000444",
+      "condition": "solid",
+      "rank": 2247,
+      "target_rank": 1,
+      "interior_pixels": 4092,
+      "interior_retained": 4002,
+      "dice": 0.4326961037589143
+    },
+    {
+      "sample_id": "fonts-0000444",
+      "condition": "gradient",
+      "rank": 2115,
+      "target_rank": 1,
+      "interior_pixels": 4153,
+      "interior_retained": 3970,
+      "dice": 0.42372839961427
+    },
+    {
+      "sample_id": "fonts-0000444",
+      "condition": "glare",
+      "rank": 2141,
+      "target_rank": 1,
+      "interior_pixels": 3890,
+      "interior_retained": 3716,
+      "dice": 0.4076565905754449
+    },
+    {
+      "sample_id": "fonts-0000444",
+      "condition": "thick",
+      "rank": 191,
+      "target_rank": 1,
+      "interior_pixels": 13017,
+      "interior_retained": 10942,
+      "dice": 0.7405183173559761
+    },
+    {
+      "sample_id": "fonts-0000444",
+      "condition": "thick_blur",
+      "rank": 2222,
+      "target_rank": 1,
+      "interior_pixels": 9048,
+      "interior_retained": 8877,
+      "dice": 0.5632101348549743
+    },
+    {
+      "sample_id": "scut-0002658",
+      "condition": "clean",
+      "rank": 2193,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12683443508690562
+    },
+    {
+      "sample_id": "scut-0002658",
+      "condition": "solid",
+      "rank": 2075,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11938849994877573
+    },
+    {
+      "sample_id": "scut-0002658",
+      "condition": "gradient",
+      "rank": 2115,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1163391898313749
+    },
+    {
+      "sample_id": "scut-0002658",
+      "condition": "glare",
+      "rank": 2129,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1230296804489219
+    },
+    {
+      "sample_id": "scut-0002658",
+      "condition": "thick",
+      "rank": 2077,
+      "target_rank": 1,
+      "interior_pixels": 5975,
+      "interior_retained": 5164,
+      "dice": 0.4250861067036258
+    },
+    {
+      "sample_id": "scut-0002658",
+      "condition": "thick_blur",
+      "rank": 2250,
+      "target_rank": 1,
+      "interior_pixels": 4998,
+      "interior_retained": 4838,
+      "dice": 0.40980519525853615
+    },
+    {
+      "sample_id": "fonts-0015424",
+      "condition": "clean",
+      "rank": 4325,
+      "target_rank": 1,
+      "interior_pixels": 5642,
+      "interior_retained": 0,
+      "dice": 7.468043120364288e-05
+    },
+    {
+      "sample_id": "fonts-0015424",
+      "condition": "solid",
+      "rank": 4843,
+      "target_rank": 1,
+      "interior_pixels": 4468,
+      "interior_retained": 4468,
+      "dice": 0.4683749713112023
+    },
+    {
+      "sample_id": "fonts-0015424",
+      "condition": "gradient",
+      "rank": 4842,
+      "target_rank": 1,
+      "interior_pixels": 3623,
+      "interior_retained": 3623,
+      "dice": 0.4186164558019635
+    },
+    {
+      "sample_id": "fonts-0015424",
+      "condition": "glare",
+      "rank": 4843,
+      "target_rank": 1,
+      "interior_pixels": 3368,
+      "interior_retained": 3368,
+      "dice": 0.4157834676132043
+    },
+    {
+      "sample_id": "fonts-0015424",
+      "condition": "thick",
+      "rank": 4815,
+      "target_rank": 1,
+      "interior_pixels": 17861,
+      "interior_retained": 17288,
+      "dice": 0.7858972975796391
+    },
+    {
+      "sample_id": "fonts-0015424",
+      "condition": "thick_blur",
+      "rank": 4803,
+      "target_rank": 1,
+      "interior_pixels": 10199,
+      "interior_retained": 10199,
+      "dice": 0.6030584516987408
+    },
+    {
+      "sample_id": "scut-0029138",
+      "condition": "clean",
+      "rank": 4793,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16560346204416265
+    },
+    {
+      "sample_id": "scut-0029138",
+      "condition": "solid",
+      "rank": 4861,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11447010119736521
+    },
+    {
+      "sample_id": "scut-0029138",
+      "condition": "gradient",
+      "rank": 4812,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17264995525416654
+    },
+    {
+      "sample_id": "scut-0029138",
+      "condition": "glare",
+      "rank": 4825,
+      "target_rank": 3,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13640292942455656
+    },
+    {
+      "sample_id": "scut-0029138",
+      "condition": "thick",
+      "rank": 2878,
+      "target_rank": 4,
+      "interior_pixels": 4202,
+      "interior_retained": 409,
+      "dice": 0.11302709587579007
+    },
+    {
+      "sample_id": "scut-0029138",
+      "condition": "thick_blur",
+      "rank": 4842,
+      "target_rank": 1,
+      "interior_pixels": 4506,
+      "interior_retained": 4506,
+      "dice": 0.39669184268812685
+    },
+    {
+      "sample_id": "scut-0002441",
+      "condition": "clean",
+      "rank": 489,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20493890603392345
+    },
+    {
+      "sample_id": "scut-0002441",
+      "condition": "solid",
+      "rank": 541,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1598352080845839
+    },
+    {
+      "sample_id": "scut-0002441",
+      "condition": "gradient",
+      "rank": 517,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17459750307558827
+    },
+    {
+      "sample_id": "scut-0002441",
+      "condition": "glare",
+      "rank": 540,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2129483575156453
+    },
+    {
+      "sample_id": "scut-0002441",
+      "condition": "thick",
+      "rank": 497,
+      "target_rank": 1,
+      "interior_pixels": 6042,
+      "interior_retained": 5987,
+      "dice": 0.5170997524492937
+    },
+    {
+      "sample_id": "scut-0002441",
+      "condition": "thick_blur",
+      "rank": 510,
+      "target_rank": 1,
+      "interior_pixels": 8123,
+      "interior_retained": 7915,
+      "dice": 0.5934591642981836
+    },
+    {
+      "sample_id": "fonts-0001526",
+      "condition": "clean",
+      "rank": 1394,
+      "target_rank": 1,
+      "interior_pixels": 3215,
+      "interior_retained": 425,
+      "dice": 0.22255407970518554
+    },
+    {
+      "sample_id": "fonts-0001526",
+      "condition": "solid",
+      "rank": 544,
+      "target_rank": 1,
+      "interior_pixels": 1709,
+      "interior_retained": 1709,
+      "dice": 0.39407799502249324
+    },
+    {
+      "sample_id": "fonts-0001526",
+      "condition": "gradient",
+      "rank": 529,
+      "target_rank": 1,
+      "interior_pixels": 2330,
+      "interior_retained": 2330,
+      "dice": 0.44191671767773943
+    },
+    {
+      "sample_id": "fonts-0001526",
+      "condition": "glare",
+      "rank": 1945,
+      "target_rank": 1,
+      "interior_pixels": 4153,
+      "interior_retained": 4099,
+      "dice": 0.5519773710527421
+    },
+    {
+      "sample_id": "fonts-0001526",
+      "condition": "thick",
+      "rank": 2026,
+      "target_rank": 1,
+      "interior_pixels": 10480,
+      "interior_retained": 6642,
+      "dice": 0.4930130885202469
+    },
+    {
+      "sample_id": "fonts-0001526",
+      "condition": "thick_blur",
+      "rank": 547,
+      "target_rank": 1,
+      "interior_pixels": 16298,
+      "interior_retained": 15842,
+      "dice": 0.7805870434449805
+    },
+    {
+      "sample_id": "fonts-0015654",
+      "condition": "clean",
+      "rank": 2003,
+      "target_rank": 1,
+      "interior_pixels": 4829,
+      "interior_retained": 129,
+      "dice": 0.08310654103754636
+    },
+    {
+      "sample_id": "fonts-0015654",
+      "condition": "solid",
+      "rank": 4255,
+      "target_rank": 1,
+      "interior_pixels": 3973,
+      "interior_retained": 3940,
+      "dice": 0.5618994192976142
+    },
+    {
+      "sample_id": "fonts-0015654",
+      "condition": "gradient",
+      "rank": 2668,
+      "target_rank": 1,
+      "interior_pixels": 4968,
+      "interior_retained": 4950,
+      "dice": 0.5416785454583612
+    },
+    {
+      "sample_id": "fonts-0015654",
+      "condition": "glare",
+      "rank": 2675,
+      "target_rank": 1,
+      "interior_pixels": 5790,
+      "interior_retained": 5562,
+      "dice": 0.5504202617223685
+    },
+    {
+      "sample_id": "fonts-0015654",
+      "condition": "thick",
+      "rank": 2619,
+      "target_rank": 1,
+      "interior_pixels": 17192,
+      "interior_retained": 16643,
+      "dice": 0.7778488837180154
+    },
+    {
+      "sample_id": "fonts-0015654",
+      "condition": "thick_blur",
+      "rank": 2627,
+      "target_rank": 1,
+      "interior_pixels": 18995,
+      "interior_retained": 17745,
+      "dice": 0.7737307670730006
+    },
+    {
+      "sample_id": "scut-0009647",
+      "condition": "clean",
+      "rank": 2708,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20150978271495854
+    },
+    {
+      "sample_id": "scut-0009647",
+      "condition": "solid",
+      "rank": 3276,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16406824586063928
+    },
+    {
+      "sample_id": "scut-0009647",
+      "condition": "gradient",
+      "rank": 2616,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19973602394079606
+    },
+    {
+      "sample_id": "scut-0009647",
+      "condition": "glare",
+      "rank": 2579,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18024082580745351
+    },
+    {
+      "sample_id": "scut-0009647",
+      "condition": "thick",
+      "rank": 2344,
+      "target_rank": 1,
+      "interior_pixels": 7794,
+      "interior_retained": 7750,
+      "dice": 0.630917174723734
+    },
+    {
+      "sample_id": "scut-0009647",
+      "condition": "thick_blur",
+      "rank": 2590,
+      "target_rank": 1,
+      "interior_pixels": 6634,
+      "interior_retained": 6634,
+      "dice": 0.5488483560542979
+    },
+    {
+      "sample_id": "fonts-0006085",
+      "condition": "clean",
+      "rank": 4984,
+      "target_rank": 1,
+      "interior_pixels": 4280,
+      "interior_retained": 113,
+      "dice": 0.087238469365503
+    },
+    {
+      "sample_id": "fonts-0006085",
+      "condition": "solid",
+      "rank": 2070,
+      "target_rank": 1,
+      "interior_pixels": 3005,
+      "interior_retained": 2999,
+      "dice": 0.45979660283941115
+    },
+    {
+      "sample_id": "fonts-0006085",
+      "condition": "gradient",
+      "rank": 1971,
+      "target_rank": 1,
+      "interior_pixels": 1643,
+      "interior_retained": 1643,
+      "dice": 0.3903965403774243
+    },
+    {
+      "sample_id": "fonts-0006085",
+      "condition": "glare",
+      "rank": 2391,
+      "target_rank": 1,
+      "interior_pixels": 5041,
+      "interior_retained": 4884,
+      "dice": 0.5610266586392344
+    },
+    {
+      "sample_id": "fonts-0006085",
+      "condition": "thick",
+      "rank": 939,
+      "target_rank": 1,
+      "interior_pixels": 15541,
+      "interior_retained": 15421,
+      "dice": 0.7967440445874807
+    },
+    {
+      "sample_id": "fonts-0006085",
+      "condition": "thick_blur",
+      "rank": 2037,
+      "target_rank": 1,
+      "interior_pixels": 13490,
+      "interior_retained": 13390,
+      "dice": 0.737067330043236
+    },
+    {
+      "sample_id": "scut-0033624",
+      "condition": "clean",
+      "rank": 1985,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20573116384823323
+    },
+    {
+      "sample_id": "scut-0033624",
+      "condition": "solid",
+      "rank": 1971,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17549737639133509
+    },
+    {
+      "sample_id": "scut-0033624",
+      "condition": "gradient",
+      "rank": 2057,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.18519769860181096
+    },
+    {
+      "sample_id": "scut-0033624",
+      "condition": "glare",
+      "rank": 1978,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19338882338353222
+    },
+    {
+      "sample_id": "scut-0033624",
+      "condition": "thick",
+      "rank": 2042,
+      "target_rank": 1,
+      "interior_pixels": 5975,
+      "interior_retained": 5944,
+      "dice": 0.5197818409967564
+    },
+    {
+      "sample_id": "scut-0033624",
+      "condition": "thick_blur",
+      "rank": 2043,
+      "target_rank": 1,
+      "interior_pixels": 9526,
+      "interior_retained": 7986,
+      "dice": 0.5534418556380353
+    },
+    {
+      "sample_id": "fonts-0017052",
+      "condition": "clean",
+      "rank": 2985,
+      "target_rank": 1,
+      "interior_pixels": 5939,
+      "interior_retained": 21,
+      "dice": 0.024613335856742215
+    },
+    {
+      "sample_id": "fonts-0017052",
+      "condition": "solid",
+      "rank": 910,
+      "target_rank": 1,
+      "interior_pixels": 6592,
+      "interior_retained": 5613,
+      "dice": 0.5879689208299583
+    },
+    {
+      "sample_id": "fonts-0017052",
+      "condition": "gradient",
+      "rank": 1024,
+      "target_rank": 1,
+      "interior_pixels": 5347,
+      "interior_retained": 5229,
+      "dice": 0.5912806346666168
+    },
+    {
+      "sample_id": "fonts-0017052",
+      "condition": "glare",
+      "rank": 3626,
+      "target_rank": 1,
+      "interior_pixels": 5184,
+      "interior_retained": 4797,
+      "dice": 0.5555601136561272
+    },
+    {
+      "sample_id": "fonts-0017052",
+      "condition": "thick",
+      "rank": 709,
+      "target_rank": 1,
+      "interior_pixels": 25691,
+      "interior_retained": 19467,
+      "dice": 0.7926110724006216
+    },
+    {
+      "sample_id": "fonts-0017052",
+      "condition": "thick_blur",
+      "rank": 933,
+      "target_rank": 1,
+      "interior_pixels": 16010,
+      "interior_retained": 15368,
+      "dice": 0.7956109453065858
+    },
+    {
+      "sample_id": "scut-0010151",
+      "condition": "clean",
+      "rank": 1031,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2653947743973094
+    },
+    {
+      "sample_id": "scut-0010151",
+      "condition": "solid",
+      "rank": 943,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20600326341036757
+    },
+    {
+      "sample_id": "scut-0010151",
+      "condition": "gradient",
+      "rank": 943,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2065185534012653
+    },
+    {
+      "sample_id": "scut-0010151",
+      "condition": "glare",
+      "rank": 986,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21436317557743503
+    },
+    {
+      "sample_id": "scut-0010151",
+      "condition": "thick",
+      "rank": 980,
+      "target_rank": 1,
+      "interior_pixels": 9588,
+      "interior_retained": 9588,
+      "dice": 0.6661349265004783
+    },
+    {
+      "sample_id": "scut-0010151",
+      "condition": "thick_blur",
+      "rank": 1226,
+      "target_rank": 1,
+      "interior_pixels": 9271,
+      "interior_retained": 9268,
+      "dice": 0.6497841582604877
+    },
+    {
+      "sample_id": "fonts-0017322",
+      "condition": "clean",
+      "rank": 3912,
+      "target_rank": 1,
+      "interior_pixels": 3571,
+      "interior_retained": 242,
+      "dice": 0.20390791684249132
+    },
+    {
+      "sample_id": "fonts-0017322",
+      "condition": "solid",
+      "rank": 4913,
+      "target_rank": 1,
+      "interior_pixels": 3757,
+      "interior_retained": 3713,
+      "dice": 0.6178785902031759
+    },
+    {
+      "sample_id": "fonts-0017322",
+      "condition": "gradient",
+      "rank": 4952,
+      "target_rank": 1,
+      "interior_pixels": 3832,
+      "interior_retained": 2672,
+      "dice": 0.535863531213781
+    },
+    {
+      "sample_id": "fonts-0017322",
+      "condition": "glare",
+      "rank": 4911,
+      "target_rank": 1,
+      "interior_pixels": 3958,
+      "interior_retained": 3882,
+      "dice": 0.6297688156867807
+    },
+    {
+      "sample_id": "fonts-0017322",
+      "condition": "thick",
+      "rank": 4910,
+      "target_rank": 166,
+      "interior_pixels": 16657,
+      "interior_retained": 16657,
+      "dice": 0.796089606523127
+    },
+    {
+      "sample_id": "fonts-0017322",
+      "condition": "thick_blur",
+      "rank": 4901,
+      "target_rank": 83,
+      "interior_pixels": 21247,
+      "interior_retained": 21156,
+      "dice": 0.8680949251122233
+    },
+    {
+      "sample_id": "scut-0033919",
+      "condition": "clean",
+      "rank": 4928,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.26971403052581205
+    },
+    {
+      "sample_id": "scut-0033919",
+      "condition": "solid",
+      "rank": 4917,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.2367430355682184
+    },
+    {
+      "sample_id": "scut-0033919",
+      "condition": "gradient",
+      "rank": 4925,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19536090344696108
+    },
+    {
+      "sample_id": "scut-0033919",
+      "condition": "glare",
+      "rank": 4538,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.2447971658355782
+    },
+    {
+      "sample_id": "scut-0033919",
+      "condition": "thick",
+      "rank": 4923,
+      "target_rank": 214,
+      "interior_pixels": 11335,
+      "interior_retained": 11246,
+      "dice": 0.6566300243667456
+    },
+    {
+      "sample_id": "scut-0033919",
+      "condition": "thick_blur",
+      "rank": 4916,
+      "target_rank": 150,
+      "interior_pixels": 7130,
+      "interior_retained": 7130,
+      "dice": 0.5177394490914576
+    },
+    {
+      "sample_id": "scut-0054415",
+      "condition": "clean",
+      "rank": 2171,
+      "target_rank": 9,
+      "interior_pixels": 3,
+      "interior_retained": 3,
+      "dice": 0.19601758150320117
+    },
+    {
+      "sample_id": "scut-0054415",
+      "condition": "solid",
+      "rank": 1863,
+      "target_rank": 7,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.20030423898284017
+    },
+    {
+      "sample_id": "scut-0054415",
+      "condition": "gradient",
+      "rank": 2324,
+      "target_rank": 8,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14558344158192166
+    },
+    {
+      "sample_id": "scut-0054415",
+      "condition": "glare",
+      "rank": 2103,
+      "target_rank": 7,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1518492335754165
+    },
+    {
+      "sample_id": "scut-0054415",
+      "condition": "thick",
+      "rank": 1948,
+      "target_rank": 20,
+      "interior_pixels": 7994,
+      "interior_retained": 7632,
+      "dice": 0.5070408479455073
+    },
+    {
+      "sample_id": "scut-0054415",
+      "condition": "thick_blur",
+      "rank": 2366,
+      "target_rank": 23,
+      "interior_pixels": 7804,
+      "interior_retained": 7455,
+      "dice": 0.5025067350884661
+    },
+    {
+      "sample_id": "fonts-0008600",
+      "condition": "clean",
+      "rank": 464,
+      "target_rank": 1,
+      "interior_pixels": 4140,
+      "interior_retained": 394,
+      "dice": 0.1956643761500333
+    },
+    {
+      "sample_id": "fonts-0008600",
+      "condition": "solid",
+      "rank": 2338,
+      "target_rank": 1,
+      "interior_pixels": 4108,
+      "interior_retained": 4108,
+      "dice": 0.48820471806270016
+    },
+    {
+      "sample_id": "fonts-0008600",
+      "condition": "gradient",
+      "rank": 2333,
+      "target_rank": 1,
+      "interior_pixels": 2565,
+      "interior_retained": 2565,
+      "dice": 0.39773472415219924
+    },
+    {
+      "sample_id": "fonts-0008600",
+      "condition": "glare",
+      "rank": 2230,
+      "target_rank": 1,
+      "interior_pixels": 4891,
+      "interior_retained": 4794,
+      "dice": 0.512452905647323
+    },
+    {
+      "sample_id": "fonts-0008600",
+      "condition": "thick",
+      "rank": 2333,
+      "target_rank": 1,
+      "interior_pixels": 9784,
+      "interior_retained": 9784,
+      "dice": 0.6008712592950014
+    },
+    {
+      "sample_id": "fonts-0008600",
+      "condition": "thick_blur",
+      "rank": 2135,
+      "target_rank": 1,
+      "interior_pixels": 12613,
+      "interior_retained": 12575,
+      "dice": 0.6856143451671638
+    },
+    {
+      "sample_id": "fonts-0002378",
+      "condition": "clean",
+      "rank": 1751,
+      "target_rank": 1,
+      "interior_pixels": 4245,
+      "interior_retained": 78,
+      "dice": 0.05622877616975784
+    },
+    {
+      "sample_id": "fonts-0002378",
+      "condition": "solid",
+      "rank": 4598,
+      "target_rank": 1,
+      "interior_pixels": 2184,
+      "interior_retained": 2184,
+      "dice": 0.33272801322440765
+    },
+    {
+      "sample_id": "fonts-0002378",
+      "condition": "gradient",
+      "rank": 3183,
+      "target_rank": 1,
+      "interior_pixels": 2456,
+      "interior_retained": 1061,
+      "dice": 0.19037641521028842
+    },
+    {
+      "sample_id": "fonts-0002378",
+      "condition": "glare",
+      "rank": 4598,
+      "target_rank": 1,
+      "interior_pixels": 3188,
+      "interior_retained": 3188,
+      "dice": 0.4008805827786248
+    },
+    {
+      "sample_id": "fonts-0002378",
+      "condition": "thick",
+      "rank": 4642,
+      "target_rank": 1,
+      "interior_pixels": 9754,
+      "interior_retained": 9754,
+      "dice": 0.595441739502992
+    },
+    {
+      "sample_id": "fonts-0002378",
+      "condition": "thick_blur",
+      "rank": 4572,
+      "target_rank": 1,
+      "interior_pixels": 13189,
+      "interior_retained": 13018,
+      "dice": 0.6860538883935469
+    },
+    {
+      "sample_id": "scut-0012691",
+      "condition": "clean",
+      "rank": 4564,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1407777449728164
+    },
+    {
+      "sample_id": "scut-0012691",
+      "condition": "solid",
+      "rank": 4566,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11888779454425634
+    },
+    {
+      "sample_id": "scut-0012691",
+      "condition": "gradient",
+      "rank": 4624,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13973975421802098
+    },
+    {
+      "sample_id": "scut-0012691",
+      "condition": "glare",
+      "rank": 4562,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14049994761757978
+    },
+    {
+      "sample_id": "scut-0012691",
+      "condition": "thick",
+      "rank": 4602,
+      "target_rank": 1,
+      "interior_pixels": 5440,
+      "interior_retained": 5337,
+      "dice": 0.4418345424303853
+    },
+    {
+      "sample_id": "scut-0012691",
+      "condition": "thick_blur",
+      "rank": 4557,
+      "target_rank": 1,
+      "interior_pixels": 3330,
+      "interior_retained": 3286,
+      "dice": 0.3433708908934935
+    },
+    {
+      "sample_id": "scut-0027644",
+      "condition": "clean",
+      "rank": 4613,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19960213096365675
+    },
+    {
+      "sample_id": "scut-0027644",
+      "condition": "solid",
+      "rank": 4601,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14790494028181111
+    },
+    {
+      "sample_id": "scut-0027644",
+      "condition": "gradient",
+      "rank": 2945,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15917204252228825
+    },
+    {
+      "sample_id": "scut-0027644",
+      "condition": "glare",
+      "rank": 4606,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17334769773061165
+    },
+    {
+      "sample_id": "scut-0027644",
+      "condition": "thick",
+      "rank": 4629,
+      "target_rank": 1,
+      "interior_pixels": 5548,
+      "interior_retained": 5548,
+      "dice": 0.4811793380770762
+    },
+    {
+      "sample_id": "scut-0027644",
+      "condition": "thick_blur",
+      "rank": 4824,
+      "target_rank": 1,
+      "interior_pixels": 7589,
+      "interior_retained": 7263,
+      "dice": 0.5472447459506402
+    },
+    {
+      "sample_id": "fonts-0012552",
+      "condition": "clean",
+      "rank": 175,
+      "target_rank": 1,
+      "interior_pixels": 6523,
+      "interior_retained": 6,
+      "dice": 0.022367716751003318
+    },
+    {
+      "sample_id": "fonts-0012552",
+      "condition": "solid",
+      "rank": 4599,
+      "target_rank": 1,
+      "interior_pixels": 5124,
+      "interior_retained": 5124,
+      "dice": 0.5294017056994463
+    },
+    {
+      "sample_id": "fonts-0012552",
+      "condition": "gradient",
+      "rank": 4614,
+      "target_rank": 1,
+      "interior_pixels": 8099,
+      "interior_retained": 7119,
+      "dice": 0.5744899600939698
+    },
+    {
+      "sample_id": "fonts-0012552",
+      "condition": "glare",
+      "rank": 4636,
+      "target_rank": 1,
+      "interior_pixels": 6182,
+      "interior_retained": 6013,
+      "dice": 0.560743680429153
+    },
+    {
+      "sample_id": "fonts-0012552",
+      "condition": "thick",
+      "rank": 4336,
+      "target_rank": 1,
+      "interior_pixels": 19249,
+      "interior_retained": 16640,
+      "dice": 0.7738422025187123
+    },
+    {
+      "sample_id": "fonts-0012552",
+      "condition": "thick_blur",
+      "rank": 4619,
+      "target_rank": 1,
+      "interior_pixels": 14957,
+      "interior_retained": 14158,
+      "dice": 0.7198764323212123
+    },
+    {
+      "sample_id": "sabeom-scut-0003241",
+      "condition": "clean",
+      "rank": 3520,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.34125797466122776
+    },
+    {
+      "sample_id": "sabeom-scut-0003241",
+      "condition": "solid",
+      "rank": 3577,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.28896188443145254
+    },
+    {
+      "sample_id": "sabeom-scut-0003241",
+      "condition": "gradient",
+      "rank": 3572,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.24449781764045905
+    },
+    {
+      "sample_id": "sabeom-scut-0003241",
+      "condition": "glare",
+      "rank": 3527,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.28894475485204585
+    },
+    {
+      "sample_id": "sabeom-scut-0003241",
+      "condition": "thick",
+      "rank": 3537,
+      "target_rank": 2,
+      "interior_pixels": 9129,
+      "interior_retained": 9129,
+      "dice": 0.6371037391360655
+    },
+    {
+      "sample_id": "sabeom-scut-0003241",
+      "condition": "thick_blur",
+      "rank": 3540,
+      "target_rank": 7,
+      "interior_pixels": 14282,
+      "interior_retained": 14038,
+      "dice": 0.7754999414915809
+    },
+    {
+      "sample_id": "sabeom-fonts-0006276",
+      "condition": "clean",
+      "rank": 1078,
+      "target_rank": 1,
+      "interior_pixels": 4136,
+      "interior_retained": 120,
+      "dice": 0.10063512805918806
+    },
+    {
+      "sample_id": "sabeom-fonts-0006276",
+      "condition": "solid",
+      "rank": 3685,
+      "target_rank": 1,
+      "interior_pixels": 4933,
+      "interior_retained": 4392,
+      "dice": 0.5731723313160845
+    },
+    {
+      "sample_id": "sabeom-fonts-0006276",
+      "condition": "gradient",
+      "rank": 2213,
+      "target_rank": 1,
+      "interior_pixels": 2973,
+      "interior_retained": 2581,
+      "dice": 0.5050132708954328
+    },
+    {
+      "sample_id": "sabeom-fonts-0006276",
+      "condition": "glare",
+      "rank": 3556,
+      "target_rank": 1,
+      "interior_pixels": 5056,
+      "interior_retained": 4934,
+      "dice": 0.6277604878602036
+    },
+    {
+      "sample_id": "sabeom-fonts-0006276",
+      "condition": "thick",
+      "rank": 2671,
+      "target_rank": 1,
+      "interior_pixels": 13983,
+      "interior_retained": 13425,
+      "dice": 0.7281618867828583
+    },
+    {
+      "sample_id": "sabeom-fonts-0006276",
+      "condition": "thick_blur",
+      "rank": 3687,
+      "target_rank": 2,
+      "interior_pixels": 22956,
+      "interior_retained": 21198,
+      "dice": 0.8272322818252429
+    },
+    {
+      "sample_id": "scut-0014154",
+      "condition": "clean",
+      "rank": 2796,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.25636741491551474
+    },
+    {
+      "sample_id": "scut-0014154",
+      "condition": "solid",
+      "rank": 2806,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.271598456784866
+    },
+    {
+      "sample_id": "scut-0014154",
+      "condition": "gradient",
+      "rank": 2846,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.222800860354223
+    },
+    {
+      "sample_id": "scut-0014154",
+      "condition": "glare",
+      "rank": 2809,
+      "target_rank": 1,
+      "interior_pixels": 10,
+      "interior_retained": 10,
+      "dice": 0.2648862839484001
+    },
+    {
+      "sample_id": "scut-0014154",
+      "condition": "thick",
+      "rank": 2842,
+      "target_rank": 1,
+      "interior_pixels": 6163,
+      "interior_retained": 6163,
+      "dice": 0.48794817253223843
+    },
+    {
+      "sample_id": "scut-0014154",
+      "condition": "thick_blur",
+      "rank": 2850,
+      "target_rank": 1,
+      "interior_pixels": 5959,
+      "interior_retained": 5959,
+      "dice": 0.4847837868386286
+    },
+    {
+      "sample_id": "fonts-0001756",
+      "condition": "clean",
+      "rank": 535,
+      "target_rank": 1,
+      "interior_pixels": 5188,
+      "interior_retained": 73,
+      "dice": 0.057276055434416544
+    },
+    {
+      "sample_id": "fonts-0001756",
+      "condition": "solid",
+      "rank": 2841,
+      "target_rank": 1,
+      "interior_pixels": 3534,
+      "interior_retained": 3534,
+      "dice": 0.46940784221886916
+    },
+    {
+      "sample_id": "fonts-0001756",
+      "condition": "gradient",
+      "rank": 2846,
+      "target_rank": 1,
+      "interior_pixels": 3009,
+      "interior_retained": 3009,
+      "dice": 0.4446789882545131
+    },
+    {
+      "sample_id": "fonts-0001756",
+      "condition": "glare",
+      "rank": 2908,
+      "target_rank": 1,
+      "interior_pixels": 4999,
+      "interior_retained": 4936,
+      "dice": 0.5145481125587414
+    },
+    {
+      "sample_id": "fonts-0001756",
+      "condition": "thick",
+      "rank": 2754,
+      "target_rank": 1,
+      "interior_pixels": 18664,
+      "interior_retained": 17333,
+      "dice": 0.7787687916441173
+    },
+    {
+      "sample_id": "fonts-0001756",
+      "condition": "thick_blur",
+      "rank": 2809,
+      "target_rank": 1,
+      "interior_pixels": 17338,
+      "interior_retained": 16396,
+      "dice": 0.7766990689546379
+    },
+    {
+      "sample_id": "scut-0009562",
+      "condition": "clean",
+      "rank": 1531,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.23901484033005904
+    },
+    {
+      "sample_id": "scut-0009562",
+      "condition": "solid",
+      "rank": 1490,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.24737320265451615
+    },
+    {
+      "sample_id": "scut-0009562",
+      "condition": "gradient",
+      "rank": 1554,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.26192781919876795
+    },
+    {
+      "sample_id": "scut-0009562",
+      "condition": "glare",
+      "rank": 1644,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.21381592543526196
+    },
+    {
+      "sample_id": "scut-0009562",
+      "condition": "thick",
+      "rank": 1651,
+      "target_rank": 1,
+      "interior_pixels": 8391,
+      "interior_retained": 8357,
+      "dice": 0.5898385781438404
+    },
+    {
+      "sample_id": "scut-0009562",
+      "condition": "thick_blur",
+      "rank": 1610,
+      "target_rank": 1,
+      "interior_pixels": 9401,
+      "interior_retained": 8496,
+      "dice": 0.59942668095755
+    },
+    {
+      "sample_id": "fonts-0014735",
+      "condition": "clean",
+      "rank": 2167,
+      "target_rank": 1,
+      "interior_pixels": 5111,
+      "interior_retained": 2,
+      "dice": 0.01237099896658807
+    },
+    {
+      "sample_id": "fonts-0014735",
+      "condition": "solid",
+      "rank": 1585,
+      "target_rank": 1,
+      "interior_pixels": 5134,
+      "interior_retained": 5000,
+      "dice": 0.6342873252611224
+    },
+    {
+      "sample_id": "fonts-0014735",
+      "condition": "gradient",
+      "rank": 1528,
+      "target_rank": 1,
+      "interior_pixels": 4743,
+      "interior_retained": 4665,
+      "dice": 0.631093373816545
+    },
+    {
+      "sample_id": "fonts-0014735",
+      "condition": "glare",
+      "rank": 1377,
+      "target_rank": 1,
+      "interior_pixels": 4744,
+      "interior_retained": 4208,
+      "dice": 0.6018870681545584
+    },
+    {
+      "sample_id": "fonts-0014735",
+      "condition": "thick",
+      "rank": 1740,
+      "target_rank": 1,
+      "interior_pixels": 14666,
+      "interior_retained": 14666,
+      "dice": 0.8001362536015378
+    },
+    {
+      "sample_id": "fonts-0014735",
+      "condition": "thick_blur",
+      "rank": 1576,
+      "target_rank": 1,
+      "interior_pixels": 13883,
+      "interior_retained": 13868,
+      "dice": 0.7769565411489117
+    },
+    {
+      "sample_id": "scut-0056338",
+      "condition": "clean",
+      "rank": 2707,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2283437732225062
+    },
+    {
+      "sample_id": "scut-0056338",
+      "condition": "solid",
+      "rank": 2551,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16451693297075645
+    },
+    {
+      "sample_id": "scut-0056338",
+      "condition": "gradient",
+      "rank": 2374,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14819151512121492
+    },
+    {
+      "sample_id": "scut-0056338",
+      "condition": "glare",
+      "rank": 2642,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17517664285874687
+    },
+    {
+      "sample_id": "scut-0056338",
+      "condition": "thick",
+      "rank": 2627,
+      "target_rank": 102,
+      "interior_pixels": 5192,
+      "interior_retained": 5192,
+      "dice": 0.4521824818114575
+    },
+    {
+      "sample_id": "scut-0056338",
+      "condition": "thick_blur",
+      "rank": 2643,
+      "target_rank": 82,
+      "interior_pixels": 6432,
+      "interior_retained": 6432,
+      "dice": 0.504698460412348
+    },
+    {
+      "sample_id": "fonts-0011263",
+      "condition": "clean",
+      "rank": 1189,
+      "target_rank": 1,
+      "interior_pixels": 3864,
+      "interior_retained": 245,
+      "dice": 0.16382218216106262
+    },
+    {
+      "sample_id": "fonts-0011263",
+      "condition": "solid",
+      "rank": 2576,
+      "target_rank": 1,
+      "interior_pixels": 4073,
+      "interior_retained": 4069,
+      "dice": 0.5595174072190101
+    },
+    {
+      "sample_id": "fonts-0011263",
+      "condition": "gradient",
+      "rank": 2625,
+      "target_rank": 1,
+      "interior_pixels": 2448,
+      "interior_retained": 2448,
+      "dice": 0.47791031558284336
+    },
+    {
+      "sample_id": "fonts-0011263",
+      "condition": "glare",
+      "rank": 2637,
+      "target_rank": 1,
+      "interior_pixels": 4667,
+      "interior_retained": 4647,
+      "dice": 0.6018370461520713
+    },
+    {
+      "sample_id": "fonts-0011263",
+      "condition": "thick",
+      "rank": 2527,
+      "target_rank": 1,
+      "interior_pixels": 17208,
+      "interior_retained": 17196,
+      "dice": 0.820747402822313
+    },
+    {
+      "sample_id": "fonts-0011263",
+      "condition": "thick_blur",
+      "rank": 2597,
+      "target_rank": 1,
+      "interior_pixels": 12880,
+      "interior_retained": 12837,
+      "dice": 0.726190546190899
+    },
+    {
+      "sample_id": "scut-0005276",
+      "condition": "clean",
+      "rank": 2602,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2613442664379328
+    },
+    {
+      "sample_id": "scut-0005276",
+      "condition": "solid",
+      "rank": 2589,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.27146082696245016
+    },
+    {
+      "sample_id": "scut-0005276",
+      "condition": "gradient",
+      "rank": 2454,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.17952606680268707
+    },
+    {
+      "sample_id": "scut-0005276",
+      "condition": "glare",
+      "rank": 2587,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.19789959564156345
+    },
+    {
+      "sample_id": "scut-0005276",
+      "condition": "thick",
+      "rank": 2536,
+      "target_rank": 1,
+      "interior_pixels": 7470,
+      "interior_retained": 7470,
+      "dice": 0.5686584424758172
+    },
+    {
+      "sample_id": "scut-0005276",
+      "condition": "thick_blur",
+      "rank": 2596,
+      "target_rank": 1,
+      "interior_pixels": 9217,
+      "interior_retained": 9083,
+      "dice": 0.6228161572161431
+    },
+    {
+      "sample_id": "fonts-0016258",
+      "condition": "clean",
+      "rank": 1889,
+      "target_rank": 1,
+      "interior_pixels": 4774,
+      "interior_retained": 31,
+      "dice": 0.060977045441333734
+    },
+    {
+      "sample_id": "fonts-0016258",
+      "condition": "solid",
+      "rank": 3639,
+      "target_rank": 1,
+      "interior_pixels": 5002,
+      "interior_retained": 4798,
+      "dice": 0.6277959325303377
+    },
+    {
+      "sample_id": "fonts-0016258",
+      "condition": "gradient",
+      "rank": 1866,
+      "target_rank": 1,
+      "interior_pixels": 4523,
+      "interior_retained": 4251,
+      "dice": 0.5400634552613078
+    },
+    {
+      "sample_id": "fonts-0016258",
+      "condition": "glare",
+      "rank": 2564,
+      "target_rank": 1,
+      "interior_pixels": 3053,
+      "interior_retained": 3053,
+      "dice": 0.5052970124634527
+    },
+    {
+      "sample_id": "fonts-0016258",
+      "condition": "thick",
+      "rank": 2614,
+      "target_rank": 1,
+      "interior_pixels": 19183,
+      "interior_retained": 18204,
+      "dice": 0.8180448162022117
+    },
+    {
+      "sample_id": "fonts-0016258",
+      "condition": "thick_blur",
+      "rank": 2756,
+      "target_rank": 1,
+      "interior_pixels": 19687,
+      "interior_retained": 19169,
+      "dice": 0.8538710652856051
+    },
+    {
+      "sample_id": "fonts-0002411",
+      "condition": "clean",
+      "rank": 390,
+      "target_rank": 1,
+      "interior_pixels": 6627,
+      "interior_retained": 26,
+      "dice": 0.016358727992141477
+    },
+    {
+      "sample_id": "fonts-0002411",
+      "condition": "solid",
+      "rank": 2778,
+      "target_rank": 1,
+      "interior_pixels": 5603,
+      "interior_retained": 5603,
+      "dice": 0.5479179379227477
+    },
+    {
+      "sample_id": "fonts-0002411",
+      "condition": "gradient",
+      "rank": 2840,
+      "target_rank": 1,
+      "interior_pixels": 5327,
+      "interior_retained": 5327,
+      "dice": 0.5261838499657462
+    },
+    {
+      "sample_id": "fonts-0002411",
+      "condition": "glare",
+      "rank": 963,
+      "target_rank": 1,
+      "interior_pixels": 4268,
+      "interior_retained": 4268,
+      "dice": 0.49371671660059246
+    },
+    {
+      "sample_id": "fonts-0002411",
+      "condition": "thick",
+      "rank": 1376,
+      "target_rank": 1,
+      "interior_pixels": 16326,
+      "interior_retained": 14093,
+      "dice": 0.691132016805076
+    },
+    {
+      "sample_id": "fonts-0002411",
+      "condition": "thick_blur",
+      "rank": 2882,
+      "target_rank": 1,
+      "interior_pixels": 16980,
+      "interior_retained": 13174,
+      "dice": 0.6575833349252924
+    },
+    {
+      "sample_id": "scut-0011982",
+      "condition": "clean",
+      "rank": 2859,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1300905473756032
+    },
+    {
+      "sample_id": "scut-0011982",
+      "condition": "solid",
+      "rank": 2757,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1224123206536928
+    },
+    {
+      "sample_id": "scut-0011982",
+      "condition": "gradient",
+      "rank": 2832,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.09227341147703413
+    },
+    {
+      "sample_id": "scut-0011982",
+      "condition": "glare",
+      "rank": 2815,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.09322892231713352
+    },
+    {
+      "sample_id": "scut-0011982",
+      "condition": "thick",
+      "rank": 2159,
+      "target_rank": 1,
+      "interior_pixels": 4987,
+      "interior_retained": 4463,
+      "dice": 0.398494869713663
+    },
+    {
+      "sample_id": "scut-0011982",
+      "condition": "thick_blur",
+      "rank": 2673,
+      "target_rank": 1,
+      "interior_pixels": 5436,
+      "interior_retained": 4826,
+      "dice": 0.40835478075893106
+    },
+    {
+      "sample_id": "fonts-0003317",
+      "condition": "clean",
+      "rank": 553,
+      "target_rank": 1,
+      "interior_pixels": 4138,
+      "interior_retained": 228,
+      "dice": 0.11896762453539485
+    },
+    {
+      "sample_id": "fonts-0003317",
+      "condition": "solid",
+      "rank": 4401,
+      "target_rank": 1,
+      "interior_pixels": 4476,
+      "interior_retained": 4347,
+      "dice": 0.5593422679256175
+    },
+    {
+      "sample_id": "fonts-0003317",
+      "condition": "gradient",
+      "rank": 4363,
+      "target_rank": 1,
+      "interior_pixels": 1703,
+      "interior_retained": 1703,
+      "dice": 0.418086135759238
+    },
+    {
+      "sample_id": "fonts-0003317",
+      "condition": "glare",
+      "rank": 4393,
+      "target_rank": 1,
+      "interior_pixels": 2981,
+      "interior_retained": 2981,
+      "dice": 0.5022341640021802
+    },
+    {
+      "sample_id": "fonts-0003317",
+      "condition": "thick",
+      "rank": 4345,
+      "target_rank": 1,
+      "interior_pixels": 13777,
+      "interior_retained": 13741,
+      "dice": 0.7344864688458071
+    },
+    {
+      "sample_id": "fonts-0003317",
+      "condition": "thick_blur",
+      "rank": 4371,
+      "target_rank": 1,
+      "interior_pixels": 14503,
+      "interior_retained": 14503,
+      "dice": 0.7631854506202962
+    },
+    {
+      "sample_id": "scut-0017469",
+      "condition": "clean",
+      "rank": 4285,
+      "target_rank": 1,
+      "interior_pixels": 25,
+      "interior_retained": 25,
+      "dice": 0.2337735647280625
+    },
+    {
+      "sample_id": "scut-0017469",
+      "condition": "solid",
+      "rank": 4361,
+      "target_rank": 1,
+      "interior_pixels": 9,
+      "interior_retained": 9,
+      "dice": 0.16504697729558385
+    },
+    {
+      "sample_id": "scut-0017469",
+      "condition": "gradient",
+      "rank": 4257,
+      "target_rank": 1,
+      "interior_pixels": 16,
+      "interior_retained": 16,
+      "dice": 0.1824730962268845
+    },
+    {
+      "sample_id": "scut-0017469",
+      "condition": "glare",
+      "rank": 4323,
+      "target_rank": 1,
+      "interior_pixels": 30,
+      "interior_retained": 30,
+      "dice": 0.24380765962369214
+    },
+    {
+      "sample_id": "scut-0017469",
+      "condition": "thick",
+      "rank": 3852,
+      "target_rank": 1,
+      "interior_pixels": 5607,
+      "interior_retained": 5607,
+      "dice": 0.47020493715517014
+    },
+    {
+      "sample_id": "scut-0017469",
+      "condition": "thick_blur",
+      "rank": 4336,
+      "target_rank": 1,
+      "interior_pixels": 9513,
+      "interior_retained": 9425,
+      "dice": 0.6161725431411432
+    },
+    {
+      "sample_id": "fonts-0016660",
+      "condition": "clean",
+      "rank": 1620,
+      "target_rank": 1,
+      "interior_pixels": 3904,
+      "interior_retained": 273,
+      "dice": 0.21257913854404534
+    },
+    {
+      "sample_id": "fonts-0016660",
+      "condition": "solid",
+      "rank": 4559,
+      "target_rank": 1,
+      "interior_pixels": 2456,
+      "interior_retained": 2456,
+      "dice": 0.5753312007583234
+    },
+    {
+      "sample_id": "fonts-0016660",
+      "condition": "gradient",
+      "rank": 4501,
+      "target_rank": 1,
+      "interior_pixels": 3152,
+      "interior_retained": 3152,
+      "dice": 0.6026014190774426
+    },
+    {
+      "sample_id": "fonts-0016660",
+      "condition": "glare",
+      "rank": 4460,
+      "target_rank": 1,
+      "interior_pixels": 4722,
+      "interior_retained": 4406,
+      "dice": 0.631156359382725
+    },
+    {
+      "sample_id": "fonts-0016660",
+      "condition": "thick",
+      "rank": 4470,
+      "target_rank": 10,
+      "interior_pixels": 21417,
+      "interior_retained": 21206,
+      "dice": 0.8498922842341377
+    },
+    {
+      "sample_id": "fonts-0016660",
+      "condition": "thick_blur",
+      "rank": 4287,
+      "target_rank": 875,
+      "interior_pixels": 19858,
+      "interior_retained": 19779,
+      "dice": 0.8457942323282229
+    },
+    {
+      "sample_id": "scut-0018579",
+      "condition": "clean",
+      "rank": 4500,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2898215052874151
+    },
+    {
+      "sample_id": "scut-0018579",
+      "condition": "solid",
+      "rank": 4484,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.30977175800230483
+    },
+    {
+      "sample_id": "scut-0018579",
+      "condition": "gradient",
+      "rank": 4511,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.2838993588680977
+    },
+    {
+      "sample_id": "scut-0018579",
+      "condition": "glare",
+      "rank": 4445,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.24421161384029647
+    },
+    {
+      "sample_id": "scut-0018579",
+      "condition": "thick",
+      "rank": 4480,
+      "target_rank": 3,
+      "interior_pixels": 11011,
+      "interior_retained": 10976,
+      "dice": 0.6412298916180459
+    },
+    {
+      "sample_id": "scut-0018579",
+      "condition": "thick_blur",
+      "rank": 4517,
+      "target_rank": 3,
+      "interior_pixels": 9167,
+      "interior_retained": 9160,
+      "dice": 0.5932461716822236
+    },
+    {
+      "sample_id": "fonts-0017399",
+      "condition": "clean",
+      "rank": 1580,
+      "target_rank": 1,
+      "interior_pixels": 3799,
+      "interior_retained": 153,
+      "dice": 0.1085160070698251
+    },
+    {
+      "sample_id": "fonts-0017399",
+      "condition": "solid",
+      "rank": 4403,
+      "target_rank": 1,
+      "interior_pixels": 3101,
+      "interior_retained": 3101,
+      "dice": 0.5229146725338756
+    },
+    {
+      "sample_id": "fonts-0017399",
+      "condition": "gradient",
+      "rank": 4410,
+      "target_rank": 1,
+      "interior_pixels": 4834,
+      "interior_retained": 4716,
+      "dice": 0.5949086508241328
+    },
+    {
+      "sample_id": "fonts-0017399",
+      "condition": "glare",
+      "rank": 4347,
+      "target_rank": 1,
+      "interior_pixels": 1466,
+      "interior_retained": 1466,
+      "dice": 0.4180820537727041
+    },
+    {
+      "sample_id": "fonts-0017399",
+      "condition": "thick",
+      "rank": 4348,
+      "target_rank": 1,
+      "interior_pixels": 14200,
+      "interior_retained": 14183,
+      "dice": 0.7431403318738191
+    },
+    {
+      "sample_id": "fonts-0017399",
+      "condition": "thick_blur",
+      "rank": 4350,
+      "target_rank": 1,
+      "interior_pixels": 14712,
+      "interior_retained": 14712,
+      "dice": 0.7506375365500212
+    },
+    {
+      "sample_id": "scut-0005605",
+      "condition": "clean",
+      "rank": 4405,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.18066521350320308
+    },
+    {
+      "sample_id": "scut-0005605",
+      "condition": "solid",
+      "rank": 4398,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15905485302978636
+    },
+    {
+      "sample_id": "scut-0005605",
+      "condition": "gradient",
+      "rank": 4216,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1406605164286472
+    },
+    {
+      "sample_id": "scut-0005605",
+      "condition": "glare",
+      "rank": 4368,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.15589451996599957
+    },
+    {
+      "sample_id": "scut-0005605",
+      "condition": "thick",
+      "rank": 4353,
+      "target_rank": 3,
+      "interior_pixels": 4727,
+      "interior_retained": 4727,
+      "dice": 0.39662316653636603
+    },
+    {
+      "sample_id": "scut-0005605",
+      "condition": "thick_blur",
+      "rank": 4379,
+      "target_rank": 3,
+      "interior_pixels": 8950,
+      "interior_retained": 8579,
+      "dice": 0.5437020997127717
+    },
+    {
+      "sample_id": "fonts-0020973",
+      "condition": "clean",
+      "rank": 4972,
+      "target_rank": 1,
+      "interior_pixels": 4984,
+      "interior_retained": 124,
+      "dice": 0.06946824807475972
+    },
+    {
+      "sample_id": "fonts-0020973",
+      "condition": "solid",
+      "rank": 4658,
+      "target_rank": 1,
+      "interior_pixels": 4833,
+      "interior_retained": 4813,
+      "dice": 0.5951232022786924
+    },
+    {
+      "sample_id": "fonts-0020973",
+      "condition": "gradient",
+      "rank": 4649,
+      "target_rank": 1,
+      "interior_pixels": 2407,
+      "interior_retained": 2407,
+      "dice": 0.465555752656189
+    },
+    {
+      "sample_id": "fonts-0020973",
+      "condition": "glare",
+      "rank": 4834,
+      "target_rank": 1,
+      "interior_pixels": 4570,
+      "interior_retained": 4410,
+      "dice": 0.5798009876023837
+    },
+    {
+      "sample_id": "fonts-0020973",
+      "condition": "thick",
+      "rank": 4663,
+      "target_rank": 1,
+      "interior_pixels": 17051,
+      "interior_retained": 16954,
+      "dice": 0.7983619087905807
+    },
+    {
+      "sample_id": "fonts-0020973",
+      "condition": "thick_blur",
+      "rank": 4314,
+      "target_rank": 1,
+      "interior_pixels": 13077,
+      "interior_retained": 13077,
+      "dice": 0.7058313944117072
+    },
+    {
+      "sample_id": "scut-0008100",
+      "condition": "clean",
+      "rank": 4653,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.27656476631094257
+    },
+    {
+      "sample_id": "scut-0008100",
+      "condition": "solid",
+      "rank": 4650,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.20561783549105844
+    },
+    {
+      "sample_id": "scut-0008100",
+      "condition": "gradient",
+      "rank": 4650,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.27678006559505225
+    },
+    {
+      "sample_id": "scut-0008100",
+      "condition": "glare",
+      "rank": 4651,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.23142840111618176
+    },
+    {
+      "sample_id": "scut-0008100",
+      "condition": "thick",
+      "rank": 4940,
+      "target_rank": 1,
+      "interior_pixels": 13274,
+      "interior_retained": 279,
+      "dice": 0.04345594266014845
+    },
+    {
+      "sample_id": "scut-0008100",
+      "condition": "thick_blur",
+      "rank": 4641,
+      "target_rank": 1,
+      "interior_pixels": 7663,
+      "interior_retained": 7663,
+      "dice": 0.5955648590752649
+    },
+    {
+      "sample_id": "fonts-0002397",
+      "condition": "clean",
+      "rank": 3040,
+      "target_rank": 1,
+      "interior_pixels": 3626,
+      "interior_retained": 224,
+      "dice": 0.10108564899784234
+    },
+    {
+      "sample_id": "fonts-0002397",
+      "condition": "solid",
+      "rank": 134,
+      "target_rank": 1,
+      "interior_pixels": 1513,
+      "interior_retained": 1513,
+      "dice": 0.31934788992656654
+    },
+    {
+      "sample_id": "fonts-0002397",
+      "condition": "gradient",
+      "rank": 18,
+      "target_rank": 1,
+      "interior_pixels": 1918,
+      "interior_retained": 1441,
+      "dice": 0.28288491227851426
+    },
+    {
+      "sample_id": "fonts-0002397",
+      "condition": "glare",
+      "rank": 129,
+      "target_rank": 1,
+      "interior_pixels": 1854,
+      "interior_retained": 1854,
+      "dice": 0.3415212619129296
+    },
+    {
+      "sample_id": "fonts-0002397",
+      "condition": "thick",
+      "rank": 125,
+      "target_rank": 1,
+      "interior_pixels": 15684,
+      "interior_retained": 14568,
+      "dice": 0.7132648344311261
+    },
+    {
+      "sample_id": "fonts-0002397",
+      "condition": "thick_blur",
+      "rank": 131,
+      "target_rank": 1,
+      "interior_pixels": 8656,
+      "interior_retained": 8656,
+      "dice": 0.565321156259584
+    },
+    {
+      "sample_id": "scut-0037888",
+      "condition": "clean",
+      "rank": 112,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.16784617530526402
+    },
+    {
+      "sample_id": "scut-0037888",
+      "condition": "solid",
+      "rank": 134,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12608518307555697
+    },
+    {
+      "sample_id": "scut-0037888",
+      "condition": "gradient",
+      "rank": 137,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11549420685632646
+    },
+    {
+      "sample_id": "scut-0037888",
+      "condition": "glare",
+      "rank": 76,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11608253856970177
+    },
+    {
+      "sample_id": "scut-0037888",
+      "condition": "thick",
+      "rank": 103,
+      "target_rank": 1,
+      "interior_pixels": 7091,
+      "interior_retained": 6755,
+      "dice": 0.5187126974406363
+    },
+    {
+      "sample_id": "scut-0037888",
+      "condition": "thick_blur",
+      "rank": 134,
+      "target_rank": 1,
+      "interior_pixels": 6851,
+      "interior_retained": 5913,
+      "dice": 0.4829543571098667
+    },
+    {
+      "sample_id": "scut-0006613",
+      "condition": "clean",
+      "rank": 3288,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1587465084751937
+    },
+    {
+      "sample_id": "scut-0006613",
+      "condition": "solid",
+      "rank": 3374,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15863313317419786
+    },
+    {
+      "sample_id": "scut-0006613",
+      "condition": "gradient",
+      "rank": 3450,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.10659961948659093
+    },
+    {
+      "sample_id": "scut-0006613",
+      "condition": "glare",
+      "rank": 3495,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.15181835302361502
+    },
+    {
+      "sample_id": "scut-0006613",
+      "condition": "thick",
+      "rank": 3722,
+      "target_rank": 1,
+      "interior_pixels": 5171,
+      "interior_retained": 5134,
+      "dice": 0.4414185225066522
+    },
+    {
+      "sample_id": "scut-0006613",
+      "condition": "thick_blur",
+      "rank": 3458,
+      "target_rank": 1,
+      "interior_pixels": 6806,
+      "interior_retained": 6645,
+      "dice": 0.500610611683598
+    },
+    {
+      "sample_id": "fonts-0002412",
+      "condition": "clean",
+      "rank": 3523,
+      "target_rank": 1,
+      "interior_pixels": 4612,
+      "interior_retained": 61,
+      "dice": 0.03928026021300999
+    },
+    {
+      "sample_id": "fonts-0002412",
+      "condition": "solid",
+      "rank": 3392,
+      "target_rank": 1,
+      "interior_pixels": 2516,
+      "interior_retained": 2516,
+      "dice": 0.3657671586885307
+    },
+    {
+      "sample_id": "fonts-0002412",
+      "condition": "gradient",
+      "rank": 3264,
+      "target_rank": 1,
+      "interior_pixels": 4938,
+      "interior_retained": 4774,
+      "dice": 0.46563724251991134
+    },
+    {
+      "sample_id": "fonts-0002412",
+      "condition": "glare",
+      "rank": 3358,
+      "target_rank": 1,
+      "interior_pixels": 5599,
+      "interior_retained": 5206,
+      "dice": 0.47664453515265326
+    },
+    {
+      "sample_id": "fonts-0002412",
+      "condition": "thick",
+      "rank": 3460,
+      "target_rank": 1,
+      "interior_pixels": 9537,
+      "interior_retained": 9537,
+      "dice": 0.5801612797822027
+    },
+    {
+      "sample_id": "fonts-0002412",
+      "condition": "thick_blur",
+      "rank": 3372,
+      "target_rank": 1,
+      "interior_pixels": 9073,
+      "interior_retained": 9066,
+      "dice": 0.5635341758088005
+    },
+    {
+      "sample_id": "scut-0048940",
+      "condition": "clean",
+      "rank": 4821,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1707350892121042
+    },
+    {
+      "sample_id": "scut-0048940",
+      "condition": "solid",
+      "rank": 4797,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.1172626828259713
+    },
+    {
+      "sample_id": "scut-0048940",
+      "condition": "gradient",
+      "rank": 4798,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.14720940636423188
+    },
+    {
+      "sample_id": "scut-0048940",
+      "condition": "glare",
+      "rank": 4772,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13742342421388398
+    },
+    {
+      "sample_id": "scut-0048940",
+      "condition": "thick",
+      "rank": 675,
+      "target_rank": 1,
+      "interior_pixels": 6449,
+      "interior_retained": 5653,
+      "dice": 0.4984651475699888
+    },
+    {
+      "sample_id": "scut-0048940",
+      "condition": "thick_blur",
+      "rank": 4794,
+      "target_rank": 1,
+      "interior_pixels": 5125,
+      "interior_retained": 5125,
+      "dice": 0.4517302686756954
+    },
+    {
+      "sample_id": "fonts-0001338",
+      "condition": "clean",
+      "rank": 475,
+      "target_rank": 1,
+      "interior_pixels": 5454,
+      "interior_retained": 24,
+      "dice": 0.020751389337042594
+    },
+    {
+      "sample_id": "fonts-0001338",
+      "condition": "solid",
+      "rank": 4798,
+      "target_rank": 1,
+      "interior_pixels": 3538,
+      "interior_retained": 3538,
+      "dice": 0.4136879038266728
+    },
+    {
+      "sample_id": "fonts-0001338",
+      "condition": "gradient",
+      "rank": 4802,
+      "target_rank": 1,
+      "interior_pixels": 5198,
+      "interior_retained": 5115,
+      "dice": 0.47574371549642325
+    },
+    {
+      "sample_id": "fonts-0001338",
+      "condition": "glare",
+      "rank": 1550,
+      "target_rank": 1,
+      "interior_pixels": 2951,
+      "interior_retained": 1824,
+      "dice": 0.28150589833686085
+    },
+    {
+      "sample_id": "fonts-0001338",
+      "condition": "thick",
+      "rank": 4795,
+      "target_rank": 1,
+      "interior_pixels": 13267,
+      "interior_retained": 12751,
+      "dice": 0.6675351845991517
+    },
+    {
+      "sample_id": "fonts-0001338",
+      "condition": "thick_blur",
+      "rank": 26,
+      "target_rank": 1,
+      "interior_pixels": 10193,
+      "interior_retained": 6842,
+      "dice": 0.44800076908324143
+    },
+    {
+      "sample_id": "scut-0030123",
+      "condition": "clean",
+      "rank": 837,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.13505619149050924
+    },
+    {
+      "sample_id": "scut-0030123",
+      "condition": "solid",
+      "rank": 840,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.11527183471172953
+    },
+    {
+      "sample_id": "scut-0030123",
+      "condition": "gradient",
+      "rank": 738,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.12578458400987247
+    },
+    {
+      "sample_id": "scut-0030123",
+      "condition": "glare",
+      "rank": 85,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.00022431583669807088
+    },
+    {
+      "sample_id": "scut-0030123",
+      "condition": "thick",
+      "rank": 287,
+      "target_rank": 2,
+      "interior_pixels": 4533,
+      "interior_retained": 4533,
+      "dice": 0.42118909329489274
+    },
+    {
+      "sample_id": "scut-0030123",
+      "condition": "thick_blur",
+      "rank": 879,
+      "target_rank": 2,
+      "interior_pixels": 5903,
+      "interior_retained": 5601,
+      "dice": 0.4478568201444373
+    },
+    {
+      "sample_id": "fonts-0004192",
+      "condition": "clean",
+      "rank": 3013,
+      "target_rank": 1,
+      "interior_pixels": 3838,
+      "interior_retained": 5,
+      "dice": 0.015349532661859459
+    },
+    {
+      "sample_id": "fonts-0004192",
+      "condition": "solid",
+      "rank": 802,
+      "target_rank": 1,
+      "interior_pixels": 3187,
+      "interior_retained": 3139,
+      "dice": 0.35835238372785005
+    },
+    {
+      "sample_id": "fonts-0004192",
+      "condition": "gradient",
+      "rank": 785,
+      "target_rank": 1,
+      "interior_pixels": 2898,
+      "interior_retained": 2898,
+      "dice": 0.35650941407786507
+    },
+    {
+      "sample_id": "fonts-0004192",
+      "condition": "glare",
+      "rank": 815,
+      "target_rank": 1,
+      "interior_pixels": 3856,
+      "interior_retained": 3773,
+      "dice": 0.4002064662949308
+    },
+    {
+      "sample_id": "fonts-0004192",
+      "condition": "thick",
+      "rank": 786,
+      "target_rank": 2,
+      "interior_pixels": 7427,
+      "interior_retained": 7427,
+      "dice": 0.4971386925485397
+    },
+    {
+      "sample_id": "fonts-0004192",
+      "condition": "thick_blur",
+      "rank": 797,
+      "target_rank": 2,
+      "interior_pixels": 12157,
+      "interior_retained": 9458,
+      "dice": 0.51667503756245
+    }
+  ]
+}

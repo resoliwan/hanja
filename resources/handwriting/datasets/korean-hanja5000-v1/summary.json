@@ -1,0 +1,24 @@
+{
+  "classes": 4998,
+  "added_classes": 1498,
+  "train": 317494,
+  "validation": 19576,
+  "evaluation": 99807,
+  "raw_images": 465388,
+  "conflicting_hashes": 0,
+  "source_images": {
+    "ai-free": 246466,
+    "fonts": 143874,
+    "scut": 75048
+  },
+  "source_classes": {
+    "ai-free": 4722,
+    "scut": 4043,
+    "fonts": 4998
+  },
+  "held_out_font": "noto-sans-kr",
+  "scut_usage": "evaluation_only",
+  "validation_writer_independent": false,
+  "training_evaluation_pixel_overlap": 0,
+  "base_samples_unchanged": true
+}

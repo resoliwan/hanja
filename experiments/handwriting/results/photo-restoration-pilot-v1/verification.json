@@ -1,0 +1,19 @@
+{
+  "source_sha256": {
+    "tools/handwriting/photo_restoration/test_contracts.py": "8d17912a624e41b3bcbb037fd73b17cfdc07deb39a6a70211f98714e27c92ecb",
+    "tools/handwriting/photo_restoration/__init__.py": "6a141adbae84657de154636f86fb1b9b8559e79b2ed1e96927690e9dd2a8b1fb",
+    "tools/handwriting/photo_restoration/model.py": "ec840d1a8daea442a6274cf62c058dac664e90473106bba9784703e0d611189f",
+    "tools/handwriting/photo_restoration/train.py": "3f77625cc10ab22bb7ecf04080ed3e0aac666b8281a4c7beb82e9cdeb764ee22",
+    "tools/handwriting/photo_restoration/blank_probe.py": "c34bed37ee1fc89030384ee0f70fd919bddafcba5b5c641c465ef6f7177923b4",
+    "tools/handwriting/photo_restoration/evaluate.py": "fe7104de11fa7ffe3dcb87d3a543fcced8424306c7b4b18bb5f5c3f734de54c3",
+    "tools/handwriting/photo_restoration/report.py": "c49e6926daf0ba11a2c78952ad5cdcc1ce59ba87870e65f92e8e5dbc28e433c8",
+    "tools/handwriting/photo_restoration/prepare.py": "1d7c2d243446795540d6f4388c871e5453627deff0d48b3f51f9122e5d0c3c45",
+    "tools/handwriting/photo_restoration/synthesis.py": "b00fbb713a7e0c954ed6a9060222b5070543df5514248e1cebdf7a75abfb043e"
+  },
+  "best_checkpoint_sha256": "bc3c63060a81285305ad512e1ce6e30734e987503c6951cbed5c5f0abe94a5fe",
+  "classifier_unchanged": true,
+  "tests": 6,
+  "test_variants": 6000,
+  "test_originals": 1000,
+  "test_classes": 500
+}

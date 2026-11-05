@@ -1,0 +1,21 @@
+{
+  "photos": 500,
+  "source": "https://datasets.cvc.uab.es/rrc/ReCTS.zip",
+  "seed": 20261105,
+  "split": "official train; evaluation only for our models",
+  "crop": "annotated axis-aligned bounds +5% max-side margin, aspect-preserving square padding with median border color; 256px",
+  "scope": "character recognition with ground-truth boxes, not full-photo detection",
+  "cutoff": 0.5,
+  "label_policy": "exact Unicode match only; no simplified/traditional conversion",
+  "checkpoints": {
+    "previous": {
+      "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-restoration-wide-500-v1/epoch-100.pt",
+      "sha256": "d61fb880e47282d7c96e4da3df6357a1993cbf470ee5745a2b5740c841958faa"
+    },
+    "restored": {
+      "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-restoration-half-thickness-100-v1/epoch-100.pt",
+      "sha256": "f4c0ac8d34a24ed16e8714e1077b5e9d4643f3d2be096b89f9531c248ab81996"
+    }
+  },
+  "classifier_sha256": "999c5f74c3339ffd7e1de140f37be104ee2a6171f8478ef127ed68f8744b9655"
+}

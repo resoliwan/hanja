@@ -1,0 +1,20 @@
+[
+  {
+    "id": "yeok-light-red",
+    "expected": "譯",
+    "prediction": "讌",
+    "rank": 28
+  },
+  {
+    "id": "cho-light-green",
+    "expected": "超",
+    "prediction": "戀",
+    "rank": 15
+  },
+  {
+    "id": "yeok-dark-red-center-glare",
+    "expected": "譯",
+    "prediction": "讌",
+    "rank": 706
+  }
+]

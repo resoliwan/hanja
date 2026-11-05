@@ -1,0 +1,35 @@
+{
+  "max_epochs": 100,
+  "patience": 10,
+  "min_delta": 0.001,
+  "seed": 20261106,
+  "batch_size": 16,
+  "learning_rate": 0.0001,
+  "initialization_sha256": "58661194d859f3ee6101e33bb15eda19b2e1f071ecaf427488dfdf1bd60eb695",
+  "classifier_sha256": "285a07ed3ca90974e6e767b6487b3bf5919813b30ff2145c8a5255f9d17a0b58",
+  "onnx_sha256": "999c5f74c3339ffd7e1de140f37be104ee2a6171f8478ef127ed68f8744b9655",
+  "data_manifest_sha256": "e65355fe37246f4d4842c14270e7f470e04887d0a2cab4f48611fdd35929a2c1",
+  "test_manifest_sha256": "d06d18ac241971f63c3673eb714c3a4371ca9286303a1eca2f45d12447f8fe79",
+  "split_sha256": "dd9dbf4a4f36f97379da431abc1baa8c7f40de8ee6b6b395d19cfa131d6815c9",
+  "data_summary": {
+    "validation": {
+      "photos": 100,
+      "characters": 1007,
+      "unique_characters": 365,
+      "excluded": {
+        "unsupported": 1557
+      }
+    },
+    "train": {
+      "photos": 400,
+      "characters": 3380,
+      "unique_characters": 667,
+      "excluded": {
+        "unsupported": 4932
+      }
+    }
+  },
+  "classifier_frozen": true,
+  "objective": "character cross entropy",
+  "evaluation_policy": "best validation checkpoint only; no held-out test during training"
+}

@@ -45,17 +45,17 @@ coverage/
 app.*.symbols
 app.*.map.json
 
-# Host-specific compiled helper executables; Swift sources remain in scripts/
-/bin/
+# Host-specific compiled helper executables; Swift sources remain in tools/handwriting/
+/tools/handwriting/bin/
 
 # Incomplete, superseded dataset build; retain final dataset and source archives
-/data/.korean-hanja3500-incomplete-first-build/
+/resources/handwriting/datasets/.korean-hanja3500-incomplete-first-build/
 *.part
 *.tmp
 
 # Downloaded browser pages; source manifests and dataset documentation are retained
-/data/drive.html
-/data/scut-download.html
+/resources/handwriting/datasets/drive.html
+/resources/handwriting/datasets/scut-download.html
 
 # Local/editor/credential files
 .DS_Store

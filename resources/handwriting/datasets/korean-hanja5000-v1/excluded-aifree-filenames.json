@@ -1,0 +1,460 @@
+[
+  {
+    "path": "cleaned_data/11307/圜_18.png",
+    "character": "圜",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/115/佯_12.png",
+    "character": "佯",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/1198/暝_40.png",
+    "character": "暝",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_0.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_1.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_10.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_11.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_12.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_13.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_14.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_15.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_16.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_17.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_18.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_19.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_2.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_20.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_21.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_22.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_23.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_24.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_25.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_26.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_27.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_28.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_29.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_3.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_30.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_31.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_32.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_33.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_34.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_35.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_36.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_37.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_38.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_39.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_4.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_40.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_41.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_42.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_43.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_44.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_45.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_46.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_47.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_48.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_49.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_5.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_50.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_6.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_7.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_8.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12332/p嶒_9.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/12439/幄_21.png",
+    "character": "幄",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_0.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_1.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_10.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_11.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_12.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_13.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_14.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_15.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_16.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_17.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_18.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_19.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_2.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_20.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_21.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_22.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_23.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_24.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_25.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_26.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_27.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_28.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_29.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_3.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_30.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_31.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_32.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_33.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_34.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_35.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_36.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_37.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_38.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_39.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_4.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_40.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_41.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_42.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_43.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_44.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_45.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_46.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_47.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_48.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_49.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_5.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_50.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_6.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_7.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_8.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/2781/濈u_9.png",
+    "reason": "malformed_label"
+  },
+  {
+    "path": "cleaned_data/6667/蔔_17.png",
+    "character": "蔔",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/6756/薊_17.png",
+    "character": "薊",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/6810/藎_27.png",
+    "character": "藎",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/8268/贄_1.png",
+    "character": "贄",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/9254/鋸_57.png",
+    "character": "鋸",
+    "reason": "blank image"
+  },
+  {
+    "path": "cleaned_data/9767/霑_48.png",
+    "character": "霑",
+    "reason": "blank image"
+  }
+]

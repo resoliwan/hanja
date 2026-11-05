@@ -1,0 +1,206 @@
+[
+  {
+    "id": "cho-light-neutral",
+    "character": "超",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-neutral.png"
+  },
+  {
+    "id": "cho-light-red",
+    "character": "超",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red.png"
+  },
+  {
+    "id": "cho-light-blue",
+    "character": "超",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue.png"
+  },
+  {
+    "id": "cho-light-green",
+    "character": "超",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green.png"
+  },
+  {
+    "id": "cho-light-rgb-gradient",
+    "character": "超",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-rgb-gradient.png"
+  },
+  {
+    "id": "cho-light-red-center-glare",
+    "character": "超",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-red-center-glare.png"
+  },
+  {
+    "id": "cho-light-blue-center-glare",
+    "character": "超",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-blue-center-glare.png"
+  },
+  {
+    "id": "cho-light-green-center-glare",
+    "character": "超",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-light-green-center-glare.png"
+  },
+  {
+    "id": "cho-dark-neutral",
+    "character": "超",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-neutral.png"
+  },
+  {
+    "id": "cho-dark-red",
+    "character": "超",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red.png"
+  },
+  {
+    "id": "cho-dark-blue",
+    "character": "超",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue.png"
+  },
+  {
+    "id": "cho-dark-green",
+    "character": "超",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green.png"
+  },
+  {
+    "id": "cho-dark-rgb-gradient",
+    "character": "超",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-rgb-gradient.png"
+  },
+  {
+    "id": "cho-dark-red-center-glare",
+    "character": "超",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-red-center-glare.png"
+  },
+  {
+    "id": "cho-dark-blue-center-glare",
+    "character": "超",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-blue-center-glare.png"
+  },
+  {
+    "id": "cho-dark-green-center-glare",
+    "character": "超",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-dark-green-center-glare.png"
+  },
+  {
+    "id": "cho-original",
+    "character": "超",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/cho-original.png"
+  },
+  {
+    "id": "yeok-light-neutral",
+    "character": "譯",
+    "case": "light-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-neutral.png"
+  },
+  {
+    "id": "yeok-light-red",
+    "character": "譯",
+    "case": "light-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red.png"
+  },
+  {
+    "id": "yeok-light-blue",
+    "character": "譯",
+    "case": "light-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue.png"
+  },
+  {
+    "id": "yeok-light-green",
+    "character": "譯",
+    "case": "light-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green.png"
+  },
+  {
+    "id": "yeok-light-rgb-gradient",
+    "character": "譯",
+    "case": "light-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-rgb-gradient.png"
+  },
+  {
+    "id": "yeok-light-red-center-glare",
+    "character": "譯",
+    "case": "light-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-red-center-glare.png"
+  },
+  {
+    "id": "yeok-light-blue-center-glare",
+    "character": "譯",
+    "case": "light-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-blue-center-glare.png"
+  },
+  {
+    "id": "yeok-light-green-center-glare",
+    "character": "譯",
+    "case": "light-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-light-green-center-glare.png"
+  },
+  {
+    "id": "yeok-dark-neutral",
+    "character": "譯",
+    "case": "dark-neutral",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-neutral.png"
+  },
+  {
+    "id": "yeok-dark-red",
+    "character": "譯",
+    "case": "dark-red",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red.png"
+  },
+  {
+    "id": "yeok-dark-blue",
+    "character": "譯",
+    "case": "dark-blue",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue.png"
+  },
+  {
+    "id": "yeok-dark-green",
+    "character": "譯",
+    "case": "dark-green",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green.png"
+  },
+  {
+    "id": "yeok-dark-rgb-gradient",
+    "character": "譯",
+    "case": "dark-rgb-gradient",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-rgb-gradient.png"
+  },
+  {
+    "id": "yeok-dark-red-center-glare",
+    "character": "譯",
+    "case": "dark-red-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-red-center-glare.png"
+  },
+  {
+    "id": "yeok-dark-blue-center-glare",
+    "character": "譯",
+    "case": "dark-blue-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-blue-center-glare.png"
+  },
+  {
+    "id": "yeok-dark-green-center-glare",
+    "character": "譯",
+    "case": "dark-green-center-glare",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-dark-green-center-glare.png"
+  },
+  {
+    "id": "yeok-original",
+    "character": "譯",
+    "case": "original",
+    "path": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/photo-color-probe-20261104/fixtures/yeok-original.png"
+  }
+]

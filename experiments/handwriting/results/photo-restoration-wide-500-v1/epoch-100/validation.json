@@ -1,0 +1,2762 @@
+{
+  "summary": {
+    "all": {
+      "n": 300,
+      "top1": 0.6866666666666666,
+      "top10": 0.74,
+      "clean_target_top1": 0.9533333333333334,
+      "interior_recall": 0.27636978490548564,
+      "dice": 0.7127079726469558
+    },
+    "clean": {
+      "n": 50,
+      "top1": 0.94,
+      "top10": 1.0,
+      "clean_target_top1": 0.98,
+      "interior_recall": 1.0,
+      "dice": 0.8194916304850756
+    },
+    "solid": {
+      "n": 50,
+      "top1": 0.96,
+      "top10": 1.0,
+      "clean_target_top1": 0.98,
+      "interior_recall": 1.0,
+      "dice": 0.8301816419080782
+    },
+    "gradient": {
+      "n": 50,
+      "top1": 0.98,
+      "top10": 1.0,
+      "clean_target_top1": 1.0,
+      "interior_recall": 1.0,
+      "dice": 0.8300574422254752
+    },
+    "glare": {
+      "n": 50,
+      "top1": 0.98,
+      "top10": 1.0,
+      "clean_target_top1": 0.98,
+      "interior_recall": 1.0,
+      "dice": 0.8207872901694719
+    },
+    "thick": {
+      "n": 50,
+      "top1": 0.22,
+      "top10": 0.34,
+      "clean_target_top1": 0.88,
+      "interior_recall": 0.5245872035565011,
+      "dice": 0.707892688072196
+    },
+    "thick_blur": {
+      "n": 50,
+      "top1": 0.04,
+      "top10": 0.1,
+      "clean_target_top1": 0.9,
+      "interior_recall": 0.000591321278551984,
+      "dice": 0.2678371430214379
+    }
+  },
+  "rows": [
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8093062782216868
+    },
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8230019528057202
+    },
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8226952103276604
+    },
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.823580138120059
+    },
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "thick",
+      "rank": 42,
+      "target_rank": 1,
+      "interior_pixels": 8414,
+      "interior_retained": 4917,
+      "dice": 0.7108764702310238
+    },
+    {
+      "sample_id": "ai-free-0115986",
+      "condition": "thick_blur",
+      "rank": 262,
+      "target_rank": 1,
+      "interior_pixels": 6070,
+      "interior_retained": 2,
+      "dice": 0.29948030562801276
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8286991690897447
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8388685553278034
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8400656751290997
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8365225465346776
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "thick",
+      "rank": 788,
+      "target_rank": 1,
+      "interior_pixels": 7471,
+      "interior_retained": 3853,
+      "dice": 0.6631807681657627
+    },
+    {
+      "sample_id": "ai-free-0069387",
+      "condition": "thick_blur",
+      "rank": 5,
+      "target_rank": 1,
+      "interior_pixels": 10395,
+      "interior_retained": 30,
+      "dice": 0.23430313598999528
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7613396656067476
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7689366420974935
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7723369650474657
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7741282888170272
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "thick",
+      "rank": 64,
+      "target_rank": 1,
+      "interior_pixels": 7263,
+      "interior_retained": 3801,
+      "dice": 0.6223517957884771
+    },
+    {
+      "sample_id": "ai-free-0134543",
+      "condition": "thick_blur",
+      "rank": 1150,
+      "target_rank": 1,
+      "interior_pixels": 3058,
+      "interior_retained": 83,
+      "dice": 0.33729642790675757
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8182279644305043
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8295778040722469
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8300777769385501
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8265848535807646
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "thick",
+      "rank": 431,
+      "target_rank": 1,
+      "interior_pixels": 7354,
+      "interior_retained": 2654,
+      "dice": 0.5578457498891589
+    },
+    {
+      "sample_id": "ai-free-0016894",
+      "condition": "thick_blur",
+      "rank": 8,
+      "target_rank": 1,
+      "interior_pixels": 6487,
+      "interior_retained": 0,
+      "dice": 0.3122454330864143
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8270582294165228
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8389882767804486
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8402891599081308
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7641978772013062
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 6823,
+      "interior_retained": 5685,
+      "dice": 0.8695929682546664
+    },
+    {
+      "sample_id": "ai-free-0143262",
+      "condition": "thick_blur",
+      "rank": 148,
+      "target_rank": 1,
+      "interior_pixels": 3782,
+      "interior_retained": 0,
+      "dice": 0.2943459658966765
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.8571682255086137
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 15,
+      "interior_retained": 15,
+      "dice": 0.8648015415500964
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8645371209539741
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8556269034747804
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "thick",
+      "rank": 2213,
+      "target_rank": 2,
+      "interior_pixels": 5958,
+      "interior_retained": 2950,
+      "dice": 0.6581864162926393
+    },
+    {
+      "sample_id": "ai-free-0076010",
+      "condition": "thick_blur",
+      "rank": 1590,
+      "target_rank": 1,
+      "interior_pixels": 5113,
+      "interior_retained": 0,
+      "dice": 0.24307932669746804
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8401028043030316
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8421721359585498
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8483498459061682
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8470213689009635
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 3453,
+      "interior_retained": 3453,
+      "dice": 0.9400815880923192
+    },
+    {
+      "sample_id": "ai-free-0149027",
+      "condition": "thick_blur",
+      "rank": 648,
+      "target_rank": 1,
+      "interior_pixels": 3348,
+      "interior_retained": 0,
+      "dice": 0.34260777432337847
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.815470183401694
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8203966416189951
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8293921223679656
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8248190054000762
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 3037,
+      "interior_retained": 3037,
+      "dice": 0.9512835908519627
+    },
+    {
+      "sample_id": "ai-free-0091262",
+      "condition": "thick_blur",
+      "rank": 14,
+      "target_rank": 1,
+      "interior_pixels": 3038,
+      "interior_retained": 0,
+      "dice": 0.2709195000459165
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7532593105632635
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7682528633286867
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7688253372421282
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7675958924798655
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "thick",
+      "rank": 156,
+      "target_rank": 1,
+      "interior_pixels": 4471,
+      "interior_retained": 2162,
+      "dice": 0.6416643519912114
+    },
+    {
+      "sample_id": "sabeom-ai-free-0016390",
+      "condition": "thick_blur",
+      "rank": 520,
+      "target_rank": 1,
+      "interior_pixels": 3240,
+      "interior_retained": 0,
+      "dice": 0.271096355448304
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8046515373754424
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8191105576677377
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8180644770760894
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8125721901276356
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 3094,
+      "interior_retained": 3094,
+      "dice": 0.9423000506666633
+    },
+    {
+      "sample_id": "ai-free-0142096",
+      "condition": "thick_blur",
+      "rank": 173,
+      "target_rank": 1,
+      "interior_pixels": 5161,
+      "interior_retained": 0,
+      "dice": 0.22121701152533407
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.839341984874825
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8495918495520072
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.8484403359558313
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8520134507962093
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "thick",
+      "rank": 124,
+      "target_rank": 1,
+      "interior_pixels": 4372,
+      "interior_retained": 3649,
+      "dice": 0.8332739282444435
+    },
+    {
+      "sample_id": "ai-free-0153616",
+      "condition": "thick_blur",
+      "rank": 165,
+      "target_rank": 1,
+      "interior_pixels": 8336,
+      "interior_retained": 0,
+      "dice": 0.2816710839756941
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8072172091906394
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8211402609363989
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8203760043183527
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8176830194512531
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "thick",
+      "rank": 1902,
+      "target_rank": 1,
+      "interior_pixels": 9199,
+      "interior_retained": 3417,
+      "dice": 0.5208986318443979
+    },
+    {
+      "sample_id": "ai-free-0023659",
+      "condition": "thick_blur",
+      "rank": 125,
+      "target_rank": 1,
+      "interior_pixels": 9412,
+      "interior_retained": 0,
+      "dice": 0.21347553675450293
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8490486909780073
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8548161956031753
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8581987599106258
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8579885766626193
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "thick",
+      "rank": 1073,
+      "target_rank": 1,
+      "interior_pixels": 6952,
+      "interior_retained": 3532,
+      "dice": 0.7198509363050812
+    },
+    {
+      "sample_id": "ai-free-0094733",
+      "condition": "thick_blur",
+      "rank": 489,
+      "target_rank": 1,
+      "interior_pixels": 4741,
+      "interior_retained": 0,
+      "dice": 0.2857143982589271
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 73,
+      "interior_retained": 73,
+      "dice": 0.8615092667606827
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 80,
+      "interior_retained": 80,
+      "dice": 0.8708921588311663
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 67,
+      "interior_retained": 67,
+      "dice": 0.8728959849306573
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 30,
+      "interior_retained": 30,
+      "dice": 0.8716813984446035
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "thick",
+      "rank": 274,
+      "target_rank": 1,
+      "interior_pixels": 2834,
+      "interior_retained": 2104,
+      "dice": 0.8648894778235465
+    },
+    {
+      "sample_id": "ai-free-0002385",
+      "condition": "thick_blur",
+      "rank": 2554,
+      "target_rank": 1,
+      "interior_pixels": 3956,
+      "interior_retained": 0,
+      "dice": 0.3240700313943376
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8075217487882334
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8214208650166227
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.821375575291581
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8200674027095101
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 5622,
+      "interior_retained": 3201,
+      "dice": 0.7191820094527913
+    },
+    {
+      "sample_id": "ai-free-0081826",
+      "condition": "thick_blur",
+      "rank": 1173,
+      "target_rank": 1,
+      "interior_pixels": 6415,
+      "interior_retained": 0,
+      "dice": 0.23684093129745198
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8006404652478409
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8158405883443214
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8165408211891604
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8142665132544454
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "thick",
+      "rank": 10,
+      "target_rank": 1,
+      "interior_pixels": 6658,
+      "interior_retained": 3618,
+      "dice": 0.6541019554646531
+    },
+    {
+      "sample_id": "ai-free-0168976",
+      "condition": "thick_blur",
+      "rank": 22,
+      "target_rank": 1,
+      "interior_pixels": 5365,
+      "interior_retained": 0,
+      "dice": 0.25440878206517653
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8490309100999298
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8574672557211679
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8561661784985515
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.856838313165866
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 4799,
+      "interior_retained": 4799,
+      "dice": 0.9528373897509241
+    },
+    {
+      "sample_id": "ai-free-0077384",
+      "condition": "thick_blur",
+      "rank": 301,
+      "target_rank": 1,
+      "interior_pixels": 5468,
+      "interior_retained": 0,
+      "dice": 0.28022134985929237
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8395289489756055
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8495640398176956
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8499297271770249
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8478960429463076
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "thick",
+      "rank": 72,
+      "target_rank": 1,
+      "interior_pixels": 4510,
+      "interior_retained": 2523,
+      "dice": 0.7007867008192807
+    },
+    {
+      "sample_id": "ai-free-0070624",
+      "condition": "thick_blur",
+      "rank": 3499,
+      "target_rank": 1,
+      "interior_pixels": 7206,
+      "interior_retained": 0,
+      "dice": 0.2278365712201101
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8152307267775898
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8280591116000269
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8226260989406057
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8225262177839794
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "thick",
+      "rank": 4679,
+      "target_rank": 4,
+      "interior_pixels": 3994,
+      "interior_retained": 2438,
+      "dice": 0.7467284494457037
+    },
+    {
+      "sample_id": "ai-free-0066957",
+      "condition": "thick_blur",
+      "rank": 3952,
+      "target_rank": 6,
+      "interior_pixels": 3539,
+      "interior_retained": 8,
+      "dice": 0.28768440275888285
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7824867000316961
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7992132697113968
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7970344126125103
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7976886747109808
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "thick",
+      "rank": 2337,
+      "target_rank": 1,
+      "interior_pixels": 5954,
+      "interior_retained": 2732,
+      "dice": 0.588008457199092
+    },
+    {
+      "sample_id": "ai-free-0004769",
+      "condition": "thick_blur",
+      "rank": 1081,
+      "target_rank": 1,
+      "interior_pixels": 5623,
+      "interior_retained": 0,
+      "dice": 0.29816020091745754
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 23,
+      "interior_retained": 23,
+      "dice": 0.8477151792617184
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.8557642106160642
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.8550730966838687
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8551099472393443
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "thick",
+      "rank": 19,
+      "target_rank": 1,
+      "interior_pixels": 6095,
+      "interior_retained": 2489,
+      "dice": 0.6350871778099653
+    },
+    {
+      "sample_id": "ai-free-0017843",
+      "condition": "thick_blur",
+      "rank": 746,
+      "target_rank": 1,
+      "interior_pixels": 4710,
+      "interior_retained": 0,
+      "dice": 0.22445622005620744
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8128102868925111
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8251083595321101
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8246593654134112
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8249895752907505
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "thick",
+      "rank": 185,
+      "target_rank": 1,
+      "interior_pixels": 6503,
+      "interior_retained": 2820,
+      "dice": 0.6691749137093991
+    },
+    {
+      "sample_id": "ai-free-0160778",
+      "condition": "thick_blur",
+      "rank": 1716,
+      "target_rank": 1,
+      "interior_pixels": 3951,
+      "interior_retained": 0,
+      "dice": 0.2941632058279882
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8210590863371905
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8332375280048535
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8322254223866686
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7615867218070173
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "thick",
+      "rank": 3,
+      "target_rank": 1,
+      "interior_pixels": 4432,
+      "interior_retained": 3283,
+      "dice": 0.787878628105831
+    },
+    {
+      "sample_id": "sabeom-ai-free-0022102",
+      "condition": "thick_blur",
+      "rank": 80,
+      "target_rank": 1,
+      "interior_pixels": 4693,
+      "interior_retained": 0,
+      "dice": 0.25941594174667154
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8231385561465405
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8338376624902558
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8301029485700205
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 3,
+      "interior_retained": 3,
+      "dice": 0.8320924447655205
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 4847,
+      "interior_retained": 4847,
+      "dice": 0.9424601348024322
+    },
+    {
+      "sample_id": "ai-free-0100313",
+      "condition": "thick_blur",
+      "rank": 119,
+      "target_rank": 1,
+      "interior_pixels": 5960,
+      "interior_retained": 0,
+      "dice": 0.33405244197796014
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.8345232700229018
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8477541688349816
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8455694068930385
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 4,
+      "interior_retained": 4,
+      "dice": 0.8469815396930699
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "thick",
+      "rank": 35,
+      "target_rank": 1,
+      "interior_pixels": 10094,
+      "interior_retained": 3712,
+      "dice": 0.5270952950869513
+    },
+    {
+      "sample_id": "ai-free-0102773",
+      "condition": "thick_blur",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 7967,
+      "interior_retained": 1,
+      "dice": 0.28017734769566494
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "clean",
+      "rank": 2,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.795379376891994
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8058633442480674
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8136515456224588
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8118657358993873
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 3835,
+      "interior_retained": 3713,
+      "dice": 0.9242869286570999
+    },
+    {
+      "sample_id": "ai-free-0017399",
+      "condition": "thick_blur",
+      "rank": 3003,
+      "target_rank": 1,
+      "interior_pixels": 4105,
+      "interior_retained": 0,
+      "dice": 0.2250227609204552
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8262685514449221
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8378289449920657
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8174960943071276
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8383539336787421
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "thick",
+      "rank": 2,
+      "target_rank": 1,
+      "interior_pixels": 4455,
+      "interior_retained": 3292,
+      "dice": 0.8315395859820622
+    },
+    {
+      "sample_id": "ai-free-0053725",
+      "condition": "thick_blur",
+      "rank": 241,
+      "target_rank": 1,
+      "interior_pixels": 4031,
+      "interior_retained": 0,
+      "dice": 0.32019553745741175
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8398981371493498
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8514509357779853
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8485579583014479
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8484369780246906
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "thick",
+      "rank": 12,
+      "target_rank": 1,
+      "interior_pixels": 5084,
+      "interior_retained": 3283,
+      "dice": 0.7217256791314809
+    },
+    {
+      "sample_id": "ai-free-0121048",
+      "condition": "thick_blur",
+      "rank": 1353,
+      "target_rank": 1,
+      "interior_pixels": 3574,
+      "interior_retained": 0,
+      "dice": 0.3096403482556353
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8241630201103785
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8379833936405511
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8357480150731081
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8169032091694899
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "thick",
+      "rank": 734,
+      "target_rank": 1,
+      "interior_pixels": 5456,
+      "interior_retained": 2673,
+      "dice": 0.6103684481237583
+    },
+    {
+      "sample_id": "ai-free-0093544",
+      "condition": "thick_blur",
+      "rank": 642,
+      "target_rank": 1,
+      "interior_pixels": 7029,
+      "interior_retained": 0,
+      "dice": 0.28354090300361606
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.803095180468007
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8173030564392758
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8153671516630294
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8169154948445305
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "thick",
+      "rank": 2235,
+      "target_rank": 1,
+      "interior_pixels": 6280,
+      "interior_retained": 3561,
+      "dice": 0.6925613117120871
+    },
+    {
+      "sample_id": "ai-free-0123108",
+      "condition": "thick_blur",
+      "rank": 2572,
+      "target_rank": 1,
+      "interior_pixels": 5836,
+      "interior_retained": 0,
+      "dice": 0.24998550715352597
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7700234530236114
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.788590859108681
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7895587067217127
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7888417800773568
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 4544,
+      "interior_retained": 3840,
+      "dice": 0.8278054813630373
+    },
+    {
+      "sample_id": "ai-free-0041350",
+      "condition": "thick_blur",
+      "rank": 23,
+      "target_rank": 1,
+      "interior_pixels": 4436,
+      "interior_retained": 0,
+      "dice": 0.3430642793433407
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8234702615979788
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8364632037499807
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.834414581668896
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8348866076758412
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "thick",
+      "rank": 97,
+      "target_rank": 1,
+      "interior_pixels": 11974,
+      "interior_retained": 3282,
+      "dice": 0.4382916917908847
+    },
+    {
+      "sample_id": "ai-free-0134800",
+      "condition": "thick_blur",
+      "rank": 4893,
+      "target_rank": 1,
+      "interior_pixels": 8217,
+      "interior_retained": 16,
+      "dice": 0.20580714881832354
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7820662964592822
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7980545408463716
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7919768867293852
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7369490503401428
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "thick",
+      "rank": 2,
+      "target_rank": 1,
+      "interior_pixels": 4911,
+      "interior_retained": 2368,
+      "dice": 0.7019732437531353
+    },
+    {
+      "sample_id": "ai-free-0144509",
+      "condition": "thick_blur",
+      "rank": 156,
+      "target_rank": 1,
+      "interior_pixels": 8253,
+      "interior_retained": 9,
+      "dice": 0.2081822937433726
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7661912984067394
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7803511321473069
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7735003889347352
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.6230167628602084
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "thick",
+      "rank": 1418,
+      "target_rank": 1,
+      "interior_pixels": 5090,
+      "interior_retained": 4120,
+      "dice": 0.8547058284910195
+    },
+    {
+      "sample_id": "ai-free-0046846",
+      "condition": "thick_blur",
+      "rank": 2035,
+      "target_rank": 1,
+      "interior_pixels": 4004,
+      "interior_retained": 0,
+      "dice": 0.25574128817728753
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 140,
+      "interior_retained": 140,
+      "dice": 0.876372511961202
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 31,
+      "interior_retained": 31,
+      "dice": 0.8819066537203738
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 117,
+      "interior_retained": 117,
+      "dice": 0.8839510203965405
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 164,
+      "interior_retained": 164,
+      "dice": 0.8829548598870848
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "thick",
+      "rank": 3394,
+      "target_rank": 1,
+      "interior_pixels": 7390,
+      "interior_retained": 1920,
+      "dice": 0.5096261055812048
+    },
+    {
+      "sample_id": "ai-free-0141730",
+      "condition": "thick_blur",
+      "rank": 3525,
+      "target_rank": 1,
+      "interior_pixels": 7942,
+      "interior_retained": 0,
+      "dice": 0.20567468958205393
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 25,
+      "interior_retained": 25,
+      "dice": 0.8503577910383964
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 25,
+      "interior_retained": 25,
+      "dice": 0.8589698688116926
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.8592578300009387
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 37,
+      "interior_retained": 37,
+      "dice": 0.8586649011096285
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "thick",
+      "rank": 101,
+      "target_rank": 1,
+      "interior_pixels": 5859,
+      "interior_retained": 4081,
+      "dice": 0.7306171885288905
+    },
+    {
+      "sample_id": "ai-free-0084494",
+      "condition": "thick_blur",
+      "rank": 4119,
+      "target_rank": 1,
+      "interior_pixels": 4504,
+      "interior_retained": 0,
+      "dice": 0.18808642579362944
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8201193352538366
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8330899120632718
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8327906934922359
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8313918054123874
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "thick",
+      "rank": 19,
+      "target_rank": 2,
+      "interior_pixels": 4945,
+      "interior_retained": 2713,
+      "dice": 0.7148875036315615
+    },
+    {
+      "sample_id": "sabeom-ai-free-0049664",
+      "condition": "thick_blur",
+      "rank": 23,
+      "target_rank": 2,
+      "interior_pixels": 6509,
+      "interior_retained": 0,
+      "dice": 0.26010966532317464
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7777926456669235
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7862534206503955
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7911411793185011
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7461262823987959
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "thick",
+      "rank": 14,
+      "target_rank": 1,
+      "interior_pixels": 5597,
+      "interior_retained": 3488,
+      "dice": 0.7298173907051376
+    },
+    {
+      "sample_id": "ai-free-0095492",
+      "condition": "thick_blur",
+      "rank": 87,
+      "target_rank": 1,
+      "interior_pixels": 2573,
+      "interior_retained": 0,
+      "dice": 0.26119875006864873
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.797706954274884
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8107186100618726
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8047828218133497
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8133480210740319
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "thick",
+      "rank": 8,
+      "target_rank": 1,
+      "interior_pixels": 4165,
+      "interior_retained": 2199,
+      "dice": 0.7274380610149473
+    },
+    {
+      "sample_id": "ai-free-0114835",
+      "condition": "thick_blur",
+      "rank": 120,
+      "target_rank": 1,
+      "interior_pixels": 4813,
+      "interior_retained": 0,
+      "dice": 0.19603623837360037
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7731678962461883
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7869103881358733
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7902460659086281
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7902332679622801
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "thick",
+      "rank": 24,
+      "target_rank": 1,
+      "interior_pixels": 9086,
+      "interior_retained": 4183,
+      "dice": 0.6333483590858139
+    },
+    {
+      "sample_id": "ai-free-0072634",
+      "condition": "thick_blur",
+      "rank": 3818,
+      "target_rank": 1,
+      "interior_pixels": 4629,
+      "interior_retained": 0,
+      "dice": 0.32319580104026635
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 15,
+      "interior_retained": 15,
+      "dice": 0.8866242827000197
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 8,
+      "interior_retained": 8,
+      "dice": 0.8864742494302847
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 21,
+      "interior_retained": 21,
+      "dice": 0.8915271808621247
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.8796917598657138
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "thick",
+      "rank": 226,
+      "target_rank": 1,
+      "interior_pixels": 14459,
+      "interior_retained": 1464,
+      "dice": 0.294944803544872
+    },
+    {
+      "sample_id": "ai-free-0129206",
+      "condition": "thick_blur",
+      "rank": 183,
+      "target_rank": 1,
+      "interior_pixels": 8768,
+      "interior_retained": 10,
+      "dice": 0.25120127206684695
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7720286496783608
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7908347898781155
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7885951250209279
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7914787164302758
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 3825,
+      "interior_retained": 3686,
+      "dice": 0.9157110854397722
+    },
+    {
+      "sample_id": "ai-free-0141991",
+      "condition": "thick_blur",
+      "rank": 2026,
+      "target_rank": 1,
+      "interior_pixels": 3103,
+      "interior_retained": 0,
+      "dice": 0.2778547040739423
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 8,
+      "interior_retained": 8,
+      "dice": 0.8422326338279378
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.8491827015872032
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.8519017407478291
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 6,
+      "interior_retained": 6,
+      "dice": 0.8142301469627545
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "thick",
+      "rank": 18,
+      "target_rank": 1,
+      "interior_pixels": 7317,
+      "interior_retained": 3666,
+      "dice": 0.644071533200241
+    },
+    {
+      "sample_id": "ai-free-0015571",
+      "condition": "thick_blur",
+      "rank": 13,
+      "target_rank": 1,
+      "interior_pixels": 10114,
+      "interior_retained": 0,
+      "dice": 0.26413501657869476
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.7923336262377159
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8039546010867783
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8091561672161378
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.808758502571396
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "thick",
+      "rank": 87,
+      "target_rank": 156,
+      "interior_pixels": 7022,
+      "interior_retained": 1659,
+      "dice": 0.5180363569784474
+    },
+    {
+      "sample_id": "ai-free-0133169",
+      "condition": "thick_blur",
+      "rank": 513,
+      "target_rank": 120,
+      "interior_pixels": 7023,
+      "interior_retained": 0,
+      "dice": 0.19261161872924346
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.8365122002397689
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 1,
+      "interior_retained": 1,
+      "dice": 0.8468056069420455
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.846255402985361
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.8474216966580517
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "thick",
+      "rank": 939,
+      "target_rank": 1,
+      "interior_pixels": 8700,
+      "interior_retained": 1632,
+      "dice": 0.4279168849161302
+    },
+    {
+      "sample_id": "ai-free-0145181",
+      "condition": "thick_blur",
+      "rank": 1286,
+      "target_rank": 1,
+      "interior_pixels": 4911,
+      "interior_retained": 0,
+      "dice": 0.25631055777131184
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8141488494590914
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.828309807106973
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8263030305662649
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8277036549547094
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "thick",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 8793,
+      "interior_retained": 2789,
+      "dice": 0.534255225488534
+    },
+    {
+      "sample_id": "ai-free-0008485",
+      "condition": "thick_blur",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 10267,
+      "interior_retained": 2,
+      "dice": 0.22725107178671186
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "clean",
+      "rank": 2,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8484800827127715
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "solid",
+      "rank": 2,
+      "target_rank": 1,
+      "interior_pixels": 3,
+      "interior_retained": 3,
+      "dice": 0.8575265500748964
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8587890921958566
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8571296184527113
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "thick",
+      "rank": 289,
+      "target_rank": 6,
+      "interior_pixels": 5068,
+      "interior_retained": 2363,
+      "dice": 0.6783075582496862
+    },
+    {
+      "sample_id": "ai-free-0141874",
+      "condition": "thick_blur",
+      "rank": 607,
+      "target_rank": 6,
+      "interior_pixels": 2848,
+      "interior_retained": 0,
+      "dice": 0.29300985308506045
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 11,
+      "interior_retained": 11,
+      "dice": 0.8328609994619656
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8447560656103343
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.843703678361886
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 12,
+      "interior_retained": 12,
+      "dice": 0.8453488841051661
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "thick",
+      "rank": 737,
+      "target_rank": 1,
+      "interior_pixels": 7042,
+      "interior_retained": 3367,
+      "dice": 0.6888655579671129
+    },
+    {
+      "sample_id": "ai-free-0142022",
+      "condition": "thick_blur",
+      "rank": 59,
+      "target_rank": 1,
+      "interior_pixels": 4266,
+      "interior_retained": 0,
+      "dice": 0.2999579559994697
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "clean",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 62,
+      "interior_retained": 62,
+      "dice": 0.891183768129775
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "solid",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 127,
+      "interior_retained": 127,
+      "dice": 0.8753293331368635
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "gradient",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 24,
+      "interior_retained": 24,
+      "dice": 0.8790541809753734
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "glare",
+      "rank": 1,
+      "target_rank": 1,
+      "interior_pixels": 58,
+      "interior_retained": 58,
+      "dice": 0.8779061193570173
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "thick",
+      "rank": 219,
+      "target_rank": 1,
+      "interior_pixels": 7161,
+      "interior_retained": 3353,
+      "dice": 0.6715757802898573
+    },
+    {
+      "sample_id": "ai-free-0091943",
+      "condition": "thick_blur",
+      "rank": 97,
+      "target_rank": 1,
+      "interior_pixels": 5960,
+      "interior_retained": 3,
+      "dice": 0.2769233310593119
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "clean",
+      "rank": 2,
+      "target_rank": 2,
+      "interior_pixels": 2,
+      "interior_retained": 2,
+      "dice": 0.8260173235095074
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "solid",
+      "rank": 2,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.836355630336629
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "gradient",
+      "rank": 2,
+      "target_rank": 1,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8392977427207639
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "glare",
+      "rank": 2,
+      "target_rank": 2,
+      "interior_pixels": 0,
+      "interior_retained": 0,
+      "dice": 0.8387478153425737
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "thick",
+      "rank": 2,
+      "target_rank": 2,
+      "interior_pixels": 2308,
+      "interior_retained": 2308,
+      "dice": 0.9523389738946391
+    },
+    {
+      "sample_id": "ai-free-0023867",
+      "condition": "thick_blur",
+      "rank": 5,
+      "target_rank": 2,
+      "interior_pixels": 2596,
+      "interior_retained": 0,
+      "dice": 0.30818045051237836
+    }
+  ]
+}

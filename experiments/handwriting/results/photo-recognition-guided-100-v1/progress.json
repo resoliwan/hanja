@@ -1,0 +1,6 @@
+{
+  "state": "stopped_by_user",
+  "completed_epoch": 25,
+  "checkpoint": "last.pt",
+  "optimizer_saved": true
+}
