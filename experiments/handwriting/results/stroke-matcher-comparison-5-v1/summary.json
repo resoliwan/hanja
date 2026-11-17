@@ -1,0 +1,299 @@
+{
+  "records": 50,
+  "scores": {
+    "shisen": {
+      "all": {
+        "total": 50,
+        "correct": 28,
+        "incorrect": 22,
+        "paint_correct": 39,
+        "tp": 127,
+        "fp": 14,
+        "fn": 27,
+        "precision": 0.900709219858156,
+        "recall": 0.8246753246753247
+      },
+      "correspondence_only": {
+        "total": 45,
+        "correct": 28,
+        "incorrect": 17,
+        "paint_correct": 39,
+        "tp": 127,
+        "fp": 7,
+        "fn": 27,
+        "precision": 0.9477611940298507,
+        "recall": 0.8246753246753247
+      },
+      "original": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "position_scale": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "local_jitter": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "reverse_direction": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "reverse_order": {
+        "total": 5,
+        "correct": 2,
+        "incorrect": 3,
+        "paint_correct": 5,
+        "tp": 10,
+        "fp": 6,
+        "fn": 6,
+        "precision": 0.625,
+        "recall": 0.625
+      },
+      "join": {
+        "total": 5,
+        "correct": 1,
+        "incorrect": 4,
+        "paint_correct": 1,
+        "tp": 7,
+        "fp": 1,
+        "fn": 9,
+        "precision": 0.875,
+        "recall": 0.4375
+      },
+      "split": {
+        "total": 5,
+        "correct": 0,
+        "incorrect": 5,
+        "paint_correct": 3,
+        "tp": 14,
+        "fp": 0,
+        "fn": 7,
+        "precision": 1.0,
+        "recall": 0.6666666666666666
+      },
+      "different_character": {
+        "total": 5,
+        "correct": 0,
+        "incorrect": 5,
+        "paint_correct": 0,
+        "tp": 0,
+        "fp": 7,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": null
+      },
+      "extra_ink": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "duplicate": {
+        "total": 5,
+        "correct": 0,
+        "incorrect": 5,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 5,
+        "precision": 1.0,
+        "recall": 0.7619047619047619
+      }
+    },
+    "target": {
+      "all": {
+        "total": 50,
+        "correct": 41,
+        "incorrect": 9,
+        "paint_correct": 45,
+        "tp": 150,
+        "fp": 9,
+        "fn": 4,
+        "precision": 0.9433962264150944,
+        "recall": 0.974025974025974
+      },
+      "correspondence_only": {
+        "total": 45,
+        "correct": 41,
+        "incorrect": 4,
+        "paint_correct": 45,
+        "tp": 150,
+        "fp": 0,
+        "fn": 4,
+        "precision": 1.0,
+        "recall": 0.974025974025974
+      },
+      "original": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "position_scale": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "local_jitter": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "reverse_direction": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "reverse_order": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "join": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "split": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 21,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "different_character": {
+        "total": 5,
+        "correct": 0,
+        "incorrect": 5,
+        "paint_correct": 0,
+        "tp": 0,
+        "fp": 9,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": null
+      },
+      "extra_ink": {
+        "total": 5,
+        "correct": 5,
+        "incorrect": 0,
+        "paint_correct": 5,
+        "tp": 16,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "duplicate": {
+        "total": 5,
+        "correct": 1,
+        "incorrect": 4,
+        "paint_correct": 5,
+        "tp": 17,
+        "fp": 0,
+        "fn": 4,
+        "precision": 1.0,
+        "recall": 0.8095238095238095
+      }
+    }
+  },
+  "source_snapshot": {
+    "dm/model/handwriting.dart": "061c3644ceedb5f27d617146dbcc282528bf6b79e7ad08628554f243205ee1fb",
+    "dm/model/shooter_glyph.dart": "ed8de13f1462106e801bc4408119d2be0e1e4610d59349aa291ca2cc9e7573e2",
+    "dm/model/shooter_stroke_evaluation.dart": "5992e03ae46277361794fa57b1e42a6d57ba066cb8b05437caf6fbe8329f0db8",
+    "dm/service/shooter_stroke_matcher.dart": "cdb8f68eded3c97986ded8b5ab9a3f5f2bcbb7aadb473a5af8d124a8d4e04ded",
+    "dm/usecase/evaluate_writing_stroke.dart": "4f60900eb7de1fc143b57caca9b2c7a725dc92d63f509a8bbf8e3e11dbfe83a2"
+  },
+  "dataset_sha256": "56e6be97ce26630ebcf45db7bc6a19b05b9b6f28caeee4e7b7167002ee8e4fe6",
+  "local_source_hashes": {
+    "synthetic_cases.py": "c9908a297e1d5c56dd569948ecd1d7a928d0c244a89f3d1f6e2455e0ff65eb38",
+    "target_matcher.py": "4a9f76f79f08b5e24ed4998a0c26b96af100246a58606f0aad8f8ed2db884e7d",
+    "geometry.py": "d424c524178b46cba2b2ef1521c56ba610e8eaa4b2bf74e62d2ea101fc5ed49d",
+    "guided_matcher.py": "8528a7286a72ffe912163a925eec4950b30a26a7f8cb9f8a2ab537f2640c5d8c",
+    "segment_matcher.py": "4c274444c235012955e2b610d56062a66e0d67789ab05a57d0f9064916668e6d"
+  },
+  "timings_seconds": {
+    "target": 1.5879064612090588,
+    "shisen": 0.03485400000000001
+  },
+  "notes": [
+    "Synthetic SVG-derived tests, not independent human handwriting.",
+    "Different-character cases use explicit whole-character rejection policy; shared strokes may legitimately match in a partial-coloring product. Report these separately.",
+    "Join on a one-stroke glyph is a split/reconnect identity case.",
+    "Shisen is its actual sequential use case, target is offline full-glyph assignment. Timing is total per case, not equal runtime or real-time latency.",
+    "Metrics compare input-to-SVG relations and final colored SVG sets. Interval boundary accuracy is not scored in this pilot."
+  ]
+}

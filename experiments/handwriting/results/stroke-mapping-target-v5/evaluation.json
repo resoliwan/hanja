@@ -1,0 +1,957 @@
+{
+  "scope": {
+    "executed": 77,
+    "reviewed_records": 58,
+    "unique_reviewed": 54,
+    "unreviewed_records": 19,
+    "reference": "/Users/leo/aoo_workspace/hanja/experiments/handwriting/results/stroke-mapping-guided-v4/relation-reference.jsonl",
+    "note": "Assistant-reviewed development data, not independent human gold. Exact sample correctness compares input-to-SVG relations, not interval boundaries."
+  },
+  "config": {
+    "points_per_curve": 24,
+    "simplify_tolerance": 0.025,
+    "corner_angle_degrees": 40.0,
+    "minimum_block_length": 0.06,
+    "max_bundle_inputs": 3,
+    "candidates_per_target": 24,
+    "beam_width": 256,
+    "split_penalty": 0.045,
+    "merge_penalty": 0.015,
+    "order_penalty": 0.025,
+    "unused_ink_penalty": 0.4,
+    "missing_target_cost": 0.6,
+    "direction_weight": 0.12,
+    "use_anchor_alignment": true,
+    "min_direction_cosine": 0.65,
+    "max_anchor_shift": 0.5,
+    "coverage_distance": 0.16
+  },
+  "current": {
+    "total": 54,
+    "correct": 54,
+    "incorrect": 0,
+    "by_character": {
+      "二": {
+        "total": 14,
+        "correct": 14,
+        "incorrect": 0
+      },
+      "一": {
+        "total": 13,
+        "correct": 13,
+        "incorrect": 0
+      },
+      "三": {
+        "total": 8,
+        "correct": 8,
+        "incorrect": 0
+      },
+      "用": {
+        "total": 10,
+        "correct": 10,
+        "incorrect": 0
+      },
+      "四": {
+        "total": 9,
+        "correct": 9,
+        "incorrect": 0
+      }
+    }
+  },
+  "baseline": {
+    "total": 54,
+    "correct": 43,
+    "incorrect": 11
+  },
+  "improved": 11,
+  "regressed": 0,
+  "relation_metrics": {
+    "samples": 54,
+    "expected_relations": 160,
+    "predicted_relations": 160,
+    "tp": 160,
+    "fp": 0,
+    "fn": 0,
+    "precision_pct": 100.0,
+    "recall_pct": 100.0,
+    "f1_pct": 100.0,
+    "exact_sample_pct": 100.0
+  },
+  "baseline_relation_metrics": {
+    "samples": 54,
+    "expected_relations": 160,
+    "predicted_relations": 170,
+    "tp": 158,
+    "fp": 12,
+    "fn": 2,
+    "precision_pct": 92.94117647058823,
+    "recall_pct": 98.75,
+    "f1_pct": 95.75757575757575,
+    "exact_sample_pct": 79.62962962962963
+  },
+  "samples": [
+    {
+      "sample_id": "trad1-01410",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-06150",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08158",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08924",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-09098",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-09293",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-10119",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-10321",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-11138",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-14245",
+      "character": "用",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-17439",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-18781",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-19169",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-03369",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-04099",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-04712",
+      "character": "用",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-07662",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-09888",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-12278",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-13310",
+      "character": "用",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-19401",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-00415",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-06282",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-07699",
+      "character": "用",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-08899",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-09306",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-09499",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-09901",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-10542",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-14611",
+      "character": "用",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-18458",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-05154",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-08408",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-09843",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-13592",
+      "character": "用",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-13787",
+      "character": "用",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-17858",
+      "character": "用",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-19231",
+      "character": "用",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-00611",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-03643",
+      "character": "二",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-07432",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-08867",
+      "character": "用",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-12161",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-13377",
+      "character": "三",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-17147",
+      "character": "一",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-02806",
+      "character": "四",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08547",
+      "character": "四",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-18222",
+      "character": "四",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-04521",
+      "character": "四",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-03276",
+      "character": "四",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-11719",
+      "character": "四",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-02440",
+      "character": "四",
+      "baseline_verdict": "incorrect",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-17443",
+      "character": "四",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-14194",
+      "character": "四",
+      "baseline_verdict": "correct",
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    }
+  ],
+  "constructed_cases": [
+    {
+      "sample_id": "trad1-01410",
+      "character": "二",
+      "transformation": "split_longest",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-01410",
+      "character": "二",
+      "transformation": "join_first_two",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-06150",
+      "character": "一",
+      "transformation": "split_longest",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08924",
+      "character": "三",
+      "transformation": "split_longest",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08924",
+      "character": "三",
+      "transformation": "join_first_two",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-14245",
+      "character": "用",
+      "transformation": "split_longest",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-14245",
+      "character": "用",
+      "transformation": "join_first_two",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-02806",
+      "character": "四",
+      "transformation": "split_longest",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-02806",
+      "character": "四",
+      "transformation": "join_first_two",
+      "expected_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "predicted_relations": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "verdict": "correct",
+      "missing": [],
+      "extra": []
+    }
+  ],
+  "constructed_summary": {
+    "correct": 9
+  },
+  "all_record_missing_targets": [
+    {
+      "sample_id": "trad1-10550",
+      "character": "四",
+      "missing": [
+        3
+      ]
+    },
+    {
+      "sample_id": "trad2-18788",
+      "character": "用",
+      "missing": [
+        3
+      ]
+    },
+    {
+      "sample_id": "trad2-19818",
+      "character": "用",
+      "missing": [
+        4
+      ]
+    },
+    {
+      "sample_id": "trad5-00224",
+      "character": "四",
+      "missing": [
+        4
+      ]
+    }
+  ]
+}

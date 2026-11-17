@@ -1,0 +1,391 @@
+{
+  "total": 77,
+  "common_baseline_samples": 62,
+  "baseline_accepted": 48,
+  "current_accepted_on_common_samples": 36,
+  "newly_accepted": [
+    "trad2-10317",
+    "trad2-12711",
+    "trad4-08633",
+    "trad5-10416",
+    "trad5-15974"
+  ],
+  "newly_pending": [
+    "trad1-01410",
+    "trad1-09293",
+    "trad1-18781",
+    "trad2-04712",
+    "trad2-09888",
+    "trad2-13310",
+    "trad3-00415",
+    "trad3-08899",
+    "trad3-09306",
+    "trad4-05154",
+    "trad4-08408",
+    "trad4-13787",
+    "trad4-17858",
+    "trad5-03643",
+    "trad5-05250",
+    "trad5-08867",
+    "trad5-18758"
+  ],
+  "previously_visually_reviewed_one_to_one": 48,
+  "target_sets_agree_with_previous_review": 40,
+  "target_set_disagreements": [
+    {
+      "sample_id": "trad2-04712",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "pending",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1
+        ],
+        [
+          1,
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad2-13310",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "pending",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1,
+          3
+        ],
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad3-07699",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "accepted",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1,
+          2
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad3-14611",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "accepted",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          5
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          5
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad4-13592",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "accepted",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad4-13787",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "pending",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad5-08867",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "pending",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target_sets_agree": false
+    },
+    {
+      "sample_id": "trad5-14580",
+      "character": "用",
+      "previous_status": "accepted",
+      "status": "accepted",
+      "reviewed_one_to_one": true,
+      "expected_target_sets": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          5
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ]
+      ],
+      "proposed_target_sets": [
+        [
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          5
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ]
+      ],
+      "target_sets_agree": false
+    }
+  ],
+  "reverse_checks": 77,
+  "reverse_agree": 77,
+  "half_step_target_sets_agree": 74,
+  "half_step_status_agree": 77,
+  "accuracy": null,
+  "limitation": "Target-set agreement does not prove correct interval boundaries or connector labels. Prior annotations are assistant visual review, not independent human gold."
+}

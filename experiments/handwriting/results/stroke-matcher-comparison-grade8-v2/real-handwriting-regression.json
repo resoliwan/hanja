@@ -1,0 +1,331 @@
+{
+  "total": 54,
+  "correct": 54,
+  "incorrect": 0,
+  "samples": [
+    {
+      "sample_id": "trad1-01410",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-06150",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08158",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08924",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-09098",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-09293",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-10119",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-10321",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-11138",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-14245",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-17439",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-18781",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-19169",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-03369",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-04099",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-04712",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-07662",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-09888",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-12278",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-13310",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-19401",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-00415",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-06282",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-07699",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-08899",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-09306",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-09499",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-09901",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-10542",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-14611",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-18458",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-05154",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-08408",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-09843",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-13592",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-13787",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-17858",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-19231",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-00611",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-03643",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-07432",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-08867",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-12161",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-13377",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-17147",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-02806",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-08547",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad1-18222",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad2-04521",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-03276",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad3-11719",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-02440",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad4-17443",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    },
+    {
+      "sample_id": "trad5-14194",
+      "correct": true,
+      "missing": [],
+      "extra": []
+    }
+  ]
+}

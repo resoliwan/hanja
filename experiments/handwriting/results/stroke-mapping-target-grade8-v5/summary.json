@@ -1,0 +1,664 @@
+{
+  "total": 550,
+  "by_character": {
+    "五": {
+      "total": 20,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 20
+      },
+      "unique_trajectories": 19
+    },
+    "南": {
+      "total": 20,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 20
+      },
+      "unique_trajectories": 19
+    },
+    "東": {
+      "total": 26,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 26
+      },
+      "unique_trajectories": 24
+    },
+    "母": {
+      "total": 16,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 16
+      },
+      "unique_trajectories": 13
+    },
+    "門": {
+      "total": 21,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 21
+      },
+      "unique_trajectories": 20
+    },
+    "人": {
+      "total": 19,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 19
+      },
+      "unique_trajectories": 17
+    },
+    "火": {
+      "total": 27,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 24,
+        "invalid": 3
+      },
+      "unique_trajectories": 25
+    },
+    "女": {
+      "total": 21,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 21
+      },
+      "unique_trajectories": 19
+    },
+    "二": {
+      "total": 16,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 16
+      },
+      "unique_trajectories": 15
+    },
+    "兄": {
+      "total": 19,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 18,
+        "invalid": 1
+      },
+      "unique_trajectories": 19
+    },
+    "男": {
+      "total": 20,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 20
+      },
+      "unique_trajectories": 18
+    },
+    "四": {
+      "total": 15,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 15
+      },
+      "unique_trajectories": 14
+    },
+    "西": {
+      "total": 19,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 19
+      },
+      "unique_trajectories": 18
+    },
+    "七": {
+      "total": 17,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 17
+      },
+      "unique_trajectories": 16
+    },
+    "十": {
+      "total": 18,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 18
+      },
+      "unique_trajectories": 17
+    },
+    "金": {
+      "total": 33,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 33
+      },
+      "unique_trajectories": 32
+    },
+    "北": {
+      "total": 12,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 12
+      },
+      "unique_trajectories": 12
+    },
+    "弟": {
+      "total": 18,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 16,
+        "invalid": 2
+      },
+      "unique_trajectories": 15
+    },
+    "六": {
+      "total": 17,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 17
+      },
+      "unique_trajectories": 16
+    },
+    "九": {
+      "total": 16,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 16
+      },
+      "unique_trajectories": 16
+    },
+    "日": {
+      "total": 15,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 15
+      },
+      "unique_trajectories": 13
+    },
+    "水": {
+      "total": 19,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 18,
+        "invalid": 1
+      },
+      "unique_trajectories": 17
+    },
+    "八": {
+      "total": 15,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 15
+      },
+      "unique_trajectories": 15
+    },
+    "月": {
+      "total": 13,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 13
+      },
+      "unique_trajectories": 13
+    },
+    "一": {
+      "total": 14,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 14
+      },
+      "unique_trajectories": 14
+    },
+    "三": {
+      "total": 10,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 10
+      },
+      "unique_trajectories": 9
+    },
+    "土": {
+      "total": 14,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 14
+      },
+      "unique_trajectories": 14
+    },
+    "木": {
+      "total": 23,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 23
+      },
+      "unique_trajectories": 20
+    },
+    "子": {
+      "total": 19,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 19
+      },
+      "unique_trajectories": 17
+    },
+    "父": {
+      "total": 18,
+      "accepted": 0,
+      "pending": 0,
+      "status_counts": {
+        "mapped": 18
+      },
+      "unique_trajectories": 17
+    }
+  },
+  "status_counts": {
+    "mapped": 543,
+    "invalid": 7
+  },
+  "unique_trajectories": 513,
+  "pending_reasons": {
+    "invalid_stroke_coordinates": 5,
+    "zero_length_stroke": 2
+  },
+  "training_usage": {
+    "review_required": 550
+  },
+  "accuracy": null,
+  "accuracy_note": "No independently annotated correspondence test set; acceptance is not accuracy.",
+  "usage": "pseudo_label_candidates_only; original SCUT evaluation splits unchanged",
+  "algorithm": "target-bundle-exclusive-v5",
+  "writing_order_used_for_assignment": true,
+  "stability_note": "Coverage and alignment fit are not correctness.",
+  "mapping_schema": "many_to_many_source_intervals",
+  "config": {
+    "points_per_curve": 24,
+    "simplify_tolerance": 0.025,
+    "corner_angle_degrees": 40.0,
+    "minimum_block_length": 0.06,
+    "max_bundle_inputs": 3,
+    "candidates_per_target": 24,
+    "beam_width": 256,
+    "split_penalty": 0.045,
+    "merge_penalty": 0.015,
+    "order_penalty": 0.025,
+    "unused_ink_penalty": 0.4,
+    "missing_target_cost": 0.6,
+    "direction_weight": 0.12,
+    "use_anchor_alignment": true,
+    "min_direction_cosine": 0.65,
+    "max_anchor_shift": 0.5,
+    "coverage_distance": 0.16
+  },
+  "source": {
+    "path": "/Users/leo/aoo_workspace/hanja/resources/handwriting/datasets/onHCCTestDB-TradChar.zip",
+    "sha256": "d9b0d9e3e1474a52b7b2fc105c9ee34316009d6d104e672c6ff01c303d2d58c9"
+  },
+  "templates": {
+    "一": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e00.svg",
+      "sha256": "e9f941de86969c28b5f1774d822ee3cc510a770922fd47c5c05539ac9c432df4"
+    },
+    "七": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e03.svg",
+      "sha256": "30e77acd156785b175a4f4c900a5500fd0b8824c38c76e71769fd1f5cbcfeecd"
+    },
+    "三": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e09.svg",
+      "sha256": "aaf043f272176b3fb029b2e5f439d21f6bb8c5a694c06d92962d9e0e6a23f5a5"
+    },
+    "九": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e5d.svg",
+      "sha256": "707e2030f4d2beba5d81f20f896083170dabc6c7870e26d1aa7e65a321743540"
+    },
+    "二": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e8c.svg",
+      "sha256": "abc2035e92d6852e6c2b64a055514d499ec27ff361f50dabe87b030adadf44d9"
+    },
+    "五": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e94.svg",
+      "sha256": "7494eadd227c655426f264054242ccc27c2bdfaf5a3b29f2777716b1ea549cd1"
+    },
+    "人": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4eba.svg",
+      "sha256": "67747b201dd8bbc0dc8774178d7ed09341c4062fbbc74c039c375c8827ff82f4"
+    },
+    "兄": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5144.svg",
+      "sha256": "9cd604cc6d1b4b5f80ebdd4df4f0b790d8ceb92e4381618b8d193f72dd4e0c8f"
+    },
+    "八": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u516b.svg",
+      "sha256": "b1060e7140cf38805177fb141c3387a53668b91dddbbc2ce1cbeb91bba719d6f"
+    },
+    "六": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u516d.svg",
+      "sha256": "2e756d4777f6ee78ed44ee8e9d424900afd7779caef3a8460ebd61bad73e68f2"
+    },
+    "北": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5317.svg",
+      "sha256": "85f2c2d007bb22a458f68e8bf918408bc1f07e28bd3c00e11be255b4d03df46a"
+    },
+    "十": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5341.svg",
+      "sha256": "d662163dec03fa38b2c26108d26a067acd0b8494c89b82b3c0b32e8c54d0cc42"
+    },
+    "南": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5357.svg",
+      "sha256": "0fbfa54ae20850fc32ae10a67a52d77542e85883fed98912b3be490647c5bd6a"
+    },
+    "四": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u56db.svg",
+      "sha256": "ac86db2dbe506d74f4fc1e786be08471b93148cb45ea2df0e78ccf146de74960"
+    },
+    "土": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u571f.svg",
+      "sha256": "f9dbb20a205e37c1d50ac6c29f295d3ac6785c14337fb4bc739ab326cb5613fa"
+    },
+    "女": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5973.svg",
+      "sha256": "ee78e4bdb8ead2db005ef0fa423c1eebecf643f2383da614b6278f9376972d4d"
+    },
+    "子": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5b50.svg",
+      "sha256": "8649973e25c87803d6621b992a7034effec1de1b88ab59318fc2fe6fc8641e4a"
+    },
+    "弟": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u5f1f.svg",
+      "sha256": "3db8b1928fe4a3df975e647952afc419c860c5ec796c58d6557a78d62eaf757f"
+    },
+    "日": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u65e5.svg",
+      "sha256": "ae1fbe758c5efc0dcbed9c2454e5da4f4f51e2444cd31001fe284ac87eed840e"
+    },
+    "月": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u6708.svg",
+      "sha256": "6877f2686528888516f3a5dff9a0e82a8bc43d13668d5b8393e5ec3d4bcba457"
+    },
+    "木": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u6728.svg",
+      "sha256": "993b736a51969b6333b6eef4c87f7e1a32fa66443da6f69a01cb6126778df1c2"
+    },
+    "東": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u6771.svg",
+      "sha256": "b7e6c5048083d5824e683b3f0c428bcc7d73d40af3231128e8644fa2d5856b94"
+    },
+    "母": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u6bcd.svg",
+      "sha256": "712f7bfb4975e9aedc244c238f57c2c8c06e5c6d86d3567f300ca37707a1f831"
+    },
+    "水": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u6c34.svg",
+      "sha256": "e3d25921991c13fcfe38d7acf9fc26e481170e5e850504f76a94da06d0207b5f"
+    },
+    "火": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u706b.svg",
+      "sha256": "7df88a13e4911edfb83d323d7f4c41868eedbe95f73a519cf149ff409ba170be"
+    },
+    "父": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u7236.svg",
+      "sha256": "cc259a700b9a6061d46b661cdbe539fd59932291260bbd82321a8f9452bfbea1"
+    },
+    "男": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u7537.svg",
+      "sha256": "161732bbfdfa7b851490872ebd050a202e048ab42778af8e7ad9d6b14e5ea82c"
+    },
+    "西": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u897f.svg",
+      "sha256": "b6267fd3958f71b4f951656957177abaacb955106af722ea5f557efa52d37461"
+    },
+    "金": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u91d1.svg",
+      "sha256": "fc238fd65927bfde6a0a0baf2b2810e1c229455e2a19668f14313ea1ec769f2b"
+    },
+    "門": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u9580.svg",
+      "sha256": "03423e245ecb577f3288d528691e846806fa848aa40820f14d8c9835ef6d6438"
+    }
+  },
+  "mapping_indices": "1-based; source=actual writing order, SVG=numbered clip-path order",
+  "selection": {
+    "characters": [
+      "一",
+      "七",
+      "三",
+      "九",
+      "二",
+      "五",
+      "人",
+      "兄",
+      "八",
+      "六",
+      "北",
+      "十",
+      "南",
+      "四",
+      "土",
+      "女",
+      "子",
+      "弟",
+      "日",
+      "月",
+      "木",
+      "東",
+      "母",
+      "水",
+      "火",
+      "父",
+      "男",
+      "西",
+      "金",
+      "門"
+    ],
+    "grade": "8",
+    "grade_system": "daehan-geomjeonghoe-hanja",
+    "entries": [
+      {
+        "character": "一",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4e00.jsonc",
+        "declared_strokes": 1,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4e00.svg"
+      },
+      {
+        "character": "七",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4e03.jsonc",
+        "declared_strokes": 2,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4e03.svg"
+      },
+      {
+        "character": "三",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4e09.jsonc",
+        "declared_strokes": 3,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4e09.svg"
+      },
+      {
+        "character": "九",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4e5d.jsonc",
+        "declared_strokes": 2,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4e5d.svg"
+      },
+      {
+        "character": "二",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4e8c.jsonc",
+        "declared_strokes": 2,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4e8c.svg"
+      },
+      {
+        "character": "五",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4e94.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4e94.svg"
+      },
+      {
+        "character": "人",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u4e/u4eba.jsonc",
+        "declared_strokes": 2,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u4eba.svg"
+      },
+      {
+        "character": "兄",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u51/u5144.jsonc",
+        "declared_strokes": 5,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5144.svg"
+      },
+      {
+        "character": "八",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u51/u516b.jsonc",
+        "declared_strokes": 2,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u516b.svg"
+      },
+      {
+        "character": "六",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u51/u516d.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u516d.svg"
+      },
+      {
+        "character": "北",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u53/u5317.jsonc",
+        "declared_strokes": 5,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5317.svg"
+      },
+      {
+        "character": "十",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u53/u5341.jsonc",
+        "declared_strokes": 2,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5341.svg"
+      },
+      {
+        "character": "南",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u53/u5357.jsonc",
+        "declared_strokes": 9,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5357.svg"
+      },
+      {
+        "character": "四",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u56/u56db.jsonc",
+        "declared_strokes": 5,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u56db.svg"
+      },
+      {
+        "character": "土",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u57/u571f.jsonc",
+        "declared_strokes": 3,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u571f.svg"
+      },
+      {
+        "character": "女",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u59/u5973.jsonc",
+        "declared_strokes": 3,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5973.svg"
+      },
+      {
+        "character": "子",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u5b/u5b50.jsonc",
+        "declared_strokes": 3,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5b50.svg"
+      },
+      {
+        "character": "弟",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u5f/u5f1f.jsonc",
+        "declared_strokes": 7,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u5f1f.svg"
+      },
+      {
+        "character": "日",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u65/u65e5.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u65e5.svg"
+      },
+      {
+        "character": "月",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u67/u6708.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u6708.svg"
+      },
+      {
+        "character": "木",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u67/u6728.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u6728.svg"
+      },
+      {
+        "character": "東",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u67/u6771.jsonc",
+        "declared_strokes": 8,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u6771.svg"
+      },
+      {
+        "character": "母",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u6b/u6bcd.jsonc",
+        "declared_strokes": 5,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u6bcd.svg"
+      },
+      {
+        "character": "水",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u6c/u6c34.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u6c34.svg"
+      },
+      {
+        "character": "火",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u70/u706b.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u706b.svg"
+      },
+      {
+        "character": "父",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u72/u7236.jsonc",
+        "declared_strokes": 4,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u7236.svg"
+      },
+      {
+        "character": "男",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u75/u7537.jsonc",
+        "declared_strokes": 7,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u7537.svg"
+      },
+      {
+        "character": "西",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u89/u897f.jsonc",
+        "declared_strokes": 6,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u897f.svg"
+      },
+      {
+        "character": "金",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u91/u91d1.jsonc",
+        "declared_strokes": 8,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u91d1.svg"
+      },
+      {
+        "character": "門",
+        "entry_path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/entries/u95/u9580.jsonc",
+        "declared_strokes": 8,
+        "current_asset": "assets/stroke-order/generated/daehan-level8-introduced-notosanskr/u9580.svg"
+      }
+    ],
+    "template_variant": "original stroke-order SVGs"
+  },
+  "visual_outputs": false
+}

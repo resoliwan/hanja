@@ -1,0 +1,35 @@
+{
+  "reviewer": "assistant_visual_review_not_independent_gold",
+  "total": 62,
+  "unique_trajectories": 58,
+  "visually_mappable": 48,
+  "agrees_with_visual_review": 62,
+  "unique_agrees_with_visual_review": 58,
+  "correspondence_disagreements": [],
+  "order_invariance_checks": 96,
+  "order_invariance_passed": 96,
+  "order_invariance_failures": [],
+  "by_character": {
+    "一": {
+      "total": 14,
+      "mappable": 13,
+      "agrees": 14
+    },
+    "二": {
+      "total": 16,
+      "mappable": 15,
+      "agrees": 16
+    },
+    "三": {
+      "total": 10,
+      "mappable": 9,
+      "agrees": 10
+    },
+    "用": {
+      "total": 22,
+      "mappable": 11,
+      "agrees": 22
+    }
+  },
+  "limitation": "一 is a unique correspondence conditional on a trusted character label. No recognition accuracy or population accuracy is claimed."
+}

@@ -1,0 +1,2512 @@
+[
+  {
+    "case_id": "U4E00-original",
+    "character": "一",
+    "variant": "original",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-position_scale",
+    "character": "一",
+    "variant": "position_scale",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-local_jitter",
+    "character": "一",
+    "variant": "local_jitter",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-reverse_direction",
+    "character": "一",
+    "variant": "reverse_direction",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-reverse_order",
+    "character": "一",
+    "variant": "reverse_order",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-join",
+    "character": "一",
+    "variant": "join",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-split",
+    "character": "一",
+    "variant": "split",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-different_character",
+    "character": "一",
+    "variant": "different_character",
+    "policy": "whole_character_rejection",
+    "expected": [],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-extra_ink",
+    "character": "一",
+    "variant": "extra_ink",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E00-duplicate",
+    "character": "一",
+    "variant": "duplicate",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-original",
+    "character": "二",
+    "variant": "original",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-position_scale",
+    "character": "二",
+    "variant": "position_scale",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-local_jitter",
+    "character": "二",
+    "variant": "local_jitter",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-reverse_direction",
+    "character": "二",
+    "variant": "reverse_direction",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-reverse_order",
+    "character": "二",
+    "variant": "reverse_order",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-join",
+    "character": "二",
+    "variant": "join",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "shisen": []
+    }
+  },
+  {
+    "case_id": "U4E8C-split",
+    "character": "二",
+    "variant": "split",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-different_character",
+    "character": "二",
+    "variant": "different_character",
+    "policy": "whole_character_rejection",
+    "expected": [],
+    "predictions": {
+      "target": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-extra_ink",
+    "character": "二",
+    "variant": "extra_ink",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E8C-duplicate",
+    "character": "二",
+    "variant": "duplicate",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-original",
+    "character": "三",
+    "variant": "original",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-position_scale",
+    "character": "三",
+    "variant": "position_scale",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-local_jitter",
+    "character": "三",
+    "variant": "local_jitter",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-reverse_direction",
+    "character": "三",
+    "variant": "reverse_direction",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-reverse_order",
+    "character": "三",
+    "variant": "reverse_order",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-join",
+    "character": "三",
+    "variant": "join",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-split",
+    "character": "三",
+    "variant": "split",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-different_character",
+    "character": "三",
+    "variant": "different_character",
+    "policy": "whole_character_rejection",
+    "expected": [],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-extra_ink",
+    "character": "三",
+    "variant": "extra_ink",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U4E09-duplicate",
+    "character": "三",
+    "variant": "duplicate",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-original",
+    "character": "四",
+    "variant": "original",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-position_scale",
+    "character": "四",
+    "variant": "position_scale",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-local_jitter",
+    "character": "四",
+    "variant": "local_jitter",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-reverse_direction",
+    "character": "四",
+    "variant": "reverse_direction",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-reverse_order",
+    "character": "四",
+    "variant": "reverse_order",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-join",
+    "character": "四",
+    "variant": "join",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-split",
+    "character": "四",
+    "variant": "split",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-different_character",
+    "character": "四",
+    "variant": "different_character",
+    "policy": "whole_character_rejection",
+    "expected": [],
+    "predictions": {
+      "target": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-extra_ink",
+    "character": "四",
+    "variant": "extra_ink",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U56DB-duplicate",
+    "character": "四",
+    "variant": "duplicate",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-original",
+    "character": "用",
+    "variant": "original",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-position_scale",
+    "character": "用",
+    "variant": "position_scale",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-local_jitter",
+    "character": "用",
+    "variant": "local_jitter",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-reverse_direction",
+    "character": "用",
+    "variant": "reverse_direction",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-reverse_order",
+    "character": "用",
+    "variant": "reverse_order",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-join",
+    "character": "用",
+    "variant": "join",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-split",
+    "character": "用",
+    "variant": "split",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-different_character",
+    "character": "用",
+    "variant": "different_character",
+    "policy": "whole_character_rejection",
+    "expected": [],
+    "predictions": {
+      "target": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-extra_ink",
+    "character": "用",
+    "variant": "extra_ink",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "case_id": "U7528-duplicate",
+    "character": "用",
+    "variant": "duplicate",
+    "policy": "segment_correspondence",
+    "expected": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "predictions": {
+      "target": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "shisen": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "total": 62,
+  "by_character": {
+    "二": {
+      "total": 16,
+      "accepted": 15,
+      "pending": 1,
+      "unique_trajectories": 15
+    },
+    "一": {
+      "total": 14,
+      "accepted": 13,
+      "pending": 1,
+      "unique_trajectories": 14
+    },
+    "用": {
+      "total": 22,
+      "accepted": 11,
+      "pending": 11,
+      "unique_trajectories": 20
+    },
+    "三": {
+      "total": 10,
+      "accepted": 9,
+      "pending": 1,
+      "unique_trajectories": 9
+    }
+  },
+  "unique_trajectories": 58,
+  "pending_reasons": {
+    "stroke_count_mismatch": 14
+  },
+  "training_usage": {
+    "review_required": 42,
+    "candidate": 20
+  },
+  "accuracy": null,
+  "accuracy_note": "No independently annotated correspondence test set; acceptance is not accuracy.",
+  "usage": "pseudo_label_candidates_only; original SCUT evaluation splits unchanged",
+  "algorithm": "structural-correspondence-stability-v2",
+  "writing_order_used_for_assignment": false,
+  "stability_note": "Agreement across fixed geometric probes, not a probability of correctness.",
+  "config": {
+    "points_per_stroke": 32,
+    "min_vertical_separation": 0.03,
+    "min_assignment_margin": 0.01,
+    "tilt_probe_degrees": 5.0,
+    "quality_pair_cost": 0.24
+  },
+  "source": {
+    "path": "/Users/leo/aoo_workspace/hanja/resources/handwriting/datasets/onHCCTestDB-TradChar.zip",
+    "sha256": "d9b0d9e3e1474a52b7b2fc105c9ee34316009d6d104e672c6ff01c303d2d58c9"
+  },
+  "templates": {
+    "一": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e00.svg",
+      "sha256": "e9f941de86969c28b5f1774d822ee3cc510a770922fd47c5c05539ac9c432df4"
+    },
+    "二": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e8c.svg",
+      "sha256": "abc2035e92d6852e6c2b64a055514d499ec27ff361f50dabe87b030adadf44d9"
+    },
+    "三": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u4e09.svg",
+      "sha256": "aaf043f272176b3fb029b2e5f439d21f6bb8c5a694c06d92962d9e0e6a23f5a5"
+    },
+    "用": {
+      "path": "/Users/leo/aoo_workspace/simpledic/data/dictionaries/hanja-ko/assets/stroke-order/u7528.svg",
+      "sha256": "395f7e255f3019d565745dde4bd6b5069c1e64669bfb686c256ce4aa2a164ce0"
+    }
+  },
+  "mapping_indices": "1-based; source=actual writing order, SVG=numbered clip-path order"
+}

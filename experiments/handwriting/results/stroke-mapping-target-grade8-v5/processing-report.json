@@ -1,0 +1,671 @@
+{
+  "grade": "8",
+  "grade_system": "daehan-geomjeonghoe-hanja",
+  "total_characters": 30,
+  "total_records": 550,
+  "unique_trajectories": 513,
+  "duplicate_records": 37,
+  "status_counts": {
+    "all_targets_assigned": 487,
+    "missing_targets": 56,
+    "invalid": 7
+  },
+  "by_character": [
+    {
+      "character": "一",
+      "svg_strokes": 1,
+      "total": 14,
+      "unique_trajectories": 14,
+      "all_targets_assigned": 14,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 0
+    },
+    {
+      "character": "七",
+      "svg_strokes": 2,
+      "total": 17,
+      "unique_trajectories": 16,
+      "all_targets_assigned": 17,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 1
+    },
+    {
+      "character": "三",
+      "svg_strokes": 3,
+      "total": 10,
+      "unique_trajectories": 9,
+      "all_targets_assigned": 10,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 1
+    },
+    {
+      "character": "九",
+      "svg_strokes": 2,
+      "total": 16,
+      "unique_trajectories": 16,
+      "all_targets_assigned": 16,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 0
+    },
+    {
+      "character": "二",
+      "svg_strokes": 2,
+      "total": 16,
+      "unique_trajectories": 15,
+      "all_targets_assigned": 16,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 1
+    },
+    {
+      "character": "五",
+      "svg_strokes": 4,
+      "total": 20,
+      "unique_trajectories": 19,
+      "all_targets_assigned": 20,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 15
+    },
+    {
+      "character": "人",
+      "svg_strokes": 2,
+      "total": 19,
+      "unique_trajectories": 17,
+      "all_targets_assigned": 19,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 2
+    },
+    {
+      "character": "兄",
+      "svg_strokes": 5,
+      "total": 19,
+      "unique_trajectories": 19,
+      "all_targets_assigned": 17,
+      "missing_targets": 1,
+      "invalid": 1,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 12
+    },
+    {
+      "character": "八",
+      "svg_strokes": 2,
+      "total": 15,
+      "unique_trajectories": 15,
+      "all_targets_assigned": 15,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 0
+    },
+    {
+      "character": "六",
+      "svg_strokes": 4,
+      "total": 17,
+      "unique_trajectories": 16,
+      "all_targets_assigned": 17,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 5
+    },
+    {
+      "character": "北",
+      "svg_strokes": 5,
+      "total": 12,
+      "unique_trajectories": 12,
+      "all_targets_assigned": 12,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 9
+    },
+    {
+      "character": "十",
+      "svg_strokes": 2,
+      "total": 18,
+      "unique_trajectories": 17,
+      "all_targets_assigned": 18,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 1
+    },
+    {
+      "character": "南",
+      "svg_strokes": 9,
+      "total": 20,
+      "unique_trajectories": 19,
+      "all_targets_assigned": 12,
+      "missing_targets": 8,
+      "invalid": 0,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 16
+    },
+    {
+      "character": "四",
+      "svg_strokes": 5,
+      "total": 15,
+      "unique_trajectories": 14,
+      "all_targets_assigned": 13,
+      "missing_targets": 2,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 5
+    },
+    {
+      "character": "土",
+      "svg_strokes": 3,
+      "total": 14,
+      "unique_trajectories": 14,
+      "all_targets_assigned": 14,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 0
+    },
+    {
+      "character": "女",
+      "svg_strokes": 3,
+      "total": 21,
+      "unique_trajectories": 19,
+      "all_targets_assigned": 21,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 3
+    },
+    {
+      "character": "子",
+      "svg_strokes": 3,
+      "total": 19,
+      "unique_trajectories": 17,
+      "all_targets_assigned": 19,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 17
+    },
+    {
+      "character": "弟",
+      "svg_strokes": 7,
+      "total": 18,
+      "unique_trajectories": 15,
+      "all_targets_assigned": 9,
+      "missing_targets": 7,
+      "invalid": 2,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 9
+    },
+    {
+      "character": "日",
+      "svg_strokes": 4,
+      "total": 15,
+      "unique_trajectories": 13,
+      "all_targets_assigned": 15,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 5
+    },
+    {
+      "character": "月",
+      "svg_strokes": 4,
+      "total": 13,
+      "unique_trajectories": 13,
+      "all_targets_assigned": 13,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 6
+    },
+    {
+      "character": "木",
+      "svg_strokes": 4,
+      "total": 23,
+      "unique_trajectories": 20,
+      "all_targets_assigned": 23,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 2,
+      "multiple_targets_for_input": 9
+    },
+    {
+      "character": "東",
+      "svg_strokes": 8,
+      "total": 26,
+      "unique_trajectories": 24,
+      "all_targets_assigned": 18,
+      "missing_targets": 8,
+      "invalid": 0,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 7
+    },
+    {
+      "character": "母",
+      "svg_strokes": 5,
+      "total": 16,
+      "unique_trajectories": 13,
+      "all_targets_assigned": 15,
+      "missing_targets": 1,
+      "invalid": 0,
+      "multiple_inputs_for_target": 3,
+      "multiple_targets_for_input": 9
+    },
+    {
+      "character": "水",
+      "svg_strokes": 4,
+      "total": 19,
+      "unique_trajectories": 17,
+      "all_targets_assigned": 18,
+      "missing_targets": 0,
+      "invalid": 1,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 14
+    },
+    {
+      "character": "火",
+      "svg_strokes": 4,
+      "total": 27,
+      "unique_trajectories": 25,
+      "all_targets_assigned": 24,
+      "missing_targets": 0,
+      "invalid": 3,
+      "multiple_inputs_for_target": 0,
+      "multiple_targets_for_input": 13
+    },
+    {
+      "character": "父",
+      "svg_strokes": 4,
+      "total": 18,
+      "unique_trajectories": 17,
+      "all_targets_assigned": 18,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 7
+    },
+    {
+      "character": "男",
+      "svg_strokes": 7,
+      "total": 20,
+      "unique_trajectories": 18,
+      "all_targets_assigned": 12,
+      "missing_targets": 8,
+      "invalid": 0,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 18
+    },
+    {
+      "character": "西",
+      "svg_strokes": 6,
+      "total": 19,
+      "unique_trajectories": 18,
+      "all_targets_assigned": 17,
+      "missing_targets": 2,
+      "invalid": 0,
+      "multiple_inputs_for_target": 1,
+      "multiple_targets_for_input": 6
+    },
+    {
+      "character": "金",
+      "svg_strokes": 8,
+      "total": 33,
+      "unique_trajectories": 32,
+      "all_targets_assigned": 14,
+      "missing_targets": 19,
+      "invalid": 0,
+      "multiple_inputs_for_target": 3,
+      "multiple_targets_for_input": 30
+    },
+    {
+      "character": "門",
+      "svg_strokes": 8,
+      "total": 21,
+      "unique_trajectories": 20,
+      "all_targets_assigned": 21,
+      "missing_targets": 0,
+      "invalid": 0,
+      "multiple_inputs_for_target": 4,
+      "multiple_targets_for_input": 12
+    }
+  ],
+  "multiple_inputs_for_target": 19,
+  "multiple_targets_for_input": 233,
+  "records_with_fully_unassigned_inputs": 32,
+  "runtime_seconds": {
+    "total": 36.3910873439163,
+    "median": 0.03936493746004999,
+    "p95": 0.2082775419112295,
+    "maximum": 0.4436641668435186
+  },
+  "existing_reference_evaluation": {
+    "total": 44,
+    "correct": 44,
+    "incorrect": 0,
+    "samples": [
+      {
+        "sample_id": "trad1-01410",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-06150",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-08158",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-08924",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-09098",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-09293",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-10119",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-10321",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-11138",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-17439",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-18781",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-19169",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-03369",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-04099",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-07662",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-09888",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-12278",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-19401",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-00415",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-06282",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-08899",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-09306",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-09499",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-09901",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-10542",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-18458",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad4-05154",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad4-08408",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad4-09843",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-00611",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-03643",
+        "character": "二",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-07432",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-12161",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-13377",
+        "character": "三",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-17147",
+        "character": "一",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-02806",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-08547",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad1-18222",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad2-04521",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-03276",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad3-11719",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad4-02440",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad4-17443",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      },
+      {
+        "sample_id": "trad5-14194",
+        "character": "四",
+        "correct": true,
+        "missing": [],
+        "extra": []
+      }
+    ]
+  },
+  "accuracy_for_full_batch": null,
+  "note": "No new visual inspection. Complete assignment is not verified correctness. Existing reference subset is assistant-reviewed development data."
+}
